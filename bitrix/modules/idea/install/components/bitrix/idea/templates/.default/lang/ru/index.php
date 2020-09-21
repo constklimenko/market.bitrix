@@ -1,8 +1,8 @@
 <?
-$MESS ['IDEA_INDEX_PAGE_TITLE'] = "Ð’ÑÐµ Ð¸Ð´ÐµÐ¸";
-$MESS ['IDEA_USER_IDEA_LIST_MINE'] = "ÐœÐ¾Ð¸ Ð¸Ð´ÐµÐ¸";
-$MESS ['IDEA_USER_IDEA_LIST_USER'] = "Ð˜Ð´ÐµÐ¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ #USER_NAME#";
-$MESS ['IDEA_CATEGORY_PAGE_TITLE'] = "Ð˜Ð´ÐµÐ¸ Ð´Ð»Ñ: #CATEGORY_NAME#";
-$MESS ['IDEA_ADD_SUBSCRIPTION'] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ°Ñ‚ÑŒÑÑ Ð½Ð° ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸ÑŽ";
+$MESS ['IDEA_INDEX_PAGE_TITLE'] = "Âñå èäåè";
+$MESS ['IDEA_USER_IDEA_LIST_MINE'] = "Ìîè èäåè";
+$MESS ['IDEA_USER_IDEA_LIST_USER'] = "Èäåè ïîëüçîâàòåëÿ #USER_NAME#";
+$MESS ['IDEA_CATEGORY_PAGE_TITLE'] = "Èäåè äëÿ: #CATEGORY_NAME#";
+$MESS ['IDEA_ADD_SUBSCRIPTION'] = "Ïîäïèñàòüñÿ íà êàòåãîðèþ";
 
 ?>

@@ -1,7 +1,7 @@
 <?
-$MESS["IM_FULLSCREEN_TITLE"] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ñ‡Ð°Ñ‚";
-$MESS["IM_FULLSCREEN_TITLE_2"] = "Ð§Ð°Ñ‚ Ð¸ Ð·Ð²Ð¾Ð½ÐºÐ¸";
-$MESS["IM_FULLSCREEN_BACK"] = "ÐÐ°Ð·Ð°Ð´ Ð² Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
-$MESS["IM_FULLSCREEN_BACK_BUS"] = "ÐÐ°Ð·Ð°Ð´ Ð² Ð½Ð° ÑÐ°Ð¹Ñ‚";
-$MESS["IM_FULLSCREEN_COPYRIGHT"] = "&copy; 2001-2016 Â«Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑÂ», Â«1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑÂ»";
+$MESS["IM_FULLSCREEN_TITLE"] = "Áèçíåñ-÷àò";
+$MESS["IM_FULLSCREEN_TITLE_2"] = "×àò è çâîíêè";
+$MESS["IM_FULLSCREEN_BACK"] = "Íàçàä â Áèòðèêñ24";
+$MESS["IM_FULLSCREEN_BACK_BUS"] = "Íàçàä â íà ñàéò";
+$MESS["IM_FULLSCREEN_COPYRIGHT"] = "&copy; 2001-2016 «Áèòðèêñ», «1Ñ-Áèòðèêñ»";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS ['BPRIOA_OK'] = "ÐžÐº";
-$MESS ['BPRIOA_CANCEL'] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS ['BPRIOA_OK'] = "Îê";
+$MESS ['BPRIOA_CANCEL'] = "Îòìåíà";
 ?>

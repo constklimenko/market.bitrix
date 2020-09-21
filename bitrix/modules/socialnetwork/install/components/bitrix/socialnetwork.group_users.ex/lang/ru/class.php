@@ -1,6 +1,6 @@
 <?
-$MESS["SONET_GUE_USERS_NAV"] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸";
-$MESS["SONET_GUE_USERS_AUTO_NAV"] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸ (Ð°Ð²Ñ‚Ð¾)";
-$MESS["SONET_GUE_MODS_NAV"] = "ÐœÐ¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ñ‹";
-$MESS["SONET_GUE_BAN_NAV"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS["SONET_GUE_USERS_NAV"] = "Ó÷àñòíèêè";
+$MESS["SONET_GUE_USERS_AUTO_NAV"] = "Ó÷àñòíèêè (àâòî)";
+$MESS["SONET_GUE_MODS_NAV"] = "Ìîäåðàòîðû";
+$MESS["SONET_GUE_BAN_NAV"] = "Ïîëüçîâàòåëè";
 ?>

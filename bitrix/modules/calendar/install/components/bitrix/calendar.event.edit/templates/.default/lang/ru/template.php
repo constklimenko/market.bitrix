@@ -1,12 +1,12 @@
 <?
-$MESS["EC_EDEV_EVENT_TITLE"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS["EC_EVENT_TYPE"] = "Ð’Ð¸Ð´ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS["EC_EVENT_TYPE_NO"] = "Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾";
-$MESS["EC_EVENT_TYPE_CALL"] = "Ð—Ð²Ð¾Ð½Ð¾Ðº";
-$MESS["EC_EVENT_TYPE_BUSINESS_TRIP"] = "Ð Ð°Ð±Ð¾Ñ‡Ð°Ñ Ð¿Ð¾ÐµÐ·Ð´ÐºÐ°";
-$MESS["EC_EVENT_TYPE_MEETING"] = "Ð’ÑÑ‚Ñ€ÐµÑ‡Ð°";
-$MESS["EC_EVENT_TYPE_DISCUSSION"] = "ÐžÐ±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ðµ";
-$MESS["EC_EVENT_TYPE_CONFERENCE"] = "Ð¡Ð¾Ð²ÐµÑ‰Ð°Ð½Ð¸Ðµ";
-$MESS["EC_EVENT_TYPE_VACATION"] = "ÐžÑ‚Ð¿ÑƒÑÐº";
-$MESS["EC_EVENT_TYPE_SICK"] = "Ð‘Ð¾Ð»ÑŒÐ½Ð¸Ñ‡Ð½Ñ‹Ð¹";
+$MESS["EC_EDEV_EVENT_TITLE"] = "Ïàðàìåòðû ñîáûòèÿ";
+$MESS["EC_EVENT_TYPE"] = "Âèä ñîáûòèÿ";
+$MESS["EC_EVENT_TYPE_NO"] = "íå óêàçàíî";
+$MESS["EC_EVENT_TYPE_CALL"] = "Çâîíîê";
+$MESS["EC_EVENT_TYPE_BUSINESS_TRIP"] = "Ðàáî÷àÿ ïîåçäêà";
+$MESS["EC_EVENT_TYPE_MEETING"] = "Âñòðå÷à";
+$MESS["EC_EVENT_TYPE_DISCUSSION"] = "Îáñóæäåíèå";
+$MESS["EC_EVENT_TYPE_CONFERENCE"] = "Ñîâåùàíèå";
+$MESS["EC_EVENT_TYPE_VACATION"] = "Îòïóñê";
+$MESS["EC_EVENT_TYPE_SICK"] = "Áîëüíè÷íûé";
 ?>

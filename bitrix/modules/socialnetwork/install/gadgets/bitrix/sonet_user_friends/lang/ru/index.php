@@ -1,8 +1,8 @@
 <?
-$MESS ['GD_SONET_USER_FRIENDS_ALL_FRIENDS'] = "Ð’ÑÐµ Ð´Ñ€ÑƒÐ·ÑŒÑ";
-$MESS ['GD_SONET_USER_FRIENDS_NO_FRIENDS'] = "ÐÐµÑ‚ Ð´Ñ€ÑƒÐ·ÐµÐ¹";
-$MESS ['GD_SONET_USER_FRIENDS_FR_UNAVAIL'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð´Ñ€ÑƒÐ·ÐµÐ¹ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½";
-$MESS ['GD_SONET_USER_FRIENDS_FR_SEARCH'] = "ÐÐ°Ð¹Ñ‚Ð¸ Ð´Ñ€ÑƒÐ·ÐµÐ¹";
-$MESS ['GD_SONET_USER_FRIENDS_LOG_USERS'] = "ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ";
-$MESS ['GD_SONET_USER_FRIENDS_NOT_ALLOWED'] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½";
+$MESS ['GD_SONET_USER_FRIENDS_ALL_FRIENDS'] = "Âñå äðóçüÿ";
+$MESS ['GD_SONET_USER_FRIENDS_NO_FRIENDS'] = "Íåò äðóçåé";
+$MESS ['GD_SONET_USER_FRIENDS_FR_UNAVAIL'] = "Ñïèñîê äðóçåé íåäîñòóïåí";
+$MESS ['GD_SONET_USER_FRIENDS_FR_SEARCH'] = "Íàéòè äðóçåé";
+$MESS ['GD_SONET_USER_FRIENDS_LOG_USERS'] = "Îáíîâëåíèÿ";
+$MESS ['GD_SONET_USER_FRIENDS_NOT_ALLOWED'] = "Ôóíêöèîíàë îòêëþ÷åí";
 ?>

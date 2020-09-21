@@ -1,21 +1,21 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°", 
+		"Êàðòà ñàéòà", 
 		"search/map.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹", 
+		"Êîíòàêòû", 
 		"contacts/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ð’Ñ…Ð¾Ð´ Ð½Ð° ÑÐ°Ð¹Ñ‚", 
+		"Âõîä íà ñàéò", 
 		"auth.php", 
 		Array(), 
 		Array(), 

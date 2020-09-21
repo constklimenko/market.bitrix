@@ -1,5 +1,5 @@
 <?
-$MESS['LEARNING_TRANSCRIPT_ID_NAME'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ€ÐµÐ·ÑŽÐ¼Ðµ (Transcript ID)";
-$MESS ['LEARNING_COURSE_DETAIL_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ñ‹Ð¼ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð¼ ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARNING_NAME_TEMPLATE'] = "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¸Ð¼ÐµÐ½Ð¸";
+$MESS['LEARNING_TRANSCRIPT_ID_NAME'] = "Èäåíòèôèêàòîð ðåçþìå (Transcript ID)";
+$MESS ['LEARNING_COURSE_DETAIL_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ñ äåòàëüíûì ïðîñìîòðîì êóðñà";
+$MESS ['LEARNING_NAME_TEMPLATE'] = "Ôîðìàò èìåíè";
 ?>

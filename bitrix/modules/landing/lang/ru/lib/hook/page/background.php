@@ -1,10 +1,10 @@
 <?php
-$MESS['LANDING_HOOK_BG_NAME'] = 'Ð¤Ð¾Ð½ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
-$MESS['LANDING_HOOK_BG_DESCRIPTION'] = 'Ð¡Ð¼ÐµÐ½Ð° Ñ„Ð¾Ð½Ð° Ñ‚ÐµÐºÑƒÑ‰ÐµÐ¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹. Ð•ÑÐ»Ð¸ Ñ„Ð¾Ð½ Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½, Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ Ñ„Ð¾Ð½ Ð¸Ð· Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº ÑÐ°Ð¹Ñ‚Ð°.';
-$MESS['LANDING_HOOK_BG_USE'] = 'Ð˜Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ„Ð¾Ð½ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
-$MESS['LANDING_HOOK_BG_PICTURE'] = 'Ð¤Ð¾Ð½Ð¾Ð²Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
-$MESS['LANDING_HOOK_BG_POSITION'] = 'ÐŸÐ¾Ð·Ð¸Ñ†Ð¸Ð¾Ð½Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ';
-$MESS['LANDING_HOOK_BG_POSITION_HELP'] = 'Ð’Ð°Ñ€Ð¸Ð°Ð½Ñ‚Ñ‹ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ Ñ„Ð¾Ð½Ð¾Ð²Ð¾Ð¹ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸. &laquo;Ð—Ð°Ð¼Ð¾ÑÑ‚Ð¸Ñ‚ÑŒ&raquo; &mdash; Ñ€Ð°ÑÐ¿Ð¾Ð»Ð¾Ð¶Ð¸Ñ‚ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÑƒ ÐºÐ°Ðº Ð¼Ð¾Ð·Ð°Ð¹ÐºÑƒ Ð¿Ð¾ Ð²ÑÐµÐ¼Ñƒ ÑÐºÑ€Ð°Ð½Ñƒ; &laquo;Ð Ð°ÑÑ‚ÑÐ½ÑƒÑ‚ÑŒ&raquo; &mdash; Ð¼Ð°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€ÑƒÐµÑ‚ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÑƒ Ð½Ð° Ð²ÐµÑÑŒ ÑÐºÑ€Ð°Ð½.';
-$MESS['LANDING_HOOK_BG_POSITION_CENTER'] = 'Ð Ð°ÑÑ‚ÑÐ½ÑƒÑ‚ÑŒ';
-$MESS['LANDING_HOOK_BG_POSITION_REPEAT'] = 'Ð—Ð°Ð¼Ð¾ÑÑ‚Ð¸Ñ‚ÑŒ';
-$MESS['LANDING_HOOK_BG_COLOR'] = 'Ð¦Ð²ÐµÑ‚ Ñ„Ð¾Ð½Ð°';
+$MESS['LANDING_HOOK_BG_NAME'] = 'Ôîí ñòðàíèöû';
+$MESS['LANDING_HOOK_BG_DESCRIPTION'] = 'Ñìåíà ôîíà òåêóùåé ñòðàíèöû. Åñëè ôîí íå âûáðàí, èñïîëüçóåòñÿ ôîí èç íàñòðîåê ñàéòà.';
+$MESS['LANDING_HOOK_BG_USE'] = 'Èíäèâèäóàëüíûé ôîí ñòðàíèöû';
+$MESS['LANDING_HOOK_BG_PICTURE'] = 'Ôîíîâàÿ êàðòèíêà';
+$MESS['LANDING_HOOK_BG_POSITION'] = 'Ïîçèöèîíèðîâàíèå';
+$MESS['LANDING_HOOK_BG_POSITION_HELP'] = 'Âàðèàíòû îòîáðàæåíèÿ ôîíîâîé êàðòèíêè. &laquo;Çàìîñòèòü&raquo; &mdash; ðàñïîëîæèò êàðòèíêó êàê ìîçàéêó ïî âñåìó ýêðàíó; &laquo;Ðàñòÿíóòü&raquo; &mdash; ìàñøòàáèðóåò êàðòèíêó íà âåñü ýêðàí.';
+$MESS['LANDING_HOOK_BG_POSITION_CENTER'] = 'Ðàñòÿíóòü';
+$MESS['LANDING_HOOK_BG_POSITION_REPEAT'] = 'Çàìîñòèòü';
+$MESS['LANDING_HOOK_BG_COLOR'] = 'Öâåò ôîíà';

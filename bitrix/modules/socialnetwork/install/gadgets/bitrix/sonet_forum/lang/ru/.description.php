@@ -1,4 +1,4 @@
 <?
-$MESS ['GD_SONET_FORUM_NAME'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
-$MESS ['GD_SONET_FORUM_DESC'] = "Ð¤Ð¾Ñ€ÑƒÐ¼/ÐžÐ±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ñ";
+$MESS ['GD_SONET_FORUM_NAME'] = "Ôîðóì";
+$MESS ['GD_SONET_FORUM_DESC'] = "Ôîðóì/Îáñóæäåíèÿ";
 ?>

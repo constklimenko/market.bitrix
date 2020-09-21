@@ -1,5 +1,5 @@
 <?
-$MESS ['STAT_TEMPLATE_SECTION_NAME'] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ°";
-$MESS ['STAT_TABLE_DEFAULT_TEMPLATE_NAME'] = "Ð¢Ð°Ð±Ð»Ð¸Ñ†Ð° ÑÑ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ¸";
-$MESS ['STAT_TABLE_DEFAULT_TEMPLATE_DESCRIPTION'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñƒ Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°ÑŽÑ‰ÑƒÑŽ Ð¾ÑÐ½Ð¾Ð²Ð½Ñ‹Ðµ ÑÑ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['STAT_TEMPLATE_SECTION_NAME'] = "Ñòàòèñòèêà";
+$MESS ['STAT_TABLE_DEFAULT_TEMPLATE_NAME'] = "Òàáëèöà ñòàòèñòèêè";
+$MESS ['STAT_TABLE_DEFAULT_TEMPLATE_DESCRIPTION'] = "Âûâîäèò òàáëèöó ïîêàçûâàþùóþ îñíîâíûå ñòàòèñòè÷åñêèå ïàðàìåòðû ñàéòà";
 ?>

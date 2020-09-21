@@ -1,5 +1,5 @@
 <?
-$MESS["SONET_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SONET_C73_CREATED_BY_ANONYMOUS"] = "ÐÐµÐ°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
-$MESS["SONET_LOG_EXTRANET_SUFFIX"] = " (ÑÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚)";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS["SONET_C73_CREATED_BY_ANONYMOUS"] = "Íåàâòîðèçîâàííûé ïîëüçîâàòåëü";
+$MESS["SONET_LOG_EXTRANET_SUFFIX"] = " (ýêñòðàíåò)";
 ?>

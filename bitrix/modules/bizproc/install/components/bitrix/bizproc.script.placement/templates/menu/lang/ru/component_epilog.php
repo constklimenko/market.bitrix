@@ -1,7 +1,7 @@
 <?php
-$MESS['BP_SCRIPT_MENU_ITEM_TEXT'] = 'Ð£Ð¼Ð½Ñ‹Ðµ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¸';
-$MESS['BP_SCRIPT_MENU_ITEM_TEXT_MORE'] = 'Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ ÐµÑ‰Ðµ...';
-$MESS['BP_SCRIPT_MENU_ITEM_TITLE'] = 'Ð£Ð¼Ð½Ñ‹Ðµ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¸';
-$MESS['BP_SCRIPT_MENU_ITEM_RUN'] = 'Ð—Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚ÑŒ';
-$MESS['BP_SCRIPT_MENU_ITEM_EDIT'] = 'Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';
-$MESS['BP_SCRIPT_MENU_ITEM_CREATE'] = 'Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¹';
+$MESS['BP_SCRIPT_MENU_ITEM_TEXT'] = 'Óìíûå ñöåíàðèè';
+$MESS['BP_SCRIPT_MENU_ITEM_TEXT_MORE'] = 'Óñòàíîâèòü åùå...';
+$MESS['BP_SCRIPT_MENU_ITEM_TITLE'] = 'Óìíûå ñöåíàðèè';
+$MESS['BP_SCRIPT_MENU_ITEM_RUN'] = 'Çàïóñòèòü';
+$MESS['BP_SCRIPT_MENU_ITEM_EDIT'] = 'Èçìåíèòü';
+$MESS['BP_SCRIPT_MENU_ITEM_CREATE'] = 'Ñîçäàòü íîâûé ñöåíàðèé';

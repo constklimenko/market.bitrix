@@ -1,5 +1,5 @@
 <?
-$MESS ['BPSWA_COMPLETED'] = "Ð—Ð°Ð²ÐµÑ€ÑˆÐµÐ½";
-$MESS ['BPSWA_IN_PROGRESS'] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ÑÑ";
-$MESS ['BPSWA_EMPTY_NAME'] = "ÐŸÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð°Ñ '#NAME#' Ð½Ðµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð°";
+$MESS ['BPSWA_COMPLETED'] = "Çàâåðøåí";
+$MESS ['BPSWA_IN_PROGRESS'] = "Âûïîëíÿåòñÿ";
+$MESS ['BPSWA_EMPTY_NAME'] = "Ïåðåìåííàÿ '#NAME#' íå îïðåäåëåíà";
 ?>

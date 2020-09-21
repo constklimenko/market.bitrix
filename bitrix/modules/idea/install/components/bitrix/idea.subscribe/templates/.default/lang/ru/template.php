@@ -1,7 +1,7 @@
 <?
-$MESS["IDEA_SUBSCRIBE_TITLE"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS["IDEA_SUBSCRIBE_STATUS"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
-$MESS["IDEA_SUBSCRIBE_AUTHOR"] = "ÐÐ²Ñ‚Ð¾Ñ€";
-$MESS["IDEA_SUBSCRIBE_PUBLISHED"] = "ÐžÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ¾Ð²Ð°Ð½Ð¾";
-$MESS["IDEA_SUBSCRIBE_TOTAL"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ¾Ðº";
+$MESS["IDEA_SUBSCRIBE_TITLE"] = "Íàçâàíèå";
+$MESS["IDEA_SUBSCRIBE_STATUS"] = "Ñòàòóñ";
+$MESS["IDEA_SUBSCRIBE_AUTHOR"] = "Àâòîð";
+$MESS["IDEA_SUBSCRIBE_PUBLISHED"] = "Îïóáëèêîâàíî";
+$MESS["IDEA_SUBSCRIBE_TOTAL"] = "Ïîäïèñîê";
 ?>

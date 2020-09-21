@@ -1,8 +1,8 @@
 <?php
-$MESS["BIZPROC_AUTOMATION_TITLE"] = "Ð Ð¾Ð±Ð¾Ñ‚Ñ‹";
-$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ bizproc Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["BIZPROC_AUTOMATION_NOT_SUPPORTED"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð° Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½ Ð´Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð¹ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸.";
-$MESS["BIZPROC_AUTOMATION_ACCESS_DENIED"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº Ð·Ð°Ð¿Ñ€Ð°ÑˆÐ¸Ð²Ð°ÐµÐ¼Ð¾Ð¹ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
-$MESS["BIZPROC_AUTOMATION_NO_EDIT_PERMISSIONS"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð°Ñ†Ð¸Ð¸";
-$MESS["BIZPROC_AUTOMATION_NOT_AVAILABLE"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð¾Ð±Ð¾Ñ‚Ð¾Ð² Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾";
-$MESS["BIZPROC_AUTOMATION_TO_HEAD"] = "Ð ÑƒÐºÐ¾Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŽ";
+$MESS["BIZPROC_AUTOMATION_TITLE"] = "Ðîáîòû";
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "Ìîäóëü bizproc íå óñòàíîâëåí.";
+$MESS["BIZPROC_AUTOMATION_NOT_SUPPORTED"] = "Ôóíêöèîíàë êîìïîíåíòà íåäîñòóïåí äëÿ äàííîé ñóùíîñòè.";
+$MESS["BIZPROC_AUTOMATION_ACCESS_DENIED"] = "Ó âàñ íåò äîñòóïà ê çàïðàøèâàåìîé ñóùíîñòè";
+$MESS["BIZPROC_AUTOMATION_NO_EDIT_PERMISSIONS"] = "Íåäîñòàòî÷íî ïðàâ äëÿ íàñòðîéêè àâòîìàòèçàöèè";
+$MESS["BIZPROC_AUTOMATION_NOT_AVAILABLE"] = "Èñïîëüçîâàíèå ðîáîòîâ íåäîñòóïíî";
+$MESS["BIZPROC_AUTOMATION_TO_HEAD"] = "Ðóêîâîäèòåëþ";

@@ -1,8 +1,8 @@
 <?
-$MESS['BPATL_TASK_TITLE'] = "Р—Р°РґР°РЅРёРµ";
-$MESS["BPATL_USER_STATUS_YES"] = "Р’С‹ СѓС‚РІРµСЂРґРёР»Рё РґРѕРєСѓРјРµРЅС‚";
-$MESS["BPATL_USER_STATUS_NO"] = "Р’С‹ РѕС‚РєР»РѕРЅРёР»Рё РґРѕРєСѓРјРµРЅС‚";
-$MESS["BPATL_USER_STATUS_OK"] = "Р’С‹ РѕР·РЅР°РєРѕРјРёР»РёСЃСЊ СЃ РґРѕРєСѓРјРµРЅС‚РѕРј";
-$MESS["BPATL_BEGIN"] = "РџСЂРёСЃС‚СѓРїРёС‚СЊ";
-$MESS["BPATL_TASK_LINK_TITLE"] = "РџРѕРґСЂРѕР±РЅРµРµ";
+$MESS['BPATL_TASK_TITLE'] = "Задание";
+$MESS["BPATL_USER_STATUS_YES"] = "Вы утвердили документ";
+$MESS["BPATL_USER_STATUS_NO"] = "Вы отклонили документ";
+$MESS["BPATL_USER_STATUS_OK"] = "Вы ознакомились с документом";
+$MESS["BPATL_BEGIN"] = "Приступить";
+$MESS["BPATL_TASK_LINK_TITLE"] = "Подробнее";
 ?>

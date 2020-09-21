@@ -1,10 +1,10 @@
 <?
-$MESS["LISTS_LAC_MESSAGE_SUCCESS"] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾";
-$MESS["LISTS_LAC_WRONG_IBLOCK_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°.";
-$MESS["LISTS_LAC_WRONG_IBLOCK"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº.";
-$MESS["LISTS_LAC_SONET_GROUP_DISABLED"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð´Ð»Ñ ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½.";
-$MESS["LISTS_LAC_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
-$MESS["LISTS_LAC_ACCESS_DENIED"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°.";
-$MESS["LISTS_LAC_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ bizproc Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["LISTS_LAC_SECTION_NOT_GET_DATA"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾ Ñ€Ð°Ð·Ð´ÐµÐ»Ðµ";
+$MESS["LISTS_LAC_MESSAGE_SUCCESS"] = "Óñïåøíî";
+$MESS["LISTS_LAC_WRONG_IBLOCK_TYPE"] = "Íåâåðíûé òèï èíôîðìàöèîííîãî áëîêà.";
+$MESS["LISTS_LAC_WRONG_IBLOCK"] = "Óêàçàí íåâåðíûé ñïèñîê.";
+$MESS["LISTS_LAC_SONET_GROUP_DISABLED"] = "Ôóíêöèîíàë ñïèñêîâ äëÿ ýòîé ãðóïïû îòêëþ÷åí.";
+$MESS["LISTS_LAC_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà.";
+$MESS["LISTS_LAC_ACCESS_DENIED"] = "Íåò äîñòóïà.";
+$MESS["LISTS_LAC_MODULE_NOT_INSTALLED"] = "Ìîäóëü bizproc íå óñòàíîâëåí.";
+$MESS["LISTS_LAC_SECTION_NOT_GET_DATA"] = "Íå óäàëîñü ïîëó÷èòü äàííûå î ðàçäåëå";
 ?>

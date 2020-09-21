@@ -1,3 +1,3 @@
 <?
-$MESS ['ADV_PARALL_DESCRIPTION'] = "Ð‘Ð°Ð½Ð½ÐµÑ€ Ð´Ð»Ñ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Parallax";
+$MESS ['ADV_PARALL_DESCRIPTION'] = "Áàííåð äëÿ øàáëîíà Parallax";
 ?>

@@ -1,15 +1,15 @@
 <?
-$MESS["BPC_MES_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
-$MESS["BPC_MES_SHOW"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ";
-$MESS["BPC_MES_HIDE"] = "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ";
-$MESS["BPC_MES_VOTE"] = "ÐšÐ¾Ð¼Ñƒ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ";
-$MESS["BPC_MES_VOTE1"] = "ÐœÐ½Ðµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ";
-$MESS["BPC_MES_VOTE2"] = "ÐÐµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ";
-$MESS["BPC_MES_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
-$MESS["BPC_MES_CREATETASK"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð·Ð°Ð´Ð°Ñ‡Ñƒ";
-$MESS["BLOG_C_VIEW"] = "Ð¡Ð¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸";
-$MESS["BLOG_C_REPLY"] = "ÐžÑ‚Ð²ÐµÑ‚Ð¸Ñ‚ÑŒ";
-$MESS["B_B_PC_COM_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ°:";
-$MESS["BLOG_C_HIDE"] = "Ð¡Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸";
-$MESS["INCORRECT_SERVER_RESPONSE"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°.";
+$MESS["BPC_MES_EDIT"] = "Ðåäàêòèðîâàòü";
+$MESS["BPC_MES_SHOW"] = "Ïîêàçàòü";
+$MESS["BPC_MES_HIDE"] = "Ñêðûòü";
+$MESS["BPC_MES_VOTE"] = "Êîìó íðàâèòñÿ";
+$MESS["BPC_MES_VOTE1"] = "Ìíå íðàâèòñÿ";
+$MESS["BPC_MES_VOTE2"] = "Íå íðàâèòñÿ";
+$MESS["BPC_MES_DELETE"] = "Óäàëèòü";
+$MESS["BPC_MES_CREATETASK"] = "Ñîçäàòü çàäà÷ó";
+$MESS["BLOG_C_VIEW"] = "Ñìîòðåòü êîììåíòàðèè";
+$MESS["BLOG_C_REPLY"] = "Îòâåòèòü";
+$MESS["B_B_PC_COM_ERROR"] = "Îøèáêà:";
+$MESS["BLOG_C_HIDE"] = "Ñâåðíóòü êîììåíòàðèè";
+$MESS["INCORRECT_SERVER_RESPONSE"] = "Íåêîððåêòíûé îòâåò ñåðâåðà.";
 ?>

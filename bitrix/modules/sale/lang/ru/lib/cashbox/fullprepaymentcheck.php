@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_CASHBOX_FULLPREPAYMENT_NAME'] = '100% РїСЂРµРґРѕРїР»Р°С‚Р°';
+$MESS['SALE_CASHBOX_FULLPREPAYMENT_NAME'] = '100% предоплата';

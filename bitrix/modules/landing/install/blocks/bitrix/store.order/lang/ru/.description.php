@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_BLOCK_STORE.ORDER_NAME'] = 'ÐžÑ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ðµ';
+$MESS['LANDING_BLOCK_STORE.ORDER_NAME'] = 'Îôîðìëåíèå';

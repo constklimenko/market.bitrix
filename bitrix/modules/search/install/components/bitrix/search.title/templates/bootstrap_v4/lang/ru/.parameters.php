@@ -1,19 +1,19 @@
 <?
-$MESS["TP_BST_SHOW_INPUT"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ñ„Ð¾Ñ€Ð¼Ñƒ Ð²Ð²Ð¾Ð´Ð° Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¾Ð³Ð¾ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°";
-$MESS["TP_BST_INPUT_ID"] = "ID ÑÑ‚Ñ€Ð¾ÐºÐ¸ Ð²Ð²Ð¾Ð´Ð° Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¾Ð³Ð¾ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°";
-$MESS["TP_BST_CONTAINER_ID"] = "ID ÐºÐ¾Ð½Ñ‚ÐµÐ¹Ð½ÐµÑ€Ð°, Ð¿Ð¾ ÑˆÐ¸Ñ€Ð¸Ð½Ðµ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð±ÑƒÐ´ÑƒÑ‚ Ð²Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒÑÑ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹";
-$MESS["TP_BST_PRICE_CODE"] = "Ð¢Ð¸Ð¿ Ñ†ÐµÐ½Ñ‹";
-$MESS["TP_BST_SHOW_PREVIEW"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÑƒ";
-$MESS["TP_BST_PREVIEW_WIDTH"] = "Ð¨Ð¸Ñ€Ð¸Ð½Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸";
-$MESS["TP_BST_PREVIEW_HEIGHT"] = "Ð’Ñ‹ÑÐ¾Ñ‚Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸";
-$MESS["TP_BST_PREVIEW_TRUNCATE_LEN"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð´Ð»Ð¸Ð½Ð° Ð°Ð½Ð¾Ð½ÑÐ° Ð´Ð»Ñ Ð²Ñ‹Ð²Ð¾Ð´Ð°";
-$MESS["TP_BST_CONVERT_CURRENCY"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ñ†ÐµÐ½Ñ‹ Ð² Ð¾Ð´Ð½Ð¾Ð¹ Ð²Ð°Ð»ÑŽÑ‚Ðµ";
-$MESS["TP_BST_CURRENCY_ID"] = "Ð’Ð°Ð»ÑŽÑ‚Ð°, Ð² ÐºÐ¾Ñ‚Ð¾Ñ€ÑƒÑŽ Ð±ÑƒÐ´ÑƒÑ‚ ÑÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ñ‹ Ñ†ÐµÐ½Ñ‹";
-$MESS["TP_BST_PRICE_VAT_INCLUDE"] = "Ð’ÐºÐ»ÑŽÑ‡Ð°Ñ‚ÑŒ ÐÐ”Ð¡ Ð² Ñ†ÐµÐ½Ñƒ";
-$MESS["TP_BST_THEME_SITE"] = "Ð‘Ñ€Ð°Ñ‚ÑŒ Ñ‚ÐµÐ¼Ñƒ Ð¸Ð· Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº ÑÐ°Ð¹Ñ‚Ð° (Ð´Ð»Ñ Ñ€ÐµÑˆÐµÐ½Ð¸Ñ bitrix.eshop)";
-$MESS["TP_BST_THEME_BLUE"] = "ÑÐ¸Ð½ÑÑ (Ñ‚ÐµÐ¼Ð° Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ)";
-$MESS["TP_BST_THEME_GREEN"] = "Ð·ÐµÐ»ÐµÐ½Ð°Ñ";
-$MESS["TP_BST_THEME_RED"] = "ÐºÑ€Ð°ÑÐ½Ð°Ñ";
-$MESS["TP_BST_THEME_YELLOW"] = "Ð¶ÐµÐ»Ñ‚Ð°Ñ";
-$MESS["TP_BST_TEMPLATE_THEME"] = "Ð¦Ð²ÐµÑ‚Ð¾Ð²Ð°Ñ Ñ‚ÐµÐ¼Ð°";
+$MESS["TP_BST_SHOW_INPUT"] = "Ïîêàçûâàòü ôîðìó ââîäà ïîèñêîâîãî çàïðîñà";
+$MESS["TP_BST_INPUT_ID"] = "ID ñòðîêè ââîäà ïîèñêîâîãî çàïðîñà";
+$MESS["TP_BST_CONTAINER_ID"] = "ID êîíòåéíåðà, ïî øèðèíå êîòîðîãî áóäóò âûâîäèòüñÿ ðåçóëüòàòû";
+$MESS["TP_BST_PRICE_CODE"] = "Òèï öåíû";
+$MESS["TP_BST_SHOW_PREVIEW"] = "Ïîêàçàòü êàðòèíêó";
+$MESS["TP_BST_PREVIEW_WIDTH"] = "Øèðèíà êàðòèíêè";
+$MESS["TP_BST_PREVIEW_HEIGHT"] = "Âûñîòà êàðòèíêè";
+$MESS["TP_BST_PREVIEW_TRUNCATE_LEN"] = "Ìàêñèìàëüíàÿ äëèíà àíîíñà äëÿ âûâîäà";
+$MESS["TP_BST_CONVERT_CURRENCY"] = "Ïîêàçûâàòü öåíû â îäíîé âàëþòå";
+$MESS["TP_BST_CURRENCY_ID"] = "Âàëþòà, â êîòîðóþ áóäóò ñêîíâåðòèðîâàíû öåíû";
+$MESS["TP_BST_PRICE_VAT_INCLUDE"] = "Âêëþ÷àòü ÍÄÑ â öåíó";
+$MESS["TP_BST_THEME_SITE"] = "Áðàòü òåìó èç íàñòðîåê ñàéòà (äëÿ ðåøåíèÿ bitrix.eshop)";
+$MESS["TP_BST_THEME_BLUE"] = "ñèíÿÿ (òåìà ïî óìîë÷àíèþ)";
+$MESS["TP_BST_THEME_GREEN"] = "çåëåíàÿ";
+$MESS["TP_BST_THEME_RED"] = "êðàñíàÿ";
+$MESS["TP_BST_THEME_YELLOW"] = "æåëòàÿ";
+$MESS["TP_BST_TEMPLATE_THEME"] = "Öâåòîâàÿ òåìà";
 ?>

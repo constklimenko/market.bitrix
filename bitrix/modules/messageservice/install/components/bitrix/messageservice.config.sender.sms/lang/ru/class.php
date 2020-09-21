@@ -1,5 +1,5 @@
 <?
-$MESS["MESSAGESERVICE_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ 'Ð¡Ð»ÑƒÐ¶Ð±Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹' Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["MESSAGESERVICE_PERMISSION_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
-$MESS["MESSAGESERVICE_SENDER_NOT_FOUND"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð¹ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS["MESSAGESERVICE_MODULE_NOT_INSTALLED"] = "Ìîäóëü 'Ñëóæáà ñîîáùåíèé' íå óñòàíîâëåí.";
+$MESS["MESSAGESERVICE_PERMISSION_DENIED"] = "Äîñòóï çàïðåùåí";
+$MESS["MESSAGESERVICE_SENDER_NOT_FOUND"] = "Íå íàéäåíî íè îäíîé ñëóæáû îòïðàâêè ñîîáùåíèé";
 ?>

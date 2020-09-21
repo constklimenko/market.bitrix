@@ -1,12 +1,12 @@
 <?
-$MESS["GD_STAT_ADV_NAME"] = "Ð ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ñ";
-$MESS["GD_STAT_EVENT"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS["GD_STAT_EVENT_GRAPH"] = "Ð“Ñ€Ð°Ñ„Ð¸Ðº Ñ‚Ð¸Ð¿Ð° ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð¿Ð¾ Ð´Ð½ÑÐ¼";
-$MESS["GD_STAT_SERVER"] = "Ð¡Ð°Ð¹Ñ‚";
-$MESS["GD_STAT_PHRASE"] = "Ð¤Ñ€Ð°Ð·Ð°";
-$MESS["GD_STAT_TODAY"] = "Ð¡ÐµÐ³Ð¾Ð´Ð½Ñ";
-$MESS["GD_STAT_YESTERDAY"] = "Ð’Ñ‡ÐµÑ€Ð°";
-$MESS["GD_STAT_BEFORE_YESTERDAY"] = "ÐŸÐ¾Ð·Ð°Ð²Ñ‡ÐµÑ€Ð°";
-$MESS["GD_STAT_TOTAL_1"] = "Ð’ÑÐµÐ³Ð¾";
-$MESS["GD_STAT_NO_DATA"] = "ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ….";
+$MESS["GD_STAT_ADV_NAME"] = "Ðåêëàìíàÿ êàìïàíèÿ";
+$MESS["GD_STAT_EVENT"] = "Ñîáûòèÿ";
+$MESS["GD_STAT_EVENT_GRAPH"] = "Ãðàôèê òèïà ñîáûòèÿ ïî äíÿì";
+$MESS["GD_STAT_SERVER"] = "Ñàéò";
+$MESS["GD_STAT_PHRASE"] = "Ôðàçà";
+$MESS["GD_STAT_TODAY"] = "Ñåãîäíÿ";
+$MESS["GD_STAT_YESTERDAY"] = "Â÷åðà";
+$MESS["GD_STAT_BEFORE_YESTERDAY"] = "Ïîçàâ÷åðà";
+$MESS["GD_STAT_TOTAL_1"] = "Âñåãî";
+$MESS["GD_STAT_NO_DATA"] = "Íåò äàííûõ.";
 ?>

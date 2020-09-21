@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_VK_SITE"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["SALE_VK_SITE"] = "Ñàéò";

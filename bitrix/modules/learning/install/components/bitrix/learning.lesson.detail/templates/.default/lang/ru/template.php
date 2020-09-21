@@ -1,4 +1,4 @@
 <?
-$MESS ['LEARNING_PASS_SELF_TEST'] = "РџСЂРѕР№С‚Рё С‚РµСЃС‚ РґР»СЏ СЃР°РјРѕРїСЂРѕРІРµСЂРєРё";
-$MESS ['LEARNING_DELAYED_LESSON'] = "Р”Р°РЅРЅС‹Р№ СѓСЂРѕРє Р±СѓРґРµС‚ РґРѕСЃС‚СѓРїРµРЅ СЃ #DATETIME#";
+$MESS ['LEARNING_PASS_SELF_TEST'] = "Пройти тест для самопроверки";
+$MESS ['LEARNING_DELAYED_LESSON'] = "Данный урок будет доступен с #DATETIME#";
 ?>

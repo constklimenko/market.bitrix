@@ -1,5 +1,5 @@
 <?
-$MESS ['FORUM_POST_FORM'] = "Ð¤Ð¾Ñ€Ð¼Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['FORUM_POST_FORM_DESCRIPTION'] = "Ð¤Ð¾Ñ€Ð¼Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['SONET_NAME'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
+$MESS ['FORUM_POST_FORM'] = "Ôîðìà ñîçäàíèÿ ñîîáùåíèÿ";
+$MESS ['FORUM_POST_FORM_DESCRIPTION'] = "Ôîðìà ñîçäàíèÿ ñîîáùåíèÿ";
+$MESS ['SONET_NAME'] = "Ñîöèàëüíàÿ ñåòü";
 ?>

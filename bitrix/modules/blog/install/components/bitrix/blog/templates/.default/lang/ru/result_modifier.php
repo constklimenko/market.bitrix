@@ -1,3 +1,3 @@
 <?
-$MESS["RESULT_BLOG"] = "Ð‘Ð»Ð¾Ð³Ð¸";
+$MESS["RESULT_BLOG"] = "Áëîãè";
 ?>

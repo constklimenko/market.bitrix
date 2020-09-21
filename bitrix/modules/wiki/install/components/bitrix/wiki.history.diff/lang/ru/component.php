@@ -1,10 +1,10 @@
 <?
-$MESS["WIKI_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ wiki Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["WIKI_SOCNET_INITIALIZING_FAILED"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð½Ð¸Ñ†Ð¸Ð°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð¡Ð¾Ñ†.Ð¡ÐµÑ‚Ð¸";
-$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ iblock Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["IBLOCK_NOT_ASSIGNED"] = "ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ð±Ð»Ð¾Ðº";
-$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ socialnetwork Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ bizproc Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["WIKI_NOT_CHANGE_BIZPROC"] = "Ð”Ð»Ñ Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð¸ÑÑ‚Ð¾Ñ€Ð¸Ð¸ ÑÑ‚Ð°Ñ‚ÑŒÐ¸ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº Ð²Ð¸ÐºÐ¸ Ð´Ð¾Ð»Ð¶ÐµÐ½ ÑƒÑ‡Ð°ÑÑ‚Ð²Ð¾Ð²Ð°Ñ‚ÑŒ Ð² Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°Ñ…";
-$MESS["WIKI_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
+$MESS["WIKI_MODULE_NOT_INSTALLED"] = "Ìîäóëü wiki íå óñòàíîâëåí.";
+$MESS["WIKI_SOCNET_INITIALIZING_FAILED"] = "Îøèáêà èíèöèàëèçàöèè Ñîö.Ñåòè";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "Ìîäóëü iblock íå óñòàíîâëåí.";
+$MESS["IBLOCK_NOT_ASSIGNED"] = "Íå âûáðàí èíôîðìàöèîííûé áëîê";
+$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "Ìîäóëü socialnetwork íå óñòàíîâëåí.";
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "Ìîäóëü bizproc íå óñòàíîâëåí.";
+$MESS["WIKI_NOT_CHANGE_BIZPROC"] = "Äëÿ âåäåíèÿ èñòîðèè ñòàòüè èíôîáëîê âèêè äîëæåí ó÷àñòâîâàòü â Áèçíåñ-ïðîöåññàõ";
+$MESS["WIKI_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí.";
 ?>

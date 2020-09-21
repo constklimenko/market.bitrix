@@ -1,5 +1,5 @@
 <?
-$MESS ['BPCAL_DESCR_DESCR'] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð² Ð¾Ñ‚Ñ‡ÐµÑ‚";
-$MESS ['BPCAL_DESCR_NAME'] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð² Ð¾Ñ‚Ñ‡ÐµÑ‚";
-$MESS ['BPCAL_DESCR_REPORT'] = "ÐžÑ‚Ñ‡ÐµÑ‚";
+$MESS ['BPCAL_DESCR_DESCR'] = "Çàïèñü â îò÷åò";
+$MESS ['BPCAL_DESCR_NAME'] = "Çàïèñü â îò÷åò";
+$MESS ['BPCAL_DESCR_REPORT'] = "Îò÷åò";
 ?>

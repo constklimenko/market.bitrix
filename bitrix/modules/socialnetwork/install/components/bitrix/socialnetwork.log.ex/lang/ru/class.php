@@ -1,5 +1,5 @@
 <?
-$MESS["SONET_LOG_LIST_NAV"] = "Ð—Ð°Ð¿Ð¸ÑÐ¸";
-$MESS["SONET_LOG_LIST_SONET_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SONET_LOG_LIST_PAGE_TITLE"] = "Ð–Ð¸Ð²Ð°Ñ Ð»ÐµÐ½Ñ‚Ð°";
+$MESS["SONET_LOG_LIST_NAV"] = "Çàïèñè";
+$MESS["SONET_LOG_LIST_SONET_MODULE_NOT_INSTALLED"] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS["SONET_LOG_LIST_PAGE_TITLE"] = "Æèâàÿ ëåíòà";
 ?>

@@ -1,47 +1,47 @@
 <?
-$MESS ['STATWIZ_NO_MODULE_ERROR'] = "РњРѕРґСѓР»СЊ СЃС‚Р°С‚РёСЃС‚РёРєРё РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ. РџСЂРѕРґРѕР»Р¶РµРЅРёРµ СЂР°Р±РѕС‚С‹ РјР°СЃС‚РµСЂР° РЅРµ РІРѕР·РјРѕР¶РЅРѕ.";
-$MESS ['STATWIZ_FILES_NOT_FOUND'] = "РќРµ РЅР°Р№РґРµРЅРѕ РЅРё РѕРґРЅРѕРіРѕ РїРѕРґС…РѕРґСЏС‰РµРіРѕ С„Р°Р№Р»Р°. Р—Р°РіСЂСѓР·РёС‚Рµ С„Р°Р№Р»С‹ СЃ СЃР°Р№С‚Р° www.maxmind.com РёР»Рё ipgeobase.ru РёР»Рё ip-to-country.webhosting.info РІ СѓРєР°Р·Р°РЅРЅС‹Р№ РІС‹С€Рµ РєР°С‚Р°Р»РѕРі Рё РїРѕРїСЂРѕР±СѓР№С‚Рµ Р·Р°РїСѓСЃС‚РёС‚СЊ РјР°СЃС‚РµСЂ РµС‰Рµ СЂР°Р·.";
-$MESS ['STATWIZ_STEP1_TITLE'] = "РњР°СЃС‚РµСЂ СЃРѕР·РґР°РЅРёСЏ РёРЅРґРµРєСЃР°";
-$MESS ['STATWIZ_STEP1_CONTENT'] = "Р’Р°СЃ РїСЂРёРІРµС‚СЃС‚РІСѓРµС‚ РњР°СЃС‚РµСЂ СЃРѕР·РґР°РЅРёСЏ РёРЅРґРµРєСЃРѕРІ РґР»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ СЃС‚СЂР°РЅС‹ Рё РіРѕСЂРѕРґР° РїРѕ IP Р°РґСЂРµСЃСѓ.<br />Р’С‹Р±РµСЂРёС‚Рµ РѕРґРЅРѕ РёР· РґРµР№СЃС‚РІРёР№:";
-$MESS ['STATWIZ_STEP1_COUNTRY'] = "РЎРѕР·РґР°РЅРёРµ РёРЅРґРµРєСЃР° РґР»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ <b>СЃС‚СЂР°РЅС‹</b> РїРѕ IP Р°РґСЂРµСЃСѓ.";
-$MESS ['STATWIZ_STEP1_CITY'] = "РЎРѕР·РґР°РЅРёРµ РёРЅРґРµРєСЃР° РґР»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ <b>СЃС‚СЂР°РЅС‹</b> Рё <b>РіРѕСЂРѕРґР°</b> РїРѕ IP Р°РґСЂРµСЃСѓ.";
-$MESS ['STATWIZ_STEP1_COUNTRY_NOTE_V2'] = "РџРѕРґРґРµСЂР¶РёРІР°СЋС‚СЃСЏ СЃР»РµРґСѓСЋС‰РёРµ С„РѕСЂРјР°С‚С‹:
+$MESS ['STATWIZ_NO_MODULE_ERROR'] = "Модуль статистики не установлен. Продолжение работы мастера не возможно.";
+$MESS ['STATWIZ_FILES_NOT_FOUND'] = "Не найдено ни одного подходящего файла. Загрузите файлы с сайта www.maxmind.com или ipgeobase.ru или ip-to-country.webhosting.info в указанный выше каталог и попробуйте запустить мастер еще раз.";
+$MESS ['STATWIZ_STEP1_TITLE'] = "Мастер создания индекса";
+$MESS ['STATWIZ_STEP1_CONTENT'] = "Вас приветствует Мастер создания индексов для определения страны и города по IP адресу.<br />Выберите одно из действий:";
+$MESS ['STATWIZ_STEP1_COUNTRY'] = "Создание индекса для определения <b>страны</b> по IP адресу.";
+$MESS ['STATWIZ_STEP1_CITY'] = "Создание индекса для определения <b>страны</b> и <b>города</b> по IP адресу.";
+$MESS ['STATWIZ_STEP1_COUNTRY_NOTE_V2'] = "Поддерживаются следующие форматы:
 <ul>
 <li><a target=\"_blank\" href=\"#GEOIP_HREF#\">GeoIP Country</a>.</li>
 <li><a target=\"_blank\" href=\"#GEOIPLITE_HREF#\">GeoLite Country</a>.</li>
 </ul>
 ";
-$MESS ['STATWIZ_STEP1_CITY_NOTE'] = "РџРѕРґРґРµСЂР¶РёРІР°СЋС‚СЃСЏ СЃР»РµРґСѓСЋС‰РёРµ С„РѕСЂРјР°С‚С‹:
+$MESS ['STATWIZ_STEP1_CITY_NOTE'] = "Поддерживаются следующие форматы:
 <ul>
 <li><a target=\"_blank\" href=\"#GEOIP_HREF#\">GeoIP City</a>.</li>
 <li><a target=\"_blank\" href=\"#GEOIPLITE_HREF#\">GeoLite City</a>.</li>
 <li><a target=\"_blank\" href=\"#IPGEOBASE_HREF#\">IpGeoBase</a>.</li>
 </ul>";
-$MESS ['STATWIZ_STEP1_COMMON_NOTE'] = "Р—Р°РіСЂСѓР¶РµРЅРЅС‹Рµ Рё СЂР°СЃРїР°РєРѕРІР°РЅРЅС‹Рµ С„Р°Р№Р»С‹ СЃР»РµРґСѓРµС‚ СЂР°Р·РјРµСЃС‚РёС‚СЊ РІ РєР°С‚Р°Р»РѕРіРµ #PATH#. Р—Р°С‚РµРј РІС‹ РјРѕР¶РµС‚Рµ РїРµСЂРµР№С‚Рё Рє СЃР»РµРґСѓСЋС‰РµРјСѓ С€Р°РіСѓ РјР°СЃС‚РµСЂР°.";
-$MESS ['STATWIZ_STEP2_TITLE'] = "Р’С‹Р±РѕСЂ CSV С„Р°Р№Р»РѕРІ";
-$MESS ['STATWIZ_STEP2_COUNTRY_CHOOSEN'] = "Р‘С‹Р»Рѕ РІС‹Р±СЂР°РЅРѕ СЃРѕР·РґР°РЅРёРµ РёРЅРґРµРєСЃР° РґР»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ <b>СЃС‚СЂР°РЅС‹</b> РїРѕ IP Р°РґСЂРµСЃСѓ.";
-$MESS ['STATWIZ_STEP2_CITY_CHOOSEN'] = "Р‘С‹Р»Рѕ РІС‹Р±СЂР°РЅРѕ СЃРѕР·РґР°РЅРёРµ РёРЅРґРµРєСЃР° РґР»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ <b>СЃС‚СЂР°РЅС‹</b> Рё <b>РіРѕСЂРѕРґР°</b> РїРѕ IP Р°РґСЂРµСЃСѓ.";
-$MESS ['STATWIZ_STEP2_CONTENT'] = "РџРѕРёСЃРє РїРѕРґС…РѕРґСЏС‰РёС… С„Р°Р№Р»РѕРІ Р±С‹Р» РІС‹РїРѕР»РЅРµРЅ РІ РєР°С‚Р°Р»РѕРіРµ /bitrix/modules/statistic/ip2country.";
-$MESS ['STATWIZ_STEP2_FILE_NAME'] = "РРјСЏ С„Р°Р№Р»Р°";
-$MESS ['STATWIZ_STEP2_FILE_SIZE'] = "Р Р°Р·РјРµСЂ";
-$MESS ['STATWIZ_STEP2_DESCRIPTION'] = "РћРїРёСЃР°РЅРёРµ";
-$MESS ['STATWIZ_STEP2_FILE_TYPE_MAXMIND_IP_COUNTRY'] = "Р‘Р°Р·Р° РґР°РЅРЅС‹С… GeoIP Country РёР»Рё GeoLite Country.";
-$MESS ['STATWIZ_STEP2_FILE_TYPE_IP_TO_COUNTRY'] = "Р‘Р°Р·Р° РґР°РЅРЅС‹С… ip-to-country.";
-$MESS ['STATWIZ_STEP2_FILE_TYPE_MAXMIND_IP_LOCATION'] = "Р’С‚РѕСЂР°СЏ С‡Р°СЃС‚СЊ Р±Р°Р·С‹ РґР°РЅРЅС‹С… GeoIP City РёР»Рё GeoLite City. РЎРѕРґРµСЂР¶РёС‚ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёСЏ Р±Р»РѕРєРѕРІ IP Р°РґСЂРµСЃРѕРІ Рё РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№. Р”РѕР»Р¶РЅР° Р±С‹С‚СЊ Р·Р°РіСЂСѓР¶РµРЅР° РїРѕСЃР»Рµ РїРµСЂРІРѕР№ С‡Р°СЃС‚Рё.";
-$MESS ['STATWIZ_STEP2_FILE_TYPE_MAXMIND_CITY_LOCATION'] = "РџРµСЂРІР°СЏ С‡Р°СЃС‚СЊ Р±Р°Р·С‹ РґР°РЅРЅС‹С… GeoIP City РёР»Рё GeoLite City. РЎРѕРґРµСЂР¶РёС‚ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёСЏ.";
-$MESS ['STATWIZ_STEP2_FILE_TYPE_IPGEOBASE'] = "Р‘Р°Р·Р° РґР°РЅРЅС‹С… Р±Р»РѕРєРѕРІ IP Р°РґСЂРµСЃРѕРІ IpGeoBase (С‚РѕР»СЊРєРѕ Р РѕСЃСЃРёСЏ). Р”Р»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ СЃС‚СЂР°РЅС‹ СЃРЅР°С‡Р°Р»Р° Р·Р°РіСЂСѓР·РёС‚Рµ РёРЅРґРµРєСЃ СЃС‚СЂР°РЅ.";
-$MESS ['STATWIZ_STEP2_FILE_TYPE_IPGEOBASE2'] = "Р’С‚РѕСЂР°СЏ С‡Р°СЃС‚СЊ Р±Р°Р·С‹ РґР°РЅРЅС‹С… Р±Р»РѕРєРѕРІ IP Р°РґСЂРµСЃРѕРІ IpGeoBase. РЎРѕРґРµСЂР¶РёС‚ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёСЏ Р±Р»РѕРєРѕРІ IP Р°РґСЂРµСЃРѕРІ Рё РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№. Р”РѕР»Р¶РЅР° Р±С‹С‚СЊ Р·Р°РіСЂСѓР¶РµРЅР° РїРѕСЃР»Рµ РїРµСЂРІРѕР№ С‡Р°СЃС‚Рё.";
-$MESS ['STATWIZ_STEP2_FILE_TYPE_IPGEOBASE2_CITY'] = "РџРµСЂРІР°СЏ С‡Р°СЃС‚СЊ Р±Р°Р·С‹ РґР°РЅРЅС‹С… Р±Р»РѕРєРѕРІ IP Р°РґСЂРµСЃРѕРІ IpGeoBase.РЎРѕРґРµСЂР¶РёС‚ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёСЏ. Р”Р»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ СЃС‚СЂР°РЅС‹ СЃРЅР°С‡Р°Р»Р° Р·Р°РіСЂСѓР·РёС‚Рµ РёРЅРґРµРєСЃ СЃС‚СЂР°РЅ.";
-$MESS ['STATWIZ_STEP2_FILE_TYPE_UNKNOWN'] = "РќРµРёР·РІРµСЃС‚РЅС‹Р№ С„РѕСЂРјР°С‚.";
-$MESS ['STATWIZ_STEP2_FILE_ERROR'] = "РќРµ СѓРєР°Р·Р°РЅ С„Р°Р№Р» РґР»СЏ Р·Р°РіСЂСѓР·РєРё";
-$MESS ['STATWIZ_STEP3_TITLE'] = "РРґРµС‚ СЃРѕР·РґР°РЅРёРµ РёРЅРґРµРєСЃР°.";
-$MESS ['STATWIZ_STEP3_LOADING'] = "РРґРµС‚ РѕР±СЂР°Р±РѕС‚РєР°...";
-$MESS ['STATWIZ_FINALSTEP_TITLE'] = "Р Р°Р±РѕС‚Р° РјР°СЃС‚РµСЂР° Р·Р°РІРµСЂС€РµРЅР°";
-$MESS ['STATWIZ_FINALSTEP_BUTTONTITLE'] = "Р“РѕС‚РѕРІРѕ";
-$MESS ['STATWIZ_FINALSTEP_COUNTRIES'] = "РЎС‚СЂР°РЅ: #COUNT#.";
-$MESS ['STATWIZ_FINALSTEP_CITIES'] = "Р“РѕСЂРѕРґРѕРІ: #COUNT#.";
-$MESS ['STATWIZ_FINALSTEP_CITY_IPS'] = "IP РґРёР°РїР°Р·РѕРЅРѕРІ: #COUNT#.";
-$MESS ['STATWIZ_CANCELSTEP_TITLE'] = "Р Р°Р±РѕС‚Р° РјР°СЃС‚РµСЂР° РїСЂРµСЂРІР°РЅР°";
-$MESS ['STATWIZ_CANCELSTEP_BUTTONTITLE'] = "Р—Р°РєСЂС‹С‚СЊ";
-$MESS ['STATWIZ_CANCELSTEP_CONTENT'] = "Р Р°Р±РѕС‚Р° РјР°СЃС‚РµСЂР° Р±С‹Р»Р° РїСЂРµСЂРІР°РЅР°.";
+$MESS ['STATWIZ_STEP1_COMMON_NOTE'] = "Загруженные и распакованные файлы следует разместить в каталоге #PATH#. Затем вы можете перейти к следующему шагу мастера.";
+$MESS ['STATWIZ_STEP2_TITLE'] = "Выбор CSV файлов";
+$MESS ['STATWIZ_STEP2_COUNTRY_CHOOSEN'] = "Было выбрано создание индекса для определения <b>страны</b> по IP адресу.";
+$MESS ['STATWIZ_STEP2_CITY_CHOOSEN'] = "Было выбрано создание индекса для определения <b>страны</b> и <b>города</b> по IP адресу.";
+$MESS ['STATWIZ_STEP2_CONTENT'] = "Поиск подходящих файлов был выполнен в каталоге /bitrix/modules/statistic/ip2country.";
+$MESS ['STATWIZ_STEP2_FILE_NAME'] = "Имя файла";
+$MESS ['STATWIZ_STEP2_FILE_SIZE'] = "Размер";
+$MESS ['STATWIZ_STEP2_DESCRIPTION'] = "Описание";
+$MESS ['STATWIZ_STEP2_FILE_TYPE_MAXMIND_IP_COUNTRY'] = "База данных GeoIP Country или GeoLite Country.";
+$MESS ['STATWIZ_STEP2_FILE_TYPE_IP_TO_COUNTRY'] = "База данных ip-to-country.";
+$MESS ['STATWIZ_STEP2_FILE_TYPE_MAXMIND_IP_LOCATION'] = "Вторая часть базы данных GeoIP City или GeoLite City. Содержит соответствия блоков IP адресов и местоположений. Должна быть загружена после первой части.";
+$MESS ['STATWIZ_STEP2_FILE_TYPE_MAXMIND_CITY_LOCATION'] = "Первая часть базы данных GeoIP City или GeoLite City. Содержит местоположения.";
+$MESS ['STATWIZ_STEP2_FILE_TYPE_IPGEOBASE'] = "База данных блоков IP адресов IpGeoBase (только Россия). Для определения страны сначала загрузите индекс стран.";
+$MESS ['STATWIZ_STEP2_FILE_TYPE_IPGEOBASE2'] = "Вторая часть базы данных блоков IP адресов IpGeoBase. Содержит соответствия блоков IP адресов и местоположений. Должна быть загружена после первой части.";
+$MESS ['STATWIZ_STEP2_FILE_TYPE_IPGEOBASE2_CITY'] = "Первая часть базы данных блоков IP адресов IpGeoBase.Содержит местоположения. Для определения страны сначала загрузите индекс стран.";
+$MESS ['STATWIZ_STEP2_FILE_TYPE_UNKNOWN'] = "Неизвестный формат.";
+$MESS ['STATWIZ_STEP2_FILE_ERROR'] = "Не указан файл для загрузки";
+$MESS ['STATWIZ_STEP3_TITLE'] = "Идет создание индекса.";
+$MESS ['STATWIZ_STEP3_LOADING'] = "Идет обработка...";
+$MESS ['STATWIZ_FINALSTEP_TITLE'] = "Работа мастера завершена";
+$MESS ['STATWIZ_FINALSTEP_BUTTONTITLE'] = "Готово";
+$MESS ['STATWIZ_FINALSTEP_COUNTRIES'] = "Стран: #COUNT#.";
+$MESS ['STATWIZ_FINALSTEP_CITIES'] = "Городов: #COUNT#.";
+$MESS ['STATWIZ_FINALSTEP_CITY_IPS'] = "IP диапазонов: #COUNT#.";
+$MESS ['STATWIZ_CANCELSTEP_TITLE'] = "Работа мастера прервана";
+$MESS ['STATWIZ_CANCELSTEP_BUTTONTITLE'] = "Закрыть";
+$MESS ['STATWIZ_CANCELSTEP_CONTENT'] = "Работа мастера была прервана.";
 ?>

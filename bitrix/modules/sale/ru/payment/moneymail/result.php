@@ -42,13 +42,13 @@ if($sResult <> "")
 			$str_PS_STATUS_CODE = $aFields["status"];
 			$str_PS_STATUS = ($aFields["status"] == "PAID"? "Y":"N");
 			if($aFields["status"] == "PAID")
-				$str_PS_STATUS_DESCRIPTION = "РЎС‡РµС‚ РѕРїР»Р°С‡РµРЅ";
+				$str_PS_STATUS_DESCRIPTION = "Счет оплачен";
 			elseif($aFields["status"] == "NEW")
-				$str_PS_STATUS_DESCRIPTION = "РќРѕРІС‹Р№ СЃС‡РµС‚";
+				$str_PS_STATUS_DESCRIPTION = "Новый счет";
 			elseif($aFields["status"] == "REJECTED")
-				$str_PS_STATUS_DESCRIPTION = "РћС‚РєР°Р· РѕС‚ РѕРїР»Р°С‚С‹ СЃС‡РµС‚Р°";
+				$str_PS_STATUS_DESCRIPTION = "Отказ от оплаты счета";
 			elseif($aFields["status"] == "EXPIRED")
-				$str_PS_STATUS_DESCRIPTION = "РСЃС‚РµРє СЃСЂРѕРє РѕРїР»Р°С‚С‹ СЃС‡РµС‚Р°";
+				$str_PS_STATUS_DESCRIPTION = "Истек срок оплаты счета";
 			else
 				$str_PS_STATUS_DESCRIPTION = "";
 			$str_PS_STATUS_MESSAGE = "";

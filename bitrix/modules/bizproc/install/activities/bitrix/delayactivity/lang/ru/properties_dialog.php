@@ -1,14 +1,14 @@
 <?
-$MESS ['CPAD_DP_TIME_D'] = "Ð´Ð½ÐµÐ¹";
-$MESS ['CPAD_DP_TIME_H'] = "Ñ‡Ð°ÑÐ¾Ð²";
-$MESS ['CPAD_DP_TIME_M'] = "Ð¼Ð¸Ð½ÑƒÑ‚";
-$MESS ['CPAD_DP_TIME'] = "Ð’Ñ€ÐµÐ¼Ñ Ð¾Ð¶Ð¸Ð´Ð°Ð½Ð¸Ñ";
-$MESS ['CPAD_DP_TIME_S'] = "ÑÐµÐºÑƒÐ½Ð´";
-$MESS ['CPAD_DP_TIME_SELECT'] = "Ð ÐµÐ¶Ð¸Ð¼";
-$MESS ['CPAD_DP_TIME_SELECT_DELAY'] = "ÐŸÑ€Ð¾Ð¼ÐµÐ¶ÑƒÑ‚Ð¾Ðº";
-$MESS ['CPAD_DP_TIME_SELECT_TIME'] = "Ð’Ñ€ÐµÐ¼Ñ";
-$MESS ['CPAD_DP_TIME1'] = "Ð”Ð°Ñ‚Ð°";
-$MESS ['CPAD_PD_TIMEOUT_LIMIT'] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ Ð¾Ð¶Ð¸Ð´Ð°Ð½Ð¸Ñ";
-$MESS ['CPAD_DP_TIME_SERVER'] = "Ð’Ñ€ÐµÐ¼Ñ ÑÐµÑ€Ð²ÐµÑ€Ð°";
-$MESS ['CPAD_DP_TIME_LOCAL'] = "Ð›Ð¾ÐºÐ°Ð»ÑŒÐ½Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ";
+$MESS ['CPAD_DP_TIME_D'] = "äíåé";
+$MESS ['CPAD_DP_TIME_H'] = "÷àñîâ";
+$MESS ['CPAD_DP_TIME_M'] = "ìèíóò";
+$MESS ['CPAD_DP_TIME'] = "Âðåìÿ îæèäàíèÿ";
+$MESS ['CPAD_DP_TIME_S'] = "ñåêóíä";
+$MESS ['CPAD_DP_TIME_SELECT'] = "Ðåæèì";
+$MESS ['CPAD_DP_TIME_SELECT_DELAY'] = "Ïðîìåæóòîê";
+$MESS ['CPAD_DP_TIME_SELECT_TIME'] = "Âðåìÿ";
+$MESS ['CPAD_DP_TIME1'] = "Äàòà";
+$MESS ['CPAD_PD_TIMEOUT_LIMIT'] = "Ìèíèìàëüíîå âðåìÿ îæèäàíèÿ";
+$MESS ['CPAD_DP_TIME_SERVER'] = "Âðåìÿ ñåðâåðà";
+$MESS ['CPAD_DP_TIME_LOCAL'] = "Ëîêàëüíîå âðåìÿ";
 ?>

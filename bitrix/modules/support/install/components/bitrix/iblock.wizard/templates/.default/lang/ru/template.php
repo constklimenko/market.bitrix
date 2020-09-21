@@ -1,7 +1,7 @@
 <?
-$MESS ['WZ_TITLE'] = "ÐœÐ°ÑÑ‚ÐµÑ€ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['WZ_YES'] = "Ð”Ð°";
-$MESS ['WZ_BTN_BACK'] = "ÐÐ°Ð·Ð°Ð´";
-$MESS ['WZ_BTN_NEXT'] = "Ð”Ð°Ð»ÐµÐµ";
-$MESS ['WZ_BTN_FINISH'] = "Ð“Ð¾Ñ‚Ð¾Ð²Ð¾";
+$MESS ['WZ_TITLE'] = "Ìàñòåð ñîçäàíèÿ îáðàùåíèÿ";
+$MESS ['WZ_YES'] = "Äà";
+$MESS ['WZ_BTN_BACK'] = "Íàçàä";
+$MESS ['WZ_BTN_NEXT'] = "Äàëåå";
+$MESS ['WZ_BTN_FINISH'] = "Ãîòîâî";
 ?>

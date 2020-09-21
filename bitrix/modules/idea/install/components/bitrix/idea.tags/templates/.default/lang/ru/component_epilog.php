@@ -1,3 +1,3 @@
 <?
-$MESS["IDEA_TAG_CHAINT_TITLE"] = "Ð¢ÐµÐ³: #TAG#";
+$MESS["IDEA_TAG_CHAINT_TITLE"] = "Òåã: #TAG#";
 ?>

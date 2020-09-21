@@ -1,6 +1,6 @@
 <?
-$MESS["BPCWG_GROUP_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["BPCWG_OWNER"] = "Ð’Ð»Ð°Ð´ÐµÐ»ÐµÑ† Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["BPCWG_USERS"] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["BPCWG_SITE"] = "Ð¦ÐµÐ»ÐµÐ²Ð¾Ð¹ ÑÐ°Ð¹Ñ‚";
-$MESS["BPCWG_SITE_OTHER"] = "Ð´Ñ€ÑƒÐ³Ð¾Ð¹";
+$MESS["BPCWG_GROUP_NAME"] = "Íàçâàíèå ãðóïïû";
+$MESS["BPCWG_OWNER"] = "Âëàäåëåö ãðóïïû";
+$MESS["BPCWG_USERS"] = "Ó÷àñòíèêè ãðóïïû";
+$MESS["BPCWG_SITE"] = "Öåëåâîé ñàéò";
+$MESS["BPCWG_SITE_OTHER"] = "äðóãîé";

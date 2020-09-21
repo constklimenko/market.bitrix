@@ -1,2 +1,2 @@
 <?php
-$MESS["LANDING_DEMO_WIKI_SEDEBAR-TITLE"] = "Ð¡Ð°Ð¹Ð´Ð±Ð°Ñ€";
+$MESS["LANDING_DEMO_WIKI_SEDEBAR-TITLE"] = "Ñàéäáàð";

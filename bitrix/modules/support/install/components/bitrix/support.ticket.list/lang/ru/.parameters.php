@@ -1,8 +1,8 @@
 <?
-$MESS['SUP_LIST_DEFAULT_TEMPLATE_PARAM_1_NAME'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['SUP_LIST_TICKETS_PER_PAGE'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¹ Ð½Ð° Ð¾Ð´Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
-$MESS ['SUP_DESC_YES'] = "Ð”Ð°";
-$MESS ['SUP_DESC_NO'] = "ÐÐµÑ‚";
-$MESS ['SUP_SET_PAGE_TITLE'] = "Ð£ÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°Ñ‚ÑŒ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
-$MESS ['SUP_SHOW_USER_FIELD'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ðµ Ð¿Ð¾Ð»Ñ";
+$MESS['SUP_LIST_DEFAULT_TEMPLATE_PARAM_1_NAME'] = "Ñòðàíèöà ðåäàêòèðîâàíèÿ îáðàùåíèÿ";
+$MESS ['SUP_LIST_TICKETS_PER_PAGE'] = "Êîëè÷åñòâî îáðàùåíèé íà îäíîé ñòðàíèöå";
+$MESS ['SUP_DESC_YES'] = "Äà";
+$MESS ['SUP_DESC_NO'] = "Íåò";
+$MESS ['SUP_SET_PAGE_TITLE'] = "Óñòàíàâëèâàòü çàãîëîâîê ñòðàíèöû";
+$MESS ['SUP_SHOW_USER_FIELD'] = "Ïîêàçûâàòü ïîëüçîâàòåëüñêèå ïîëÿ";
 ?>

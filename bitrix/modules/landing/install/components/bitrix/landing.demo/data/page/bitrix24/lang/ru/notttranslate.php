@@ -1,132 +1,132 @@
 <?php
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT1"] = "РіР»Р°РІРЅР°СЏ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT2"] = "РђРєС†РёРё";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT3"] = "Р§С‚Рѕ С‚Р°РєРѕРµ Р‘РёС‚СЂРёРєСЃ24?";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT4"] = "С‚Р°СЂРёС„С‹";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT5"] = "РџР°РєРµС‚С‹";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT6"] = "РїСЂРµРёРјСѓС‰РµСЃС‚РІР°";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT7"] = "РєРѕРјРїРµС‚РµРЅС†РёРё";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT8"] = "СЌС‚Р°РїС‹";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT9"] = "РєРѕРЅС‚Р°РєС‚С‹";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT10"] = "РїРѕРјРѕРіР°РµС‚ РїСЂРѕРґР°РІР°С‚СЊ Р±РѕР»СЊС€Рµ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT11"] = "РџРѕРјРѕРіР°СЋС‚ СЂР°Р±РѕС‚Р°С‚СЊ РІРјРµСЃС‚Рµ Рё СѓСЃРїРµРІР°С‚СЊ РІРѕРІСЂРµРјСЏ<br />";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT12"] = "РїРѕРјРѕРіР°СЋС‚ РїСЂРѕРґР°РІР°С‚СЊ<br />";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT13"] = "РїРѕРјРѕРіР°СЋС‚ Р»СЋР±РёС‚СЊ РєР»РёРµРЅС‚РѕРІ :)<br />";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT14"] = "РїРѕРјРѕРіР°РµС‚ СЂР°Р±РѕС‚Р°С‚СЊ РІРјРµСЃС‚Рµ<br />";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT15"] = "Р±РёС‚СЂРёРєСЃ<span bxstyle=\"color: rgb(3, 169, 244);\">24</span><span bxstyle=\"color: rgb(245, 245, 245);\">.CRM</span>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT16"] = "Р±РёС‚СЂРёРєСЃ<span bxstyle=\"color: rgb(3, 169, 244);\">24</span><span bxstyle=\"color: rgb(245, 245, 245);\">.Р—Р°РґР°С‡Рё Рё РїСЂРѕРµРєС‚С‹</span>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT17"] = "Р±РёС‚СЂРёРєСЃ<span bxstyle=\"color: rgb(3, 169, 244);\">24</span><span bxstyle=\"color: rgb(245, 245, 245);\">.РЎРђР™РўР«</span>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT18"] = "Р±РёС‚СЂРёРєСЃ<span bxstyle=\"color: rgb(3, 169, 244);\">24</span><span bxstyle=\"color: rgb(245, 245, 245);\">.РѕС‚РєСЂС‹С‚С‹Рµ Р»РёРЅРёРё</span>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT19"] = "Р±РёС‚СЂРёРєСЃ<span bxstyle=\"color: rgb(3, 169, 244);\">24</span><span bxstyle=\"color: rgb(245, 245, 245);\">.РєРѕРјРїР°РЅРёСЏ</span>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT20"] = "<p>РЎРѕР·РґР°РІР°Р№С‚Рµ СЃР°Р№С‚С‹ Рё Р»РµРЅРґРёРЅРіРё РІ CRM, СЃСЂР°Р·Сѓ СЃ РѕРЅР»Р°Р№РЅ-С‡Р°С‚РѕРј, РѕР±СЂР°С‚РЅС‹Рј Р·РІРѕРЅРєРѕРј Рё С„РѕСЂРјРѕР№ РѕР±СЂР°С‚РЅРѕР№ СЃРІСЏР·Рё</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT21"] = "<p>РЈРїСЂР°РІР»РµРЅРёРµ Р·Р°РґР°С‡Р°РјРё Рё РїСЂРѕРµРєС‚Р°РјРё, РљР°РЅР±Р°РЅ, РґРµР»РµРіРёСЂРѕРІР°РЅРёРµ, С‡РµРє-Р»РёСЃС‚С‹, С€Р°Р±Р»РѕРЅС‹ </p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT22"] = "<p>РЎРѕР·РґР°РІР°Р№С‚Рµ СЃР°Р№С‚С‹ Рё Р»РµРЅРґРёРЅРіРё РІ CRM, СЃСЂР°Р·Сѓ СЃ РѕРЅР»Р°Р№РЅ-С‡Р°С‚РѕРј, РѕР±СЂР°С‚РЅС‹Рј Р·РІРѕРЅРєРѕРј Рё С„РѕСЂРјРѕР№ РѕР±СЂР°С‚РЅРѕР№ СЃРІСЏР·Рё</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT23"] = "<p>РџРѕРґРєР»СЋС‡РёС‚Рµ СЃРѕС†СЃРµС‚Рё Рё РјРµСЃСЃРµРЅРґР¶РµСЂС‹ Рё РѕР±С‰Р°Р№С‚РµСЃСЊ СЃ РєР»РёРµРЅС‚Р°РјРё РІ Р‘РёС‚СЂРёРєСЃ24 </p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT24"] = "<p>Р–РёРІР°СЏ Р›РµРЅС‚Р°, Р§Р°С‚, Р”РёСЃРє, РљР°Р»РµРЅРґР°СЂСЊ Рё РјРЅРѕРіРѕРµ РґСЂСѓРіРѕРµ</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT25"] = "РїРѕРґСЂРѕР±РЅРµРµ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT26"] = "Р’РЅРµРґСЂРµРЅРёРµ <br />СЃРѕ СЃРєРёРґРєРѕР№";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT27"] = "&quot;РљРђРљ Р РђР‘РћРўРђРўР¬ Р’ Р‘РРўР РРљРЎ24&quot;";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT28"] = "Р‘РµСЃРїР»Р°С‚РЅРѕРµ <br />РІРЅРµРґСЂРµРЅРёРµ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT29"] = "<p>Р—Р°РєР°Р¶РёС‚Рµ РІРЅРµРґСЂРµРЅРёРµ Сѓ РЅР°СЃ Рё РїРѕР»СѓС‡РёС‚Рµ СЃРєРёРґРєСѓ 20% РЅР° СѓСЃР»СѓРіРё! <br /></p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT30"] = "<p>Р‘РµСЃРїР»Р°С‚РЅС‹Р№ РІРµР±РёРЅР°СЂ РґР»СЏ С‚РµС…, РєС‚Рѕ РЅР°С‡РёРЅР°РµС‚ СЂР°Р±РѕС‚Сѓ СЃ СЃРµСЂРІРёСЃРѕРј<br /></p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT31"] = "<p>РџСЂСЏРјРѕ СЃРµР№С‡Р°СЃ - РїСЂРё РїРѕРєСѓРїРєРµ С‚Р°СЂРёС„Р° Р—Р°РґР°С‡Рё+  РІРЅРµРґСЂРµРЅРёРµ Р±РµСЃРїР»Р°С‚РЅРѕ! <br /></p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT32"] = "РЈР·РЅР°С‚СЊ РїРѕРґСЂРѕР±РЅРµРµ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT33"] = "Р—Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊСЃСЏ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT34"] = "РЈР·РЅР°С‚СЊ РїРѕРґСЂРѕР±РЅРµРµ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT35"] = "<span bxstyle=\"font-weight: bold;\">Р§РўРћ РўРђРљРћР• Р‘РРўР РРљРЎ<span bxstyle=\"color: rgb(59, 200, 245);\">24</span>?</span>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT36"] = "Р‘РёС‚СЂРёРєСЃ24.CRM";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT37"] = "<p>РїРѕРјРѕРіР°РµС‚ РїСЂРѕРґР°РІР°С‚СЊ Р±РѕР»СЊС€Рµ:
-<br /><br />&#149	Р±РµСЂРµС‚ РїРѕРґ РєРѕРЅС‚СЂРѕР»СЊ РІСЃРµ РєР°РЅР°Р»С‹ РєРѕРјРјСѓРЅРёРєР°С†РёР№ СЃ РєР»РёРµРЅС‚Р°РјРё;
-<br />&#149	РїРѕРґСЃРєР°Р·С‹РІР°РµС‚ РјРµРЅРµРґР¶РµСЂСѓ, С‡С‚Рѕ РґРµР»Р°С‚СЊ;
-<br />&#149	Р°РІС‚РѕРјР°С‚РёР·РёСЂСѓРµС‚ РїСЂРѕРґР°Р¶Рё;
-<br />&#149	СЃРѕР·РґР°С‘С‚ СЂР°СЃСЃС‹Р»РєРё РїРѕРґ СЂР°Р·РЅС‹Рµ СЃРµРіРјРµРЅС‚С‹;
-<br />&#149	СЃРѕРѕР±С‰Р°РµС‚ СЂСѓРєРѕРІРѕРґРёС‚РµР»СЋ Рѕ РїСЂРѕР±Р»РµРјРµ;
-<br />&#149	СѓСЃС‚Р°РЅР°РІР»РёРІР°РµС‚ РІР·Р°РёРјРѕРґРµР№СЃС‚РІРёРµ СЃ 1РЎ. <br /></p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT38"] = "Р‘РёС‚СЂРёРєСЃ24.РљРѕРЅС‚Р°РєС‚-С†РµРЅС‚СЂ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT39"] = "<p>РѕР±СЉРµРґРёРЅСЏРµС‚ РІ CRM РєР°РЅР°Р»С‹ РєРѕРјРјСѓРЅРёРєР°С†РёР№ СЃ РєР»РёРµРЅС‚Р°РјРё: <br />
-<br />&#149	Р·РІРѕРЅРєРё РїРѕ С‚РµР»РµС„РѕРЅСѓ;
-<br />&#149	РїРёСЃСЊРјР° РЅР° СЌР»РµРєС‚СЂРѕРЅРЅСѓСЋ РїРѕС‡С‚Сѓ;
-<br />&#149	С‡Р°С‚ РЅР° СЃР°Р№С‚Рµ;
-<br />&#149	СЃРѕРѕР±С‰РµРЅРёСЏ РЅР° Facebook;
-<br />&#149	Р·Р°РєР°Р·С‹ РІ Instagram;
-<br />&#149	РІРѕРїСЂРѕСЃС‹ РІ Р’РљРѕРЅС‚Р°РєС‚Рµ,
-<br />&#149	РїРµСЂРµРїРёСЃРєР° РЇРЅРґРµРєСЃ.Р§Р°С‚ Рё РґСЂСѓРіРёРµ.
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT1"] = "главная";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT2"] = "Акции";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT3"] = "Что такое Битрикс24?";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT4"] = "тарифы";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT5"] = "Пакеты";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT6"] = "преимущества";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT7"] = "компетенции";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT8"] = "этапы";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT9"] = "контакты";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT10"] = "помогает продавать больше";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT11"] = "Помогают работать вместе и успевать вовремя<br />";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT12"] = "помогают продавать<br />";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT13"] = "помогают любить клиентов :)<br />";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT14"] = "помогает работать вместе<br />";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT15"] = "битрикс<span bxstyle=\"color: rgb(3, 169, 244);\">24</span><span bxstyle=\"color: rgb(245, 245, 245);\">.CRM</span>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT16"] = "битрикс<span bxstyle=\"color: rgb(3, 169, 244);\">24</span><span bxstyle=\"color: rgb(245, 245, 245);\">.Задачи и проекты</span>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT17"] = "битрикс<span bxstyle=\"color: rgb(3, 169, 244);\">24</span><span bxstyle=\"color: rgb(245, 245, 245);\">.САЙТЫ</span>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT18"] = "битрикс<span bxstyle=\"color: rgb(3, 169, 244);\">24</span><span bxstyle=\"color: rgb(245, 245, 245);\">.открытые линии</span>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT19"] = "битрикс<span bxstyle=\"color: rgb(3, 169, 244);\">24</span><span bxstyle=\"color: rgb(245, 245, 245);\">.компания</span>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT20"] = "<p>Создавайте сайты и лендинги в CRM, сразу с онлайн-чатом, обратным звонком и формой обратной связи</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT21"] = "<p>Управление задачами и проектами, Канбан, делегирование, чек-листы, шаблоны </p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT22"] = "<p>Создавайте сайты и лендинги в CRM, сразу с онлайн-чатом, обратным звонком и формой обратной связи</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT23"] = "<p>Подключите соцсети и мессенджеры и общайтесь с клиентами в Битрикс24 </p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT24"] = "<p>Живая Лента, Чат, Диск, Календарь и многое другое</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT25"] = "подробнее";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT26"] = "Внедрение <br />со скидкой";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT27"] = "&quot;КАК РАБОТАТЬ В БИТРИКС24&quot;";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT28"] = "Бесплатное <br />внедрение";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT29"] = "<p>Закажите внедрение у нас и получите скидку 20% на услуги! <br /></p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT30"] = "<p>Бесплатный вебинар для тех, кто начинает работу с сервисом<br /></p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT31"] = "<p>Прямо сейчас - при покупке тарифа Задачи+  внедрение бесплатно! <br /></p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT32"] = "Узнать подробнее";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT33"] = "Зарегистрироваться";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT34"] = "Узнать подробнее";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT35"] = "<span bxstyle=\"font-weight: bold;\">ЧТО ТАКОЕ БИТРИКС<span bxstyle=\"color: rgb(59, 200, 245);\">24</span>?</span>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT36"] = "Битрикс24.CRM";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT37"] = "<p>помогает продавать больше:
+<br /><br />&#149	берет под контроль все каналы коммуникаций с клиентами;
+<br />&#149	подсказывает менеджеру, что делать;
+<br />&#149	автоматизирует продажи;
+<br />&#149	создаёт рассылки под разные сегменты;
+<br />&#149	сообщает руководителю о проблеме;
+<br />&#149	устанавливает взаимодействие с 1С. <br /></p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT38"] = "Битрикс24.Контакт-центр";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT39"] = "<p>объединяет в CRM каналы коммуникаций с клиентами: <br />
+<br />&#149	звонки по телефону;
+<br />&#149	письма на электронную почту;
+<br />&#149	чат на сайте;
+<br />&#149	сообщения на Facebook;
+<br />&#149	заказы в Instagram;
+<br />&#149	вопросы в ВКонтакте,
+<br />&#149	переписка Яндекс.Чат и другие.
 <br />
-<br />Р’СЃСЏ РёРЅС„РѕСЂРјР°С†РёСЏ СЃРѕС…СЂР°РЅСЏРµС‚СЃСЏ РІ РєР°СЂС‚РѕС‡РєР°С… CRM <br /></p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT40"] = "Р‘РёС‚СЂРёРєСЃ24.Р—Р°РґР°С‡Рё Рё РїСЂРѕРµРєС‚С‹";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT41"] = "<p>РїРѕРјРѕРіР°СЋС‚ СЂР°Р±РѕС‚Р°С‚СЊ РІРјРµСЃС‚Рµ Рё СѓСЃРїРµРІР°С‚СЊ РІРѕРІСЂРµРјСЏ. <br />Р•СЃР»Рё Р·Р°РґР°С‡Р° РїРѕСЃС‚Р°РІР»РµРЅР° РІ Р‘РёС‚СЂРёРєСЃ24, РѕРЅР° Р±СѓРґРµС‚ РІС‹РїРѕР»РЅРµРЅР°: <br /><br />&#149	РІСЃРµ РїСЂРёС‡Р°СЃС‚РЅС‹Рµ РЅР°Р±Р»СЋРґР°СЋС‚ Р·Р° РµС‘ РІС‹РїРѕР»РЅРµРЅРёРµРј Рё РІРЅРѕСЃСЏС‚ СЃРІРѕРё РєРѕСЂСЂРµРєС‚РёСЂРѕРІРєРё СЃРІРѕРµРІСЂРµРјРµРЅРЅРѕ;
-<br />&#149	Рѕ Р·Р°РґР°С‡Р°С… РЅР°РїРѕРјРёРЅР°СЋС‚ СЃС‡С‘С‚С‡РёРєРё;
-<br />&#149	РѕРЅР° Р±СѓРґРµС‚ РІС‹РІРµРґРµРЅР° РІРІРµСЂС… СЃРїРёСЃРєР° СЃРѕРіР»Р°СЃРЅРѕ РїСЂРёРѕСЂРёС‚РµС‚Р°Рј Рё СЃСЂРѕС‡РЅРѕСЃС‚Рё;
-<br />&#149	Рѕ РЅР°СЂСѓС€РµРЅРёРё СЃСЂРѕРєРѕРІ С‚СѓС‚ Р¶Рµ СѓР·РЅР°РµС‚ РїРѕСЃС‚Р°РЅРѕРІС‰РёРє;
-<br />&#149	РЅРµРІС‹РїРѕР»РЅРµРЅРёРµ РѕС‚СЂР°Р·РёС‚СЃСЏ РЅР° РєРѕСЌС„С„РёС†РёРµРЅС‚Рµ СЌС„С„РµРєС‚РёРІРЅРѕСЃС‚Рё РєР°Рє РѕС‚РІРµС‚СЃС‚РІРµРЅРЅРѕРіРѕ, С‚Р°Рє Рё СЃРѕРёСЃРїРѕР»РЅРёС‚РµР»РµР№. <br /></p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT42"] = "Р‘РёС‚СЂРёРєСЃ24.РЎР°Р№С‚С‹ Рё РјР°РіР°Р·РёРЅС‹";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT43"] = "<p>Р“Р»Р°РІРЅР°СЏ Р·Р°РґР°С‡Р° СЃР°Р№С‚Р° Рё Р»РµРЅРґРёРЅРіР° РєРѕРјРїР°РЅРёРё вЂ” РЅРµ РїСЂРѕСЃС‚Рѕ Р±С‹С‚СЊ РєСЂР°СЃРёРІС‹Рј, Р° РїСЂРёРІРѕРґРёС‚СЊ РєР»РёРµРЅС‚РѕРІ. РЎР°Р№С‚С‹ РІ Р‘РёС‚СЂРёРєСЃ24 СЃРѕР·РґР°СЋС‚СЃСЏ, С‡С‚РѕР±С‹ РїСЂРѕРґР°РІР°С‚СЊ! <br />РСЃРїРѕР»СЊР·СѓР№С‚Рµ РІСЃРµ РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё СЃР°Р№С‚Р° Рё РєР°Рє РєРѕРЅСЃС‚СЂСѓРєС‚РѕСЂР°, Рё РєР°Рє С‡Р°СЃС‚Рё CRM:
-<br /><br />&#149	Р±РµСЃРїР»Р°С‚РЅС‹Р№ РѕРЅР»Р°Р№РЅ-С‡Р°С‚
-<br />&#149	РіСЂР°С„РёС‡РµСЃРєРёР№ СЂРµРґР°РєС‚РѕСЂ
-<br />&#149	РјРЅРѕРіРѕСЃС‚СЂР°РЅРёС‡РЅС‹Р№ СЃР°Р№С‚
-<br />&#149	РІСЃС‚СЂРѕРµРЅРЅС‹Рµ РІРёРґР¶РµС‚С‹
-<br />&#149	Р°РЅРёРјР°С†РёСЏ Р±Р»РѕРєРѕРІ
-<br />&#149	Р±РµСЃРїР»Р°С‚РЅС‹Р№ С…РѕСЃС‚РёРЅРі Рё РґРѕРјРµРЅ
+<br />Вся информация сохраняется в карточках CRM <br /></p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT40"] = "Битрикс24.Задачи и проекты";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT41"] = "<p>помогают работать вместе и успевать вовремя. <br />Если задача поставлена в Битрикс24, она будет выполнена: <br /><br />&#149	все причастные наблюдают за её выполнением и вносят свои корректировки своевременно;
+<br />&#149	о задачах напоминают счётчики;
+<br />&#149	она будет выведена вверх списка согласно приоритетам и срочности;
+<br />&#149	о нарушении сроков тут же узнает постановщик;
+<br />&#149	невыполнение отразится на коэффициенте эффективности как ответственного, так и соисполнителей. <br /></p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT42"] = "Битрикс24.Сайты и магазины";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT43"] = "<p>Главная задача сайта и лендинга компании — не просто быть красивым, а приводить клиентов. Сайты в Битрикс24 создаются, чтобы продавать! <br />Используйте все возможности сайта и как конструктора, и как части CRM:
+<br /><br />&#149	бесплатный онлайн-чат
+<br />&#149	графический редактор
+<br />&#149	многостраничный сайт
+<br />&#149	встроенные виджеты
+<br />&#149	анимация блоков
+<br />&#149	бесплатный хостинг и домен
 <br />&#149	SEO <br /></p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT44"] = "Р‘РРўР РРљРЎ24.РѕС„РёСЃ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT45"] = "<p>РїРѕРјРѕРіР°РµС‚ СЂР°Р±РѕС‚Р°С‚СЊ РІРјРµСЃС‚Рµ:
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT44"] = "БИТРИКС24.офис";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT45"] = "<p>помогает работать вместе:
 <br />
-<br />&#149	РѕС‚РєСЂС‹С‚С‹Рµ Рё Р·Р°РєСЂС‹С‚С‹Рµ С‡Р°С‚С‹;
-<br />&#149	РѕР±С‰РёР№ РґРёСЃРє;
-<br />&#149	РєР°Р»РµРЅРґР°СЂСЊ РґР»СЏ РІСЃС‚СЂРµС‡ СЃ СѓС‡С‘С‚РѕРј РїР»Р°РЅРѕРІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ;
-<br />&#149	СЃРѕР·РґР°РЅРёРµ РіСЂСѓРїРї РїРѕ РЅР°РїСЂР°РІР»РµРЅРёСЏРј;
-<br />&#149	РѕС‚С‡РµС‚С‹ СЂСѓРєРѕРІРѕРґРёС‚РµР»СЋ РІ РѕРїСЂРµРґРµР»С‘РЅРЅРѕРµ РІСЂРµРјСЏ;
-<br />&#149	Р±РёР·РЅРµСЃ-РїСЂРѕС†РµСЃСЃС‹ Рё РґСЂСѓРіРёРµ РёРЅСЃС‚СЂСѓРјРµРЅС‚С‹ РґР»СЏ СЃРѕРІРјРµСЃС‚РЅРѕР№ СЂР°Р±РѕС‚С‹. <br /></p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT46"] = "РџРѕРґСЂРѕР±РЅРµРµ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT47"] = "<span bxstyle=\"font-weight: bold;\">РљРћРњРњР•Р Р§Р•РЎРљРР• РўРђР РР¤Р« Р‘РРўР РРљРЎ<span bxstyle=\"color: rgb(59, 200, 245);\">24</span></span><br />";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT48"] = "Р—Р°РґР°С‡Рё+";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT49"] = "РєРѕРјР°РЅРґР°";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT50"] = "РєРѕРјРїР°РЅРёСЏ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT51"] = "СЂСѓР±.";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT52"] = "РІ РјРµСЃСЏС†";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT53"] = "<li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\"><span bxstyle=\"font-weight: 700;\">24</span> <br />Р±РёР·РЅРµСЃ-РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ<br /></li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\"><span bxstyle=\"font-weight: 700;\">50</span> Р“Р±</li>
-                                <li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">CRM</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">РљРѕРЅС‚Р°РєС‚-Р¦РµРЅС‚СЂ</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">РЎР°Р№С‚С‹ Рё Р»РµРЅРґРёРЅРіРё</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">РРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅ</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">Р—Р°РґР°С‡Рё Рё РїСЂРѕРµРєС‚С‹</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">РђРґРјРёРЅРёСЃС‚СЂРёСЂРѕРІР°РЅРёРµ</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">РћС„РёСЃ<br /></li>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT54"] = "<li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\"><span bxstyle=\"font-weight: 700;\">6</span> <br />Р±РёР·РЅРµСЃ-РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\"><span bxstyle=\"font-weight: 700;\">50</span> Р“Р±</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\">СЂР°СЃС€РёСЂРµРЅРЅР°СЏ
-<br />CRM </li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\">СЂР°СЃС€РёСЂРµРЅРЅС‹Р№
-<br />РљРѕРЅС‚Р°РєС‚-
-<br />С†РµРЅС‚СЂ</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">CRM-РјР°СЂРєРµС‚РёРЅРі</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">Р¦РµРЅС‚СЂ РїСЂРѕРґР°Р¶</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">РІСЃРµ РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё РїСЂРµРґС‹РґСѓС‰РёС… С‚Р°СЂРёС„РѕРІ<br /></li>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT55"] = "<li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">Р‘РёР·РЅРµСЃ-РїРѕР»СЊР·РѕРІР°С‚РµР»Рё <span bxstyle=\"font-weight: bold;\">Р±РµР· РѕРіСЂР°РЅРёС‡РµРЅРёР№
-</span></li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\"><span bxstyle=\"font-weight: bold;\">РЅРµ РѕРіСЂР°РЅРёС‡РµРЅРѕ</span></li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\"><span bxstyle=\"font-weight: bold;\">РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»СЊРЅС‹Рµ</span><br />CRM <br />(РІРєР»СЋС‡Р°СЏ РљРѕРЅС‚Р°РєС‚-С†РµРЅС‚СЂ, CRM-РјР°СЂРєРµС‚РёРЅРі Рё РЎРєРІРѕР·РЅСѓСЋ Р°РЅР°Р»РёС‚РёРєСѓ)<br /></li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">РЎР°Р№С‚С‹ Рё Р»РµРЅРґРёРЅРіРё</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">РРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅ<br /></li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">Р—Р°РґР°С‡Рё Рё РїСЂРѕРµРєС‚С‹</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">РћС„РёСЃ<br /></li>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT56"] = "<li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\"><span bxstyle=\"font-weight: bold;\">50</span> <br />Р±РёР·РЅРµСЃ-РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\"><span bxstyle=\"font-weight: bold;\">100</span> Р“Р±</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">СЂР°СЃС€РёСЂРµРЅРЅС‹Рµ РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё <br />С‚Р°СЂРёС„РѕРІ <br />&quot;РџСЂРѕРµРєС‚&quot;<br />&quot;Р—Р°РґР°С‡Рё+&quot; <br />Рё &quot;CRM+&quot;</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">СЂР°СЃС€РёСЂРµРЅРЅР°СЏ<br />РЎРєРІРѕР·РЅР°СЏ РђРЅР°Р»РёС‚РёРєР°</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">СЂР°СЃС€РёСЂРµРЅРЅР°СЏ<br />РѕРЅР»Р°Р№РЅ-<br />РїРѕРґРґРµСЂР¶РєР°</li>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT57"] = "РљСѓРїРёС‚СЊ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT58"] = "<p>РџСЂСЏРјРѕ СЃРµР№С‡Р°СЃ РІС‹ РјРѕР¶РµС‚Рµ РёСЃРїС‹С‚Р°С‚СЊ Р±РµСЃРїР»Р°С‚РЅС‹Р№ Р‘РёС‚СЂРёРєСЃ24 РЅР° 12 С‡РµР»РѕРІРµРє</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT59"] = "С…РѕС‡Сѓ РїРѕРїСЂРѕР±РѕРІР°С‚СЊ!";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT60"] = "<span bxstyle=\"font-weight: 700;\">РЎРїРµС†РёР°Р»СЊРЅРѕРµ РїСЂРµРґР»РѕР¶РµРЅРёРµ РѕС‚ РїР°СЂС‚РЅРµСЂР° Р‘РёС‚СЂРёРєСЃ24</span>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT61"] = "Р’РЅРµРґСЂРµРЅРёРµ С‚Р°СЂРёС„Р°<br />&quot;Р—Р°РґР°С‡Рё+&quot;";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT62"] = "Р’РЅРµРґСЂРµРЅРёРµ С‚Р°СЂРёС„Р°<br />&quot;CRM+&quot;";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT63"] = "Р’РЅРµРґСЂРµРЅРёРµ С‚Р°СЂРёС„Р°<br />&quot;РљРѕРјР°РЅРґР°&quot;";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT64"] = "СЂ.";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT65"] = "РІ РјРµСЃСЏС†";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT66"] = "Р±РµСЃРїР»Р°С‚РЅРѕРµ РѕР±СЃР»СѓР¶РёРІР°РЅРёРµ РІ С‚РµС‡РµРЅРёРµ 1 РјРµСЃСЏС†Р°<br />";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT66-1"] = "РІРЅРµРґСЂРµРЅРёРµ Р‘РёС‚СЂРёРєСЃ24";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT67"] = "<span bxstyle=\"font-weight: 700;\">РќР°С€Рё РїСЂРµРёРјСѓС‰РµСЃС‚РІР°</span>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT68"] = "РЎСЂРѕС‡РЅРѕРµ РІРЅРµРґСЂРµРЅРёРµ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT69"] = "РЈРґРѕР±СЃС‚РІРѕ СЂР°Р±РѕС‚С‹";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT70"] = "РќР°РґС‘Р¶РЅРѕСЃС‚СЊ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT71"] = "Р’С‹СЃРѕРєРёРµ С‚РµС…РЅРѕР»РѕРіРёРё";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT72"] = "<p>РјРµРЅРµРµ, С‡РµРј С‡РµСЂРµР· С‡Р°СЃ</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT73"] = "<p>РІСЃС‘ РґР»СЏ РІР°С€РµРіРѕ РєРѕРјС„РѕСЂС‚Р°</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT74"] = "<p>РєРѕРЅСЃСѓР»СЊС‚Р°РЅС‚С‹ РЅР° СЃРІСЏР·Рё 24/7</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT75"] = "<p>РќР°С€Р° СЂР°Р±РѕС‚Р° - РІР°С€Р° СѓРІРµСЂРµРЅРЅРѕСЃС‚СЊ!</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT76"] = "<span bxstyle=\"font-weight: 700;\">РќР°С€Рё РєРѕРјРїРµС‚РµРЅС†РёРё</span>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT77"] = "Р­С‚Р°РїС‹ СЂР°Р±РѕС‚С‹";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT79"] = "1. РџСЂРµРґРїСЂРѕРµРєС‚РЅС‹Р№ Р°РЅР°Р»РёР·";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT80"] = "2. РђСѓРґРёС‚";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT81"] = "3. Р Р°Р·СЂР°Р±РѕС‚РєР° РїСЂРѕРµРєС‚Р°";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT82"] = "4. Р’РЅРµРґСЂРµРЅРёРµ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT83"] = "<p>РђРЅР°Р»РёР·РёСЂСѓРµРј СЃРїРµС†РёС„РёРєСѓ СЂР°Р±РѕС‚С‹ РІР°С€РµР№ РєРѕРјРїР°РЅРёРё, РґР°С‘Рј РїСЂР°РєС‚РёС‡РµСЃРєРёРµ СЃРѕРІРµС‚С‹ РїРѕ СѓР»СѓС‡С€РµРЅРёСЋ.</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT83"] = "<p>РђРЅР°Р»РёР·РёСЂСѓРµРј СЃРїРµС†РёС„РёРєСѓ СЂР°Р±РѕС‚С‹ РІР°С€РµР№ РєРѕРјРїР°РЅРёРё, РґР°С‘Рј РїСЂР°РєС‚РёС‡РµСЃРєРёРµ СЃРѕРІРµС‚С‹ РїРѕ СѓР»СѓС‡С€РµРЅРёСЋ.</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT84"] = "<p>Р’С‹СЏРІР»СЏРµРј СЃРёР»СЊРЅС‹Рµ Рё СЃР»Р°Р±С‹Рµ СЃС‚РѕСЂРѕРЅС‹ Р±СѓРґСѓС‰РµРіРѕ РїСЂРѕРµРєС‚Р°, СЂР°Р±РѕС‚Р°РµРј РЅР°Рґ РµРіРѕ СЃРѕРІРµСЂС€РµРЅСЃС‚РІРѕРІР°РЅРёРµРј.</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT85"] = "<p>Р Р°Р·СЂР°Р±Р°С‚С‹РІР°РµРј РїСЂРѕРµРєС‚ СЃ СѓС‡С‘С‚РѕРј РїРѕР¶РµР»Р°РЅРёР№ РєР»РёРµРЅС‚Р° Рё СЃРїРµС†РёС„РёРєРё РµРіРѕ Р±РёР·РЅРµСЃР°.</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT86"] = "<p>Р“РѕС‚РѕРІС‹Р№ РїСЂРѕРµРєС‚ РІРѕРїР»РѕС‰Р°РµС‚СЃСЏ РІ Р¶РёР·РЅСЊ, РїСЂРѕРІРѕРґСЏС‚СЃСЏ РЅРµРѕР±С…РѕРґРёРјС‹Рµ СЂР°Р±РѕС‚С‹ РїРѕ РІРЅРµРґСЂРµРЅРёСЋ Рё РѕР±СѓС‡РµРЅРёСЋ СЃРѕС‚СЂСѓРґРЅРёРєРѕРІ.</p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT87"] = "<span bxstyle=\"\">РРЅС‚РµСЂРµСЃРЅРѕ?</span>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT88"] = "<p><span bxstyle=\"font-weight: bold;\">РћСЃС‚Р°РІР»СЏР№С‚Рµ РєРѕРЅС‚Р°РєС‚С‹!</span></p>";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT89"] = "РћСЃС‚Р°РІР»СЏР№С‚Рµ РєРѕРЅС‚Р°РєС‚С‹";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT90"] = "РђРґСЂРµСЃ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT91"] = "С‚РµР»РµС„РѕРЅ";
-$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT92"] = "Р—Р°РєР°Р·Р°С‚СЊ";
+<br />&#149	открытые и закрытые чаты;
+<br />&#149	общий диск;
+<br />&#149	календарь для встреч с учётом планов участников;
+<br />&#149	создание групп по направлениям;
+<br />&#149	отчеты руководителю в определённое время;
+<br />&#149	бизнес-процессы и другие инструменты для совместной работы. <br /></p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT46"] = "Подробнее";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT47"] = "<span bxstyle=\"font-weight: bold;\">КОММЕРЧЕСКИЕ ТАРИФЫ БИТРИКС<span bxstyle=\"color: rgb(59, 200, 245);\">24</span></span><br />";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT48"] = "Задачи+";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT49"] = "команда";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT50"] = "компания";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT51"] = "руб.";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT52"] = "в месяц";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT53"] = "<li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\"><span bxstyle=\"font-weight: 700;\">24</span> <br />бизнес-пользователя<br /></li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\"><span bxstyle=\"font-weight: 700;\">50</span> Гб</li>
+                                <li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">CRM</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">Контакт-Центр</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">Сайты и лендинги</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">Интернет-магазин</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">Задачи и проекты</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">Администрирование</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">Офис<br /></li>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT54"] = "<li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\"><span bxstyle=\"font-weight: 700;\">6</span> <br />бизнес-пользователей</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\"><span bxstyle=\"font-weight: 700;\">50</span> Гб</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\">расширенная
+<br />CRM </li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\" bxstyle=\"\">расширенный
+<br />Контакт-
+<br />центр</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">CRM-маркетинг</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">Центр продаж</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black\" bxstyle=\"\">все возможности предыдущих тарифов<br /></li>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT55"] = "<li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">Бизнес-пользователи <span bxstyle=\"font-weight: bold;\">без ограничений
+</span></li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\"><span bxstyle=\"font-weight: bold;\">не ограничено</span></li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\"><span bxstyle=\"font-weight: bold;\">профессиональные</span><br />CRM <br />(включая Контакт-центр, CRM-маркетинг и Сквозную аналитику)<br /></li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">Сайты и лендинги</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">Интернет-магазин<br /></li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">Задачи и проекты</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">Офис<br /></li>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT56"] = "<li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\"><span bxstyle=\"font-weight: bold;\">50</span> <br />бизнес-пользователей</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\"><span bxstyle=\"font-weight: bold;\">100</span> Гб</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">расширенные возможности <br />тарифов <br />&quot;Проект&quot;<br />&quot;Задачи+&quot; <br />и &quot;CRM+&quot;</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">расширенная<br />Сквозная Аналитика</li><li class=\"landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-font-size-16 g-color-black\">расширенная<br />онлайн-<br />поддержка</li>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT57"] = "Купить";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT58"] = "<p>Прямо сейчас вы можете испытать бесплатный Битрикс24 на 12 человек</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT59"] = "хочу попробовать!";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT60"] = "<span bxstyle=\"font-weight: 700;\">Специальное предложение от партнера Битрикс24</span>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT61"] = "Внедрение тарифа<br />&quot;Задачи+&quot;";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT62"] = "Внедрение тарифа<br />&quot;CRM+&quot;";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT63"] = "Внедрение тарифа<br />&quot;Команда&quot;";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT64"] = "р.";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT65"] = "в месяц";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT66"] = "бесплатное обслуживание в течение 1 месяца<br />";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT66-1"] = "внедрение Битрикс24";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT67"] = "<span bxstyle=\"font-weight: 700;\">Наши преимущества</span>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT68"] = "Срочное внедрение";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT69"] = "Удобство работы";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT70"] = "Надёжность";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT71"] = "Высокие технологии";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT72"] = "<p>менее, чем через час</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT73"] = "<p>всё для вашего комфорта</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT74"] = "<p>консультанты на связи 24/7</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT75"] = "<p>Наша работа - ваша уверенность!</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT76"] = "<span bxstyle=\"font-weight: 700;\">Наши компетенции</span>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT77"] = "Этапы работы";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT79"] = "1. Предпроектный анализ";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT80"] = "2. Аудит";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT81"] = "3. Разработка проекта";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT82"] = "4. Внедрение";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT83"] = "<p>Анализируем специфику работы вашей компании, даём практические советы по улучшению.</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT83"] = "<p>Анализируем специфику работы вашей компании, даём практические советы по улучшению.</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT84"] = "<p>Выявляем сильные и слабые стороны будущего проекта, работаем над его совершенствованием.</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT85"] = "<p>Разрабатываем проект с учётом пожеланий клиента и специфики его бизнеса.</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT86"] = "<p>Готовый проект воплощается в жизнь, проводятся необходимые работы по внедрению и обучению сотрудников.</p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT87"] = "<span bxstyle=\"\">Интересно?</span>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT88"] = "<p><span bxstyle=\"font-weight: bold;\">Оставляйте контакты!</span></p>";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT89"] = "Оставляйте контакты";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT90"] = "Адрес";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT91"] = "телефон";
+$MESS["NOTTRANSLATE__LANDING_DEMO_B24__TEXT92"] = "Заказать";

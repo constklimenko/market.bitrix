@@ -1,9 +1,9 @@
 <?
-$MESS["SONET_C9_SUBTITLE"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ñƒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ?";
-$MESS["SONET_C9_SUBTITLE_PROJECT"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾Ñ‚ Ð¿Ñ€Ð¾ÐµÐºÑ‚?";
-$MESS["SONET_C9_DO_DEL"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS["SONET_C9_DO_DEL_PROJECT"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¾ÐµÐºÑ‚";
-$MESS["SONET_C9_DO_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
-$MESS["SONET_C9_SUCCESS"] = "Ð’Ñ‹ ÑƒÐ´Ð°Ð»Ð¸Ð»Ð¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ.";
-$MESS["SONET_C9_SUCCESS_PROJECT"] = "Ð’Ñ‹ ÑƒÐ´Ð°Ð»Ð¸Ð»Ð¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚.";
+$MESS["SONET_C9_SUBTITLE"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòó ãðóïïó?";
+$MESS["SONET_C9_SUBTITLE_PROJECT"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòîò ïðîåêò?";
+$MESS["SONET_C9_DO_DEL"] = "Óäàëèòü ãðóïïó";
+$MESS["SONET_C9_DO_DEL_PROJECT"] = "Óäàëèòü ïðîåêò";
+$MESS["SONET_C9_DO_CANCEL"] = "Îòìåíèòü";
+$MESS["SONET_C9_SUCCESS"] = "Âû óäàëèëè ãðóïïó.";
+$MESS["SONET_C9_SUCCESS_PROJECT"] = "Âû óäàëèëè ïðîåêò.";
 ?>

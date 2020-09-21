@@ -1,9 +1,9 @@
 <?
-$MESS["SBPSM_POST_ID"] = "ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SBPSM_URL"] = "URL ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SBPSM_EMAIL_TO"] = "Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
-$MESS["SBPSM_RECIPIENT_ID"] = "ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
-$MESS["SBPSM_AVATAR_SIZE"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð°Ð²Ð°Ñ‚Ð°Ñ€Ð° Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ (px)";
-$MESS["SBPSM_AVATAR_SIZE_COMMENT"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð°Ð²Ð°Ñ‚Ð°Ñ€Ð° Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ (px)";
-$MESS["SBPSM_COMMENTS_COUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
+$MESS["SBPSM_POST_ID"] = "ID ñîîáùåíèÿ";
+$MESS["SBPSM_URL"] = "URL ñîîáùåíèÿ";
+$MESS["SBPSM_EMAIL_TO"] = "Email ïîëó÷àòåëÿ óâåäîìëåíèÿ";
+$MESS["SBPSM_RECIPIENT_ID"] = "ID ïîëó÷àòåëÿ óâåäîìëåíèÿ";
+$MESS["SBPSM_AVATAR_SIZE"] = "Ðàçìåð àâàòàðà àâòîðà ñîîáùåíèÿ (px)";
+$MESS["SBPSM_AVATAR_SIZE_COMMENT"] = "Ðàçìåð àâàòàðà àâòîðà êîììåíòàðèÿ (px)";
+$MESS["SBPSM_COMMENTS_COUNT"] = "Êîëè÷åñòâî êîììåíòàðèåâ";
 ?>

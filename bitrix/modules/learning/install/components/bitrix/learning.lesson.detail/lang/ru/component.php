@@ -1,11 +1,11 @@
 <?
-$MESS["LEARNING_MODULE_NOT_FOUND"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["LEARNING_LESSON_DENIED"] = "Ð£Ñ€Ð¾Ðº Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ð¸Ð»Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð½ÐµÐ¼Ñƒ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
-$MESS["LEARNING_COURSE_DENIED"] = "ÐšÑƒÑ€Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ð¸Ð»Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð½ÐµÐ¼Ñƒ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
-$MESS["LEARNING_COURSES_LESSON_VIEW"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ ÑƒÑ€Ð¾Ðº";
-$MESS["LEARNING_COURSES_LESSON_EDIT"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑƒÑ€Ð¾Ðº";
-$MESS["LEARNING_COURSES_LESSON_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ ÑƒÑ€Ð¾Ðº";
-$MESS["LEARNING_COURSES_LESSON_DELETE_CONF"] = "Ð‘ÑƒÐ´ÐµÑ‚ ÑƒÐ´Ð°Ð»ÐµÐ½Ð° Ð²ÑÑ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ, ÑÐ²ÑÐ·Ð°Ð½Ð½Ð°Ñ Ñ ÑÑ‚Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÑŒÑŽ! ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ?";
-$MESS["LEARNING_COURSES_QUEST_S_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð²Ð¾Ð¿Ñ€Ð¾Ñ (Ð¾Ð´Ð¸Ð½Ð¾Ñ‡Ð½Ñ‹Ð¹ Ð²Ñ‹Ð±Ð¾Ñ€)";
-$MESS["LEARNING_COURSES_QUEST_M_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð²Ð¾Ð¿Ñ€Ð¾Ñ (Ð¼Ð½Ð¾Ð¶ÐµÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ Ð²Ñ‹Ð±Ð¾Ñ€)";
+$MESS["LEARNING_MODULE_NOT_FOUND"] = "Ìîäóëü îáó÷åíèÿ íå óñòàíîâëåí.";
+$MESS["LEARNING_LESSON_DENIED"] = "Óðîê íå íàéäåí èëè äîñòóï ê íåìó çàïðåùåí.";
+$MESS["LEARNING_COURSE_DENIED"] = "Êóðñ íå íàéäåí èëè äîñòóï ê íåìó çàïðåùåí.";
+$MESS["LEARNING_COURSES_LESSON_VIEW"] = "Ïðîñìîòðåòü óðîê";
+$MESS["LEARNING_COURSES_LESSON_EDIT"] = "Èçìåíèòü óðîê";
+$MESS["LEARNING_COURSES_LESSON_DELETE"] = "Óäàëèòü óðîê";
+$MESS["LEARNING_COURSES_LESSON_DELETE_CONF"] = "Áóäåò óäàëåíà âñÿ èíôîðìàöèÿ, ñâÿçàííàÿ ñ ýòîé çàïèñüþ! Ïðîäîëæèòü?";
+$MESS["LEARNING_COURSES_QUEST_S_ADD"] = "Äîáàâèòü âîïðîñ (îäèíî÷íûé âûáîð)";
+$MESS["LEARNING_COURSES_QUEST_M_ADD"] = "Äîáàâèòü âîïðîñ (ìíîæåñòâåííûé âûáîð)";
 ?>

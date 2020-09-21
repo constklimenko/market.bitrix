@@ -1,28 +1,28 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"ÐšÑ€ÐµÐ´Ð¸Ñ‚Ð¾Ð²Ð°Ð½Ð¸Ðµ", 
+		"Êðåäèòîâàíèå", 
 		"credit.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ð›Ð¸Ð·Ð¸Ð½Ð³", 
+		"Ëèçèíã", 
 		"leazing.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ð”ÐµÐ¿Ð¾Ð·Ð¸Ñ‚Ñ‹", 
+		"Äåïîçèòû", 
 		"deposits.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"ÐŸÐ»Ð°ÑÑ‚Ð¸ÐºÐ¾Ð²Ñ‹Ðµ ÐºÐ°Ñ€Ñ‚Ñ‹", 
+		"Ïëàñòèêîâûå êàðòû", 
 		"cards.php", 
 		Array(), 
 		Array(), 

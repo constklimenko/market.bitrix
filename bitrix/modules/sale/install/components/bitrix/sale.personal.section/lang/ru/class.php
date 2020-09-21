@@ -1,3 +1,3 @@
 <?
-$MESS["SPS_CHAIN_MAIN"] = "РњРѕР№ РєР°Р±РёРЅРµС‚";
+$MESS["SPS_CHAIN_MAIN"] = "Мой кабинет";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["SLLS_TEMPLATE_NO_GROUPS"] = "Ð’ Ð´Ð°Ð½Ð½Ñ‹Ð¹ Ð¼Ð¾Ð¼ÐµÐ½Ñ‚ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð´Ð»Ñ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¹ Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚";
-$MESS["SLLS_TEMPLATE_CREATE_GROUP"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS["SLLS_TEMPLATE_CREATE_GROUP_BUTTON"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS["SLLS_TEMPLATE_PAGE_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ°";
+$MESS["SLLS_TEMPLATE_NO_GROUPS"] = "Â äàííûé ìîìåíò ãðóïïû äëÿ ïóáëèêàöèé îòñóòñòâóþò";
+$MESS["SLLS_TEMPLATE_CREATE_GROUP"] = "Ñîçäàòü ãðóïïó";
+$MESS["SLLS_TEMPLATE_CREATE_GROUP_BUTTON"] = "Ñîçäàòü ãðóïïó";
+$MESS["SLLS_TEMPLATE_PAGE_TITLE"] = "Íàñòðîéêà èñòî÷íèêà";
 ?>

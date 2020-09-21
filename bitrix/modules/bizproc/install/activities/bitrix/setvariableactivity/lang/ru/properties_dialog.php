@@ -1,7 +1,7 @@
 <?
-$MESS ['BPSVA_PD_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÑƒÑÐ»Ð¾Ð²Ð¸Ðµ";
-$MESS ['BPSVA_PD_CALENDAR'] = "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ";
-$MESS ['BPSVA_PD_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
-$MESS ['BPSVA_PD_NO'] = "ÐÐµÑ‚";
-$MESS ['BPSVA_PD_YES'] = "Ð”Ð°";
+$MESS ['BPSVA_PD_ADD'] = "Äîáàâèòü óñëîâèå";
+$MESS ['BPSVA_PD_CALENDAR'] = "Êàëåíäàðü";
+$MESS ['BPSVA_PD_DELETE'] = "Óäàëèòü";
+$MESS ['BPSVA_PD_NO'] = "Íåò";
+$MESS ['BPSVA_PD_YES'] = "Äà";
 ?>

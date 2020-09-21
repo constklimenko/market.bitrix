@@ -1,6 +1,6 @@
 <?
-$MESS ['BPWC_WVC_WRONG_TMPL'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
-$MESS ['BPWC_WVC_PAGE_TITLE'] = "#NAME#: ÐŸÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ðµ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BPWC_WVC_PAGE_NAV_CHAIN'] = "ÐŸÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ðµ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BPWC_WVC_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS ['BPWC_WVC_WRONG_TMPL'] = "Øàáëîí áèçíåñ-ïðîöåññà íå íàéäåí";
+$MESS ['BPWC_WVC_PAGE_TITLE'] = "#NAME#: Ïåðåìåííûå áèçíåñ-ïðîöåññà";
+$MESS ['BPWC_WVC_PAGE_NAV_CHAIN'] = "Ïåðåìåííûå áèçíåñ-ïðîöåññà";
+$MESS ['BPWC_WVC_ERROR'] = "Îøèáêà";
 ?>

@@ -1,7 +1,7 @@
 <?
-$MESS ['BPSNMA_EMPTY_TASKASSIGNEDTO'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐžÑ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS ['BPSNMA_EMPTY_TASKNAME'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð·Ð°Ð´Ð°Ñ‡Ð¸' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS ['BPSNMA_EMPTY_TASKPRIORITY'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'Ð’Ð°Ð¶Ð½Ð¾ÑÑ‚ÑŒ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS ['BPSNMA_EMPTY_TASKTYPE'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'Ð¢Ð¸Ð¿ Ð·Ð°Ð´Ð°Ñ‡Ð¸' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS ['BPSNMA_EMPTY_TASKOWNERID'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'Ð’Ð»Ð°Ð´ÐµÐ»ÐµÑ†' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
+$MESS ['BPSNMA_EMPTY_TASKASSIGNEDTO'] = "Ñâîéñòâî 'Îòâåòñòâåííûé' íå óêàçàíî.";
+$MESS ['BPSNMA_EMPTY_TASKNAME'] = "Ñâîéñòâî 'Íàçâàíèå çàäà÷è' íå óêàçàíî.";
+$MESS ['BPSNMA_EMPTY_TASKPRIORITY'] = "Ñâîéñòâî 'Âàæíîñòü' íå óêàçàíî.";
+$MESS ['BPSNMA_EMPTY_TASKTYPE'] = "Ñâîéñòâî 'Òèï çàäà÷è' íå óêàçàíî.";
+$MESS ['BPSNMA_EMPTY_TASKOWNERID'] = "Ñâîéñòâî 'Âëàäåëåö' íå óêàçàíî.";
 ?>

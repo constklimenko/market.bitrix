@@ -1,7 +1,7 @@
 <?
-$MESS ['LEARNING_TRANSCRIPT_RESUME'] = "Ð ÐµÐ·ÑŽÐ¼Ðµ";
-$MESS ['LEARNING_TRANSCRIPT_CERTIFIFCATIONS'] = "Ð¡ÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ñ‹";
-$MESS ['LEARNING_TRANSCRIPT_NO_DATA'] = "ÐÐµÑ‚ ÑÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ð²";
-$MESS ['LEARNING_TRANSCRIPT_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['LEARNING_TRANSCRIPT_DATE'] = "Ð”Ð°Ñ‚Ð°";
+$MESS ['LEARNING_TRANSCRIPT_RESUME'] = "Ðåçþìå";
+$MESS ['LEARNING_TRANSCRIPT_CERTIFIFCATIONS'] = "Ñåðòèôèêàòû";
+$MESS ['LEARNING_TRANSCRIPT_NO_DATA'] = "Íåò ñåðòèôèêàòîâ";
+$MESS ['LEARNING_TRANSCRIPT_NAME'] = "Íàçâàíèå";
+$MESS ['LEARNING_TRANSCRIPT_DATE'] = "Äàòà";
 ?>

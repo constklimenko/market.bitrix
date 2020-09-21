@@ -1,5 +1,5 @@
 <?
-$MESS["SEARCH_NAME"] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
-$MESS["SEARCH_VALUE"] = "Ð¡Ð¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ð¾Ðµ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
-$MESS["SEARCH_SITE_ID"] = "ID ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["SEARCH_NAME"] = "Èìÿ ïîëÿ ââîäà";
+$MESS["SEARCH_VALUE"] = "Ñîäåðæèìîå ïîëÿ ââîäà";
+$MESS["SEARCH_SITE_ID"] = "ID ñàéòà";
 ?>

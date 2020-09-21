@@ -1,16 +1,16 @@
 <?
-$MESS["BLOG_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["BLOG_BLOG_BLOG_MES_DELED"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¾";
-$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ðµ ÑÑ‚Ð¾Ð³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BLOG_BLOG_BLOG_FRIENDS_ONLY"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ñ‡Ñ‚ÐµÐ½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹.";
-$MESS["BLOG_BLOG_BLOG_NO_BLOG"] = "Ð‘Ð»Ð¾Ð³ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
-$MESS["MESSAGE_COUNT"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "Ð‘Ð»Ð¾Ð³Ð¸ Ð½Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹ Ð´Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
-$MESS["BLOG_BLOG_BLOG_MES_HIDED"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐºÑ€Ñ‹Ñ‚Ð¾";
-$MESS["BLOG_BLOG_BLOG_MES_HIDE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° cÐºÑ€Ñ‹Ñ‚Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BLOG_BLOG_BLOG_MES_HIDE_NO_RIGHTS"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° ÑÐºÑ€Ñ‹Ñ‚Ð¸Ðµ ÑÑ‚Ð¾Ð³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BLOG_BLOG_SESSID_WRONG"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
-$MESS["BLOG_BLOG_GROUP"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°:";
-$MESS["BLOG_BLOG_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ:";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
+$MESS["BLOG_BLOG_BLOG_MES_DELED"] = "Ñîîáùåíèå óäàëåíî";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "Îøèáêà óäàëåíèÿ ñîîáùåíèÿ";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "Ó âàñ íåò ïðàâ íà óäàëåíèå ýòîãî ñîîáùåíèÿ";
+$MESS["BLOG_BLOG_BLOG_FRIENDS_ONLY"] = "Íåäîñòàòî÷íî ïðàâ äëÿ ÷òåíèÿ ñîîáùåíèé.";
+$MESS["BLOG_BLOG_BLOG_NO_BLOG"] = "Áëîã íå íàéäåí";
+$MESS["MESSAGE_COUNT"] = "Ñîîáùåíèÿ";
+$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "Áëîãè íå äîñòóïíû äëÿ äàííîãî ïîëüçîâàòåëÿ";
+$MESS["BLOG_BLOG_BLOG_MES_HIDED"] = "Ñîîáùåíèå ñêðûòî";
+$MESS["BLOG_BLOG_BLOG_MES_HIDE_ERROR"] = "Îøèáêà cêðûòèÿ ñîîáùåíèÿ";
+$MESS["BLOG_BLOG_BLOG_MES_HIDE_NO_RIGHTS"] = "Ó âàñ íåò ïðàâ íà ñêðûòèå ýòîãî ñîîáùåíèÿ";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "Âàøà ñåññèÿ èñòåêëà, ïîæàëóéñòà, ïîâòîðèòå äåéñòâèå";
+$MESS["BLOG_BLOG_GROUP"] = "Ãðóïïà:";
+$MESS["BLOG_BLOG_USER"] = "Ïîëüçîâàòåëü:";
 ?>

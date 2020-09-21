@@ -1,5 +1,5 @@
 <?
-$MESS ['BX_WS_NAME'] = "SOAP&WSDL ÑÐµÑ€Ð²ÐµÑ€";
-$MESS ['BX_WS_DESCRIPTION'] = "Ð ÐµÐ°Ð»Ð¸Ð·ÑƒÐµÑ‚ EndPoint Ð´Ð»Ñ ÑÐºÐ¾Ð½Ñ„Ð¸Ð³ÑƒÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð³Ð¾ WebService Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ SOAP/WSDL";
-$MESS ['BX_WS'] = "Ð’ÐµÐ±-Ð¡ÐµÑ€Ð²Ð¸Ñ";
+$MESS ['BX_WS_NAME'] = "SOAP&WSDL ñåðâåð";
+$MESS ['BX_WS_DESCRIPTION'] = "Ðåàëèçóåò EndPoint äëÿ ñêîíôèãóðèðîâàííîãî WebService íà îñíîâå SOAP/WSDL";
+$MESS ['BX_WS'] = "Âåá-Ñåðâèñ";
 ?>

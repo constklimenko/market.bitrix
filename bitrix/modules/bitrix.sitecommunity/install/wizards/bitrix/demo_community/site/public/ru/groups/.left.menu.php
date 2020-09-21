@@ -1,14 +1,14 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"ÐŸÐ¾Ð¸ÑÐº Ð³Ñ€ÑƒÐ¿Ð¿", 
+		"Ïîèñê ãðóïï", 
 		"#SITE_DIR#groups/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"ÐœÐ¾Ð¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹", 
+		"Ìîè ãðóïïû", 
 		"#SITE_DIR#groups/group/", 
 		Array(), 
 		Array(), 

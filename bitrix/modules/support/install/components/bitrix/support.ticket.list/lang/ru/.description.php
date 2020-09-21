@@ -1,6 +1,6 @@
 <?
-$MESS["SUP_LIST_DEFAULT_TEMPLATE_NAME"]="Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¹";
-$MESS["SUP_LIST_DEFAULT_TEMPLATE_DESCRIPTION"]="Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€ Ð¸ ÑÐ¿Ð¸ÑÐ¾Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¹ Ðº Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐµ";
-$MESS["SUPPORT_SERVICE"]="Ð¢ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ°";
-$MESS["MAIN_SERVICES"]="Ð¡ÐµÑ€Ð²Ð¸ÑÑ‹";
+$MESS["SUP_LIST_DEFAULT_TEMPLATE_NAME"]="Ñïèñîê îáðàùåíèé";
+$MESS["SUP_LIST_DEFAULT_TEMPLATE_DESCRIPTION"]="Âûâîäèò ôèëüòð è ñïèñîê îáðàùåíèé ê òåõïîääåðæêå";
+$MESS["SUPPORT_SERVICE"]="Òåõïîääåðæêà";
+$MESS["MAIN_SERVICES"]="Ñåðâèñû";
 ?>

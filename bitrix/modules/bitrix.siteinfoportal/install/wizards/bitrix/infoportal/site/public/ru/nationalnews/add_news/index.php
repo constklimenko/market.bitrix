@@ -1,11 +1,11 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ð¾ÑÑ‚ÑŒ");
+$APPLICATION->SetTitle("Äîáàâèòü íîâîñòü");
 ?><?$APPLICATION->IncludeComponent("bitrix:iblock.element.add", ".default", array(
 	"NAV_ON_PAGE" => "10",
 	"USE_CAPTCHA" => "N",
-	"USER_MESSAGE_ADD" => "Ð’Ð°ÑˆÐ° Ð½Ð¾Ð²Ð¾ÑÑ‚ÑŒ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð°. ÐŸÐ¾ÑÐ»Ðµ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð°, Ð±ÑƒÐ´ÐµÑ‚ Ð¿Ñ€Ð¸Ð½ÑÑ‚Ð¾ Ñ€ÐµÑˆÐµÐ½Ð¸Ðµ Ð¾ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ Ð²Ð°ÑˆÐµÐ¹ Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸.",
-	"USER_MESSAGE_EDIT" => "Ð’Ð°ÑˆÐ° Ð½Ð¾Ð²Ð¾ÑÑ‚ÑŒ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð°",
+	"USER_MESSAGE_ADD" => "Âàøà íîâîñòü äîáàâëåíà. Ïîñëå ïðîâåðêè ìîäåðàòîðà, áóäåò ïðèíÿòî ðåøåíèå î ïóáëèêàöèè íà ñàéòå âàøåé íîâîñòè.",
+	"USER_MESSAGE_EDIT" => "Âàøà íîâîñòü ñîõðàíåíà",
 	"DEFAULT_INPUT_SIZE" => "30",
 	"RESIZE_IMAGES" => "N",
 	"IBLOCK_TYPE" => "news",
@@ -45,13 +45,13 @@ $APPLICATION->SetTitle("Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ð¾ÑÑ‚ÑŒ");
 	"CUSTOM_TITLE_DATE_ACTIVE_FROM" => "",
 	"CUSTOM_TITLE_DATE_ACTIVE_TO" => "",
 	"CUSTOM_TITLE_IBLOCK_SECTION" => "",
-	"CUSTOM_TITLE_PREVIEW_TEXT" => "Ð¢ÐµÐºÑÑ‚",
-	"CUSTOM_TITLE_PREVIEW_PICTURE" => "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ",
+	"CUSTOM_TITLE_PREVIEW_TEXT" => "Òåêñò",
+	"CUSTOM_TITLE_PREVIEW_PICTURE" => "Èçîáðàæåíèå",
 	"CUSTOM_TITLE_DETAIL_TEXT" => "",
 	"CUSTOM_TITLE_DETAIL_PICTURE" => "",
 	"SEND_EMAIL" => "Y",
 	"EMAIL_TO" => "#EMAIL_TO#",
-	"SUBJECT" => "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð° Ð½Ð¾Ð²Ð°Ñ Ð½Ð°Ñ€Ð¾Ð´Ð½Ð°Ñ Ð½Ð¾Ð²Ð¾ÑÑ‚ÑŒ",
+	"SUBJECT" => "Äîáàâëåíà íîâàÿ íàðîäíàÿ íîâîñòü",
 	"EVENT_MESSAGE_ID" => array(),
 	"AJAX_OPTION_ADDITIONAL" => ""
 	),

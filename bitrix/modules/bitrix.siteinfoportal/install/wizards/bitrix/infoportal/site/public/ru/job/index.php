@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ð Ð°Ð±Ð¾Ñ‚Ð°");
+$APPLICATION->SetTitle("Ðàáîòà");
 ?>
 <table> 
   <tbody>
@@ -24,7 +24,7 @@ $APPLICATION->SetTitle("Ð Ð°Ð±Ð¾Ñ‚Ð°");
 	"CACHE_TIME" => "36000000",
 	"CACHE_GROUPS" => "N",
 	"ADD_SECTIONS_CHAIN" => "Y",
-	"IBLOCK_TITLE_TEXT" => "Ð’Ð°ÐºÐ°Ð½ÑÐ¸Ð¸"
+	"IBLOCK_TITLE_TEXT" => "Âàêàíñèè"
 	),
 	false
 );?> </td> <td><?$APPLICATION->IncludeComponent("bitrix:catalog.section.list", "job", array(
@@ -47,7 +47,7 @@ $APPLICATION->SetTitle("Ð Ð°Ð±Ð¾Ñ‚Ð°");
 	"CACHE_TIME" => "36000000",
 	"CACHE_GROUPS" => "N",
 	"ADD_SECTIONS_CHAIN" => "Y",
-	"IBLOCK_TITLE_TEXT" => "Ð ÐµÐ·ÑŽÐ¼Ðµ"
+	"IBLOCK_TITLE_TEXT" => "Ðåçþìå"
 	),
 	false
 );?></td> </tr>

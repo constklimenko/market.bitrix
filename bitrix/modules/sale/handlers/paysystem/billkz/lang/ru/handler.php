@@ -1,4 +1,4 @@
 <?
-$MESS['SALE_HPS_BILL_KZ_BANK_CITY'] = 'ÐÑÑ‚Ð°Ð½Ð°';
-$MESS['SALE_HPS_BILL_KZ_BANK_ADDRESS'] = 'ÐšÐ°Ð·Ð°Ñ…ÑÑ‚Ð°Ð½';
-$MESS['SALE_HPS_BILL_KZ_BUYER_COMPANY_ADDRESS'] = 'ÐÑÑ‚Ð°Ð½Ð°';
+$MESS['SALE_HPS_BILL_KZ_BANK_CITY'] = 'Àñòàíà';
+$MESS['SALE_HPS_BILL_KZ_BANK_ADDRESS'] = 'Êàçàõñòàí';
+$MESS['SALE_HPS_BILL_KZ_BUYER_COMPANY_ADDRESS'] = 'Àñòàíà';

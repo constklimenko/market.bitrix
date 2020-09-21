@@ -1,3 +1,3 @@
 <?
-$MESS ['BOOKMARK_HANDLER_VK'] = "Ð’ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ";
+$MESS ['BOOKMARK_HANDLER_VK'] = "ÂÊîíòàêòå";
 ?>

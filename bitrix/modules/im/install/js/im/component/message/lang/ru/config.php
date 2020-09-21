@@ -1,5 +1,5 @@
 <?
-$MESS["IM_MESSENGER_MESSAGE_USER_ANONYM"] = "ÐÐ½Ð¾Ð½Ð¸Ð¼";
-$MESS["IM_MESSENGER_MESSAGE_FILE_DELETED"] = "Ð¤Ð°Ð¹Ð» Ð±Ñ‹Ð» ÑƒÐ´Ð°Ð»ÐµÐ½";
-$MESS["IM_MESSENGER_MESSAGE_MENU_TITLE"] = "ÐšÐ»Ð¸ÐºÐ½Ð¸Ñ‚Ðµ Ð´Ð»Ñ Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚Ð¸Ñ Ð¼ÐµÐ½ÑŽ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ð¹ Ð¸Ð»Ð¸ ÐºÐ»Ð¸ÐºÐ½Ð¸Ñ‚Ðµ ÑƒÐ´ÐµÑ€Ð¶Ð¸Ð²Ð°Ñ #SHORTCUT# Ð´Ð»Ñ Ñ†Ð¸Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["IM_MESSENGER_MESSAGE_RETRY_TITLE"] = "ÐšÐ»Ð¸ÐºÐ½Ð¸Ñ‚Ðµ Ð´Ð»Ñ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð½Ð¾Ð¹ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["IM_MESSENGER_MESSAGE_USER_ANONYM"] = "Àíîíèì";
+$MESS["IM_MESSENGER_MESSAGE_FILE_DELETED"] = "Ôàéë áûë óäàëåí";
+$MESS["IM_MESSENGER_MESSAGE_MENU_TITLE"] = "Êëèêíèòå äëÿ îòêðûòèÿ ìåíþ äåéñòâèé èëè êëèêíèòå óäåðæèâàÿ #SHORTCUT# äëÿ öèòèðîâàíèÿ ñîîáùåíèÿ";
+$MESS["IM_MESSENGER_MESSAGE_RETRY_TITLE"] = "Êëèêíèòå äëÿ ïîâòîðíîé îòïðàâêè ñîîáùåíèÿ";

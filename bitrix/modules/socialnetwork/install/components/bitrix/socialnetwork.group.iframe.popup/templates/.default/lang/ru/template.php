@@ -1,7 +1,7 @@
 <?php
-$MESS["SONET_GROUP_NAME"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° #GROUP_NAME#";
-$MESS["SONET_GROUP_TITLE_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ #GROUP_NAME#";
-$MESS["SONET_GROUP_TITLE_FEATURES"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»Ð° Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ #GROUP_NAME#";
-$MESS["SONET_GROUP_TITLE_INVITE"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑÐ¸Ñ‚ÑŒ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ #GROUP_NAME#";
-$MESS["SONET_GROUP_TITLE_CREATE"] = "ÐÐ¾Ð²Ð°Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ð°";
+$MESS["SONET_GROUP_NAME"] = "Ãðóïïà #GROUP_NAME#";
+$MESS["SONET_GROUP_TITLE_EDIT"] = "Ðåäàêòèðîâàíèå ãðóïïû #GROUP_NAME#";
+$MESS["SONET_GROUP_TITLE_FEATURES"] = "Íàñòðîéêà ôóíêöèîíàëà ãðóïïû #GROUP_NAME#";
+$MESS["SONET_GROUP_TITLE_INVITE"] = "Ïðèãëàñèòü â ãðóïïó #GROUP_NAME#";
+$MESS["SONET_GROUP_TITLE_CREATE"] = "Íîâàÿ ãðóïïà";
 ?>

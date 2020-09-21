@@ -1,5 +1,5 @@
 <?php
-$MESS["MENU_MARKETPLACE_ALL"] = "Ð’ÑÐµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
-$MESS["MENU_MARKETPLACE_INSTALLED"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ";
-$MESS["MENU_MARKETPLACE_HOOK"] = "Ð’ÐµÐ±Ñ…ÑƒÐºÐ¸";
-$MESS["MENU_MARKETPLACE_LOCAL"] = "ÐœÐ¾Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["MENU_MARKETPLACE_ALL"] = "Âñå ïðèëîæåíèÿ";
+$MESS["MENU_MARKETPLACE_INSTALLED"] = "Óñòàíîâëåííûå";
+$MESS["MENU_MARKETPLACE_HOOK"] = "Âåáõóêè";
+$MESS["MENU_MARKETPLACE_LOCAL"] = "Ìîè ïðèëîæåíèÿ";

@@ -1,4 +1,4 @@
 <?
-$MESS ['GD_SONET_GROUP_TAGS_TITLE'] = "Ð¢ÐµÐ³Ð¸";
-$MESS ['GD_SONET_GROUP_TAGS_FEATURE_INACTIVE'] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½";
+$MESS ['GD_SONET_GROUP_TAGS_TITLE'] = "Òåãè";
+$MESS ['GD_SONET_GROUP_TAGS_FEATURE_INACTIVE'] = "Ôóíêöèîíàë îòêëþ÷åí";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS ["EVENT_CALENDAR"] = "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
-$MESS ['EVENT_CALENDAR_LIVE_FEED_VIEW'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ñ";
-$MESS ['EVENT_CALENDAR_LIVE_FEED_VIEW_DESCRIPTION'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ñ Ð² \"Ð–Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ðµ\" ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸";
+$MESS ["EVENT_CALENDAR"] = "Êàëåíäàðü ñîáûòèé";
+$MESS ['EVENT_CALENDAR_LIVE_FEED_VIEW'] = "Ïðîñìîòð ñîáûòèÿ êàëåíäàðÿ";
+$MESS ['EVENT_CALENDAR_LIVE_FEED_VIEW_DESCRIPTION'] = "Ïðîñìîòð ñîáûòèÿ êàëåíäàðÿ â \"Æèâîé ëåíòå\" ñîöèàëüíîé ñåòè";
 ?>

@@ -1,7 +1,7 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"РљРѕРЅС‚Р°РєС‚С‹", 
+		"Контакты", 
 		"./", 
 		Array(), 
 		Array(), 

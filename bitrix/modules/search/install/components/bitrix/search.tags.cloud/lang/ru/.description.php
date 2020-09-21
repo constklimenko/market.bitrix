@@ -1,5 +1,5 @@
 <?
-$MESS ['CD_BSTC_NAME'] = "ÐžÐ±Ð»Ð°ÐºÐ¾ Ñ‚ÐµÐ³Ð¾Ð²";
-$MESS ['CD_BSTC_DESCRIPTION'] = "Ð’Ñ‹Ð²Ð¾Ð´ ÐºÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ñ… ÑÐ»Ð¾Ð² (Ð¾Ð±Ð»Ð°ÐºÐ° Ñ‚ÐµÐ³Ð¾Ð²).";
-$MESS ['CD_BSTC_SEARCH'] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS ['CD_BSTC_NAME'] = "Îáëàêî òåãîâ";
+$MESS ['CD_BSTC_DESCRIPTION'] = "Âûâîä êëþ÷åâûõ ñëîâ (îáëàêà òåãîâ).";
+$MESS ['CD_BSTC_SEARCH'] = "Ïîèñê";
 ?>

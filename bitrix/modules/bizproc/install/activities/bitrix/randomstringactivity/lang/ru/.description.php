@@ -1,5 +1,5 @@
 <?
-$MESS ['BPRNDSA_DESCR_NAME'] = "Ð¡Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÐºÐ¾Ð´";
-$MESS ['BPRNDSA_DESCR_DESCR'] = "Ð¡Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ»ÑƒÑ‡Ð°Ð¹Ð½ÑƒÑŽ ÑÑ‚Ñ€Ð¾ÐºÑƒ";
-$MESS ['BPRNDSA_DESCR_RESULT_STRING'] = "ÐšÐ¾Ð´";
+$MESS ['BPRNDSA_DESCR_NAME'] = "Ñãåíåðèðîâàòü êîä";
+$MESS ['BPRNDSA_DESCR_DESCR'] = "Ñãåíåðèðîâàòü ñëó÷àéíóþ ñòðîêó";
+$MESS ['BPRNDSA_DESCR_RESULT_STRING'] = "Êîä";
 ?>

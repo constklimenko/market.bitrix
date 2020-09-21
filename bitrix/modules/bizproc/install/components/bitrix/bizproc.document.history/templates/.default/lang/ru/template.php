@@ -1,6 +1,6 @@
 <?
-$MESS ['BPADH_AUTHOR'] = "ÐÐ²Ñ‚Ð¾Ñ€";
-$MESS ['BPADH_MODIFIED'] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½";
-$MESS ['BPADH_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['BPADH_ALL'] = "Ð’ÑÐµÐ³Ð¾";
+$MESS ['BPADH_AUTHOR'] = "Àâòîð";
+$MESS ['BPADH_MODIFIED'] = "Èçìåíåí";
+$MESS ['BPADH_NAME'] = "Íàçâàíèå";
+$MESS ['BPADH_ALL'] = "Âñåãî";
 ?>

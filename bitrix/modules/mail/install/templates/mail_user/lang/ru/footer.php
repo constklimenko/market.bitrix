@@ -1,5 +1,5 @@
 <?
-$MESS["MAIL_USER_CHARGED"] = "Ð—Ð°Ñ€ÑÐ¶ÐµÐ½Ð¾";
+$MESS["MAIL_USER_CHARGED"] = "Çàðÿæåíî";
 $MESS["MAIL_USER_BITRIX24_IMAGEFILE"] = "bitrix-logo.gif";
-$MESS["MAIL_USER_BITRIX24_IMAGEFILE_ALT"] = "Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
+$MESS["MAIL_USER_BITRIX24_IMAGEFILE_ALT"] = "Áèòðèêñ24";
 ?>

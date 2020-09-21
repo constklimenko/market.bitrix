@@ -1,6 +1,6 @@
 <?
-$MESS ['LEARNING_PAGE_RESULT_COUNT'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð², Ð²Ñ‹Ð²Ð¾Ð´Ð¸Ð¼Ñ‹Ñ… Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ";
-$MESS ['CP_BSP_DISPLAY_TOP_PAGER'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ð½Ð°Ð´ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°Ð¼Ð¸";
-$MESS ['CP_BSP_DISPLAY_BOTTOM_PAGER'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°Ð¼Ð¸";
-$MESS ['SEARCH_PAGER_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ð¾ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ‡Ð½Ð¾Ð¹ Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¸";
+$MESS ['LEARNING_PAGE_RESULT_COUNT'] = "Êîëè÷åñòâî ðåçóëüòàòîâ, âûâîäèìûõ íà ñòðàíèöó";
+$MESS ['CP_BSP_DISPLAY_TOP_PAGER'] = "Âûâîäèòü íàä ðåçóëüòàòàìè";
+$MESS ['CP_BSP_DISPLAY_BOTTOM_PAGER'] = "Âûâîäèòü ïîä ðåçóëüòàòàìè";
+$MESS ['SEARCH_PAGER_SETTINGS'] = "Íàñòðîéêè ïîñòðàíè÷íîé íàâèãàöèè";
 ?>

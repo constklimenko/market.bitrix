@@ -1,11 +1,11 @@
 <?
-$MESS["BLOG_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["IDEA_POST_UNSUBSCRIBE"] = "ÐžÑ‚Ð¿Ð¸ÑÐ°Ñ‚ÑŒÑÑ";
-$MESS["IDEA_SUBSCRIBE_ALL_SUBSCRIBED"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° Ð½Ð° Ð²ÑÐµ Ð½Ð¾Ð²Ñ‹Ðµ Ð¸Ð´ÐµÐ¸ Ð¸ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº Ð½Ð¸Ð¼";
-$MESS["IDEA_SUBSCRIBE_ALL_IDEA_SUBSCRIBED"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° Ð½Ð° Ð²ÑÐµ Ð½Ð¾Ð²Ñ‹Ðµ Ð¸Ð´ÐµÐ¸";
-$MESS["IDEA_SUBSCRIBE_NOT_FOUND"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ñ";
-$MESS["IDEA_SUBSCRIBE_NOT_FOUND_2"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ñ Ð´Ð»Ñ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ #CODE#";
-$MESS["IDEA_SUBSCRIBE_NEW_IDEAS"] = "ÐÐ¾Ð²Ñ‹Ðµ Ð¸Ð´ÐµÐ¸";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
+$MESS["IDEA_POST_UNSUBSCRIBE"] = "Îòïèñàòüñÿ";
+$MESS["IDEA_SUBSCRIBE_ALL_SUBSCRIBED"] = "Ïîäïèñêà íà âñå íîâûå èäåè è êîììåíòàðèè ê íèì";
+$MESS["IDEA_SUBSCRIBE_ALL_IDEA_SUBSCRIBED"] = "Ïîäïèñêà íà âñå íîâûå èäåè";
+$MESS["IDEA_SUBSCRIBE_NOT_FOUND"] = "Íå íàéäåíî ñîîòâåòñòâèÿ";
+$MESS["IDEA_SUBSCRIBE_NOT_FOUND_2"] = "Íå íàéäåíî ñîîòâåòñòâèÿ äëÿ êàòåãîðèè #CODE#";
+$MESS["IDEA_SUBSCRIBE_NEW_IDEAS"] = "Íîâûå èäåè";
 
 
 

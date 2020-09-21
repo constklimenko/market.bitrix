@@ -1,10 +1,10 @@
 <?php
-$MESS['SNBPA_EMPTY_POST_MESSAGE'] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ.';
-$MESS['SNBPA_EMPTY_OWNER'] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð°Ð²Ñ‚Ð¾Ñ€.';
-$MESS['SNBPA_EMPTY_USERS'] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ð¸.';
-$MESS['SNBPA_BLOG_NAME'] = 'Ð‘Ð»Ð¾Ð³ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
-$MESS["SNBPA_OWNER_ID"] = "ÐÐ²Ñ‚Ð¾Ñ€";
-$MESS["SNBPA_USERS_TO"] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ð¸";
-$MESS["SNBPA_POST_TITLE"] = "Ð¢ÐµÐ¼Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SNBPA_POST_MESSAGE"] = "Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SNBPA_POST_SITE"] = "Ð¦ÐµÐ»ÐµÐ²Ð¾Ð¹ ÑÐ°Ð¹Ñ‚";
+$MESS['SNBPA_EMPTY_POST_MESSAGE'] = 'Íå óêàçàí òåêñò ñîîáùåíèÿ.';
+$MESS['SNBPA_EMPTY_OWNER'] = 'Íå óêàçàí àâòîð.';
+$MESS['SNBPA_EMPTY_USERS'] = 'Íå óêàçàíû ïîëó÷àòåëè.';
+$MESS['SNBPA_BLOG_NAME'] = 'Áëîã ïîëüçîâàòåëÿ';
+$MESS["SNBPA_OWNER_ID"] = "Àâòîð";
+$MESS["SNBPA_USERS_TO"] = "Ïîëó÷àòåëè";
+$MESS["SNBPA_POST_TITLE"] = "Òåìà ñîîáùåíèÿ";
+$MESS["SNBPA_POST_MESSAGE"] = "Òåêñò ñîîáùåíèÿ";
+$MESS["SNBPA_POST_SITE"] = "Öåëåâîé ñàéò";

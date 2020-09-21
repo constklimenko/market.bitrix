@@ -1,5 +1,5 @@
 <?
-$MESS ['BPDDA_DESCR_DESCR'] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS ['BPDDA_DESCR_NAME'] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS ['BPDDA_DESCR_ROBOT_TITLE'] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS ['BPDDA_DESCR_DESCR'] = "Óäàëåíèå äîêóìåíòà";
+$MESS ['BPDDA_DESCR_NAME'] = "Óäàëåíèå äîêóìåíòà";
+$MESS ['BPDDA_DESCR_ROBOT_TITLE'] = "Óäàëåíèå äîêóìåíòà";
 ?>

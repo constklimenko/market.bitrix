@@ -1,16 +1,16 @@
 <?
-$MESS ['SUPPORT_MAIL_DEF_REGISTERED'] = "РћРїСЂРµРґРµР»СЏС‚СЊ РїРѕ EMail СЂР°РЅРµРµ Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°РЅРЅРѕРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ:";
-$MESS ['SUPPORT_MAIL_DEF_REGISTERED_Y'] = "РґР°, РїС‹С‚Р°С‚СЊСЃСЏ РїСЂРёРІСЏР·Р°С‚СЊ РѕР±СЂР°С‰РµРЅРёРµ Рє РїРѕР»СЊР·РѕРІР°С‚РµР»СЋ";
-$MESS ['SUPPORT_MAIL_DEF_REGISTERED_N'] = "РЅРµС‚, РІСЃРµРіРґР° СЃРѕР·РґР°РІР°С‚СЊ Р°РЅРѕРЅРёРјРЅС‹Рµ РѕР±СЂР°С‰РµРЅРёСЏ";
-$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_TICKET'] = "Р”РѕР±Р°РІР»СЏС‚СЊ РЅРѕРІРѕРµ СЃРѕРѕР±С‰РµРЅРёРµ РІ СѓР¶Рµ РѕС‚РєСЂС‹С‚РѕРµ РѕР±СЂР°С‰РµРЅРёРµ:";
-$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_EMAIL'] = "С‚РѕР»СЊРєРѕ СЃ EMail Р°РґСЂРµСЃР° СЃРѕР·РґР°С‚РµР»СЏ РѕР±СЂР°С‰РµРЅРёСЏ user@domain.com";
-$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_DOMAIN'] = "СЃ Р»СЋР±РѕРіРѕ Р°РґСЂРµСЃР° РёР· РґРѕРјРµРЅР° СЃРѕР·РґР°С‚РµР»СЏ РѕР±СЂР°С‰РµРЅРёСЏ (*@domain.com)";
-$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_ANY'] = "СЃ Р»СЋР±РѕРіРѕ Р°РґСЂРµСЃР° (РїСЂРѕРІРµСЂСЏРµС‚СЃСЏ С‚РѕР»СЊРєРѕ С‚РµРјР° СЃРѕРѕР±С‰РµРЅРёСЏ)";
-$MESS ['SUPPORT_MAIL_SUBJECT_TEMPLATE'] = "РЁР°Р±Р»РѕРЅС‹ С‚РµРјС‹ РґР»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ РѕС‚РІРµС‚Р° РЅР° РѕР±СЂР°С‰РµРЅРёРµ:";
-$MESS ['SUPPORT_MAIL_SUBJECT_TEMPLATE_NOTES'] = "(СЂРµРіСѓР»СЏСЂРЅС‹Рµ РІС‹СЂР°Р¶РµРЅРёСЏ, РІ РїРµСЂРІС‹С… СЃРєРѕР±РєР°С… РґРѕР»Р¶РµРЅ Р±С‹С‚СЊ РЅРѕРјРµСЂ РѕР±СЂР°С‰РµРЅРёСЏ)";
-$MESS ['SUPPORT_MAIL_ADD_TO_CATEGORY'] = "РџСЂРёРІСЏР·С‹РІР°С‚СЊ РЅРѕРІРѕРµ РѕР±СЂР°С‰РµРЅРёРµ Рє РєР°С‚РµРіРѕСЂРёРё:";
-$MESS ['SUPPORT_MAIL_HIDDEN'] = "РєР°Рє СЃРєСЂС‹С‚РѕРµ (С‚РѕР»СЊРєРѕ РґР»СЏ СЃРѕС‚СЂСѓРґРЅРёРєРѕРІ С‚РµС…РїРѕРґРґРµСЂР¶РєРё)";
-$MESS ['SUPPORT_MAIL_ADD_WITH_CRITICALITY'] = "РќР°Р·РЅР°С‡РёС‚СЊ РЅРѕРІРѕРјСѓ РѕР±СЂР°С‰РµРЅРёСЋ РєСЂРёС‚РёС‡РЅРѕСЃС‚СЊ:";
-$MESS ['SUPPORT_MAIL_CONNECT_TICKET_WITH_SITE'] = "РџСЂРёРІСЏР·Р°С‚СЊ РЅРѕРІРѕРµ РѕР±СЂР°С‰РµРЅРёРµ Рє СЃР°Р№С‚Сѓ:";
-$MESS ['SUPPORT_MAIL_MAILBOX'] = "< РїРѕС‡С‚РѕРІРѕРіРѕ СЏС‰РёРєР° >";
+$MESS ['SUPPORT_MAIL_DEF_REGISTERED'] = "Определять по EMail ранее зарегистрированного пользователя:";
+$MESS ['SUPPORT_MAIL_DEF_REGISTERED_Y'] = "да, пытаться привязать обращение к пользователю";
+$MESS ['SUPPORT_MAIL_DEF_REGISTERED_N'] = "нет, всегда создавать анонимные обращения";
+$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_TICKET'] = "Добавлять новое сообщение в уже открытое обращение:";
+$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_EMAIL'] = "только с EMail адреса создателя обращения user@domain.com";
+$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_DOMAIN'] = "с любого адреса из домена создателя обращения (*@domain.com)";
+$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_ANY'] = "с любого адреса (проверяется только тема сообщения)";
+$MESS ['SUPPORT_MAIL_SUBJECT_TEMPLATE'] = "Шаблоны темы для определения ответа на обращение:";
+$MESS ['SUPPORT_MAIL_SUBJECT_TEMPLATE_NOTES'] = "(регулярные выражения, в первых скобках должен быть номер обращения)";
+$MESS ['SUPPORT_MAIL_ADD_TO_CATEGORY'] = "Привязывать новое обращение к категории:";
+$MESS ['SUPPORT_MAIL_HIDDEN'] = "как скрытое (только для сотрудников техподдержки)";
+$MESS ['SUPPORT_MAIL_ADD_WITH_CRITICALITY'] = "Назначить новому обращению критичность:";
+$MESS ['SUPPORT_MAIL_CONNECT_TICKET_WITH_SITE'] = "Привязать новое обращение к сайту:";
+$MESS ['SUPPORT_MAIL_MAILBOX'] = "< почтового ящика >";
 ?>

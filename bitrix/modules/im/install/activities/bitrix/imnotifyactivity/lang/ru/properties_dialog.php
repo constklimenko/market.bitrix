@@ -1,11 +1,11 @@
 <?
-$MESS ['BPIMNA_PD_FROM'] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
-$MESS ['BPIMNA_PD_TO'] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
-$MESS ['BPIMNA_PD_MESSAGE'] = "Ð¢ÐµÐºÑÑ‚ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ Ð´Ð»Ñ ÑÐ°Ð¹Ñ‚Ð°";
-$MESS ['BPIMNA_PD_MESSAGE_BBCODE'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ BBCode";
-$MESS ['BPIMNA_PD_MESSAGE_OUT'] = "Ð¢ÐµÐºÑÑ‚ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ Ð´Ð»Ñ email/jabber";
-$MESS ['BPIMNA_PD_MESSAGE_OUT_EMPTY'] = "ÐµÑÐ»Ð¸ Ð¿Ð¾Ð»Ðµ Ð¿ÑƒÑÑ‚Ð¾Ðµ, Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð±ÐµÑ€ÐµÑ‚ÑÑ Ð¸Ð· Ñ‚ÐµÐºÑÑ‚Ð° Ð´Ð»Ñ ÑÐ°Ð¹Ñ‚Ð°";
-$MESS ['BPIMNA_PD_NOTIFY_TYPE'] = "Ð¢Ð¸Ð¿ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
-$MESS ['BPIMNA_PD_NOTIFY_TYPE_FROM'] = "ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ðµ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ðµ (Ñ Ð°Ð²Ð°Ñ‚Ð°Ñ€Ð¾Ð¼)";
-$MESS ['BPIMNA_PD_NOTIFY_TYPE_SYSTEM'] = "Ð£Ð²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ðµ Ð¾Ñ‚ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹ (Ð±ÐµÐ· Ð°Ð²Ð°Ñ‚Ð°Ñ€Ð°)";
+$MESS ['BPIMNA_PD_FROM'] = "Ïîëó÷àòåëü óâåäîìëåíèÿ";
+$MESS ['BPIMNA_PD_TO'] = "Îòïðàâèòåëü óâåäîìëåíèÿ";
+$MESS ['BPIMNA_PD_MESSAGE'] = "Òåêñò óâåäîìëåíèÿ äëÿ ñàéòà";
+$MESS ['BPIMNA_PD_MESSAGE_BBCODE'] = "Äîñòóïíî ôîðìàòèðîâàíèå BBCode";
+$MESS ['BPIMNA_PD_MESSAGE_OUT'] = "Òåêñò óâåäîìëåíèÿ äëÿ email/jabber";
+$MESS ['BPIMNA_PD_MESSAGE_OUT_EMPTY'] = "åñëè ïîëå ïóñòîå, çíà÷åíèå áåðåòñÿ èç òåêñòà äëÿ ñàéòà";
+$MESS ['BPIMNA_PD_NOTIFY_TYPE'] = "Òèï óâåäîìëåíèÿ";
+$MESS ['BPIMNA_PD_NOTIFY_TYPE_FROM'] = "Ïåðñîíàëèçèðîâàííîå óâåäîìëåíèå (ñ àâàòàðîì)";
+$MESS ['BPIMNA_PD_NOTIFY_TYPE_SYSTEM'] = "Óâåäîìëåíèå îò ñèñòåìû (áåç àâàòàðà)";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["BX_MESSENGER_TEXTAREA_PLACEHOLDER"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ...";
-$MESS["BX_MESSENGER_TEXTAREA_BUTTON_SEND"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
-$MESS["BX_MESSENGER_TEXTAREA_FILE"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
-$MESS["BX_MESSENGER_TEXTAREA_SMILE"] = "Ð’Ñ‹Ð±Ð¾Ñ€ ÑÐ¼Ð°Ð¹Ð»Ð¾Ð²";
-$MESS["BX_MESSENGER_TEXTAREA_GIPHY"] = "Ð’Ñ‹Ð±Ð¾Ñ€ GIF-ÐºÐ°Ñ€Ñ‚Ð¸Ð½Ð¾Ðº";
+$MESS["BX_MESSENGER_TEXTAREA_PLACEHOLDER"] = "Ââåäèòå ñîîáùåíèå...";
+$MESS["BX_MESSENGER_TEXTAREA_BUTTON_SEND"] = "Îòïðàâèòü ñîîáùåíèå";
+$MESS["BX_MESSENGER_TEXTAREA_FILE"] = "Îòïðàâèòü ôàéë";
+$MESS["BX_MESSENGER_TEXTAREA_SMILE"] = "Âûáîð ñìàéëîâ";
+$MESS["BX_MESSENGER_TEXTAREA_GIPHY"] = "Âûáîð GIF-êàðòèíîê";

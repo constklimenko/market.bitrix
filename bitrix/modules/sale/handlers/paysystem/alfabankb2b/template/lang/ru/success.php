@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_HPS_ALFABANK_SUCCESS'] = 'Ð¡Ñ‡ÐµÑ‚ â„–#PAYMENT_ID# ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð²Ñ‹ÑÑ‚Ð°Ð²Ð»ÐµÐ½';
+$MESS['SALE_HPS_ALFABANK_SUCCESS'] = 'Ñ÷åò ¹#PAYMENT_ID# óñïåøíî âûñòàâëåí';

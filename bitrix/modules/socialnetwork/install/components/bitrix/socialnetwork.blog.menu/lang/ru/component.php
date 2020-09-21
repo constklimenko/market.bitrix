@@ -1,6 +1,6 @@
 <?
-$MESS ['BLOG_MODULE_NOT_INSTALL'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['BM_BLOG_CHAIN_USER'] = "Ð‘Ð»Ð¾Ð³";
-$MESS ['BM_BLOG_CHAIN_GROUP'] = "ÐžÑ‚Ñ‡ÐµÑ‚Ñ‹";
-$MESS ['BM_BLOG_POST'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['BLOG_MODULE_NOT_INSTALL'] = "Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
+$MESS ['BM_BLOG_CHAIN_USER'] = "Áëîã";
+$MESS ['BM_BLOG_CHAIN_GROUP'] = "Îò÷åòû";
+$MESS ['BM_BLOG_POST'] = "Ñîîáùåíèÿ";
 ?>

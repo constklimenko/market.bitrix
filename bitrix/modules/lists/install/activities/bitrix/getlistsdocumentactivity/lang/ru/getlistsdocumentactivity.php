@@ -1,13 +1,13 @@
 <?
-$MESS['BPGLDA_WRONG_TYPE'] = "Ð¢Ð¸Ð¿ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð° '#PARAM#' Ð½Ðµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½.";
-$MESS['BPGLDA_ERROR_DT'] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°.";
-$MESS['BPGLDA_DOC_TYPE'] = "Ð¢Ð¸Ð¿ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS["BPGLDA_DT_LISTS"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸";
-$MESS["BPGLDA_DT_PROCESSES"] = "ÐŸÑ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS["BPGLDA_DT_LISTS_SOCNET"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸ Ð³Ñ€ÑƒÐ¿Ð¿ Ð¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð¾Ð²";
-$MESS['BPGLDA_ELEMENT_ID'] = "ID ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS['BPGLDA_FIELDS_LABEL'] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¿Ð¾Ð»Ñ";
-$MESS['BPGLDA_ERROR_ELEMENT_ID'] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾ ID ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS['BPGLDA_ERROR_FIELDS'] = "ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ñ‹ Ð¿Ð¾Ð»Ñ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS['BPGLDA_ERROR_EMPTY_DOCUMENT'] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS['BPGLDA_WRONG_TYPE'] = "Òèï ïàðàìåòðà '#PARAM#' íå îïðåäåëåí.";
+$MESS['BPGLDA_ERROR_DT'] = "Íåêîððåêòíûé òèï äîêóìåíòà.";
+$MESS['BPGLDA_DOC_TYPE'] = "Òèï äîêóìåíòà";
+$MESS["BPGLDA_DT_LISTS"] = "Ñïèñêè";
+$MESS["BPGLDA_DT_PROCESSES"] = "Ïðîöåññû";
+$MESS["BPGLDA_DT_LISTS_SOCNET"] = "Ñïèñêè ãðóïï è ïðîåêòîâ";
+$MESS['BPGLDA_ELEMENT_ID'] = "ID ýëåìåíòà";
+$MESS['BPGLDA_FIELDS_LABEL'] = "Âûáåðèòå ïîëÿ";
+$MESS['BPGLDA_ERROR_ELEMENT_ID'] = "Íå çàïîëíåíî ID ýëåìåíòà";
+$MESS['BPGLDA_ERROR_FIELDS'] = "Íå âûáðàíû ïîëÿ äîêóìåíòà";
+$MESS['BPGLDA_ERROR_EMPTY_DOCUMENT'] = "Íå óäàëîñü ïîëó÷èòü äàííûå äîêóìåíòà";
 ?>

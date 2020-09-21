@@ -1,18 +1,18 @@
 <?
-$MESS["CC_BLEE_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["CC_BLEE_WRONG_IBLOCK_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°.";
-$MESS["CC_BLEE_WRONG_IBLOCK"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº.";
-$MESS["CC_BLEE_LISTS_FOR_SONET_GROUP_DISABLED"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð´Ð»Ñ ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½.";
-$MESS["CC_BLEE_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
-$MESS["CC_BLEE_ACCESS_DENIED"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ¿Ð¸ÑÐºÐ°.";
-$MESS["CC_BLEE_FIELD_NAME_DEFAULT"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS["CC_BLEE_ACCESS_DENIED_STATUS"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð°Ð½Ð½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð² ÐµÐµ Ñ‚ÐµÐºÑƒÑ‰ÐµÐ¼ ÑÑ‚Ð°Ñ‚ÑƒÑÐµ";
-$MESS["CC_BLEE_UPPER_LEVEL"] = "Ð’ÐµÑ€Ñ…Ð½Ð¸Ð¹ ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ";
-$MESS["CC_BLEE_SONET_LOG_TITLE_TEMPLATE"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð¸Ð»Ð¸ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ ÑÐ¿Ð¸ÑÐºÐ° \"#TITLE#\"";
-$MESS["CC_BLEE_SONET_DEL_LOG_TITLE_TEMPLATE"] = "Ð£Ð´Ð°Ð»ÐµÐ½ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ ÑÐ¿Ð¸ÑÐºÐ° \"#TITLE#\"";
-$MESS["CC_BLEE_DELETE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ.";
-$MESS["CC_BLEE_IS_CONSTANTS_TUNED"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ ÐºÐ¾Ð½ÑÑ‚Ð°Ð½Ñ‚Ñ‹ Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°.";
-$MESS["CC_BLEE_IS_CONSTANTS_TUNED_NEW"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°.";
-$MESS["CC_BLEE_VALIDATE_FIELD_ERROR"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ñ '#NAME#' Ð½Ðµ Ð²ÐµÑ€Ð½Ð¾";
-$MESS["CC_BLEE_ELEMENT_LOCKED"] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð°";
+$MESS["CC_BLEE_MODULE_NOT_INSTALLED"] = "Ìîäóëü óíèâåðñàëüíûõ ñïèñêîâ íå óñòàíîâëåí.";
+$MESS["CC_BLEE_WRONG_IBLOCK_TYPE"] = "Íåâåðíûé òèï èíôîðìàöèîííîãî áëîêà.";
+$MESS["CC_BLEE_WRONG_IBLOCK"] = "Óêàçàí íåâåðíûé ñïèñîê.";
+$MESS["CC_BLEE_LISTS_FOR_SONET_GROUP_DISABLED"] = "Ôóíêöèîíàë ñïèñêîâ äëÿ ýòîé ãðóïïû îòêëþ÷åí.";
+$MESS["CC_BLEE_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà.";
+$MESS["CC_BLEE_ACCESS_DENIED"] = "Íåò ïðàâ äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ ñïèñêà.";
+$MESS["CC_BLEE_FIELD_NAME_DEFAULT"] = "Íàçâàíèå";
+$MESS["CC_BLEE_ACCESS_DENIED_STATUS"] = "Ó âàñ íåò ïðàâ íà ðåäàêòèðîâàíèå äàííîé çàïèñè â åå òåêóùåì ñòàòóñå";
+$MESS["CC_BLEE_UPPER_LEVEL"] = "Âåðõíèé óðîâåíü";
+$MESS["CC_BLEE_SONET_LOG_TITLE_TEMPLATE"] = "Äîáàâëåí èëè èçìåíåí ýëåìåíò ñïèñêà \"#TITLE#\"";
+$MESS["CC_BLEE_SONET_DEL_LOG_TITLE_TEMPLATE"] = "Óäàëåí ýëåìåíò ñïèñêà \"#TITLE#\"";
+$MESS["CC_BLEE_DELETE_ERROR"] = "Îøèáêà óäàëåíèÿ.";
+$MESS["CC_BLEE_IS_CONSTANTS_TUNED"] = "Íåîáõîäèìî íàñòðîèòü êîíñòàíòû Áèçíåñ-ïðîöåññà.";
+$MESS["CC_BLEE_IS_CONSTANTS_TUNED_NEW"] = "Íåîáõîäèìî íàñòðîèòü ïàðàìåòðû Áèçíåñ-ïðîöåññà.";
+$MESS["CC_BLEE_VALIDATE_FIELD_ERROR"] = "Çíà÷åíèå ïîëÿ '#NAME#' íå âåðíî";
+$MESS["CC_BLEE_ELEMENT_LOCKED"] = "Çàïèñü âðåìåííî çàáëîêèðîâàíà";
 ?>

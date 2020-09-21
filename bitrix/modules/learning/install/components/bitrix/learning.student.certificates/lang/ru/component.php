@@ -1,5 +1,5 @@
 <?
-$MESS ['LEARNING_MODULE_NOT_FOUND'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['LEARNING_NO_AUTHORIZE'] = "Ð”Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° ÑÑ‚Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ Ð²Ñ‹ Ð´Ð¾Ð»Ð¶Ð½Ñ‹ Ð±Ñ‹Ñ‚ÑŒ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ñ‹.";
-$MESS ['LEARNING_CERTIFICATES_TITLE'] = "ÐžÑ‚Ñ‡ÐµÑ‚ Ð¿Ð¾ ÐºÑƒÑ€ÑÐ°Ð¼";
+$MESS ['LEARNING_MODULE_NOT_FOUND'] = "Ìîäóëü îáó÷åíèÿ íå óñòàíîâëåí.";
+$MESS ['LEARNING_NO_AUTHORIZE'] = "Äëÿ ïðîñìîòðà ýòîé ñòðàíèöû âû äîëæíû áûòü àâòîðèçîâàíû.";
+$MESS ['LEARNING_CERTIFICATES_TITLE'] = "Îò÷åò ïî êóðñàì";
 ?>

@@ -1,7 +1,7 @@
 <?php
-$MESS["MAIL_USERSIGNATURE_MODULE_ERROR"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"ÐŸÐ¾Ñ‡Ñ‚Ð°\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
-$MESS["MAIL_USERSIGNATURE_EDIT_TITLE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¸";
-$MESS["MAIL_USERSIGNATURE_ADD_TITLE"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¸";
-$MESS["MAIL_USERSIGNATURE_SENDER_SELECT"] = "ÐŸÑ€Ð¸Ð²ÑÐ·Ð°Ñ‚ÑŒ Ðº ";
-$MESS["MAIL_USERSIGNATURE_SENDER_TYPE_SENDER"] = "Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŽ";
-$MESS["MAIL_USERSIGNATURE_SENDER_TYPE_ADDRESS"] = "Ð°Ð´Ñ€ÐµÑÑƒ";
+$MESS["MAIL_USERSIGNATURE_MODULE_ERROR"] = "Ìîäóëü \"Ïî÷òà\" íå óñòàíîâëåí";
+$MESS["MAIL_USERSIGNATURE_EDIT_TITLE"] = "Ðåäàêòèðîâàíèå ïîäïèñè";
+$MESS["MAIL_USERSIGNATURE_ADD_TITLE"] = "Äîáàâëåíèå ïîäïèñè";
+$MESS["MAIL_USERSIGNATURE_SENDER_SELECT"] = "Ïðèâÿçàòü ê ";
+$MESS["MAIL_USERSIGNATURE_SENDER_TYPE_SENDER"] = "îòïðàâèòåëþ";
+$MESS["MAIL_USERSIGNATURE_SENDER_TYPE_ADDRESS"] = "àäðåñó";

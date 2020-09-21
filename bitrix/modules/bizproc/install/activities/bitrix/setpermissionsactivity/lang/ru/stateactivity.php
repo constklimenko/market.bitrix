@@ -1,5 +1,5 @@
 <?
-$MESS ['BPSA_TRACK1'] = "ÐŸÑ€Ð°Ð²Ð° Ð½Ð° Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚ Ð² ÑÑ‚Ð¾Ð¼ ÑÑ‚Ð°Ñ‚ÑƒÑÐµ #VAL#";
-$MESS ['BPSA_INVALID_CHILD'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ñ‚Ð¸Ð¿Ð° 'StateActivity' Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑŒ Ð² ÑÐµÐ±Ðµ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ñ‚Ð¸Ð¿Ð° 'StateInitializationActivity', 'StateFinalizationActivity' Ð¸Ð»Ð¸ 'EventDrivenActivity'.";
-$MESS ['BPSA_EMPTY_PERMS'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ð¿Ñ€Ð°Ð²Ð° Ð½Ð° Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸ Ð½Ð°Ð´ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð¼ Ð² Ð´Ð°Ð½Ð½Ð¾Ð¼ ÑÑ‚Ð°Ñ‚ÑƒÑÐµ.";
+$MESS ['BPSA_TRACK1'] = "Ïðàâà íà äîêóìåíò â ýòîì ñòàòóñå #VAL#";
+$MESS ['BPSA_INVALID_CHILD'] = "Äåéñòâèå òèïà 'StateActivity' ìîæåò ñîäåðæàòü â ñåáå òîëüêî äåéñòâèÿ òèïà 'StateInitializationActivity', 'StateFinalizationActivity' èëè 'EventDrivenActivity'.";
+$MESS ['BPSA_EMPTY_PERMS'] = "Íå óêàçàíû ïðàâà íà îïåðàöèè íàä äîêóìåíòîì â äàííîì ñòàòóñå.";
 ?>

@@ -1,7 +1,7 @@
 <?
-$MESS["WIKI_VERSION_FROM"] = "Ð’ÐµÑ€ÑÐ¸Ñ Ð¾Ñ‚";
-$MESS["WIKI_DIFF_VERSION_FROM"] = "Ð¡Ñ€Ð°Ð²Ð½Ð¸Ð²Ð°ÐµÐ¼ Ñ Ð²ÐµÑ€ÑÐ¸ÐµÐ¹ Ð¾Ñ‚";
-$MESS["WIKI_RESTORE_TO_CURRENT"] = "Ð’Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð´Ð¾ Ñ‚ÐµÐºÑƒÑ‰ÐµÐ¹";
-$MESS["WIKI_DIFF_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº";
-$MESS["WIKI_DIFF_TEXT"] = "Ð¢ÐµÐºÑÑ‚";
+$MESS["WIKI_VERSION_FROM"] = "Âåðñèÿ îò";
+$MESS["WIKI_DIFF_VERSION_FROM"] = "Ñðàâíèâàåì ñ âåðñèåé îò";
+$MESS["WIKI_RESTORE_TO_CURRENT"] = "Âîññòàíîâèòü äî òåêóùåé";
+$MESS["WIKI_DIFF_TITLE"] = "Çàãîëîâîê";
+$MESS["WIKI_DIFF_TEXT"] = "Òåêñò";
 ?>

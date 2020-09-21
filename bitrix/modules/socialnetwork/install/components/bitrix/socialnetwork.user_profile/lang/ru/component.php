@@ -1,10 +1,10 @@
 <?
-$MESS["SONET_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SONET_P_USER_NO_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
-$MESS["SONET_P_USER_SEX_M"] = "ÐœÑƒÐ¶ÑÐºÐ¾Ð¹";
-$MESS["SONET_P_USER_SEX_F"] = "Ð–ÐµÐ½ÑÐºÐ¸Ð¹";
-$MESS["SONET_C38_PAGE_TITLE"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ";
-$MESS["SONET_C39_FORUM_TITLE"] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
-$MESS["SONET_C39_BLOG_TITLE"] = "Ð‘Ð»Ð¾Ð³";
-$MESS["SONET_C39_TASKS_TITLE"] = "Ð—Ð°Ð´Ð°Ñ‡Ð¸";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS["SONET_P_USER_NO_USER"] = "Ïîëüçîâàòåëü íå íàéäåí.";
+$MESS["SONET_P_USER_SEX_M"] = "Ìóæñêîé";
+$MESS["SONET_P_USER_SEX_F"] = "Æåíñêèé";
+$MESS["SONET_C38_PAGE_TITLE"] = "Ïðîôèëü";
+$MESS["SONET_C39_FORUM_TITLE"] = "Ôîðóì";
+$MESS["SONET_C39_BLOG_TITLE"] = "Áëîã";
+$MESS["SONET_C39_TASKS_TITLE"] = "Çàäà÷è";
 ?>

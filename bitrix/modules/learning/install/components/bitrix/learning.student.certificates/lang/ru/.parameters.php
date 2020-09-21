@@ -1,4 +1,4 @@
 <?
-$MESS['LEARNING_COURSE_DETAIL_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ñ‹Ð¼ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð¼ ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARNING_TESTS_LIST_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ¾ ÑÐ¿Ð¸ÑÐºÐ¾Ð¼ Ñ‚ÐµÑÑ‚Ð¾Ð²";
+$MESS['LEARNING_COURSE_DETAIL_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ñ äåòàëüíûì ïðîñìîòðîì êóðñà";
+$MESS ['LEARNING_TESTS_LIST_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ñî ñïèñêîì òåñòîâ";
 ?>

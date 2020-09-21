@@ -1,2 +1,2 @@
 <?php
-$MESS["MAIL_BLACKLIST_LIST_POPUP_CHECKBOX_TITLE"] = 'Ð”Ð»Ñ Ð²ÑÐµÑ… Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹';
+$MESS["MAIL_BLACKLIST_LIST_POPUP_CHECKBOX_TITLE"] = 'Äëÿ âñåõ ïîëüçîâàòåëåé';

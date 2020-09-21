@@ -1,7 +1,7 @@
 <?
-$MESS["SONET_C40_T_ACT"] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
-$MESS["SONET_C40_T_PERMS"] = "ÐŸÑ€Ð°Ð²Ð°";
-$MESS["SONET_C40_T_SAVE"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
-$MESS["SONET_C40_T_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
-$MESS["SONET_C40_T_SETTINGS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ñ€Ð¸Ð²Ð°Ñ‚Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SONET_C40_T_ACT"] = "Äåéñòâèå";
+$MESS["SONET_C40_T_PERMS"] = "Ïðàâà";
+$MESS["SONET_C40_T_SAVE"] = "Èçìåíèòü ïàðàìåòðû";
+$MESS["SONET_C40_T_CANCEL"] = "Îòìåíà";
+$MESS["SONET_C40_T_SETTINGS"] = "Íàñòðîéêè ïðèâàòíîñòè";
 ?>

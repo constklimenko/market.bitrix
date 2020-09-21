@@ -1,11 +1,11 @@
 <?
-$MESS["CT_BMTS_WINDOW_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
-$MESS["CT_BMTS_WAIT"] = "ÐŸÐ¾Ð´Ð¾Ð¶Ð´Ð¸Ñ‚Ðµ, Ð¸Ð´ÐµÑ‚ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° ÑÐ¿Ð¸ÑÐºÐ°...";
-$MESS["CT_BMTS_SUBMIT"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
-$MESS["CT_BMTS_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
-$MESS["CT_BMTS_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["CT_BMTS_WRONG_IBLOCK_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°.";
-$MESS["CT_BMTS_WRONG_IBLOCK"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº.";
-$MESS["CT_BMTS_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
-$MESS["CT_BMTS_ACCESS_DENIED"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ¿Ð¸ÑÐºÐ°.";
+$MESS["CT_BMTS_WINDOW_CLOSE"] = "Çàêðûòü";
+$MESS["CT_BMTS_WAIT"] = "Ïîäîæäèòå, èäåò çàãðóçêà ñïèñêà...";
+$MESS["CT_BMTS_SUBMIT"] = "Âûáðàòü";
+$MESS["CT_BMTS_CANCEL"] = "Îòìåíà";
+$MESS["CT_BMTS_MODULE_NOT_INSTALLED"] = "Ìîäóëü óíèâåðñàëüíûõ ñïèñêîâ íå óñòàíîâëåí.";
+$MESS["CT_BMTS_WRONG_IBLOCK_TYPE"] = "Íåâåðíûé òèï èíôîðìàöèîííîãî áëîêà.";
+$MESS["CT_BMTS_WRONG_IBLOCK"] = "Óêàçàí íåâåðíûé ñïèñîê.";
+$MESS["CT_BMTS_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà.";
+$MESS["CT_BMTS_ACCESS_DENIED"] = "Íåò ïðàâ äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ ñïèñêà.";
 ?>

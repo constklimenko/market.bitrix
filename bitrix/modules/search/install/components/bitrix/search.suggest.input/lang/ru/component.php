@@ -1,3 +1,3 @@
 <?
-$MESS ['CC_BSSI_MODULE_NOT_INSTALLED'] = "РњРѕРґСѓР»СЊ РїРѕРёСЃРєР° РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
+$MESS ['CC_BSSI_MODULE_NOT_INSTALLED'] = "Модуль поиска не установлен.";
 ?>

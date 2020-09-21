@@ -1,10 +1,10 @@
 <?
-$MESS["SONET_C33_T_F_MY_PROJECT"] = "ÐœÐ¾Ð¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ñ‹";
-$MESS["SONET_C33_T_F_MY"] = "ÐœÐ¾Ð¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_C36_T_F_ALL_PROJECT"] = "Ð’ÑÐµ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ñ‹";
-$MESS["SONET_C36_T_F_ALL"] = "Ð’ÑÐµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_C36_T_F_FAVORITES"] = "Ð˜Ð·Ð±Ñ€Ð°Ð½Ð½Ð¾Ðµ";
-$MESS["SONET_C33_T_F_ARCHIVE"] = "ÐÑ€Ñ…Ð¸Ð²Ð½Ñ‹Ðµ";
-$MESS["SONET_C33_T_F_EXTRANET"] = "Ð­ÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚";
-$MESS["SONET_C33_T_F_TAGS"] = "ÐŸÐ¾ Ñ‚ÐµÐ³Ð°Ð¼";
+$MESS["SONET_C33_T_F_MY_PROJECT"] = "Ìîè ïðîåêòû";
+$MESS["SONET_C33_T_F_MY"] = "Ìîè ãðóïïû";
+$MESS["SONET_C36_T_F_ALL_PROJECT"] = "Âñå ïðîåêòû";
+$MESS["SONET_C36_T_F_ALL"] = "Âñå ãðóïïû";
+$MESS["SONET_C36_T_F_FAVORITES"] = "Èçáðàííîå";
+$MESS["SONET_C33_T_F_ARCHIVE"] = "Àðõèâíûå";
+$MESS["SONET_C33_T_F_EXTRANET"] = "Ýêñòðàíåò";
+$MESS["SONET_C33_T_F_TAGS"] = "Ïî òåãàì";
 ?>

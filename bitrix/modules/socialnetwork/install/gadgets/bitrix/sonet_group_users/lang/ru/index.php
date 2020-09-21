@@ -1,5 +1,5 @@
 <?
-$MESS ['GD_SONET_GROUP_USERS_TITLE'] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸";
-$MESS ['GD_SONET_GROUP_USERS_AL_USERS'] = "Ð’ÑÐµ ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸";
-$MESS ['GD_SONET_GROUP_USERS_NO_USERS'] = "ÐÐµÑ‚ ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð²";
+$MESS ['GD_SONET_GROUP_USERS_TITLE'] = "Ó÷àñòíèêè";
+$MESS ['GD_SONET_GROUP_USERS_AL_USERS'] = "Âñå ó÷àñòíèêè";
+$MESS ['GD_SONET_GROUP_USERS_NO_USERS'] = "Íåò ó÷àñòíèêîâ";
 ?>

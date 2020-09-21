@@ -1,16 +1,16 @@
 <?
-$MESS ['BIZPROC_WFEDIT_ERROR_TYPE'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚Ð¸Ð¿ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°.";
-$MESS ['BIZPROC_WFEDIT_DEFAULT_TITLE'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BIZPROC_WFEDIT_SAVE_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ:";
-$MESS ['BIZPROC_WFEDIT_CATEGORY_MAIN'] = "ÐžÑÐ½Ð¾Ð²Ð½Ð°Ñ";
-$MESS ['BIZPROC_WFEDIT_CATEGORY_DOC'] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS ['BIZPROC_WFEDIT_CATEGORY_CONSTR'] = "ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ†Ð¸Ð¸";
-$MESS ['BIZPROC_WFEDIT_CATEGORY_INTER'] = "Ð£Ð²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
-$MESS ['BIZPROC_WFEDIT_CATEGORY_OTHER'] = "ÐŸÑ€Ð¾Ñ‡ÐµÐµ";
-$MESS ['BIZPROC_WFEDIT_CATEGORY_REST'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
-$MESS ['BIZPROC_WFEDIT_CATEGORY_TASKS'] = "Ð—Ð°Ð´Ð°Ð½Ð¸Ñ";
-$MESS ['BIZPROC_WFEDIT_TITLE_ADD'] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BIZPROC_WFEDIT_TITLE_EDIT'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BIZPROC_WFEDIT_IMPORT_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS["BIZPROC_USER_PARAMS_SAVE_ERROR"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ð¹ Ð² Ð¿Ð°Ð½ÐµÐ»Ð¸ \"ÐœÐ¾Ð¸ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ\" ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð¹. Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð² Ð¿Ð°Ð½ÐµÐ»Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ñ‹ Ð½Ðµ Ð±ÑƒÐ´ÑƒÑ‚.";
+$MESS ['BIZPROC_WFEDIT_ERROR_TYPE'] = "Íå óêàçàí òèï äîêóìåíòà.";
+$MESS ['BIZPROC_WFEDIT_DEFAULT_TITLE'] = "Øàáëîí áèçíåñ-ïðîöåññà";
+$MESS ['BIZPROC_WFEDIT_SAVE_ERROR'] = "Îøèáêà ñîõðàíåíèÿ:";
+$MESS ['BIZPROC_WFEDIT_CATEGORY_MAIN'] = "Îñíîâíàÿ";
+$MESS ['BIZPROC_WFEDIT_CATEGORY_DOC'] = "Îáðàáîòêà äîêóìåíòà";
+$MESS ['BIZPROC_WFEDIT_CATEGORY_CONSTR'] = "Êîíñòðóêöèè";
+$MESS ['BIZPROC_WFEDIT_CATEGORY_INTER'] = "Óâåäîìëåíèÿ";
+$MESS ['BIZPROC_WFEDIT_CATEGORY_OTHER'] = "Ïðî÷åå";
+$MESS ['BIZPROC_WFEDIT_CATEGORY_REST'] = "Äåéñòâèÿ ïðèëîæåíèé";
+$MESS ['BIZPROC_WFEDIT_CATEGORY_TASKS'] = "Çàäàíèÿ";
+$MESS ['BIZPROC_WFEDIT_TITLE_ADD'] = "Ñîçäàíèå øàáëîíà áèçíåñ-ïðîöåññà";
+$MESS ['BIZPROC_WFEDIT_TITLE_EDIT'] = "Ðåäàêòèðîâàíèå øàáëîíà áèçíåñ-ïðîöåññà";
+$MESS ['BIZPROC_WFEDIT_IMPORT_ERROR'] = "Îøèáêà èìïîðòèðîâàíèÿ øàáëîíà áèçíåñ-ïðîöåññà";
+$MESS["BIZPROC_USER_PARAMS_SAVE_ERROR"] = "Ðàçìåð äåéñòâèé â ïàíåëè \"Ìîè äåéñòâèÿ\" ñëèøêîì áîëüøîé. Èçìåíåíèÿ â ïàíåëè ñîõðàíåíû íå áóäóò.";
 ?>

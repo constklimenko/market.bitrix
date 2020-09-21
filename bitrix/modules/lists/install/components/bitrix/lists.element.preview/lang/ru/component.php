@@ -1,3 +1,3 @@
 <?php
-$MESS["CT_BLEE_NO_VALUE"] = "(Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾)";
-$MESS["CT_BLEE_DOWNLOAD"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ";
+$MESS["CT_BLEE_NO_VALUE"] = "(íå óñòàíîâëåíî)";
+$MESS["CT_BLEE_DOWNLOAD"] = "Ñêà÷àòü";

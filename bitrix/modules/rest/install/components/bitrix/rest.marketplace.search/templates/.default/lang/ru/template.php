@@ -1,3 +1,3 @@
 <?
-$MESS["MARKETPLACE_SEARCH_PL"] = "РџРѕРёСЃРє РїСЂРёР»РѕР¶РµРЅРёР№";
+$MESS["MARKETPLACE_SEARCH_PL"] = "Поиск приложений";
 ?>

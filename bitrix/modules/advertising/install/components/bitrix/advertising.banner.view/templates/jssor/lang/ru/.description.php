@@ -1,3 +1,3 @@
 <?
-$MESS ['ADV_JSSOR_DESCRIPTION'] = "Ð‘Ð°Ð½Ð½ÐµÑ€ Ð´Ð»Ñ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Jssor Slider";
+$MESS ['ADV_JSSOR_DESCRIPTION'] = "Áàííåð äëÿ øàáëîíà Jssor Slider";
 ?>

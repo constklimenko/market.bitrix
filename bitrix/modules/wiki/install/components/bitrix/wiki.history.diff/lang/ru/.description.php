@@ -1,5 +1,5 @@
 <?
-$MESS["WIKI_HISTORY_DIFF_NAME"] = "Ð¡Ñ€Ð°Ð²Ð½ÐµÐ½Ð¸Ðµ Ð²ÐµÑ€ÑÐ¸Ð¸";
-$MESS["WIKI_HISTORY_DIFF_DESCRIPTION"] = "Ð¡Ñ€Ð°Ð²Ð½ÐµÐ½Ð¸Ðµ Ð²ÐµÑ€ÑÐ¸Ð¹ Wiki ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["WIKI_HISTORY_DIFF_NAME"] = "Ñðàâíåíèå âåðñèè";
+$MESS["WIKI_HISTORY_DIFF_DESCRIPTION"] = "Ñðàâíåíèå âåðñèé Wiki ñòðàíèöû";
 $MESS["WIKI_NAME"] = "Wiki";
 ?>

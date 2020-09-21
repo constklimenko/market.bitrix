@@ -1,12 +1,12 @@
 <?
 global $MESS;
 
-$MESS["SIBP_DTITLE"] = "РРјРїСЌРєСЃР±Р°РЅРє";
-$MESS["SIBP_DDESCR"] = "РћРїР»Р°С‚Р° РїРѕ РЎРјР°СЂС‚-РєР°СЂС‚Рµ \"РРјРїСЌРєСЃР±Р°РЅРєР°\" <a href=\"https://www.impexbank.ru\" target=\"_blank\">https://www.impexbank.ru</a>";
+$MESS["SIBP_DTITLE"] = "Импэксбанк";
+$MESS["SIBP_DDESCR"] = "Оплата по Смарт-карте \"Импэксбанка\" <a href=\"https://www.impexbank.ru\" target=\"_blank\">https://www.impexbank.ru</a>";
 
-$MESS["SIBP_CODE"] = "РљРѕРґ РјР°РіР°Р·РёРЅР°";
-$MESS["SIBP_CODE_DESC"] = "РљРѕРґ РјР°РіР°Р·РёРЅР°, РєРѕС‚РѕСЂС‹Р№ РїРѕР»СѓС‡РµРЅ РѕС‚ РРјРїРµРєСЃР‘Р°РЅРєР°";
-$MESS["SIBP_NAME"] = "РќР°РёРјРµРЅРѕРІР°РЅРёРµ РјР°РіР°Р·РёРЅР°";
-$MESS["SIBP_NAME_DESC"] = "РќР°РёРјРµРЅРѕРІР°РЅРёРµ РјР°РіР°Р·РёРЅР°";
+$MESS["SIBP_CODE"] = "Код магазина";
+$MESS["SIBP_CODE_DESC"] = "Код магазина, который получен от ИмпексБанка";
+$MESS["SIBP_NAME"] = "Наименование магазина";
+$MESS["SIBP_NAME_DESC"] = "Наименование магазина";
 
 ?>

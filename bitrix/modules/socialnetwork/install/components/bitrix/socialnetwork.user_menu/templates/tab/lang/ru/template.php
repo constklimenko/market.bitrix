@@ -1,9 +1,9 @@
 <?
-$MESS ['SONET_UM_GENERAL'] = "ÐžÑÐ½Ð¾Ð²Ð½Ð¾Ðµ";
-$MESS ['SONET_UM_FRIENDS'] = "Ð”Ñ€ÑƒÐ·ÑŒÑ";
-$MESS ['SONET_UM_GROUPS'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['SONET_UM_PHOTO'] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ð¸";
-$MESS ['SONET_UM_FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
-$MESS ['SONET_UM_MESSAGES'] = "ÐœÐ¾Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['SONET_UM_BLOG'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['SONET_UM_GENERAL'] = "Îñíîâíîå";
+$MESS ['SONET_UM_FRIENDS'] = "Äðóçüÿ";
+$MESS ['SONET_UM_GROUPS'] = "Ãðóïïû";
+$MESS ['SONET_UM_PHOTO'] = "Ôîòîãðàôèè";
+$MESS ['SONET_UM_FORUM'] = "Ôîðóì";
+$MESS ['SONET_UM_MESSAGES'] = "Ìîè ñîîáùåíèÿ";
+$MESS ['SONET_UM_BLOG'] = "Ñîîáùåíèÿ";
 ?>

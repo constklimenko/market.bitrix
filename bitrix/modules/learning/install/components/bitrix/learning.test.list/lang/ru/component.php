@@ -1,8 +1,8 @@
 <?
-$MESS ['LEARNING_MODULE_NOT_FOUND'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['LEARNING_BAD_TEST_LIST'] = 'Ð’ Ð´Ð°Ð½Ð½Ð¾Ð¼ ÐºÑƒÑ€ÑÐµ ÑÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ñ Ð½Ðµ Ð¿Ñ€ÐµÐ´ÑƒÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð°.';
-$MESS ['LEARNING_TESTS_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚ÐµÑÑ‚Ð¾Ð²";
-$MESS ['LEARNING_TESTS_NAV'] = "Ð¢ÐµÑÑ‚Ñ‹";
-$MESS["LEARNING_TEST_DENIED_PREVIOUS"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ñ‚ÐµÑÑ‚Ñƒ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½, Ñ‚Ð°Ðº ÐºÐ°Ðº Ð²Ñ‹ Ð½Ðµ Ð¿Ñ€Ð¾ÑˆÐ»Ð¸ Ñ‚ÐµÑÑ‚ #TEST_LINK#";
-$MESS['LEARNING_COURSE_DENIED']="ÐšÑƒÑ€Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ð¸Ð»Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð½ÐµÐ¼Ñƒ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS ['LEARNING_MODULE_NOT_FOUND'] = "Ìîäóëü îáó÷åíèÿ íå óñòàíîâëåí.";
+$MESS ['LEARNING_BAD_TEST_LIST'] = 'Â äàííîì êóðñå ñåðòèôèêàöèÿ íå ïðåäóñìîòðåíà.';
+$MESS ['LEARNING_TESTS_LIST'] = "Ñïèñîê òåñòîâ";
+$MESS ['LEARNING_TESTS_NAV'] = "Òåñòû";
+$MESS["LEARNING_TEST_DENIED_PREVIOUS"] = "Äîñòóï ê òåñòó çàïðåùåí, òàê êàê âû íå ïðîøëè òåñò #TEST_LINK#";
+$MESS['LEARNING_COURSE_DENIED']="Êóðñ íå íàéäåí èëè äîñòóï ê íåìó çàïðåùåí";
 ?>

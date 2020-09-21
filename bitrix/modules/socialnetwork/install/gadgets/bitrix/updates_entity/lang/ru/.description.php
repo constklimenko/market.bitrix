@@ -1,4 +1,4 @@
 <?
-$MESS["GD_LOG_ENTITY_NAME"] = "Ð–Ð¸Ð²Ð°Ñ Ð»ÐµÐ½Ñ‚Ð°";
-$MESS["GD_LOG_ENTITY_DESC"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ñ… Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹";
+$MESS["GD_LOG_ENTITY_NAME"] = "Æèâàÿ ëåíòà";
+$MESS["GD_LOG_ENTITY_DESC"] = "Ñïèñîê ïîñëåäíèõ èçìåíåíèé";
 ?>

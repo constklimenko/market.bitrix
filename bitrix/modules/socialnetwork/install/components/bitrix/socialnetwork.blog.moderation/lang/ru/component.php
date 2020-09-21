@@ -1,24 +1,24 @@
 <?
-$MESS["BLOG_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["BLOG_BLOG_BLOG_MES_DELED"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¾";
-$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ðµ ÑÑ‚Ð¾Ð³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BLOG_BLOG_BLOG_FRIENDS_ONLY"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ñ‡Ñ‚ÐµÐ½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹.";
-$MESS["MESSAGE_COUNT"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹ Ð´Ð»Ñ ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["BLOG_BLOG_SESSID_WRONG"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
+$MESS["BLOG_BLOG_BLOG_MES_DELED"] = "Ñîîáùåíèå óäàëåíî";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "Îøèáêà óäàëåíèÿ ñîîáùåíèÿ";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "Ó âàñ íåò ïðàâ íà óäàëåíèå ýòîãî ñîîáùåíèÿ";
+$MESS["BLOG_BLOG_BLOG_FRIENDS_ONLY"] = "Íåäîñòàòî÷íî ïðàâ äëÿ ÷òåíèÿ ñîîáùåíèé.";
+$MESS["MESSAGE_COUNT"] = "Ñîîáùåíèÿ";
+$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "Ñîîáùåíèÿ íåäîñòóïíû äëÿ ýòîé ãðóïïû";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "Âàøà ñåññèÿ èñòåêëà, ïîæàëóéñòà, ïîâòîðèòå äåéñòâèå";
 
-$MESS["BLOG_BLOG_BLOG_MES_PUB"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð¾Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ¾Ð²Ð°Ð½Ð¾";
-$MESS["BLOG_BLOG_BLOG_MES_PUB_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BLOG_BLOG_BLOG_MES_PUB_NO_RIGHTS"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸ÑŽ ÑÑ‚Ð¾Ð³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["BLOG_BLOG_BLOG_MES_PUB"] = "Ñîîáùåíèå îïóáëèêîâàíî";
+$MESS["BLOG_BLOG_BLOG_MES_PUB_ERROR"] = "Îøèáêà ïóáëèêàöèè ñîîáùåíèÿ";
+$MESS["BLOG_BLOG_BLOG_MES_PUB_NO_RIGHTS"] = "Ó âàñ íåò ïðàâ íà ïóáëèêàöèþ ýòîãî ñîîáùåíèÿ";
 
-$MESS["BLOG_MOD_NO_SOCNET_GROUP"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð°";
-$MESS["BLOG_MOD_NO_RIGHTS"] = "Ð£ Ð²Ð°Ñ Ð½Ðµ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸ÑŽ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð² ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ðµ";
+$MESS["BLOG_MOD_NO_SOCNET_GROUP"] = "Ãðóïïà ñîöèàëüíîé ñåòè íå çàäàíà";
+$MESS["BLOG_MOD_NO_RIGHTS"] = "Ó âàñ íå ïðàâ íà ìîäåðàöèþ ñîîáùåíèé â ýòîé ãðóïïå";
 
-$MESS["BLOG_MOD_TITLE"] = "ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ";
-$MESS["BLOG_MOD_PUB"] = "ÐžÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ¾Ð²Ð°Ñ‚ÑŒ";
-$MESS["BLOG_MOD_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
-$MESS["BLOG_MOD_DELETE_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ?";
-$MESS["BLOG_MOD_NO_SOCNET_USER"] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿Ñ€Ð¾ÑÐ¼Ð°Ñ‚Ñ€Ð¸Ð²Ð°Ñ‚ÑŒ Ñ‡ÑƒÐ¶Ð¸Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð½Ð° Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸ÑŽ";
-$MESS["BLOG_MOD_EMPTY_SOCNET_USER"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð½Ðµ Ð·Ð°Ð´Ð°Ð½";
+$MESS["BLOG_MOD_TITLE"] = "Ìîäåðàöèÿ";
+$MESS["BLOG_MOD_PUB"] = "Îïóáëèêîâàòü";
+$MESS["BLOG_MOD_DELETE"] = "Óäàëèòü";
+$MESS["BLOG_MOD_DELETE_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ñîîáùåíèå?";
+$MESS["BLOG_MOD_NO_SOCNET_USER"] = "Âû íå ìîæåòå ïðîñìàòðèâàòü ÷óæèå ñîîáùåíèÿ íà ìîäåðàöèþ";
+$MESS["BLOG_MOD_EMPTY_SOCNET_USER"] = "Ïðîôèëü ïîëüçîâàòåëÿ íå çàäàí";
 ?>

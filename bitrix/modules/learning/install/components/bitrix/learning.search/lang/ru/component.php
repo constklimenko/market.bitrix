@@ -1,12 +1,12 @@
 <?
-$MESS ['LEARNING_MODULE_NOT_INSTALL'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['SEARCH_MODULE_NOT_INSTALL'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¿Ð¾Ð¸ÑÐºÐ° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['LEARNING_MAIN_SEARCH_TITLE'] = "ÐŸÐ¾Ð¸ÑÐº Ð¿Ð¾ ÐºÑƒÑ€ÑÐ°Ð¼";
-$MESS ['LEARNING_MAIN_SEARCH_COURSE_TITLE'] = "ÐŸÐ¾Ð¸ÑÐº Ð¿Ð¾ ÐºÑƒÑ€ÑÑƒ";
-$MESS ['LEARNING_MAIN_SEARCH_SEARCH_COURSE'] = "Ð² ÐºÑƒÑ€ÑÐ°Ñ…";
-$MESS ['LEARNING_MAIN_SEARCH_SEARCH_CHAPTER'] = "Ð² Ð³Ð»Ð°Ð²Ð°Ñ…";
-$MESS ['LEARNING_MAIN_SEARCH_SEARCH_LESSON'] = "Ð² ÑƒÑ€Ð¾ÐºÐ°Ñ…";
-$MESS ['LEARNING_MAIN_SEARCH_NOTHING_FOUND'] = "ÐÐ¸Ñ‡ÐµÐ³Ð¾ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾.";
-$MESS ['LEARNING_MAIN_SEARCH_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¾Ð¼ Ð·Ð°Ð¿Ñ€Ð¾ÑÐµ: ";
-$MESS ['LEARNING_RESULT_PAGES'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚";
+$MESS ['LEARNING_MODULE_NOT_INSTALL'] = "Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
+$MESS ['SEARCH_MODULE_NOT_INSTALL'] = "Ìîäóëü ïîèñêà íå óñòàíîâëåí.";
+$MESS ['LEARNING_MAIN_SEARCH_TITLE'] = "Ïîèñê ïî êóðñàì";
+$MESS ['LEARNING_MAIN_SEARCH_COURSE_TITLE'] = "Ïîèñê ïî êóðñó";
+$MESS ['LEARNING_MAIN_SEARCH_SEARCH_COURSE'] = "â êóðñàõ";
+$MESS ['LEARNING_MAIN_SEARCH_SEARCH_CHAPTER'] = "â ãëàâàõ";
+$MESS ['LEARNING_MAIN_SEARCH_SEARCH_LESSON'] = "â óðîêàõ";
+$MESS ['LEARNING_MAIN_SEARCH_NOTHING_FOUND'] = "Íè÷åãî íå íàéäåíî.";
+$MESS ['LEARNING_MAIN_SEARCH_ERROR'] = "Îøèáêà â ïîèñêîâîì çàïðîñå: ";
+$MESS ['LEARNING_RESULT_PAGES'] = "Ðåçóëüòàò";
 ?>

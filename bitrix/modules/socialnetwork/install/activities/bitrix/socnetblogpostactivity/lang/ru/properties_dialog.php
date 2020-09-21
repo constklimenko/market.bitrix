@@ -1,8 +1,8 @@
 <?
-$MESS["SNBPA_PD_OWNER_ID"] = "ÐÐ²Ñ‚Ð¾Ñ€";
-$MESS["SNBPA_PD_USERS_TO"] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ð¸";
-$MESS["SNBPA_PD_POST_TITLE"] = "Ð¢ÐµÐ¼Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SNBPA_PD_POST_MESSAGE"] = "Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SNBPA_PD_POST_SITE"] = "Ð¦ÐµÐ»ÐµÐ²Ð¾Ð¹ ÑÐ°Ð¹Ñ‚";
-$MESS["SNBPA_PD_POST_SITE_OTHER"] = "Ð´Ñ€ÑƒÐ³Ð¾Ð¹";
+$MESS["SNBPA_PD_OWNER_ID"] = "Àâòîð";
+$MESS["SNBPA_PD_USERS_TO"] = "Ïîëó÷àòåëè";
+$MESS["SNBPA_PD_POST_TITLE"] = "Òåìà ñîîáùåíèÿ";
+$MESS["SNBPA_PD_POST_MESSAGE"] = "Òåêñò ñîîáùåíèÿ";
+$MESS["SNBPA_PD_POST_SITE"] = "Öåëåâîé ñàéò";
+$MESS["SNBPA_PD_POST_SITE_OTHER"] = "äðóãîé";
 ?>

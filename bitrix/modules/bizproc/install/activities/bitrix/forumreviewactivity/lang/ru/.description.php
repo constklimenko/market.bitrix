@@ -1,4 +1,4 @@
 <?
-$MESS ['BPSNMA_DESCR_NAME'] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð² Ñ„Ð¾Ñ€ÑƒÐ¼";
-$MESS ['BPSNMA_DESCR_DESCR'] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð² Ñ„Ð¾Ñ€ÑƒÐ¼";
+$MESS ['BPSNMA_DESCR_NAME'] = "Çàïèñü â ôîðóì";
+$MESS ['BPSNMA_DESCR_DESCR'] = "Çàïèñü â ôîðóì";
 ?>

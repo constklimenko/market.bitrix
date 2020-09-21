@@ -1,7 +1,7 @@
 <?
-$MESS["SBPM_POST_ID"] = "ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SBPM_URL"] = "URL ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SBPM_EMAIL_TO"] = "Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
-$MESS["SBPM_RECIPIENT_ID"] = "ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
-$MESS["SBPM_AVATAR_SIZE"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð°Ð²Ð°Ñ‚Ð°Ñ€Ð° Ð°Ð²Ñ‚Ð¾Ñ€Ð° (px)";
+$MESS["SBPM_POST_ID"] = "ID ñîîáùåíèÿ";
+$MESS["SBPM_URL"] = "URL ñîîáùåíèÿ";
+$MESS["SBPM_EMAIL_TO"] = "Email ïîëó÷àòåëÿ óâåäîìëåíèÿ";
+$MESS["SBPM_RECIPIENT_ID"] = "ID ïîëó÷àòåëÿ óâåäîìëåíèÿ";
+$MESS["SBPM_AVATAR_SIZE"] = "Ðàçìåð àâàòàðà àâòîðà (px)";
 ?>

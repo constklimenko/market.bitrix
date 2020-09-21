@@ -1,5 +1,5 @@
 <?
-$MESS["BPGUA_DESCR_DESCR"] = "Р’С‹Р±РѕСЂ СЃРѕС‚СЂСѓРґРЅРёРєР°";
-$MESS["BPGUA_DESCR_NAME"] = "Р’С‹Р±РѕСЂ СЃРѕС‚СЂСѓРґРЅРёРєР°";
-$MESS["BPGUA_DESCR_RU"] = "Р’С‹Р±СЂР°РЅРЅС‹Р№ СЃРѕС‚СЂСѓРґРЅРёРє";
+$MESS["BPGUA_DESCR_DESCR"] = "Выбор сотрудника";
+$MESS["BPGUA_DESCR_NAME"] = "Выбор сотрудника";
+$MESS["BPGUA_DESCR_RU"] = "Выбранный сотрудник";
 ?>

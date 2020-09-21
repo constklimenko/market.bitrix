@@ -1,8 +1,8 @@
 <?
-$MESS["SONET_LOG_COMMENT_EMPTY"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SONET_LOG_COMMENT_NO_PERMISSIONS"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ";
-$MESS["SONET_LOG_COMMENT_NO_PERMISSIONS_UPDATE"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ";
-$MESS["SONET_C73_CREATED_BY_ANONYMOUS"] = "ÐÐµÐ°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
-$MESS["SONET_LOG_EXTRANET_SUFFIX"] = " (ÑÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚)";
-$MESS["SONET_LOG_COMMENT_DELETED"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð±Ñ‹Ð» ÑƒÐ´Ð°Ð»ÐµÐ½";
+$MESS["SONET_LOG_COMMENT_EMPTY"] = "Íå óêàçàí òåêñò ñîîáùåíèÿ";
+$MESS["SONET_LOG_COMMENT_NO_PERMISSIONS"] = "Íåò ïðàâ íà äîáàâëåíèå êîììåíòàðèÿ";
+$MESS["SONET_LOG_COMMENT_NO_PERMISSIONS_UPDATE"] = "Íåò ïðàâ íà èçìåíåíèå êîììåíòàðèÿ";
+$MESS["SONET_C73_CREATED_BY_ANONYMOUS"] = "Íåàâòîðèçîâàííûé ïîëüçîâàòåëü";
+$MESS["SONET_LOG_EXTRANET_SUFFIX"] = " (ýêñòðàíåò)";
+$MESS["SONET_LOG_COMMENT_DELETED"] = "Êîììåíòàðèé áûë óäàëåí";
 ?>

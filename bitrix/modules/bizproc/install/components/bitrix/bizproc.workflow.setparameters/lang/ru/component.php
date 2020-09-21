@@ -1,6 +1,6 @@
 <?
-$MESS ['BPWFSP_PAGE_TITLE'] = "#NAME#: Ð’Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BPWFSP_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
-$MESS ['BPWFSP_ARGUMENT_NULL'] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ '#PARAM#'.";
+$MESS ['BPWFSP_PAGE_TITLE'] = "#NAME#: Âõîäÿùèå ïàðàìåòðû áèçíåñ-ïðîöåññà";
+$MESS ['BPWFSP_ERROR'] = "Îøèáêà";
+$MESS ['BPWFSP_ARGUMENT_NULL'] = "Íå çàïîëíåíî îáÿçàòåëüíîå çíà÷åíèå '#PARAM#'.";
 $MESS ['BPWFSP_ARGUMENT_ERROR'] = "#PARAM#: #ERROR#";
 ?>

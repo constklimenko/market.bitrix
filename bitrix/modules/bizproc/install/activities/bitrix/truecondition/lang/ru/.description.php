@@ -1,4 +1,4 @@
 <?
-$MESS ['BPTC_DESCR_DESCR'] = "Ð˜ÑÑ‚Ð¸Ð½Ð°";
-$MESS ['BPTC_DESCR_NAME'] = "Ð˜ÑÑ‚Ð¸Ð½Ð°";
+$MESS ['BPTC_DESCR_DESCR'] = "Èñòèíà";
+$MESS ['BPTC_DESCR_NAME'] = "Èñòèíà";
 ?>

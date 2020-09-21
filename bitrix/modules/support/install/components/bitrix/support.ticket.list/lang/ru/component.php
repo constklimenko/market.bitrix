@@ -1,15 +1,15 @@
 <?
-$MESS["MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SUP_DEFAULT_TITLE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¹";
-$MESS["SUP_PAGES"] = "ÐžÐ±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¹";
-$MESS["SUP_F_ID"] = "ID Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SUP_F_LAMP"] = "Ð˜Ð½Ð´Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
-$MESS["SUP_F_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚Ð¾/Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚Ð¾";
-$MESS["SUP_F_MESSAGE_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº / Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SUP_CLOSED"] = "Ð·Ð°ÐºÑ€Ñ‹Ñ‚Ð¾";
-$MESS["SUP_OPENED"] = "Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚Ð¾";
-$MESS["SUP_ALL"] = "(Ð²ÑÐµ)";
-$MESS["SUP_RED"] = "ÐºÑ€Ð°ÑÐ½Ñ‹Ð¹";
-$MESS["SUP_GREEN"] = "Ð·ÐµÐ»ÐµÐ½Ñ‹Ð¹";
-$MESS["SUP_GREY"] = "ÑÐµÑ€Ñ‹Ð¹";
+$MESS["MODULE_NOT_INSTALL"] = "Ìîäóëü òåõïîääåðæêè íå óñòàíîâëåí.";
+$MESS["SUP_DEFAULT_TITLE"] = "Ñïèñîê îáðàùåíèé";
+$MESS["SUP_PAGES"] = "Îáðàùåíèé";
+$MESS["SUP_F_ID"] = "ID îáðàùåíèÿ";
+$MESS["SUP_F_LAMP"] = "Èíäèêàòîð";
+$MESS["SUP_F_CLOSE"] = "Çàêðûòî/îòêðûòî";
+$MESS["SUP_F_MESSAGE_TITLE"] = "Çàãîëîâîê / Òåêñò ñîîáùåíèÿ";
+$MESS["SUP_CLOSED"] = "çàêðûòî";
+$MESS["SUP_OPENED"] = "îòêðûòî";
+$MESS["SUP_ALL"] = "(âñå)";
+$MESS["SUP_RED"] = "êðàñíûé";
+$MESS["SUP_GREEN"] = "çåëåíûé";
+$MESS["SUP_GREY"] = "ñåðûé";
 ?>

@@ -1,11 +1,11 @@
 <?
-$MESS["SALE_HPS_ROBOXCHANGE_TEMPL_TITLE"] = "Р’С‹ С…РѕС‚РёС‚Рµ РѕРїР»Р°С‚РёС‚СЊ С‡РµСЂРµР· СЃРёСЃС‚РµРјСѓ <b>www.roboxchange.net</b>";
-$MESS["SALE_HPS_ROBOXCHANGE_TEMPL_ORDER"] = "CС‡РµС‚ в„–";
-$MESS["SALE_HPS_ROBOXCHANGE_TEMPL_TO_PAY"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ РїРѕ СЃС‡РµС‚Сѓ:";
-$MESS["SALE_HPS_ROBOXCHANGE_TEMPL_WARN"] = "<i>Р’РЅРёРјР°РЅРёРµ!</i> Р’РѕР·РІСЂР°С‚ СЃСЂРµРґСЃС‚РІ РїРѕ РїР»Р°С‚РµР¶РЅРѕР№ СЃРёСЃС‚РµРјРµ www.roboxchange.net РЅРµРІРѕР·РјРѕР¶РµРЅ, РїРѕР¶Р°Р»СѓР№СЃС‚Р°, Р±СѓРґСЊС‚Рµ РІРЅРёРјР°С‚РµР»СЊРЅС‹ РїСЂРё РѕРїР»Р°С‚Рµ Р·Р°РєР°Р·Р°.</font>";
-$MESS["SALE_HPS_ROBOXCHANGE_TEMPL_BUTTON"] = "РћРїР»Р°С‚РёС‚СЊ";
+$MESS["SALE_HPS_ROBOXCHANGE_TEMPL_TITLE"] = "Вы хотите оплатить через систему <b>www.roboxchange.net</b>";
+$MESS["SALE_HPS_ROBOXCHANGE_TEMPL_ORDER"] = "Cчет №";
+$MESS["SALE_HPS_ROBOXCHANGE_TEMPL_TO_PAY"] = "Сумма к оплате по счету:";
+$MESS["SALE_HPS_ROBOXCHANGE_TEMPL_WARN"] = "<i>Внимание!</i> Возврат средств по платежной системе www.roboxchange.net невозможен, пожалуйста, будьте внимательны при оплате заказа.</font>";
+$MESS["SALE_HPS_ROBOXCHANGE_TEMPL_BUTTON"] = "Оплатить";
 
-$MESS["SALE_RES_NUMBER"] = "РќРѕРјРµСЂ СЃС‡С‘С‚Р° РІ РјР°РіР°Р·РёРЅРµ";
-$MESS["SALE_RES_DATEPAY"] = "Р”Р°С‚Р° РїР»Р°С‚РµР¶Р°";
-$MESS["SASP_RES_PAYED"] = "РћРїР»Р°С‡РµРЅ";
-$MESS["SASP_RES_PAY_TYPE"] = "РЎРїРѕСЃРѕР± РѕРїР»Р°С‚С‹";
+$MESS["SALE_RES_NUMBER"] = "Номер счёта в магазине";
+$MESS["SALE_RES_DATEPAY"] = "Дата платежа";
+$MESS["SASP_RES_PAYED"] = "Оплачен";
+$MESS["SASP_RES_PAY_TYPE"] = "Способ оплаты";

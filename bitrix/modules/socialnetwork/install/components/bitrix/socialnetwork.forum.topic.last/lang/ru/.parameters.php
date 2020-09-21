@@ -1,19 +1,19 @@
 <?
-$MESS ['F_URL_TEMPLATES'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð°Ð´Ñ€ÐµÑÐ°Ð¼Ð¸ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†";
-$MESS ['F_TOPICS_PER_PAGE'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚ÐµÐ¼ Ð½Ð° Ð¾Ð´Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
-$MESS ['F_READ_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ‡Ñ‚ÐµÐ½Ð¸Ñ Ñ‚ÐµÐ¼Ñ‹";
-$MESS ['F_PROFILE_VIEW_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
-$MESS ['F_DEFAULT_FID'] = "ID Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
-$MESS ['F_SHOW_TITLE'] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº";
-$MESS ['F_SHOW_USER_START_NAME'] = "ÐÐ²Ñ‚Ð¾Ñ€";
-$MESS ['F_SHOW_POSTS'] = "ÐžÑ‚Ð²ÐµÑ‚Ñ‹";
-$MESS ['F_SHOW_VIEWS'] = "ÐŸÑ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð¾";
-$MESS ['F_SHOW_LAST_POST_DATE'] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½ÐµÐµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
-$MESS ['F_SORTING_ORD'] = "ÐŸÐ¾Ð»Ðµ Ð´Ð»Ñ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸";
-$MESS ['F_SORTING_BY'] = "ÐÐ°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸";
-$MESS ['F_DESC_ASC'] = "ÐŸÐ¾ Ð²Ð¾Ð·Ñ€Ð°ÑÑ‚Ð°Ð½Ð¸ÑŽ";
-$MESS ['F_DESC_DESC'] = "ÐŸÐ¾ ÑƒÐ±Ñ‹Ð²Ð°Ð½Ð¸ÑŽ";
-$MESS ['F_MESSAGE_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ‡Ñ‚ÐµÐ½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['F_SOCNET_GROUP_ID'] = "ID Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['F_USER_ID'] = "ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['F_URL_TEMPLATES'] = "Óïðàâëåíèå àäðåñàìè ñòðàíèö";
+$MESS ['F_TOPICS_PER_PAGE'] = "Êîëè÷åñòâî òåì íà îäíîé ñòðàíèöå";
+$MESS ['F_READ_TEMPLATE'] = "Ñòðàíèöà ÷òåíèÿ òåìû";
+$MESS ['F_PROFILE_VIEW_TEMPLATE'] = "Ñòðàíèöà ïðîôèëÿ ïîëüçîâàòåëÿ";
+$MESS ['F_DEFAULT_FID'] = "ID ôîðóìà";
+$MESS ['F_SHOW_TITLE'] = "Çàãîëîâîê";
+$MESS ['F_SHOW_USER_START_NAME'] = "Àâòîð";
+$MESS ['F_SHOW_POSTS'] = "Îòâåòû";
+$MESS ['F_SHOW_VIEWS'] = "Ïðî÷èòàíî";
+$MESS ['F_SHOW_LAST_POST_DATE'] = "Ïîñëåäíåå ñîîáùåíèå";
+$MESS ['F_SORTING_ORD'] = "Ïîëå äëÿ ñîðòèðîâêè";
+$MESS ['F_SORTING_BY'] = "Íàïðàâëåíèå ñîðòèðîâêè";
+$MESS ['F_DESC_ASC'] = "Ïî âîçðàñòàíèþ";
+$MESS ['F_DESC_DESC'] = "Ïî óáûâàíèþ";
+$MESS ['F_MESSAGE_TEMPLATE'] = "Ñòðàíèöà ÷òåíèÿ ñîîáùåíèÿ";
+$MESS ['F_SOCNET_GROUP_ID'] = "ID ãðóïïû";
+$MESS ['F_USER_ID'] = "ID ïîëüçîâàòåëÿ";
 ?>

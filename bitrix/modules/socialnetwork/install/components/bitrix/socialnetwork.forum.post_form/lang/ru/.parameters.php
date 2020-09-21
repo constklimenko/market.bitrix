@@ -1,12 +1,12 @@
 <?
-$MESS ['F_DEFAULT_MESSAGE_TYPE'] = "Ð¢Ð¸Ð¿ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ Ñ„Ð¾Ñ€Ð¼Ñ‹ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ (Ð¾Ñ‚Ð²ÐµÑ‚, Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ, Ð½Ð¾Ð²Ð°Ñ Ñ‚ÐµÐ¼Ð°)";
-$MESS ['F_DEFAULT_FID'] = "ID Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
-$MESS ['F_DEFAULT_TID'] = "ID Ñ‚ÐµÐ¼Ñ‹";
-$MESS ['F_DEFAULT_MID'] = "ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['F_DEFAULT_PAGE_NAME'] = "ID Ð²Ñ‹Ð·Ñ‹Ð²Ð°ÑŽÑ‰ÐµÐ³Ð¾ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
-$MESS ['F_LIST_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¿Ð¸ÑÐºÐ° Ñ‚ÐµÐ¼";
-$MESS ['F_MESSAGE_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ‡Ñ‚ÐµÐ½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['F_SOCNET_GROUP_ID'] = "ID Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['F_USER_ID'] = "ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
-$MESS ['F_BVARSFROMFORM'] = "Ð’Ñ‹Ð±Ð¸Ñ€Ð°Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¸Ð· Ñ„Ð¾Ñ€Ð¼Ñ‹";
+$MESS ['F_DEFAULT_MESSAGE_TYPE'] = "Òèï îòîáðàæåíèÿ ôîðìû ðåäàêòèðîâàíèÿ (îòâåò, ðåäàêòèðîâàíèå, íîâàÿ òåìà)";
+$MESS ['F_DEFAULT_FID'] = "ID ôîðóìà";
+$MESS ['F_DEFAULT_TID'] = "ID òåìû";
+$MESS ['F_DEFAULT_MID'] = "ID ñîîáùåíèÿ";
+$MESS ['F_DEFAULT_PAGE_NAME'] = "ID âûçûâàþùåãî êîìïîíåíòà";
+$MESS ['F_LIST_TEMPLATE'] = "Ñòðàíèöà ñïèñêà òåì";
+$MESS ['F_MESSAGE_TEMPLATE'] = "Ñòðàíèöà ÷òåíèÿ ñîîáùåíèÿ";
+$MESS ['F_SOCNET_GROUP_ID'] = "ID ãðóïïû";
+$MESS ['F_USER_ID'] = "ID ïîëüçîâàòåëÿ";
+$MESS ['F_BVARSFROMFORM'] = "Âûáèðàòü äàííûå èç ôîðìû";
 ?>

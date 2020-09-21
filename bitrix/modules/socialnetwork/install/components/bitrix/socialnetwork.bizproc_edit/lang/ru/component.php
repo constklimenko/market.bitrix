@@ -1,7 +1,7 @@
 <?
-$MESS ['SONET_MODULE_NOT_INSTALL'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['SONET_MODULE_EXTRANET_NOT_INSTALL'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['SONET_MODULE_BIZPROC_NOT_INSTALL'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['SONET_BIZPROC_TITLE'] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS ['BPAT_TITLE'] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð·Ð°Ð´Ð°Ð½Ð¸Ñ â„–#ID#.";
+$MESS ['SONET_MODULE_NOT_INSTALL'] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS ['SONET_MODULE_EXTRANET_NOT_INSTALL'] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS ['SONET_MODULE_BIZPROC_NOT_INSTALL'] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS ['SONET_BIZPROC_TITLE'] = "Áèçíåñ-ïðîöåññû";
+$MESS ['BPAT_TITLE'] = "Îáðàáîòêà çàäàíèÿ ¹#ID#.";
 ?>

@@ -1,10 +1,10 @@
 <?
-$MESS ['CT_BLL_TOOLBAR_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
-$MESS ['CT_BLL_TOOLBAR_ADD_TITLE'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
-$MESS ['CT_BLL_TOOLBAR_ADD_TITLE_LIST'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
-$MESS ['CT_BLL_TOOLBAR_ADD_TITLE_PROCESS'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ Ð¿Ñ€Ð¾Ñ†ÐµÑÑ";
-$MESS ['CT_BLL_TOOLBAR_ADD_NEW'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹";
-$MESS ['CT_BLL_TOOLBAR_SHOW_LIVE_FEED'] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð² Ð–Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ðµ";
-$MESS ['CT_BLL_TOOLBAR_ADD_DEFAULT'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÑ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ñ‹Ðµ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS ['CT_BLL_TOOLBAR_TRANSITION_PROCESSES'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ Ð‘Ð¸Ð·Ð½ÐµÑ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð²";
+$MESS ['CT_BLL_TOOLBAR_ADD'] = "Äîáàâèòü";
+$MESS ['CT_BLL_TOOLBAR_ADD_TITLE'] = "Äîáàâèòü íîâûé ñïèñîê";
+$MESS ['CT_BLL_TOOLBAR_ADD_TITLE_LIST'] = "Ñîçäàòü íîâûé ñïèñîê";
+$MESS ['CT_BLL_TOOLBAR_ADD_TITLE_PROCESS'] = "Ñîçäàòü íîâûé ïðîöåññ";
+$MESS ['CT_BLL_TOOLBAR_ADD_NEW'] = "Ñîçäàòü íîâûé";
+$MESS ['CT_BLL_TOOLBAR_SHOW_LIVE_FEED'] = "Ïîêàçàòü â Æèâîé ëåíòå";
+$MESS ['CT_BLL_TOOLBAR_ADD_DEFAULT'] = "Ñîçäàòü ñòàíäàðòíûå ïðîöåññû";
+$MESS ['CT_BLL_TOOLBAR_TRANSITION_PROCESSES'] = "Êàòàëîã Áèçíåñ ïðîöåññîâ";
 ?>

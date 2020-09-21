@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ");
+$APPLICATION->SetTitle("Íàñòðîéêè ïîëüçîâàòåëÿ");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:main.profile",
 	"",

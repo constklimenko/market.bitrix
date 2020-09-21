@@ -1,4 +1,4 @@
 <?
-$MESS["SLEB_TEMPLATE_MORE"] = "ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ";
-$MESS["SLEB_TEMPLATE_BUTTON"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° Ñ€Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð½Ñ‹Ð¹ Ñ‚Ð°Ñ€Ð¸Ñ„";
+$MESS["SLEB_TEMPLATE_MORE"] = "Ïîäðîáíåå";
+$MESS["SLEB_TEMPLATE_BUTTON"] = "Ïåðåéòè íà ðàñøèðåííûé òàðèô";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ['SUBSCRIBE_INSTALL_PUBLIC_TITLE'] = "Ð Ð°ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS ['SUBSCRIBE_INSTALL_PUBLIC_TITLE'] = "Ðàññûëêè";
 ?>

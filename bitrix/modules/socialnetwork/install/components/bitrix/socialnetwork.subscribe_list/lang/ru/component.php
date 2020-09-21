@@ -1,13 +1,13 @@
 <?
-$MESS["SONET_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SONET_P_USER_NO_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
-$MESS["SONET_C30_PAGE_TITLE"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ°";
-$MESS["SONET_C30_NAV"] = "Ð—Ð°Ð¿Ð¸ÑÐ¸";
-$MESS["SONET_C30_VISIBLE_VISUAL"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ";
-$MESS["SONET_C30_VISIBLE_HIDDEN"] = "Ð¡ÐºÑ€Ñ‹Ð²Ð°Ñ‚ÑŒ";
-$MESS["SONET_C30_TRANSPORT_NONE"] = "ÐÐµ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÑÑ‚ÑŒ";
-$MESS["SONET_C30_TRANSPORT_MAIL"] = "Ð£Ð²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð¾ e-mail";
-$MESS["SONET_C30_TRANSPORT_XMPP"] = "ÐœÐ³Ð½Ð¾Ð²ÐµÐ½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
-$MESS["SONET_C30_TRANSPORT_DIGEST"] = "Ð•Ð¶ÐµÐ´Ð½ÐµÐ²Ð½Ñ‹Ð¹ Ð´Ð°Ð¹Ð´Ð¶ÐµÑÑ‚";
-$MESS["SONET_C30_TRANSPORT_DIGEST_WEEK"] = "Ð•Ð¶ÐµÐ½ÐµÐ´ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð´Ð°Ð¹Ð´Ð¶ÐµÑÑ‚";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS["SONET_P_USER_NO_USER"] = "Ïîëüçîâàòåëü íå íàéäåí";
+$MESS["SONET_C30_PAGE_TITLE"] = "Ïîäïèñêà";
+$MESS["SONET_C30_NAV"] = "Çàïèñè";
+$MESS["SONET_C30_VISIBLE_VISUAL"] = "Ïîêàçûâàòü";
+$MESS["SONET_C30_VISIBLE_HIDDEN"] = "Ñêðûâàòü";
+$MESS["SONET_C30_TRANSPORT_NONE"] = "Íå óâåäîìëÿòü";
+$MESS["SONET_C30_TRANSPORT_MAIL"] = "Óâåäîìëåíèå ïî e-mail";
+$MESS["SONET_C30_TRANSPORT_XMPP"] = "Ìãíîâåííîå ñîîáùåíèå";
+$MESS["SONET_C30_TRANSPORT_DIGEST"] = "Åæåäíåâíûé äàéäæåñò";
+$MESS["SONET_C30_TRANSPORT_DIGEST_WEEK"] = "Åæåíåäåëüíûé äàéäæåñò";
 ?>

@@ -1,18 +1,18 @@
 <?
-$MESS["CC_BLFE_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["CC_BLFE_WRONG_IBLOCK_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°.";
-$MESS["CC_BLFE_WRONG_IBLOCK"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº.";
-$MESS["CC_BLFE_LISTS_FOR_SONET_GROUP_DISABLED"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð´Ð»Ñ ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½.";
-$MESS["CC_BLFE_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
-$MESS["CC_BLFE_ACCESS_DENIED"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ¿Ð¸ÑÐºÐ°.";
-$MESS["CC_BLFE_BAD_FIELD_NAME"] = "ÐÐµ Ð²Ð²ÐµÐ´ÐµÐ½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ.";
-$MESS["CC_BLFE_WRONG_LINK_IBLOCK"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ð´Ð»Ñ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ‚Ð¸Ð¿Ð° \"ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ°\".";
-$MESS["CC_BLFE_FIELD_NAME_DEFAULT"] = "ÐÐ¾Ð²Ð¾Ðµ Ð¿Ð¾Ð»Ðµ";
-$MESS["CC_BLFE_TITLE_EDIT"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð¾Ð»Ñ: #NAME#";
-$MESS["CC_BLFE_TITLE_NEW"] = "ÐÐ¾Ð²Ð¾Ðµ Ð¿Ð¾Ð»Ðµ";
-$MESS["CC_BLFE_CHAIN_FIELDS"] = "ÐŸÐ¾Ð»Ñ ÑÐ¿Ð¸ÑÐºÐ°";
-$MESS["CC_BLFE_CHAIN_LIST_EDIT"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° ÑÐ¿Ð¸ÑÐºÐ°";
-$MESS["CC_BLFE_BAD_FIELD_ADD_READ_ONLY"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾";
-$MESS["CC_BLFE_INVALID_DEFAULT_VALUE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¿Ð¾Ð»Ñ \"Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ\"";
-$MESS["CC_BLFE_INVALID_LIST_VALUE"] = "ÐÐµÐ»ÑŒÐ·Ñ ÑƒÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°Ñ‚ÑŒ Ð´Ð²Ð° Ð¾Ð´Ð¸Ð½Ð°ÐºÐ¾Ð²Ñ‹Ñ… Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["CC_BLFE_MODULE_NOT_INSTALLED"] = "Ìîäóëü óíèâåðñàëüíûõ ñïèñêîâ íå óñòàíîâëåí.";
+$MESS["CC_BLFE_WRONG_IBLOCK_TYPE"] = "Íåâåðíûé òèï èíôîðìàöèîííîãî áëîêà.";
+$MESS["CC_BLFE_WRONG_IBLOCK"] = "Óêàçàí íåâåðíûé ñïèñîê.";
+$MESS["CC_BLFE_LISTS_FOR_SONET_GROUP_DISABLED"] = "Ôóíêöèîíàë ñïèñêîâ äëÿ ýòîé ãðóïïû îòêëþ÷åí.";
+$MESS["CC_BLFE_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà.";
+$MESS["CC_BLFE_ACCESS_DENIED"] = "Íåò ïðàâ äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ ñïèñêà.";
+$MESS["CC_BLFE_BAD_FIELD_NAME"] = "Íå ââåäåíî íàçâàíèå.";
+$MESS["CC_BLFE_WRONG_LINK_IBLOCK"] = "Óêàçàí íåâåðíûé ñïèñîê äëÿ ñâîéñòâà òèïà \"Ïðèâÿçêà\".";
+$MESS["CC_BLFE_FIELD_NAME_DEFAULT"] = "Íîâîå ïîëå";
+$MESS["CC_BLFE_TITLE_EDIT"] = "Íàñòðîéêà ïîëÿ: #NAME#";
+$MESS["CC_BLFE_TITLE_NEW"] = "Íîâîå ïîëå";
+$MESS["CC_BLFE_CHAIN_FIELDS"] = "Ïîëÿ ñïèñêà";
+$MESS["CC_BLFE_CHAIN_LIST_EDIT"] = "Íàñòðîéêà ñïèñêà";
+$MESS["CC_BLFE_BAD_FIELD_ADD_READ_ONLY"] = "Çíà÷åíèå ïî óìîë÷àíèþ äîëæíî áûòü çàïîëíåíî";
+$MESS["CC_BLFE_INVALID_DEFAULT_VALUE"] = "Íåâåðíûé ôîðìàò ïîëÿ \"Çíà÷åíèå ïî óìîë÷àíèþ\"";
+$MESS["CC_BLFE_INVALID_LIST_VALUE"] = "Íåëüçÿ óñòàíàâëèâàòü äâà îäèíàêîâûõ çíà÷åíèÿ ñïèñêà";
 ?>

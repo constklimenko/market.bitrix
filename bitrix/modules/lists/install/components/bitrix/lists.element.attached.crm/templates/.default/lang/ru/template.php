@@ -1,8 +1,8 @@
 <?
-$MESS["LEACT_TITLE_ADD_ELEMENT_BUTTON"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚";
-$MESS["LEACT_DELETE_POPUP_TITLE"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ ÑÐ²ÑÐ·Ð¸";
-$MESS["LEACT_DELETE_POPUP_ACCEPT_BUTTON"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
-$MESS["LEACT_DELETE_POPUP_CANCEL_BUTTON"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
-$MESS["LEACT_TOOLBAR_ELEMENT_DELETE_WARNING"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ²ÑÐ·ÑŒ Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð¼?";
-$MESS["LEACT_TOOLBAR_ELEMENT_DELETE_WARNING_BRIEF"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ²ÑÐ·ÑŒ?";
+$MESS["LEACT_TITLE_ADD_ELEMENT_BUTTON"] = "Äîáàâèòü ýëåìåíò";
+$MESS["LEACT_DELETE_POPUP_TITLE"] = "Ïîäòâåðæäåíèå óäàëåíèÿ ñâÿçè";
+$MESS["LEACT_DELETE_POPUP_ACCEPT_BUTTON"] = "Óäàëèòü";
+$MESS["LEACT_DELETE_POPUP_CANCEL_BUTTON"] = "Îòìåíà";
+$MESS["LEACT_TOOLBAR_ELEMENT_DELETE_WARNING"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ñâÿçü ñ ýëåìåíòîì?";
+$MESS["LEACT_TOOLBAR_ELEMENT_DELETE_WARNING_BRIEF"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ñâÿçü?";
 ?>

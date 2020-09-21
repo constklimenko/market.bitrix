@@ -1,4 +1,4 @@
 <?
-$MESS["DISK_BP"] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS["DISK_FILE_VIEW_START_BIZPROC_GO_BACK_TEXT"] = "ÐÐ°Ð·Ð°Ð´";
-$MESS["DISK_FILE_VIEW_START_BIZPROC__GO_BACK_TITLE"] = "Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ Ð½Ð°Ð·Ð°Ð´";
+$MESS["DISK_BP"] = "Áèçíåñ-ïðîöåññû";
+$MESS["DISK_FILE_VIEW_START_BIZPROC_GO_BACK_TEXT"] = "Íàçàä";
+$MESS["DISK_FILE_VIEW_START_BIZPROC__GO_BACK_TITLE"] = "Âåðíóòüñÿ íàçàä";

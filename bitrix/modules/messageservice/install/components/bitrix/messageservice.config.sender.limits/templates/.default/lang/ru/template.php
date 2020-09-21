@@ -1,12 +1,12 @@
 <?
-$MESS["MESSAGESERVICE_CONFIG_SENDER_LIMIT_TITLE"] = "Ð›Ð¸Ð¼Ð¸Ñ‚Ñ‹ Ð´Ð»Ñ SMS";
-$MESS["MESSAGESERVICE_CONFIG_SENDER_LIMIT_TIP"] = "Ð›Ð¸Ð¼Ð¸Ñ‚Ñ‹ Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÑŒÐ½Ð¾ ÑƒÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÑŽÑ‚ÑÑ Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€Ð¾Ð¼. Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ð¸Ñ… Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð² ÐºÐ¾Ð»Ð¾Ð½ÐºÐµ Ð½Ð¸Ð¶Ðµ Ð¸ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24 Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ sms Ñ€Ð°ÑÑÑ‹Ð»Ð¾Ðº.";
-$MESS["MESSAGESERVICE_CONFIG_SENDER_LIMIT_TIP_ADMIN"] = "Ð›Ð¸Ð¼Ð¸Ñ‚Ñ‹ Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÑŒÐ½Ð¾ ÑƒÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÑŽÑ‚ÑÑ Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€Ð¾Ð¼. Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ð¸Ñ… Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð² ÐºÐ¾Ð»Ð¾Ð½ÐºÐµ Ð½Ð¸Ð¶Ðµ.";
-$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_DESCRIPTION"] = "ÐŸÑ€Ð¸ Ð´Ð¾ÑÑ‚Ð¸Ð¶ÐµÐ½Ð¸Ð¸ Ð»Ð¸Ð¼Ð¸Ñ‚Ð°, ÑÐ»ÐµÐ´ÑƒÑŽÑ‰ÑƒÑŽ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÑƒ Ð´ÐµÐ»Ð°Ñ‚ÑŒ Ð½Ð° ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¹ Ð´ÐµÐ½ÑŒ";
-$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_CHANGE"] = "Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
-$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_AUTO"] = "Ð² ÑÑ‚Ð¾ Ð¶Ðµ Ð²Ñ€ÐµÐ¼Ñ";
-$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_IN_TIME"] = "Ð² #TIME# Ñ‡Ð°ÑÐ¾Ð²";
-$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
-$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
-$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_TZ"] = "Ñ‡Ð°ÑÐ¾Ð²Ð¾Ð¹ Ð¿Ð¾ÑÑ";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_LIMIT_TITLE"] = "Ëèìèòû äëÿ SMS";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_LIMIT_TIP"] = "Ëèìèòû èíäèâèäóàëüíî óñòàíàâëèâàþòñÿ ïðîâàéäåðîì. Óêàæèòå èõ çíà÷åíèÿ â êîëîíêå íèæå è Áèòðèêñ24 èñïîëüçóåò äàííûå ïðè ñîçäàíèè sms ðàññûëîê.";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_LIMIT_TIP_ADMIN"] = "Ëèìèòû èíäèâèäóàëüíî óñòàíàâëèâàþòñÿ ïðîâàéäåðîì. Óêàæèòå èõ çíà÷åíèÿ â êîëîíêå íèæå.";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_DESCRIPTION"] = "Ïðè äîñòèæåíèè ëèìèòà, ñëåäóþùóþ ïîïûòêó äåëàòü íà ñëåäóþùèé äåíü";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_CHANGE"] = "èçìåíèòü";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_AUTO"] = "â ýòî æå âðåìÿ";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_IN_TIME"] = "â #TIME# ÷àñîâ";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_SAVE"] = "Ñîõðàíèòü";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_CANCEL"] = "Îòìåíèòü";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_RETRY_TZ"] = "÷àñîâîé ïîÿñ";
 ?>

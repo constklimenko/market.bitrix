@@ -1,7 +1,7 @@
 <?
-$MESS ['BPWIT_TOTAL'] = "Ð’ÑÐµÐ³Ð¾";
-$MESS ['BPWIT_PAGES'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
-$MESS ['BPWIT_PREV'] = "Ð¿Ñ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰Ð°Ñ";
-$MESS ['BPWIT_NEXT'] = "ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð°Ñ";
-$MESS ["BPWIT_UNKNOWN"] = "Ð½ÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð¾";
+$MESS ['BPWIT_TOTAL'] = "Âñåãî";
+$MESS ['BPWIT_PAGES'] = "Ñòðàíèöû";
+$MESS ['BPWIT_PREV'] = "ïðåäûäóùàÿ";
+$MESS ['BPWIT_NEXT'] = "ñëåäóþùàÿ";
+$MESS ["BPWIT_UNKNOWN"] = "íåèçâåñòíî";
 ?>

@@ -1,10 +1,10 @@
 <?php
-$MESS["BLOG_POST_PREVIEW_TITLE"]="Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
-$MESS["BLOG_POST_PREVIEW_AUTHOR"]="ÐÐ²Ñ‚Ð¾Ñ€";
-$MESS["BLOG_POST_PUBLISHED"]="Ð”Ð°Ñ‚Ð° Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸";
-$MESS["BLOG_POST_PUBLISH_STATUS"]="Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
-$MESS["BLOG_POST_PUBLISH_STATUS_D"] = "Ð§ÐµÑ€Ð½Ð¾Ð²Ð¸Ðº";
-$MESS["BLOG_POST_PUBLISH_STATUS_K"] = "Ð“Ð¾Ñ‚Ð¾Ð²Ð¾ Ðº Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ¾Ð²Ð°Ð½Ð¸ÑŽ";
-$MESS["BLOG_POST_PUBLISH_STATUS_P"] = "ÐžÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ¾Ð²Ð°Ð½Ð¾";
-$MESS["BLOG_POST_PREVIEW_BLOG_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð‘Ð»Ð¾Ð³Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["BLOG_POST_PREVIEW_SOCIALNETWORK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS["BLOG_POST_PREVIEW_TITLE"]="Ñîîáùåíèå";
+$MESS["BLOG_POST_PREVIEW_AUTHOR"]="Àâòîð";
+$MESS["BLOG_POST_PUBLISHED"]="Äàòà ïóáëèêàöèè";
+$MESS["BLOG_POST_PUBLISH_STATUS"]="Ñòàòóñ";
+$MESS["BLOG_POST_PUBLISH_STATUS_D"] = "×åðíîâèê";
+$MESS["BLOG_POST_PUBLISH_STATUS_K"] = "Ãîòîâî ê ïóáëèêîâàíèþ";
+$MESS["BLOG_POST_PUBLISH_STATUS_P"] = "Îïóáëèêîâàíî";
+$MESS["BLOG_POST_PREVIEW_BLOG_MODULE_NOT_INSTALLED"] = "Ìîäóëü Áëîãè íå óñòàíîâëåí.";
+$MESS["BLOG_POST_PREVIEW_SOCIALNETWORK_MODULE_NOT_INSTALLED"] = "Ìîäóëü Ñîöèàëüíàÿ ñåòü íå óñòàíîâëåí.";

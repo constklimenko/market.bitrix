@@ -1,3 +1,3 @@
 <?php
-$MESS["MAIL_SIGNATURE_DELETED_SUCCESS"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ ÑƒÐ´Ð°Ð»ÐµÐ½Ð°";
-$MESS["MAIL_SIGNATURE_DELETE_CONFIRM"] = "Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÑŒ?";
+$MESS["MAIL_SIGNATURE_DELETED_SUCCESS"] = "Ïîäïèñü óäàëåíà";
+$MESS["MAIL_SIGNATURE_DELETE_CONFIRM"] = "Âû äåéñòâèòåëüíî õîòèòå óäàëèòü ïîäïèñü?";

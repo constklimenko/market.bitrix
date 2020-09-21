@@ -1,9 +1,9 @@
 <?
-$MESS["CP_BLM_IBLOCK_TYPE_ID"] = "Ð¢Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
-$MESS["CP_BLM_IS_SEF"] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ€ÐµÐ¶Ð¸Ð¼ ÑÐ¾Ð²Ð¼ÐµÑÑ‚Ð¸Ð¼Ð¾ÑÑ‚Ð¸ Ñ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¾Ð¹ Ð§ÐŸÐ£";
-$MESS["CP_BLM_SEF_BASE_URL"] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ Ð§ÐŸÐ£ (Ð¾Ñ‚Ð½Ð¾ÑÐ¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ ÐºÐ¾Ñ€Ð½Ñ ÑÐ°Ð¹Ñ‚Ð°)";
-$MESS["CP_BLM_SEF_LIST_BASE_URL"] = "ÐžÑÐ½Ð¾Ð²Ð° Ð§ÐŸÐ£ URL ÑÐ¿Ð¸ÑÐºÐ°";
-$MESS["CP_BLM_SEF_LIST_URL"] = "URL ÑÐ¿Ð¸ÑÐºÐ°";
-$MESS["CP_BLM_LIST_URL"] = "URL ÑÐ¿Ð¸ÑÐºÐ°";
-$MESS["CP_BLM_LIST_ID"] = "ID ÑÐ¿Ð¸ÑÐºÐ° Ð´Ð»Ñ Ð¿Ð¾Ð´ÑÐ²ÐµÑ‚ÐºÐ¸ Ð¿ÑƒÐ½ÐºÑ‚Ð° Ð¼ÐµÐ½ÑŽ";
+$MESS["CP_BLM_IBLOCK_TYPE_ID"] = "Òèï èíôîáëîêà";
+$MESS["CP_BLM_IS_SEF"] = "Âêëþ÷èòü ðåæèì ñîâìåñòèìîñòè ñ ïîääåðæêîé ×ÏÓ";
+$MESS["CP_BLM_SEF_BASE_URL"] = "Êàòàëîã ×ÏÓ (îòíîñèòåëüíî êîðíÿ ñàéòà)";
+$MESS["CP_BLM_SEF_LIST_BASE_URL"] = "Îñíîâà ×ÏÓ URL ñïèñêà";
+$MESS["CP_BLM_SEF_LIST_URL"] = "URL ñïèñêà";
+$MESS["CP_BLM_LIST_URL"] = "URL ñïèñêà";
+$MESS["CP_BLM_LIST_ID"] = "ID ñïèñêà äëÿ ïîäñâåòêè ïóíêòà ìåíþ";
 ?>

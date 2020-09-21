@@ -1,3 +1,3 @@
 <?
-$MESS["CT_BL_LIST_GO_BACK"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["CT_BL_LIST_GO_BACK"] = "Íàçàä";
 ?>

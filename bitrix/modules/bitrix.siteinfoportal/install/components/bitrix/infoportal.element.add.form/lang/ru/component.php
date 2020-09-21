@@ -1,12 +1,12 @@
 <?
-$MESS ['IBLOCK_ADD_ERROR_REQUIRED'] = "РџРѕР»Рµ '#PROPERTY_NAME#' РґРѕР»Р¶РЅРѕ Р±С‹С‚СЊ Р·Р°РїРѕР»РЅРµРЅРѕ!";
-$MESS ['IBLOCK_ADD_ELEMENT_NOT_FOUND'] = "Р­Р»РµРјРµРЅС‚ РЅРµ РЅР°Р№РґРµРЅ";
-$MESS ['IBLOCK_ADD_ACCESS_DENIED'] = "РќРµС‚ РґРѕСЃС‚СѓРїР°";
-$MESS ['IBLOCK_FORM_WRONG_CAPTCHA'] = "РќРµРІРµСЂРЅРѕ РІРІРµРґРµРЅРѕ СЃР»РѕРІРѕ СЃ РєР°СЂС‚РёРЅРєРё";
-$MESS ['IBLOCK_ADD_MAX_ENTRIES_EXCEEDED'] = "РџСЂРµРІС‹С€РµРЅРѕ РјР°РєСЃРёРјР°Р»СЊРЅРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ Р·Р°РїРёСЃРµР№";
-$MESS ['IBLOCK_ADD_MAX_LEVELS_EXCEEDED'] = "РџСЂРµРІС‹С€РµРЅРѕ РјР°РєСЃРёРјР°Р»СЊРЅРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ СЂР°Р·РґРµР»РѕРІ - #MAX_LEVELS#";
-$MESS ['IBLOCK_ADD_LEVEL_LAST_ERROR'] = "Р Р°Р·СЂРµС€РµРЅРѕ РґРѕР±Р°РІР»РµРЅРёРµ С‚РѕР»СЊРєРѕ РІ СЂР°Р·РґРµР»С‹ РїРѕСЃР»РµРґРЅРµРіРѕ СѓСЂРѕРІРЅСЏ";
-$MESS ['IBLOCK_USER_MESSAGE_ADD_DEFAULT'] = "Р­Р»РµРјРµРЅС‚ СѓСЃРїРµС€РЅРѕ РґРѕР±Р°РІР»РµРЅ";
-$MESS ['IBLOCK_USER_MESSAGE_EDIT_DEFAULT'] = "РР·РјРµРЅРµРЅРёСЏ СѓСЃРїРµС€РЅРѕ СЃРѕС…СЂР°РЅРµРЅС‹";
-$MESS ['IBLOCK_ERROR_FILE_TOO_LARGE'] = "Р Р°Р·РјРµСЂ Р·Р°РіСЂСѓР¶РµРЅРЅРѕРіРѕ С„Р°Р№Р»Р° РїСЂРµРІС‹С€Р°РµС‚ РґРѕРїСѓСЃС‚РёРјРѕРµ Р·РЅР°С‡РµРЅРёРµ";
+$MESS ['IBLOCK_ADD_ERROR_REQUIRED'] = "Поле '#PROPERTY_NAME#' должно быть заполнено!";
+$MESS ['IBLOCK_ADD_ELEMENT_NOT_FOUND'] = "Элемент не найден";
+$MESS ['IBLOCK_ADD_ACCESS_DENIED'] = "Нет доступа";
+$MESS ['IBLOCK_FORM_WRONG_CAPTCHA'] = "Неверно введено слово с картинки";
+$MESS ['IBLOCK_ADD_MAX_ENTRIES_EXCEEDED'] = "Превышено максимальное количество записей";
+$MESS ['IBLOCK_ADD_MAX_LEVELS_EXCEEDED'] = "Превышено максимальное количество разделов - #MAX_LEVELS#";
+$MESS ['IBLOCK_ADD_LEVEL_LAST_ERROR'] = "Разрешено добавление только в разделы последнего уровня";
+$MESS ['IBLOCK_USER_MESSAGE_ADD_DEFAULT'] = "Элемент успешно добавлен";
+$MESS ['IBLOCK_USER_MESSAGE_EDIT_DEFAULT'] = "Изменения успешно сохранены";
+$MESS ['IBLOCK_ERROR_FILE_TOO_LARGE'] = "Размер загруженного файла превышает допустимое значение";
 ?>

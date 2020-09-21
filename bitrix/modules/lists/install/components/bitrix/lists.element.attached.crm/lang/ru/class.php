@@ -1,12 +1,12 @@
 <?
-$MESS["LEAC_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"MODULE_ID\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
-$MESS["LEAC_ERROR_REQUIRED_PARAMETER"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
-$MESS["LEAC_GRID_ACTION_ELEMENT_SHOW"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ";
-$MESS["LEAC_GRID_ACTION_ELEMENT_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
-$MESS["LEAC_GRID_ACTION_ELEMENT_SHOW_TITLE"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS["LEAC_GRID_ACTION_ELEMENT_UNBIND"] = "ÐžÑ‚Ð²ÑÐ·Ð°Ñ‚ÑŒ";
-$MESS["LEAC_GRID_ACTION_ELEMENT_UNBIND_TITLE"] = "ÐžÑ‚Ð²ÑÐ·Ð°Ñ‚ÑŒ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ Ð¾Ñ‚ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ crm";
-$MESS["LEAC_GRID_PAGE_SIZES_ALL"] = "Ð’ÑÐµ";
-$MESS["LEAC_GRID_ACTION_ELEMENT_UNBIND_DEL"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
-$MESS["LEAC_GRID_ACTION_ELEMENT_UNBIND_TITLE_DEL"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ²ÑÐ·ÑŒ Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð¼";
+$MESS["LEAC_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"MODULE_ID\" íå óñòàíîâëåí";
+$MESS["LEAC_ERROR_REQUIRED_PARAMETER"] = "Íå óêàçàíû îáÿçàòåëüíûå ïàðàìåòðû";
+$MESS["LEAC_GRID_ACTION_ELEMENT_SHOW"] = "Ïðîñìîòðåòü";
+$MESS["LEAC_GRID_ACTION_ELEMENT_EDIT"] = "Ðåäàêòèðîâàòü";
+$MESS["LEAC_GRID_ACTION_ELEMENT_SHOW_TITLE"] = "Ïåðåéòè íà ñòðàíèöó ýëåìåíòà";
+$MESS["LEAC_GRID_ACTION_ELEMENT_UNBIND"] = "Îòâÿçàòü";
+$MESS["LEAC_GRID_ACTION_ELEMENT_UNBIND_TITLE"] = "Îòâÿçàòü ýëåìåíò îò ñóùíîñòè crm";
+$MESS["LEAC_GRID_PAGE_SIZES_ALL"] = "Âñå";
+$MESS["LEAC_GRID_ACTION_ELEMENT_UNBIND_DEL"] = "Óäàëèòü";
+$MESS["LEAC_GRID_ACTION_ELEMENT_UNBIND_TITLE_DEL"] = "Óäàëèòü ñâÿçü ñ ýëåìåíòîì";
 ?>

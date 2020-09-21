@@ -1,10 +1,10 @@
 <?
-$MESS["LISTS_CPAC_NOT_SELECTED_PROCESSES"] = "ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ñ‹ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹ Ð´Ð»Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸!";
-$MESS["LISTS_CPAC_INCORRECT_DATA"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ!";
-$MESS["LISTS_CPAC_MESSAGE_SUCCESS"] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾";
-$MESS["LISTS_CPAC_WRONG_IBLOCK_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°.";
-$MESS["LISTS_CPAC_WRONG_IBLOCK"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº.";
-$MESS["LISTS_CPAC_SONET_GROUP_DISABLED"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð´Ð»Ñ ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½.";
-$MESS["LISTS_CPAC_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
-$MESS["LISTS_CPAC_ACCESS_DENIED"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ¿Ð¸ÑÐºÐ°.";
+$MESS["LISTS_CPAC_NOT_SELECTED_PROCESSES"] = "Íå âûáðàíû ïðîöåññû äëÿ óñòàíîâêè!";
+$MESS["LISTS_CPAC_INCORRECT_DATA"] = "Íåêîððåêòíûå äàííûå!";
+$MESS["LISTS_CPAC_MESSAGE_SUCCESS"] = "Óñïåøíî";
+$MESS["LISTS_CPAC_WRONG_IBLOCK_TYPE"] = "Íåâåðíûé òèï èíôîðìàöèîííîãî áëîêà.";
+$MESS["LISTS_CPAC_WRONG_IBLOCK"] = "Óêàçàí íåâåðíûé ñïèñîê.";
+$MESS["LISTS_CPAC_SONET_GROUP_DISABLED"] = "Ôóíêöèîíàë ñïèñêîâ äëÿ ýòîé ãðóïïû îòêëþ÷åí.";
+$MESS["LISTS_CPAC_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà.";
+$MESS["LISTS_CPAC_ACCESS_DENIED"] = "Íåò ïðàâ äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ ñïèñêà.";
 ?>

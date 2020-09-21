@@ -1,3 +1,3 @@
 <?
-$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["BIZPROCDESIGNER_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð”Ð¸Ð·Ð°Ð¹Ð½ÐµÑ€ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "Ìîäóëü Áèçíåñ-ïðîöåññû íå óñòàíîâëåí.";
+$MESS["BIZPROCDESIGNER_MODULE_NOT_INSTALLED"] = "Ìîäóëü Äèçàéíåð áèçíåñ-ïðîöåññîâ íå óñòàíîâëåí.";

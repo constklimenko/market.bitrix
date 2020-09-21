@@ -1,3 +1,3 @@
 <?
-$MESS["BPTA1_PD_STATE_TITLE"] = "Ð¢ÐµÐºÑÑ‚ ÑÑ‚Ð°Ñ‚ÑƒÑÐ°";
+$MESS["BPTA1_PD_STATE_TITLE"] = "Òåêñò ñòàòóñà";
 ?>

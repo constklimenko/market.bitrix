@@ -1,8 +1,8 @@
 <?
-$MESS ['BLOG_MAIN_MES_NO_SUBJECT'] = "<–±–µ–∑ —Ç–µ–º—ã>";
-$MESS ['BLOG_BLOG_M_TITLE_BLOG'] = "–ü—Ä–æ—Å–º–æ—Ç—Ä–µ—Ç—å –±–ª–æ–≥ –ø–æ–ª—å–∑–æ–≤–∞—Ç–µ–ª—è";
-$MESS ['BLOG_BLOG_M_NUM_COMMENTS'] = "–ö–æ–ª–∏—á–µ—Å—Ç–≤–æ –∫–æ–º–º–µ–Ω—Ç–∞—Ä–∏–µ–≤";
-$MESS ['BLOG_BLOG_M_VIEWS'] = "–ö–æ–ª–∏—á–µ—Å—Ç–≤–æ –ø—Ä–æ—Å–º–æ—Ç—Ä–æ–≤";
-$MESS ['BLOG_BLOG_M_DATE'] = "–í—Ä–µ–º—è –ø—É–±–ª–∏–∫–∞—Ü–∏–∏";
-$MESS ['BLOG_BLOG_FAVORITE'] = "–õ—É—á—à–∏–µ —Å–æ–æ–±—â–µ–Ω–∏—è";
+$MESS ['BLOG_MAIN_MES_NO_SUBJECT'] = "<·ÂÁ ÚÂÏ˚>";
+$MESS ['BLOG_BLOG_M_TITLE_BLOG'] = "œÓÒÏÓÚÂÚ¸ ·ÎÓ„ ÔÓÎ¸ÁÓ‚‡ÚÂÎˇ";
+$MESS ['BLOG_BLOG_M_NUM_COMMENTS'] = " ÓÎË˜ÂÒÚ‚Ó ÍÓÏÏÂÌÚ‡ËÂ‚";
+$MESS ['BLOG_BLOG_M_VIEWS'] = " ÓÎË˜ÂÒÚ‚Ó ÔÓÒÏÓÚÓ‚";
+$MESS ['BLOG_BLOG_M_DATE'] = "¬ÂÏˇ ÔÛ·ÎËÍ‡ˆËË";
+$MESS ['BLOG_BLOG_FAVORITE'] = "ÀÛ˜¯ËÂ ÒÓÓ·˘ÂÌËˇ";
 ?>

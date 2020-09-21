@@ -7,8 +7,8 @@ $orderDate = CSalePaySystemAction::GetParamValue("ORDER_DATE");
 $orderNumber = CSalePaySystemAction::GetParamValue("ORDER_ID");
 $Sum = number_format($Sum, 2, ',', '');
 ?>
-<p>Р’С‹ С…РѕС‚РёС‚Рµ РѕРїР»Р°С‚РёС‚СЊ С‡РµСЂРµР· СЃРёСЃС‚РµРјСѓ <strong>РЇРЅРґРµРєСЃ.Р”РµРЅСЊРіРё</strong>.</p>
-<p>РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ РїРѕ СЃС‡РµС‚Сѓ: <strong><?=$Sum?> СЂ.</strong></p>
+<p>Вы хотите оплатить через систему <strong>Яндекс.Деньги</strong>.</p>
+<p>Сумма к оплате по счету: <strong><?=$Sum?> р.</strong></p>
 <?if(strlen(CSalePaySystemAction::GetParamValue("IS_TEST")) > 0):
 	?>
 	<form name="ShopForm" action="https://demomoney.yandex.ru/eshop.xml" method="post" target="_blank">
@@ -23,9 +23,9 @@ $Sum = number_format($Sum, 2, ',', '');
 	<input name="orderNumber" value="<?=$orderNumber?>" type="hidden">
 	<input name="Sum" value="<?=$Sum?>" type="hidden">
 	<input name="cms_name" value="1C-Bitrix" type="hidden">
-		<p>Р”РµС‚Р°Р»Рё Р·Р°РєР°Р·Р°:</p>
-		<input name="OrderDetails" value="Р·Р°РєР°Р· в„–<?=$orderNumber?> (<?=$orderDate?>)" type="hidden">
-		<input name="BuyButton" value="РћРїР»Р°С‚РёС‚СЊ" type="submit" class="btn btn-primary">
+		<p>Детали заказа:</p>
+		<input name="OrderDetails" value="заказ №<?=$orderNumber?> (<?=$orderDate?>)" type="hidden">
+		<input name="BuyButton" value="Оплатить" type="submit" class="btn btn-primary">
 
-	<div class="alert alert-info mt-4"><strong>Р’РќРРњРђРќРР•!</strong> Р’РѕР·РІСЂР°С‚ СЃСЂРµРґСЃС‚РІ РїРѕ РїР»Р°С‚РµР¶РЅРѕР№ СЃРёСЃС‚РµРјРµ РЇРЅРґРµРєСЃ.Р”РµРЅСЊРіРё - РЅРµРІРѕР·РјРѕР¶РµРЅ, РїРѕР¶Р°Р»СѓР№СЃС‚Р°, Р±СѓРґСЊС‚Рµ РІРЅРёРјР°С‚РµР»СЊРЅС‹ РїСЂРё РѕРїР»Р°С‚Рµ Р·Р°РєР°Р·Р°.</div>
+	<div class="alert alert-info mt-4"><strong>ВНИМАНИЕ!</strong> Возврат средств по платежной системе Яндекс.Деньги - невозможен, пожалуйста, будьте внимательны при оплате заказа.</div>
 </form>

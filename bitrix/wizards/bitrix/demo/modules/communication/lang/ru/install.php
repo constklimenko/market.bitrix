@@ -1,3 +1,3 @@
 <?
-$MESS["COMMUNICATION_MENU_NAME"] = "ÐžÐ±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["COMMUNICATION_MENU_NAME"] = "Îáùåíèå";
 ?>

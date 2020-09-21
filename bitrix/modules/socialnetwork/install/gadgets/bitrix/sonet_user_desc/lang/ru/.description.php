@@ -1,4 +1,4 @@
 <?
-$MESS ['GD_SONET_USER_DESC_NAME'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
-$MESS ['GD_SONET_USER_DESC_DESC'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['GD_SONET_USER_DESC_NAME'] = "Îïèñàíèå";
+$MESS ['GD_SONET_USER_DESC_DESC'] = "Îïèñàíèå ïîëüçîâàòåëÿ";
 ?>

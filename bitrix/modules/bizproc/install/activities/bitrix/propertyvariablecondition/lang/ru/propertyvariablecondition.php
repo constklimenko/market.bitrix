@@ -1,3 +1,3 @@
 <?
-$MESS ['BPPVC_EMPTY_CONDITION'] = "Ð£ÑÐ»Ð¾Ð²Ð¸Ðµ Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾";
+$MESS ['BPPVC_EMPTY_CONDITION'] = "Óñëîâèå íå óêàçàíî";
 ?>

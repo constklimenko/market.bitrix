@@ -1,16 +1,16 @@
 <?
-$MESS["BPMA_EMPTY_PROP4"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐšÐ¾Ð´Ð¸Ñ€Ð¾Ð²ÐºÐ° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS["BPMA_EMPTY_PROP7"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS["BPMA_EMPTY_PROP6"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° 'Ð¢Ð¸Ð¿ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ' Ð½Ðµ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾.";
-$MESS["BPMA_EMPTY_PROP5"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'Ð¢Ð¸Ð¿ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS["BPMA_EMPTY_PROP2"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS["BPMA_EMPTY_PROP1"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS["BPMA_EMPTY_PROP3"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'Ð¢ÐµÐ¼Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS["BPMA_ATTACHMENT"] = "Ð’Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
-$MESS["BPMA_ATTACHMENT_TYPE"] = "Ð¢Ð¸Ð¿ Ð²Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
-$MESS["BPMA_ATTACHMENT_FILE"] = "Ð¤Ð°Ð¹Ð»Ñ‹";
-$MESS["BPMA_ATTACHMENT_DISK"] = "Ð¤Ð°Ð¹Ð»Ñ‹ Ð”Ð¸ÑÐºÐ°";
-$MESS["BPMA_MAIL_USER_FROM"] = "ÐžÑ‚ ÐºÐ¾Ð³Ð¾";
-$MESS["BPMA_MAIL_SUBJECT"] = "Ð¢ÐµÐ¼Ð°";
-$MESS["BPMA_MAIL_USER_TO"] = "ÐšÐ¾Ð¼Ñƒ";
+$MESS["BPMA_EMPTY_PROP4"] = "Ñâîéñòâî 'Êîäèðîâêà ñîîáùåíèÿ' íå óêàçàíî.";
+$MESS["BPMA_EMPTY_PROP7"] = "Ñâîéñòâî 'Òåêñò ñîîáùåíèÿ' íå óêàçàíî.";
+$MESS["BPMA_EMPTY_PROP6"] = "Çíà÷åíèå ñâîéñòâà 'Òèï ñîîáùåíèÿ' íå êîððåêòíî.";
+$MESS["BPMA_EMPTY_PROP5"] = "Ñâîéñòâî 'Òèï ñîîáùåíèÿ' íå óêàçàíî.";
+$MESS["BPMA_EMPTY_PROP2"] = "Ñâîéñòâî 'Ïîëó÷àòåëü' íå óêàçàíî.";
+$MESS["BPMA_EMPTY_PROP1"] = "Ñâîéñòâî 'Îòïðàâèòåëü' íå óêàçàíî.";
+$MESS["BPMA_EMPTY_PROP3"] = "Ñâîéñòâî 'Òåìà ñîîáùåíèÿ' íå óêàçàíî.";
+$MESS["BPMA_ATTACHMENT"] = "Âëîæåíèÿ";
+$MESS["BPMA_ATTACHMENT_TYPE"] = "Òèï âëîæåíèé";
+$MESS["BPMA_ATTACHMENT_FILE"] = "Ôàéëû";
+$MESS["BPMA_ATTACHMENT_DISK"] = "Ôàéëû Äèñêà";
+$MESS["BPMA_MAIL_USER_FROM"] = "Îò êîãî";
+$MESS["BPMA_MAIL_SUBJECT"] = "Òåìà";
+$MESS["BPMA_MAIL_USER_TO"] = "Êîìó";
 ?>

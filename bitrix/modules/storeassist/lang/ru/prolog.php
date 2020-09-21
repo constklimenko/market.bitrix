@@ -1,3 +1,3 @@
 <?
-$MESS ['STOREAS_ICON_TITLE'] = "ÐœÐ°ÑÑ‚ÐµÑ€ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
+$MESS ['STOREAS_ICON_TITLE'] = "Ìàñòåð ìàãàçèíà";
 ?>

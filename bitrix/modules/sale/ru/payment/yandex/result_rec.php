@@ -16,8 +16,8 @@ $bCorrectPayment = True;
 if(!($arOrder = CSaleOrder::GetByID($customerNumber)))
 {
 	$bCorrectPayment = False;
-	$code = "200"; //РЅРµРІРµСЂРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹
-	$techMessage = "ID Р·Р°РєР°Р·Р° РЅРµРёР·РІРµСЃС‚РµРЅ.";
+	$code = "200"; //неверные параметры
+	$techMessage = "ID заказа неизвестен.";
 }
 
 if ($bCorrectPayment)
@@ -39,7 +39,7 @@ $strCheck = md5(implode(";", array($orderIsPaid, $orderSumAmount, $orderSumCurre
 if ($bCorrectPayment && ToUpper($md5) != ToUpper($strCheck))
 {
 	$bCorrectPayment = False;
-	$code = "1"; // РѕС€РёР±РєР° Р°РІС‚РѕСЂРёР·Р°С†РёРё
+	$code = "1"; // ошибка авторизации
 }
 
 if($bCorrectPayment)
@@ -50,16 +50,16 @@ if($bCorrectPayment)
 			$code = "0";
 		else
 		{
-			$code = "100"; //РЅРµРІРµСЂРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹	
-			$techMessage = "РЎСѓРјРјР° Р·Р°РєР°Р·Р° РЅРµ РІРµСЂРЅР°.";
+			$code = "100"; //неверные параметры	
+			$techMessage = "Сумма заказа не верна.";
 		}
 	}
 	elseif($action=="PaymentSuccess")
 	{
 		$strPS_STATUS_DESCRIPTION = "";
-		$strPS_STATUS_DESCRIPTION .= "РЅРѕРјРµСЂ РїР»Р°С‚РµР»СЊС‰РёРєР° - ".$customerNumber."; ";
-		$strPS_STATUS_DESCRIPTION .= "РґР°С‚Р° РїР»Р°С‚РµР¶Р° - ".$paymentDateTime."; ";
-		$strPS_STATUS_DESCRIPTION .= "РєРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ РїР»Р°С‚РµР¶Р° - ".$orderIsPaid."; ";
+		$strPS_STATUS_DESCRIPTION .= "номер плательщика - ".$customerNumber."; ";
+		$strPS_STATUS_DESCRIPTION .= "дата платежа - ".$paymentDateTime."; ";
+		$strPS_STATUS_DESCRIPTION .= "код подтверждения платежа - ".$orderIsPaid."; ";
 		$strPS_STATUS_MESSAGE = "";
 
 		$arFields = array(
@@ -84,7 +84,7 @@ if($bCorrectPayment)
 					if (!CSaleOrder::PayOrder($arOrder["ID"], "Y", true, true))
 					{
 						$code = "1000";
-						$techMessage = "РћС€РёР±РєР° РѕРїР»Р°С‚С‹ Р·Р°РєР°Р·Р°.";
+						$techMessage = "Ошибка оплаты заказа.";
 					}
 					else
 						$code = "0";
@@ -93,8 +93,8 @@ if($bCorrectPayment)
 		}
 		else
 		{
-			$code = "200"; //РЅРµРІРµСЂРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹
-			$techMessage = "РЎСѓРјРјР° Р·Р°РєР°Р·Р° РЅРµ РІРµСЂРЅР°.";
+			$code = "200"; //неверные параметры
+			$techMessage = "Сумма заказа не верна.";
 		}
 		
 		if(CSaleOrder::Update($arOrder["ID"], $arFields))
@@ -103,8 +103,8 @@ if($bCorrectPayment)
 	}
 	else
 	{
-		$code = "200"; //РЅРµРІРµСЂРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹
-		$techMessage = "РќРµ РёР·РІРµСЃС‚РµРЅ С‚РёРї Р·Р°РїСЂРѕСЃР°.";
+		$code = "200"; //неверные параметры
+		$techMessage = "Не известен тип запроса.";
 	}
 }
 

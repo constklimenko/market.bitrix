@@ -1,7 +1,7 @@
 <?
-$MESS["TRANSLATE_ICON_ALT"] = "ÐŸÐµÑ€ÐµÐ²Ð¾Ð´";
-$MESS["TRANSLATE_ICON_TEXT"] = "ÐŸÐµÑ€ÐµÐ²Ð¾Ð´";
-$MESS["TRANSLATE_ICON_HINT"] = "Ð’Ñ‹Ð²Ð¾Ð´ ÑÐ¿Ð¸ÑÐºÐ° ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ñ… Ñ„Ð°Ð¹Ð»Ð¾Ð², Ð¾Ñ‚Ð½Ð¾ÑÑÑ‰Ð¸Ñ…ÑÑ Ðº Ð´Ð°Ð½Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ.";
-$MESS["TRANSLATE_SHOW_LANG_FILES_TEXT"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹";
-$MESS["TRANSLATE_SHOW_LANG_FILES_TITLE"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹";
+$MESS["TRANSLATE_ICON_ALT"] = "Ïåðåâîä";
+$MESS["TRANSLATE_ICON_TEXT"] = "Ïåðåâîä";
+$MESS["TRANSLATE_ICON_HINT"] = "Âûâîä ñïèñêà ÿçûêîâûõ ôàéëîâ, îòíîñÿùèõñÿ ê äàííîé ñòðàíèöå.";
+$MESS["TRANSLATE_SHOW_LANG_FILES_TEXT"] = "Âûâîäèòü ÿçûêîâûå ôàéëû";
+$MESS["TRANSLATE_SHOW_LANG_FILES_TITLE"] = "Âûâîäèòü ÿçûêîâûå ôàéëû";
 ?>

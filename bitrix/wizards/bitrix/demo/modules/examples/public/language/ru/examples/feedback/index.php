@@ -1,9 +1,9 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ð¤Ð¾Ñ€Ð¼Ð° Ð¾Ð±Ñ€Ð°Ñ‚Ð½Ð¾Ð¹ ÑÐ²ÑÐ·Ð¸");
+$APPLICATION->SetTitle("Ôîðìà îáðàòíîé ñâÿçè");
 ?><?$APPLICATION->IncludeComponent("bitrix:main.feedback", ".default", array(
 	"USE_CAPTCHA" => "Y",
-	"OK_TEXT" => "Ð¡Ð¿Ð°ÑÐ¸Ð±Ð¾, Ð²Ð°ÑˆÐµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¸Ð½ÑÑ‚Ð¾.",
+	"OK_TEXT" => "Ñïàñèáî, âàøå ñîîáùåíèå ïðèíÿòî.",
 	),
 	false
 );?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

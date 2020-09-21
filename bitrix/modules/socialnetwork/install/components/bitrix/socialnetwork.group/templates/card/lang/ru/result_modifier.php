@@ -1,4 +1,4 @@
 <?
-$MESS["SONET_C6_CARD_TITLE"] = "Ðž Ð³Ñ€ÑƒÐ¿Ð¿Ðµ";
-$MESS["SONET_C6_CARD_TITLE_PROJECT"] = "Ðž Ð¿Ñ€Ð¾ÐµÐºÑ‚Ðµ";
+$MESS["SONET_C6_CARD_TITLE"] = "Î ãðóïïå";
+$MESS["SONET_C6_CARD_TITLE_PROJECT"] = "Î ïðîåêòå";
 ?>

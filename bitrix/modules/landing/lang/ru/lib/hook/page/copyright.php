@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_HOOK_COPYRIGHT_SHOW'] = 'ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ &laquo;Ð—Ð°Ñ€ÑÐ¶ÐµÐ½Ð¾ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24&raquo;';
-$MESS['LANDING_HOOK_COPYRIGHT_SHOW_SMN'] = 'ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ &laquo;Ð‘Ñ‹ÑÑ‚Ñ€Ð¾ Ñ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ&raquo;';
-$MESS['LANDING_HOOK_COPYRIGHT_LOCKED'] = 'ÐžÑ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÑŒ Ð¼Ð¾Ð¶Ð½Ð¾ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð½Ð° ÐºÐ¾Ð¼Ð¼ÐµÑ€Ñ‡ÐµÑÐºÐ¸Ñ… Ñ‚Ð°Ñ€Ð¸Ñ„Ð½Ñ‹Ñ… Ð¿Ð»Ð°Ð½Ð°Ñ….';
+$MESS['LANDING_HOOK_COPYRIGHT_SHOW'] = 'Ïîäïèñü &laquo;Çàðÿæåíî Áèòðèêñ24&raquo;';
+$MESS['LANDING_HOOK_COPYRIGHT_SHOW_SMN'] = 'Ïîäïèñü &laquo;Áûñòðî ñ 1Ñ-Áèòðèêñ&raquo;';
+$MESS['LANDING_HOOK_COPYRIGHT_LOCKED'] = 'Îòêëþ÷èòü ïîäïèñü ìîæíî òîëüêî íà êîììåð÷åñêèõ òàðèôíûõ ïëàíàõ.';

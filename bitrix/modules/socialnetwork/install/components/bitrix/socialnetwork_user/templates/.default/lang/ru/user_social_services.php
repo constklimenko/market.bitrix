@@ -1,1 +1,1 @@
-<?$MESS["SONET_USER_SOCSERV_PAGE_TITLE"] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐµÑ€Ð²Ð¸ÑÑ‹";
+<?$MESS["SONET_USER_SOCSERV_PAGE_TITLE"] = "Ñîöèàëüíûå ñåðâèñû";

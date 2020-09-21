@@ -1,9 +1,9 @@
 <?
-$MESS['BPCLDA_WRONG_TYPE'] = "Ð¢Ð¸Ð¿ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð° '#PARAM#' Ð½Ðµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½.";
-$MESS['BPCLDA_FIELD_REQUIED'] = "ÐŸÐ¾Ð»Ðµ '#FIELD#' Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ð´Ð»Ñ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ.";
-$MESS['BPCLDA_ERROR_DT_1'] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°.";
-$MESS['BPCLDA_DOC_TYPE_1'] = "Ð¢Ð¸Ð¿ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS["BPCLDA_DT_LISTS"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸";
-$MESS["BPCLDA_DT_PROCESSES"] = "ÐŸÑ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS["BPCLDA_DT_LISTS_SOCNET_1"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸ Ð³Ñ€ÑƒÐ¿Ð¿ Ð¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð¾Ð²";
+$MESS['BPCLDA_WRONG_TYPE'] = "Òèï ïàðàìåòðà '#PARAM#' íå îïðåäåëåí.";
+$MESS['BPCLDA_FIELD_REQUIED'] = "Ïîëå '#FIELD#' îáÿçàòåëüíî äëÿ çàïîëíåíèÿ.";
+$MESS['BPCLDA_ERROR_DT_1'] = "Íåêîððåêòíûé òèï äîêóìåíòà.";
+$MESS['BPCLDA_DOC_TYPE_1'] = "Òèï äîêóìåíòà";
+$MESS["BPCLDA_DT_LISTS"] = "Ñïèñêè";
+$MESS["BPCLDA_DT_PROCESSES"] = "Ïðîöåññû";
+$MESS["BPCLDA_DT_LISTS_SOCNET_1"] = "Ñïèñêè ãðóïï è ïðîåêòîâ";
 ?>

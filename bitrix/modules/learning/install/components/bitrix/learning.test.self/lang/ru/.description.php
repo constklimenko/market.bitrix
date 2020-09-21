@@ -1,6 +1,6 @@
 <?
-$MESS["LEARNING_TEST_SELF_NAME"]="Ð¡Ð°Ð¼Ð¾Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ°";
-$MESS["LEARNING_TEST_SELF_DESC"]="Ð¢ÐµÑÑ‚ Ð´Ð»Ñ ÑÐ°Ð¼Ð¾Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸";
-$MESS["LEARNING_SERVICE"]="ÐžÐ±ÑƒÑ‡ÐµÐ½Ð¸Ðµ";
-$MESS["LEARNING_TEST_SERVICE"]="Ð¢ÐµÑÑ‚Ñ‹";
+$MESS["LEARNING_TEST_SELF_NAME"]="Ñàìîïðîâåðêà";
+$MESS["LEARNING_TEST_SELF_DESC"]="Òåñò äëÿ ñàìîïðîâåðêè";
+$MESS["LEARNING_SERVICE"]="Îáó÷åíèå";
+$MESS["LEARNING_TEST_SERVICE"]="Òåñòû";
 ?>

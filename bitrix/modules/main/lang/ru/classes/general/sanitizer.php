@@ -1,4 +1,4 @@
 <?
-$MESS["SNT_SYMB"] = "Ð°-ÑÐ-Ð¯â„–Ñ‘Ð";
-$MESS["SNT_SYMB_NONE_LETTERS"] = "â„–";
+$MESS["SNT_SYMB"] = "à-ÿÀ-ß¹¸¨";
+$MESS["SNT_SYMB_NONE_LETTERS"] = "¹";
 ?>

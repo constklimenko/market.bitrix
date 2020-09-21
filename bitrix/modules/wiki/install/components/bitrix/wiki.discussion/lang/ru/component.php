@@ -1,18 +1,18 @@
 <?
-$MESS["WIKI_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ wiki Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ iblock Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["IBLOCK_NOT_ASSIGNED"] = "ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ð±Ð»Ð¾Ðº";
-$MESS["FORUM_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ forum Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ socialnetwork Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["WIKI_SOCNET_INITIALIZING_FAILED"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð½Ð¸Ñ†Ð¸Ð°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð¡Ð¾Ñ†.Ð¡ÐµÑ‚Ð¸";
-$MESS["WIKI_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
-$MESS["WIKI_DISCUSSION_DISABLED"] = "ÐžÐ±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ðµ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾";
+$MESS["WIKI_MODULE_NOT_INSTALLED"] = "Ìîäóëü wiki íå óñòàíîâëåí.";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "Ìîäóëü iblock íå óñòàíîâëåí.";
+$MESS["IBLOCK_NOT_ASSIGNED"] = "Íå âûáðàí èíôîðìàöèîííûé áëîê";
+$MESS["FORUM_MODULE_NOT_INSTALLED"] = "Ìîäóëü forum íå óñòàíîâëåí.";
+$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "Ìîäóëü socialnetwork íå óñòàíîâëåí.";
+$MESS["WIKI_SOCNET_INITIALIZING_FAILED"] = "Îøèáêà èíèöèàëèçàöèè Ñîö.Ñåòè";
+$MESS["WIKI_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí.";
+$MESS["WIKI_DISCUSSION_DISABLED"] = "Îáñóæäåíèå îòêëþ÷åíî";
 $MESS["SONET_FORUM_LOG_TEMPLATE_AUTHOR"] = "
 
-ÐÐ²Ñ‚Ð¾Ñ€: [URL=#URL#]#TITLE#[/URL].";
+Àâòîð: [URL=#URL#]#TITLE#[/URL].";
 $MESS["SONET_FORUM_LOG_TEMPLATE_GUEST"] = "
 
-ÐÐ²Ñ‚Ð¾Ñ€: #TITLE#.";
-$MESS["WIKI_SONET_LOG_TITLE_TEMPLATE"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð° Ð¸Ð»Ð¸ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð° ÑÑ‚Ð°Ñ‚ÑŒÑ Wiki \"#TITLE#\"";
-$MESS["WIKI_SONET_IM_COMMENT"] = "ÐŸÑ€Ð¾ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð» Ð²Ð°ÑˆÑƒ ÑÑ‚Ð°Ñ‚ÑŒÑŽ Wiki \"#title#\"";
+Àâòîð: #TITLE#.";
+$MESS["WIKI_SONET_LOG_TITLE_TEMPLATE"] = "Äîáàâëåíà èëè èçìåíåíà ñòàòüÿ Wiki \"#TITLE#\"";
+$MESS["WIKI_SONET_IM_COMMENT"] = "Ïðîêîììåíòèðîâàë âàøó ñòàòüþ Wiki \"#title#\"";
 ?>

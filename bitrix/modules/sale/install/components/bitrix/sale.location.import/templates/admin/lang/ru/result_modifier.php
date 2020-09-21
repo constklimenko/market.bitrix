@@ -1,2 +1,2 @@
 <?
-$MESS['SALE_SLI_WORLD_CATEGORY'] = 'ÐœÐ¸Ñ€';
+$MESS['SALE_SLI_WORLD_CATEGORY'] = 'Ìèð';

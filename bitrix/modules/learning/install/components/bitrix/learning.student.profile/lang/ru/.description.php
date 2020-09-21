@@ -1,6 +1,6 @@
 <?
-$MESS ['LEARNING_STUDENT_PROFILE_NAME'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð°";
-$MESS ['LEARNING_STUDENT_PROFILE_DESC'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð°";
-$MESS ['LEARNING_SERVICE'] = "ÐžÐ±ÑƒÑ‡ÐµÐ½Ð¸Ðµ";
-$MESS ['LEARNING_STUDENT_SERVICE'] = "Ð¡Ñ‚ÑƒÐ´ÐµÐ½Ñ‚";
+$MESS ['LEARNING_STUDENT_PROFILE_NAME'] = "Ïðîôèëü ñòóäåíòà";
+$MESS ['LEARNING_STUDENT_PROFILE_DESC'] = "Ñòðàíèöà ðåäàêòèðîâàíèÿ ïàðàìåòðîâ ñòóäåíòà";
+$MESS ['LEARNING_SERVICE'] = "Îáó÷åíèå";
+$MESS ['LEARNING_STUDENT_SERVICE'] = "Ñòóäåíò";
 ?>

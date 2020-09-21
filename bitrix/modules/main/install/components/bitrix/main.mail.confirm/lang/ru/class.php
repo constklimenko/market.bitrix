@@ -1,49 +1,49 @@
 <?php
 
-$MESS['MAIN_MAIL_CONFIRM_AUTH'] = 'РћС€РёР±РєР° Р°РІС‚РѕСЂРёР·Р°С†РёРё';
-$MESS['MAIN_MAIL_CONFIRM_AJAX_ERROR'] = 'РћС€РёР±РєР° РїСЂРё РѕР±СЂР°Р±РѕС‚РєРµ Р·Р°РїСЂРѕСЃР°';
+$MESS['MAIN_MAIL_CONFIRM_AUTH'] = 'Ошибка авторизации';
+$MESS['MAIN_MAIL_CONFIRM_AJAX_ERROR'] = 'Ошибка при обработке запроса';
 
-$MESS['MAIN_MAIL_CONFIRM_MENU'] = 'Р”РѕР±Р°РІРёС‚СЊ РѕС‚РїСЂР°РІРёС‚РµР»СЏ';
-$MESS['MAIN_MAIL_CONFIRM_TITLE'] = 'Р”РѕР±Р°РІР»РµРЅРёРµ РЅРѕРІРѕРіРѕ Р°РґСЂРµСЃР°';
-$MESS['MAIN_MAIL_CONFIRM_GET_CODE'] = 'РџРѕР»СѓС‡РёС‚СЊ РєРѕРґ';
-$MESS['MAIN_MAIL_CONFIRM_SAVE'] = 'РЎРѕС…СЂР°РЅРёС‚СЊ';
-$MESS['MAIN_MAIL_CONFIRM_CANCEL'] = 'РћС‚РјРµРЅРёС‚СЊ';
-$MESS['MAIN_MAIL_CONFIRM_BACK'] = 'РќР°Р·Р°Рґ';
-$MESS['MAIN_MAIL_CONFIRM_DELETE'] = 'РЈРґР°Р»РёС‚СЊ';
+$MESS['MAIN_MAIL_CONFIRM_MENU'] = 'Добавить отправителя';
+$MESS['MAIN_MAIL_CONFIRM_TITLE'] = 'Добавление нового адреса';
+$MESS['MAIN_MAIL_CONFIRM_GET_CODE'] = 'Получить код';
+$MESS['MAIN_MAIL_CONFIRM_SAVE'] = 'Сохранить';
+$MESS['MAIN_MAIL_CONFIRM_CANCEL'] = 'Отменить';
+$MESS['MAIN_MAIL_CONFIRM_BACK'] = 'Назад';
+$MESS['MAIN_MAIL_CONFIRM_DELETE'] = 'Удалить';
 
-$MESS['MAIN_MAIL_CONFIRM_EMAIL_HINT'] = 'Р’РІРµРґРёС‚Рµ РёРјСЏ Рё email РІ РїРѕР»СЏ РЅРёР¶Рµ. Р’Р°Рј Р±СѓРґРµС‚ РѕС‚РїСЂР°РІР»РµРЅРѕ РїРёСЃСЊРјРѕ СЃ РєРѕРґРѕРј РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ.';
-$MESS['MAIN_MAIL_CONFIRM_EMAIL_HINT_SMTP'] = 'Р’РІРµРґРёС‚Рµ РёРјСЏ Рё email РІ РїРѕР»СЏ РЅРёР¶Рµ. РџРѕРґС‚РІРµСЂРґРёС‚Рµ РєРѕРґРѕРј РёР· РїРёСЃСЊРјР°, РѕС‚РїСЂР°РІР»РµРЅРЅРѕРіРѕ РЅР° СЌС‚РѕС‚ Р°РґСЂРµСЃ, Р»РёР±Рѕ РІРІРµРґРёС‚Рµ РґР°РЅРЅС‹Рµ <a href="#" class="new-from-email-dialog-smtp-link">SMTP-СЃРµСЂРІРµСЂР°</a>.';
-$MESS['MAIN_MAIL_CONFIRM_EMAIL_HINT_SMTP_2'] = 'Р’РІРµРґРёС‚Рµ РёРјСЏ Рё email (Рё РґР°РЅРЅС‹Рµ <a href="#" class="new-from-email-dialog-smtp-link">SMTP-СЃРµСЂРІРµСЂР°</a> РїСЂРё РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚Рё) РІ РїРѕР»СЏ РЅРёР¶Рµ. Р’Р°Рј Р±СѓРґРµС‚ РѕС‚РїСЂР°РІР»РµРЅРѕ РїРёСЃСЊРјРѕ СЃ РєРѕРґРѕРј РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ.';
-$MESS['MAIN_MAIL_CONFIRM_CODE_HINT'] = 'РќР° СѓРєР°Р·Р°РЅРЅС‹Р№ email РѕС‚РїСЂР°РІР»РµРЅРѕ РїРёСЃСЊРјРѕ СЃ РєРѕРґРѕРј. РџРѕР¶Р°Р»СѓР№СЃС‚Р°, СЃРєРѕРїРёСЂСѓР№С‚Рµ РєРѕРґ РёР· РїРёСЃСЊРјР° Рё РІСЃС‚Р°РІСЊС‚Рµ РµРіРѕ РІ РїРѕР»Рµ РЅРёР¶Рµ.';
+$MESS['MAIN_MAIL_CONFIRM_EMAIL_HINT'] = 'Введите имя и email в поля ниже. Вам будет отправлено письмо с кодом подтверждения.';
+$MESS['MAIN_MAIL_CONFIRM_EMAIL_HINT_SMTP'] = 'Введите имя и email в поля ниже. Подтвердите кодом из письма, отправленного на этот адрес, либо введите данные <a href="#" class="new-from-email-dialog-smtp-link">SMTP-сервера</a>.';
+$MESS['MAIN_MAIL_CONFIRM_EMAIL_HINT_SMTP_2'] = 'Введите имя и email (и данные <a href="#" class="new-from-email-dialog-smtp-link">SMTP-сервера</a> при необходимости) в поля ниже. Вам будет отправлено письмо с кодом подтверждения.';
+$MESS['MAIN_MAIL_CONFIRM_CODE_HINT'] = 'На указанный email отправлено письмо с кодом. Пожалуйста, скопируйте код из письма и вставьте его в поле ниже.';
 
-$MESS['MAIN_MAIL_CONFIRM_NAME'] = 'РРјСЏ';
+$MESS['MAIN_MAIL_CONFIRM_NAME'] = 'Имя';
 $MESS['MAIN_MAIL_CONFIRM_EMAIL'] = 'Email';
-$MESS['MAIN_MAIL_CONFIRM_PUBLIC'] = 'Р”РѕСЃС‚СѓРїРµРЅ РІСЃРµРј';
-$MESS['MAIN_MAIL_CONFIRM_PUBLIC_HINT'] = 'Р”РѕР±Р°РІР»РµРЅРЅС‹Р№ Р°РґСЂРµСЃ СЃРјРѕРіСѓС‚ РІС‹Р±СЂР°С‚СЊ РІСЃРµ РјРµРЅРµРґР¶РµСЂС‹, СЂР°Р±РѕС‚Р°СЋС‰РёРµ РІ CRM';
-$MESS['MAIN_MAIL_CONFIRM_CODE_PLACEHOLDER'] = 'Р’РІРµРґРёС‚Рµ РєРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ';
+$MESS['MAIN_MAIL_CONFIRM_PUBLIC'] = 'Доступен всем';
+$MESS['MAIN_MAIL_CONFIRM_PUBLIC_HINT'] = 'Добавленный адрес смогут выбрать все менеджеры, работающие в CRM';
+$MESS['MAIN_MAIL_CONFIRM_CODE_PLACEHOLDER'] = 'Введите код подтверждения';
 
-$MESS['MAIN_MAIL_CONFIRM_SMTP_SERVER'] = 'РЎРµСЂРІРµСЂ';
-$MESS['MAIN_MAIL_CONFIRM_SMTP_PORT'] = 'РџРѕСЂС‚';
-$MESS['MAIN_MAIL_CONFIRM_SMTP_SSL'] = 'РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ Р·Р°С‰РёС‰РµРЅРЅРѕРµ СЃРѕРµРґРёРЅРµРЅРёРµ';
-$MESS['MAIN_MAIL_CONFIRM_SMTP_LOGIN'] = 'Р›РѕРіРёРЅ';
-$MESS['MAIN_MAIL_CONFIRM_SMTP_PASSWORD'] = 'РџР°СЂРѕР»СЊ';
+$MESS['MAIN_MAIL_CONFIRM_SMTP_SERVER'] = 'Сервер';
+$MESS['MAIN_MAIL_CONFIRM_SMTP_PORT'] = 'Порт';
+$MESS['MAIN_MAIL_CONFIRM_SMTP_SSL'] = 'использовать защищенное соединение';
+$MESS['MAIN_MAIL_CONFIRM_SMTP_LOGIN'] = 'Логин';
+$MESS['MAIN_MAIL_CONFIRM_SMTP_PASSWORD'] = 'Пароль';
 
-$MESS['MAIN_MAIL_CONFIRM_EMPTY_EMAIL'] = 'Р’РІРµРґРёС‚Рµ email';
-$MESS['MAIN_MAIL_CONFIRM_INVALID_EMAIL'] = 'РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ email';
-$MESS['MAIN_MAIL_CONFIRM_EMPTY_CODE'] = 'Р’РІРµРґРёС‚Рµ РєРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ';
-$MESS['MAIN_MAIL_CONFIRM_INVALID_CODE'] = 'РќРµРІРµСЂРЅС‹Р№ РєРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ';
+$MESS['MAIN_MAIL_CONFIRM_EMPTY_EMAIL'] = 'Введите email';
+$MESS['MAIN_MAIL_CONFIRM_INVALID_EMAIL'] = 'Недопустимый email';
+$MESS['MAIN_MAIL_CONFIRM_EMPTY_CODE'] = 'Введите код подтверждения';
+$MESS['MAIN_MAIL_CONFIRM_INVALID_CODE'] = 'Неверный код подтверждения';
 
-$MESS['MAIN_MAIL_CONFIRM_EMPTY_SMTP_SERVER'] = 'Р’РІРµРґРёС‚Рµ Р°РґСЂРµСЃ SMTP-СЃРµСЂРІРµСЂР°';
-$MESS['MAIN_MAIL_CONFIRM_INVALID_SMTP_SERVER'] = 'РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ Р°РґСЂРµСЃ SMTP-СЃРµСЂРІРµСЂР°';
-$MESS['MAIN_MAIL_CONFIRM_EMPTY_SMTP_PORT'] = 'Р’РІРµРґРёС‚Рµ РїРѕСЂС‚ SMTP-СЃРµСЂРІРµСЂР°';
-$MESS['MAIN_MAIL_CONFIRM_INVALID_SMTP_PORT'] = 'РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РїРѕСЂС‚ SMTP-СЃРµСЂРІРµСЂР°';
-$MESS['MAIN_MAIL_CONFIRM_EMPTY_SMTP_LOGIN'] = 'Р’РІРµРґРёС‚Рµ Р»РѕРіРёРЅ РґР»СЏ Р°РІС‚РѕСЂРёР·Р°С†РёРё РЅР° SMTP-СЃРµСЂРІРµСЂРµ';
-$MESS['MAIN_MAIL_CONFIRM_EMPTY_SMTP_PASSWORD'] = 'Р’РІРµРґРёС‚Рµ РїР°СЂРѕР»СЊ РґР»СЏ Р°РІС‚РѕСЂРёР·Р°С†РёРё РЅР° SMTP-СЃРµСЂРІРµСЂРµ';
+$MESS['MAIN_MAIL_CONFIRM_EMPTY_SMTP_SERVER'] = 'Введите адрес SMTP-сервера';
+$MESS['MAIN_MAIL_CONFIRM_INVALID_SMTP_SERVER'] = 'Недопустимый адрес SMTP-сервера';
+$MESS['MAIN_MAIL_CONFIRM_EMPTY_SMTP_PORT'] = 'Введите порт SMTP-сервера';
+$MESS['MAIN_MAIL_CONFIRM_INVALID_SMTP_PORT'] = 'Недопустимый порт SMTP-сервера';
+$MESS['MAIN_MAIL_CONFIRM_EMPTY_SMTP_LOGIN'] = 'Введите логин для авторизации на SMTP-сервере';
+$MESS['MAIN_MAIL_CONFIRM_EMPTY_SMTP_PASSWORD'] = 'Введите пароль для авторизации на SMTP-сервере';
 
-$MESS['MAIN_MAIL_CONFIRM_SMTP_WARNING'] = 'Р’Р°Р¶РЅРѕ! Р‘СѓРґСЊС‚Рµ РІРЅРёРјР°С‚РµР»СЊРЅС‹ РїСЂРё РІРІРѕРґРµ РґР°РЅРЅС‹С… SMTP-СЃРµСЂРІРµСЂР°. РџРёСЃСЊРјР° РЅРµ Р±СѓРґСѓС‚ РґРѕСЃС‚Р°РІР»СЏС‚СЊСЃСЏ, РµСЃР»Рё РґР°РЅРЅС‹Рµ СѓРєР°Р·Р°РЅС‹ РЅРµРєРѕСЂСЂРµРєС‚РЅРѕ.';
+$MESS['MAIN_MAIL_CONFIRM_SMTP_WARNING'] = 'Важно! Будьте внимательны при вводе данных SMTP-сервера. Письма не будут доставляться, если данные указаны некорректно.';
 
-$MESS["MAIN_MAIL_CONFIRM_DELETE_SENDER_CONFIRM"] = "Р’С‹ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ С…РѕС‚РёС‚Рµ СѓРґР°Р»РёС‚СЊ РѕС‚РїСЂР°РІРёС‚РµР»СЏ?";
-$MESS["MAIN_MAIL_DELETE_SENDER_ERROR"] = "РћС€РёР±РєР° СѓРґР°Р»РµРЅРёСЏ РѕС‚РїСЂР°РІРёС‚РµР»СЏ";
+$MESS["MAIN_MAIL_CONFIRM_DELETE_SENDER_CONFIRM"] = "Вы действительно хотите удалить отправителя?";
+$MESS["MAIN_MAIL_DELETE_SENDER_ERROR"] = "Ошибка удаления отправителя";
 
-$MESS['MAIN_MAIL_CONFIRM_MENU_PLACEHOLDER'] = 'РћС‚РїСЂР°РІРёС‚РµР»СЊ РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ';
-$MESS['MAIN_MAIL_CONFIRM_MENU_UNKNOWN'] = 'Р’С‹Р±СЂР°С‚СЊ РѕС‚РїСЂР°РІРёС‚РµР»СЏ';
+$MESS['MAIN_MAIL_CONFIRM_MENU_PLACEHOLDER'] = 'Отправитель по умолчанию';
+$MESS['MAIN_MAIL_CONFIRM_MENU_UNKNOWN'] = 'Выбрать отправителя';

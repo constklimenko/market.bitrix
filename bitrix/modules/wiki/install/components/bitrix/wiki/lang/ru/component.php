@@ -1,5 +1,5 @@
 <?
-$MESS["WIKI_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ wiki Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ iblock Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["WIKI_SEF_FOLDER_INCORRECT"] = "Ð”Ð»Ñ ÑÐµÑ€Ð²ÐµÑ€Ð¾Ð² Ð½Ð° Windows \"ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ Ð§ÐŸÐ£\" Ñ„Ð¸Ð·Ð¸Ñ‡ÐµÑÐºÐ¸ ÑÑƒÑ‰ÐµÑÑ‚Ð²Ð¾Ð²Ð°Ñ‚ÑŒ Ð½Ðµ Ð´Ð¾Ð»Ð¶ÐµÐ½";
+$MESS["WIKI_MODULE_NOT_INSTALLED"] = "Ìîäóëü wiki íå óñòàíîâëåí.";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "Ìîäóëü iblock íå óñòàíîâëåí.";
+$MESS["WIKI_SEF_FOLDER_INCORRECT"] = "Äëÿ ñåðâåðîâ íà Windows \"Êàòàëîã ×ÏÓ\" ôèçè÷åñêè ñóùåñòâîâàòü íå äîëæåí";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ['BPIEBA_CONDITION'] = "Ð¢Ð¸Ð¿ ÑƒÑÐ»Ð¾Ð²Ð¸Ñ";
+$MESS ['BPIEBA_CONDITION'] = "Òèï óñëîâèÿ";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ['CT_BST_SEARCH_BUTTON'] = "РџРѕРёСЃРє";
+$MESS ['CT_BST_SEARCH_BUTTON'] = "Поиск";
 ?>

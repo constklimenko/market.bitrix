@@ -1,11 +1,11 @@
 <?
-$MESS ['SONET_C29_T_SENDER'] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ";
-$MESS ['SONET_C29_T_MESSAGE'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
-$MESS ['SONET_C29_T_ACTIONS'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ";
-$MESS ['SONET_C29_T_FRIEND_REQUEST'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ñ…Ð¾Ñ‡ÐµÑ‚ Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð’Ð°Ñ Ð² ÑÐ¿Ð¸ÑÐ¾Ðº ÑÐ²Ð¾Ð¸Ñ… Ð´Ñ€ÑƒÐ·ÐµÐ¹";
-$MESS ['SONET_C29_T_USER'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
-$MESS ['SONET_C29_T_INVITE'] = "Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐ°ÐµÑ‚ Ð’Ð°Ñ Ð²ÑÑ‚ÑƒÐ¿Ð¸Ñ‚ÑŒ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS ['SONET_C29_T_DO_FRIEND'] = "Ð”Ñ€ÑƒÐ¶Ð¸Ñ‚ÑŒ";
-$MESS ['SONET_C29_T_DO_DENY'] = "ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ";
-$MESS ['SONET_C29_T_DO_AGREE'] = "ÐŸÑ€Ð¸Ð½ÑÑ‚ÑŒ";
+$MESS ['SONET_C29_T_SENDER'] = "Îòïðàâèòåëü";
+$MESS ['SONET_C29_T_MESSAGE'] = "Ñîîáùåíèå";
+$MESS ['SONET_C29_T_ACTIONS'] = "Äåéñòâèÿ";
+$MESS ['SONET_C29_T_FRIEND_REQUEST'] = "Ïîëüçîâàòåëü õî÷åò äîáàâèòü Âàñ â ñïèñîê ñâîèõ äðóçåé";
+$MESS ['SONET_C29_T_USER'] = "Ïîëüçîâàòåëü";
+$MESS ['SONET_C29_T_INVITE'] = "ïðèãëàøàåò Âàñ âñòóïèòü â ãðóïïó";
+$MESS ['SONET_C29_T_DO_FRIEND'] = "Äðóæèòü";
+$MESS ['SONET_C29_T_DO_DENY'] = "Îòêëîíèòü";
+$MESS ['SONET_C29_T_DO_AGREE'] = "Ïðèíÿòü";
 ?>

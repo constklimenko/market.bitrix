@@ -1,11 +1,11 @@
 <?
-$MESS["GD_LOG_ENTITY_TITLE"] = "Ð–Ð¸Ð²Ð°Ñ Ð»ÐµÐ½Ñ‚Ð°";
-$MESS["GD_LOG_ENTITY_MORE"] = "Ð–Ð¸Ð²Ð°Ñ Ð»ÐµÐ½Ñ‚Ð° Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["GD_UPDATES_ENTITY_FORUM"] = "Ð¾Ð±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ñ";
-$MESS["GD_UPDATES_ENTITY_BLOG"] = "Ð¾Ñ‚Ñ‡ÐµÑ‚Ñ‹";
-$MESS["GD_UPDATES_ENTITY_PHOTO"] = "Ñ„Ð¾Ñ‚Ð¾";
-$MESS["GD_UPDATES_ENTITY_FILES"] = "Ñ„Ð°Ð¹Ð»Ñ‹";
-$MESS["GD_UPDATES_ENTITY_CALENDAR"] = "ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ð¸";
-$MESS["GD_UPDATES_ENTITY_TASKS"] = "Ð·Ð°Ð´Ð°Ñ‡Ð¸";
-$MESS["GD_UPDATES_ENTITY_SYSTEM"] = "ÑÐ¸ÑÑ‚ÐµÐ¼Ð½Ñ‹Ðµ";
+$MESS["GD_LOG_ENTITY_TITLE"] = "Æèâàÿ ëåíòà";
+$MESS["GD_LOG_ENTITY_MORE"] = "Æèâàÿ ëåíòà ãðóïïû";
+$MESS["GD_UPDATES_ENTITY_FORUM"] = "îáñóæäåíèÿ";
+$MESS["GD_UPDATES_ENTITY_BLOG"] = "îò÷åòû";
+$MESS["GD_UPDATES_ENTITY_PHOTO"] = "ôîòî";
+$MESS["GD_UPDATES_ENTITY_FILES"] = "ôàéëû";
+$MESS["GD_UPDATES_ENTITY_CALENDAR"] = "êàëåíäàðè";
+$MESS["GD_UPDATES_ENTITY_TASKS"] = "çàäà÷è";
+$MESS["GD_UPDATES_ENTITY_SYSTEM"] = "ñèñòåìíûå";
 ?>

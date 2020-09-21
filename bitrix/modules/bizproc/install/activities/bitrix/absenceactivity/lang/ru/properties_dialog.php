@@ -1,10 +1,10 @@
 <?
-$MESS ['BPSNAA2_PD_CUSER'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
-$MESS ['BPSNAA2_PD_CNAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS ['BPSNAA2_PD_CDESCR'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS ['BPSNAA2_PD_CFROM'] = "Ð”Ð°Ñ‚Ð° Ð½Ð°Ñ‡Ð°Ð»Ð°";
-$MESS ['BPSNAA2_PD_CTO'] = "Ð”Ð°Ñ‚Ð° Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ";
-$MESS ['BPSNAA2_PD_CSTATE'] = "Ð¡Ð¾ÑÑ‚Ð¾ÑÐ½Ð¸Ðµ";
-$MESS ['BPSNAA2_PD_CFSTATE'] = "Ð¡Ð¾ÑÑ‚Ð¾ÑÐ½Ð¸Ðµ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¸Ñ";
-$MESS ['BPSNAA2_PD_CTYPES'] = "Ð¢Ð¸Ð¿ Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²Ð¸Ñ";
+$MESS ['BPSNAA2_PD_CUSER'] = "Ïîëüçîâàòåëü";
+$MESS ['BPSNAA2_PD_CNAME'] = "Íàçâàíèå ñîáûòèÿ";
+$MESS ['BPSNAA2_PD_CDESCR'] = "Îïèñàíèå ñîáûòèÿ";
+$MESS ['BPSNAA2_PD_CFROM'] = "Äàòà íà÷àëà";
+$MESS ['BPSNAA2_PD_CTO'] = "Äàòà îêîí÷àíèÿ";
+$MESS ['BPSNAA2_PD_CSTATE'] = "Ñîñòîÿíèå";
+$MESS ['BPSNAA2_PD_CFSTATE'] = "Ñîñòîÿíèå çàâåðøåíèÿ";
+$MESS ['BPSNAA2_PD_CTYPES'] = "Òèï îòñóòñòâèÿ";
 ?>

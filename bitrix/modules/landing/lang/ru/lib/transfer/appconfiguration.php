@@ -1,9 +1,9 @@
 <?php
-$MESS['LANDING_TRANSFER_GROUP_TITLE'] = 'Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð¸ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚';
-$MESS['LANDING_TRANSFER_GROUP_DESC'] = 'Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð¸ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚: ÑÐ°Ð¹Ñ‚Ñ‹, Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ñ‹, Ð±Ð°Ð·Ñ‹ Ð·Ð½Ð°Ð½Ð¸Ð¹.';
-$MESS['LANDING_TRANSFER_EXPORT_ACTION_TITLE_BLOCK_PAGE'] = 'Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ ÑÐ°Ð¹Ñ‚Ð°';
-$MESS['LANDING_TRANSFER_EXPORT_ACTION_DESCRIPTION_PAGE'] = 'ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ ÐºÐ½Ð¾Ð¿ÐºÑƒ, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð²Ñ‹Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ ÑÐ°Ð¹Ñ‚ Ð² Ñ„Ð°Ð¹Ð».';
-$MESS['LANDING_TRANSFER_EXPORT_ACTION_TITLE_BLOCK_STORE'] = 'Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°';
-$MESS['LANDING_TRANSFER_EXPORT_ACTION_DESCRIPTION_STORE'] = 'ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ ÐºÐ½Ð¾Ð¿ÐºÑƒ, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð²Ñ‹Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½ Ð² Ñ„Ð°Ð¹Ð».';
-$MESS['LANDING_TRANSFER_EXPORT_ACTION_TITLE_BLOCK_KNOWLEDGE'] = 'Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð±Ð°Ð·Ñ‹ Ð·Ð½Ð°Ð½Ð¸Ð¹';
-$MESS['LANDING_TRANSFER_EXPORT_ACTION_DESCRIPTION_KNOWLEDGE'] = 'ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ ÐºÐ½Ð¾Ð¿ÐºÑƒ, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð²Ñ‹Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ð±Ð°Ð·Ñƒ Ð·Ð½Ð°Ð½Ð¸Ð¹ Ð² Ñ„Ð°Ð¹Ð».';
+$MESS['LANDING_TRANSFER_GROUP_TITLE'] = 'Èìïîðò è ýêñïîðò';
+$MESS['LANDING_TRANSFER_GROUP_DESC'] = 'Èìïîðò è ýêñïîðò: ñàéòû, ìàãàçèíû, áàçû çíàíèé.';
+$MESS['LANDING_TRANSFER_EXPORT_ACTION_TITLE_BLOCK_PAGE'] = 'Ýêñïîðò ñàéòà';
+$MESS['LANDING_TRANSFER_EXPORT_ACTION_DESCRIPTION_PAGE'] = 'Íàæìèòå êíîïêó, ÷òîáû âûãðóçèòü ñàéò â ôàéë.';
+$MESS['LANDING_TRANSFER_EXPORT_ACTION_TITLE_BLOCK_STORE'] = 'Ýêñïîðò ìàãàçèíà';
+$MESS['LANDING_TRANSFER_EXPORT_ACTION_DESCRIPTION_STORE'] = 'Íàæìèòå êíîïêó, ÷òîáû âûãðóçèòü ìàãàçèí â ôàéë.';
+$MESS['LANDING_TRANSFER_EXPORT_ACTION_TITLE_BLOCK_KNOWLEDGE'] = 'Ýêñïîðò áàçû çíàíèé';
+$MESS['LANDING_TRANSFER_EXPORT_ACTION_DESCRIPTION_KNOWLEDGE'] = 'Íàæìèòå êíîïêó, ÷òîáû âûãðóçèòü áàçó çíàíèé â ôàéë.';

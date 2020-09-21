@@ -1,8 +1,8 @@
 <?
-$MESS ['BPSWFA_PD_DOCUMENT_ID'] = "ID Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS ['BPSWFA_PD_ENTITY'] = "Ð¡ÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ";
-$MESS ['BPSWFA_PD_DOCUMENT_TYPE'] = "Ð¢Ð¸Ð¿ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS ['BPSWFA_PD_TEMPLATE'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½";
-$MESS ['BPSWFA_PD_USE_SUBSCRIPTION'] = "ÐžÐ¶Ð¸Ð´Ð°Ñ‚ÑŒ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¸Ñ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BPSWFA_PD_ACCESS_DENIED'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð°Ð¼ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ð°.';
+$MESS ['BPSWFA_PD_DOCUMENT_ID'] = "ID äîêóìåíòà";
+$MESS ['BPSWFA_PD_ENTITY'] = "Ñóùíîñòü";
+$MESS ['BPSWFA_PD_DOCUMENT_TYPE'] = "Òèï äîêóìåíòà";
+$MESS ['BPSWFA_PD_TEMPLATE'] = "Øàáëîí";
+$MESS ['BPSWFA_PD_USE_SUBSCRIPTION'] = "Îæèäàòü çàâåðøåíèÿ áèçíåñ-ïðîöåññà";
+$MESS ['BPSWFA_PD_ACCESS_DENIED'] = 'Íàñòðîéêè äåéñòâèÿ äîñòóïíû òîëüêî àäìèíèñòðàòîðàì ïîðòàëà.';
 ?>

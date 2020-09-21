@@ -1,9 +1,9 @@
 <?
-$MESS ['BPSWFA_ERROR_DOCUMENT_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ID Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS ['BPSWFA_ERROR_TEMPLATE'] = "ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½ ÑˆÐ°Ð±Ð»Ð¾Ð½";
-$MESS ['BPSWFA_TEMPLATE_PARAMETERS'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BPSWFA_TEMPLATE_PARAMETERS_ERROR'] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€: #NAME#";
-$MESS ['BPSWFA_START_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð·Ð°Ð¿ÑƒÑÐºÐ°: #MESSAGE#";
-$MESS ['BPSWFA_SELFSTART_ERROR'] = "Ð ÐµÐºÑƒÑ€ÑÐ¸Ð²Ð½Ñ‹Ð¹ Ð·Ð°Ð¿ÑƒÑÐº ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½";
-$MESS ['BPSWFA_ACCESS_DENIED'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð°Ð¼ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ð°.';
+$MESS ['BPSWFA_ERROR_DOCUMENT_ID'] = "Íå óêàçàí ID äîêóìåíòà";
+$MESS ['BPSWFA_ERROR_TEMPLATE'] = "Íå âûáðàí øàáëîí";
+$MESS ['BPSWFA_TEMPLATE_PARAMETERS'] = "Ïàðàìåòðû áèçíåñ-ïðîöåññà";
+$MESS ['BPSWFA_TEMPLATE_PARAMETERS_ERROR'] = "Íå çàïîëíåí îáÿçàòåëüíûé ïàðàìåòð: #NAME#";
+$MESS ['BPSWFA_START_ERROR'] = "Îøèáêà çàïóñêà: #MESSAGE#";
+$MESS ['BPSWFA_SELFSTART_ERROR'] = "Ðåêóðñèâíûé çàïóñê øàáëîíà çàáëîêèðîâàí";
+$MESS ['BPSWFA_ACCESS_DENIED'] = 'Íàñòðîéêè äåéñòâèÿ äîñòóïíû òîëüêî àäìèíèñòðàòîðàì ïîðòàëà.';
 ?>

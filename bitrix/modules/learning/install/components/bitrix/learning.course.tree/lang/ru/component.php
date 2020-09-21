@@ -1,6 +1,6 @@
 <?
-$MESS ['LEARNING_MODULE_NOT_FOUND'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['LEARNING_COURSE_DENIED'] = "ÐšÑƒÑ€Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ð¸Ð»Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð½ÐµÐ¼Ñƒ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
-$MESS ['LEARNING_COURSE_DESCRIPTION'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARNING_TEST_LIST'] = "Ð¢ÐµÑÑ‚Ñ‹";
+$MESS ['LEARNING_MODULE_NOT_FOUND'] = "Ìîäóëü îáó÷åíèÿ íå óñòàíîâëåí.";
+$MESS ['LEARNING_COURSE_DENIED'] = "Êóðñ íå íàéäåí èëè äîñòóï ê íåìó çàïðåùåí.";
+$MESS ['LEARNING_COURSE_DESCRIPTION'] = "Îïèñàíèå êóðñà";
+$MESS ['LEARNING_TEST_LIST'] = "Òåñòû";
 ?>

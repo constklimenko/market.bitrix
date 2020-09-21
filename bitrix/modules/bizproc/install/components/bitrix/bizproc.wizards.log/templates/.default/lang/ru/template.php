@@ -1,16 +1,16 @@
 <?
-$MESS ['BPWC_WLCT_NEW'] = "ÐÐ¾Ð²Ð°Ñ Ð·Ð°ÑÐ²ÐºÐ°";
-$MESS ['BPWC_WLCT_VARS'] = "ÐŸÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ðµ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BPWC_WLCT_BP'] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑ";
-$MESS ['BPWC_WLCT_F_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['BPWC_WLCT_F_STATUS'] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
-$MESS ['BPWC_WLCT_F_DATE'] = "Ð”Ð°Ñ‚Ð°";
-$MESS ['BPWC_WLCT_F_TYPE'] = "Ð¢Ð¸Ð¿";
-$MESS ['BPWC_WLCT_F_RESULT'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚";
-$MESS ['BPWC_WLCT_F_NOTE'] = "ÐŸÑ€Ð¸Ð¼ÐµÑ‡Ð°Ð½Ð¸Ðµ";
-$MESS ['BPWC_WLCT_SAVE'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
-$MESS ['BPWC_WLCT_STOP'] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
-$MESS ['BPWC_WLCT_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð²";
-$MESS ['BPWC_WLCT_F_AUTHOR'] = "ÐÐ²Ñ‚Ð¾Ñ€";
-$MESS ['BPWC_WLCT_TOTAL'] = "Ð’ÑÐµÐ³Ð¾";
+$MESS ['BPWC_WLCT_NEW'] = "Íîâàÿ çàÿâêà";
+$MESS ['BPWC_WLCT_VARS'] = "Ïåðåìåííûå áèçíåñ-ïðîöåññà";
+$MESS ['BPWC_WLCT_BP'] = "Áèçíåñ-ïðîöåññ";
+$MESS ['BPWC_WLCT_F_NAME'] = "Íàçâàíèå";
+$MESS ['BPWC_WLCT_F_STATUS'] = "Ñòàòóñ";
+$MESS ['BPWC_WLCT_F_DATE'] = "Äàòà";
+$MESS ['BPWC_WLCT_F_TYPE'] = "Òèï";
+$MESS ['BPWC_WLCT_F_RESULT'] = "Ðåçóëüòàò";
+$MESS ['BPWC_WLCT_F_NOTE'] = "Ïðèìå÷àíèå";
+$MESS ['BPWC_WLCT_SAVE'] = "Ñîõðàíèòü";
+$MESS ['BPWC_WLCT_STOP'] = "Îñòàíîâèòü";
+$MESS ['BPWC_WLCT_LIST'] = "Ñïèñîê áèçíåñ-ïðîöåññîâ";
+$MESS ['BPWC_WLCT_F_AUTHOR'] = "Àâòîð";
+$MESS ['BPWC_WLCT_TOTAL'] = "Âñåãî";
 ?>

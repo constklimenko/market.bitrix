@@ -1,2 +1,2 @@
 <?
-$MESS['BOT_DEPARTMENT_NAME'] = 'Ð§Ð°Ñ‚-Ð±Ð¾Ñ‚Ñ‹';
+$MESS['BOT_DEPARTMENT_NAME'] = '×àò-áîòû';

@@ -1,121 +1,121 @@
 <?
 
-$MESS["MAIL_CLIENT_CONFIG_TITLE"] = 'РџРѕРґРєР»СЋС‡РµРЅРёРµ РїРѕС‡С‚РѕРІРѕРіРѕ СЏС‰РёРєР°';
-$MESS["MAIL_CLIENT_CONFIG_EDIT_TITLE"] = 'РЈРїСЂР°РІР»РµРЅРёРµ РїРѕС‡С‚РѕРІС‹Рј СЏС‰РёРєРѕРј';
+$MESS["MAIL_CLIENT_CONFIG_TITLE"] = 'Подключение почтового ящика';
+$MESS["MAIL_CLIENT_CONFIG_EDIT_TITLE"] = 'Управление почтовым ящиком';
 
-$MESS["MAIL_CLIENT_CONFIG_PROMPT"] = 'Р Р°Р±РѕС‚Р°Р№С‚Рµ СЃ РїРѕС‡С‚РѕР№ РІРЅСѓС‚СЂРё Р‘РёС‚СЂРёРєСЃ24';
+$MESS["MAIL_CLIENT_CONFIG_PROMPT"] = 'Работайте с почтой внутри Битрикс24';
 
-$MESS["MAIL_CLIENT_CONFIG_MAILBOX_NAME"] = "РќР°Р·РІР°РЅРёРµ СЏС‰РёРєР°";
+$MESS["MAIL_CLIENT_CONFIG_MAILBOX_NAME"] = "Название ящика";
 $MESS["MAIL_CLIENT_CONFIG_MAILBOX_EMAIL"] = "Email";
-$MESS["MAIL_CLIENT_CONFIG_MAILBOX_USERNAME"] = "РРјСЏ РѕС‚РїСЂР°РІРёС‚РµР»СЏ";
-$MESS["MAIL_CLIENT_CONFIG_MAILBOX_LINK"] = "РђРґСЂРµСЃ РІРµР±-РёРЅС‚РµСЂС„РµР№СЃР° РїРѕС‡С‚РѕРІРѕРіРѕ СЃРµСЂРІРµСЂР°";
-$MESS["MAIL_CLIENT_CONFIG_EXT_SWITCH"] = "РЈРєР°Р·Р°С‚СЊ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹";
+$MESS["MAIL_CLIENT_CONFIG_MAILBOX_USERNAME"] = "Имя отправителя";
+$MESS["MAIL_CLIENT_CONFIG_MAILBOX_LINK"] = "Адрес веб-интерфейса почтового сервера";
+$MESS["MAIL_CLIENT_CONFIG_EXT_SWITCH"] = "Указать дополнительные параметры";
 
-$MESS["MAIL_CLIENT_CONFIG_OAUTH"] = "РђРІС‚РѕСЂРёР·Р°С†РёСЏ";
-$MESS["MAIL_CLIENT_CONFIG_OAUTH_CONNECT"] = "РђРІС‚РѕСЂРёР·Р°С†РёСЏ";
-$MESS["MAIL_CLIENT_CONFIG_OAUTH_DISCONNECT"] = "РћС‚РєР»СЋС‡РёС‚СЊ";
+$MESS["MAIL_CLIENT_CONFIG_OAUTH"] = "Авторизация";
+$MESS["MAIL_CLIENT_CONFIG_OAUTH_CONNECT"] = "Авторизация";
+$MESS["MAIL_CLIENT_CONFIG_OAUTH_DISCONNECT"] = "Отключить";
 
-$MESS["MAIL_CLIENT_CONFIG_IMAP"] = "Р”Р°РЅРЅС‹Рµ РґР»СЏ РїРѕРґРєР»СЋС‡РµРЅРёСЏ";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_SERVER"] = "РђРґСЂРµСЃ IMAP-СЃРµСЂРІРµСЂР°";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_PORT"] = "РџРѕСЂС‚";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_SSL"] = "РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ Р·Р°С‰РёС‰РµРЅРЅРѕРµ СЃРѕРµРґРёРЅРµРЅРёРµ";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_LOGIN"] = "Р›РѕРіРёРЅ";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_PASS"] = "РџР°СЂРѕР»СЊ";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE"] = "Р—Р°Р±СЂР°С‚СЊ РёР· СЏС‰РёРєР° РїРёСЃСЊРјР° Р·Р° #AGE#";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_1"] = "1 РґРµРЅСЊ";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_7"] = "7 РґРЅРµР№";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_30"] = "1 РјРµСЃСЏС†";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_60"] = "2 РјРµСЃСЏС†Р°";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_90"] = "3 РјРµСЃСЏС†Р°";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_I"] = "РІСЃРµ РІСЂРµРјСЏ";
+$MESS["MAIL_CLIENT_CONFIG_IMAP"] = "Данные для подключения";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_SERVER"] = "Адрес IMAP-сервера";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_PORT"] = "Порт";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_SSL"] = "использовать защищенное соединение";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_LOGIN"] = "Логин";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_PASS"] = "Пароль";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE"] = "Забрать из ящика письма за #AGE#";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_1"] = "1 день";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_7"] = "7 дней";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_30"] = "1 месяц";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_60"] = "2 месяца";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_90"] = "3 месяца";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_AGE_2_I"] = "все время";
 
-$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS"] = "РќР°СЃС‚СЂРѕР№РєРё РїР°РїРѕРє";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_LINK"] = "РќР°СЃС‚СЂРѕРёС‚СЊ РїР°РїРєРё РґР»СЏ СЃРёРЅС…СЂРѕРЅРёР·Р°С†РёРё";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_TITLE"] = "РќР°СЃС‚СЂРѕР№РєРё РїР°РїРѕРє";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_SYNC"] = "РџР°РїРєРё РґР»СЏ СЃРёРЅС…СЂРѕРЅРёР·Р°С†РёРё";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_FOR"] = "РќР°Р·РЅР°С‡РµРЅРёСЏ РїР°РїРѕРє";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_OUTCOME"] = "РћС‚РїСЂР°РІР»РµРЅРЅС‹Рµ РїРёСЃСЊРјР° СЃРѕС…СЂР°РЅСЏС‚СЊ РІ РїР°РїРєРµ:";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_TRASH"] = "РЈРґР°Р»РµРЅРЅС‹Рµ РїРёСЃСЊРјР° РїРµСЂРµРјРµС‰Р°С‚СЊ РІ РїР°РїРєСѓ:";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_SPAM"] = "РЎРїР°Рј РїРµСЂРµРјРµС‰Р°С‚СЊ РІ РїР°РїРєСѓ:";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_EMPTY_DEFAULT"] = "РЅРµ СѓРєР°Р·Р°РЅР°";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_BTN_SAVE"] = "РЎРѕС…СЂР°РЅРёС‚СЊ";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_BTN_CANCEL"] = "РћС‚РјРµРЅРёС‚СЊ";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS"] = "Настройки папок";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_LINK"] = "Настроить папки для синхронизации";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_TITLE"] = "Настройки папок";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_SYNC"] = "Папки для синхронизации";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_FOR"] = "Назначения папок";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_OUTCOME"] = "Отправленные письма сохранять в папке:";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_TRASH"] = "Удаленные письма перемещать в папку:";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_SPAM"] = "Спам перемещать в папку:";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_EMPTY_DEFAULT"] = "не указана";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_BTN_SAVE"] = "Сохранить";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_DIRS_BTN_CANCEL"] = "Отменить";
 
-$MESS["MAIL_CLIENT_CONFIG_SMTP"] = "РќР°СЃС‚СЂРѕР№РєРё РґР»СЏ РёСЃС…РѕРґСЏС‰РёС… РїРёСЃРµРј";
-$MESS["MAIL_CLIENT_CONFIG_SMTP_ACTIVE"] = "РћС‚РїСЂР°РІР»СЏС‚СЊ С‡РµСЂРµР· РІРЅРµС€РЅРёР№ SMTP";
-$MESS["MAIL_CLIENT_CONFIG_SMTP_WARNING"] = "Р’Р°Р¶РЅРѕ! Р‘СѓРґСЊС‚Рµ РІРЅРёРјР°С‚РµР»СЊРЅС‹ РїСЂРё РІРІРѕРґРµ РґР°РЅРЅС‹С… SMTP-СЃРµСЂРІРµСЂР°. РџРёСЃСЊРјР° РЅРµ Р±СѓРґСѓС‚ РґРѕСЃС‚Р°РІР»СЏС‚СЊСЃСЏ, РµСЃР»Рё РґР°РЅРЅС‹Рµ СѓРєР°Р·Р°РЅС‹ РЅРµРєРѕСЂСЂРµРєС‚РЅРѕ.";
-$MESS["MAIL_CLIENT_CONFIG_SMTP_SERVER"] = "РђРґСЂРµСЃ Рё РїРѕСЂС‚ SMTP-СЃРµСЂРІРµСЂР°";
-$MESS["MAIL_CLIENT_CONFIG_SMTP_LOGIN"] = "Р›РѕРіРёРЅ";
-$MESS["MAIL_CLIENT_CONFIG_SMTP_PASS"] = "РџР°СЂРѕР»СЊ";
+$MESS["MAIL_CLIENT_CONFIG_SMTP"] = "Настройки для исходящих писем";
+$MESS["MAIL_CLIENT_CONFIG_SMTP_ACTIVE"] = "Отправлять через внешний SMTP";
+$MESS["MAIL_CLIENT_CONFIG_SMTP_WARNING"] = "Важно! Будьте внимательны при вводе данных SMTP-сервера. Письма не будут доставляться, если данные указаны некорректно.";
+$MESS["MAIL_CLIENT_CONFIG_SMTP_SERVER"] = "Адрес и порт SMTP-сервера";
+$MESS["MAIL_CLIENT_CONFIG_SMTP_LOGIN"] = "Логин";
+$MESS["MAIL_CLIENT_CONFIG_SMTP_PASS"] = "Пароль";
 
-$MESS["MAIL_CLIENT_CONFIG_ACCESS"] = "Р”РѕСЃС‚СѓРї Рє РїРѕС‡С‚РѕРІРѕРјСѓ СЏС‰РёРєСѓ";
-$MESS["MAIL_CLIENT_CONFIG_ACCESS_HINT"] = "Р Р°Р·СЂРµС€РёС‚Рµ РґРѕСЃС‚СѓРї РґСЂСѓРіРёРј СЃРѕС‚СЂСѓРґРЅРёРєР°Рј, РєРѕС‚РѕСЂС‹Рµ СЃРјРѕРіСѓС‚ РѕР±СЂР°Р±Р°С‚С‹РІР°С‚СЊ РїРёСЃСЊРјР° РІ СЌС‚РѕРј СЏС‰РёРєРµ.";
-$MESS["MAIL_CLIENT_CONFIG_ACCESS_MORE"] = "РїРѕРґСЂРѕР±РЅРµРµ";
-$MESS["MAIL_CLIENT_CONFIG_ACCESS_ADD"] = "Р”РѕР±Р°РІРёС‚СЊ";
+$MESS["MAIL_CLIENT_CONFIG_ACCESS"] = "Доступ к почтовому ящику";
+$MESS["MAIL_CLIENT_CONFIG_ACCESS_HINT"] = "Разрешите доступ другим сотрудникам, которые смогут обрабатывать письма в этом ящике.";
+$MESS["MAIL_CLIENT_CONFIG_ACCESS_MORE"] = "подробнее";
+$MESS["MAIL_CLIENT_CONFIG_ACCESS_ADD"] = "Добавить";
 
-$MESS["MAIL_CLIENT_CONFIG_CRM"] = "РРЅС‚РµРіСЂР°С†РёСЏ СЃ CRM";
-$MESS["MAIL_CLIENT_CONFIG_CRM_ACTIVE"] = "РЎРІСЏР·Р°С‚СЊ СЃ CRM";
-$MESS["MAIL_CLIENT_CONFIG_CRM_AGE"] = "РћР±СЂР°Р±РѕС‚Р°С‚СЊ РїРёСЃСЊРјР° Р·Р° #AGE#";
-$MESS["MAIL_CLIENT_CONFIG_CRM_PUBLIC"] = "РџРёСЃСЊРјР° РёР·РІРµСЃС‚РЅС‹С… РєР»РёРµРЅС‚РѕРІ РЅР°Р·РЅР°С‡Р°С‚СЊ РѕС‚РІРµС‚СЃС‚РІРµРЅРЅС‹Рј СЃРѕС‚СЂСѓРґРЅРёРєР°Рј";
-$MESS["MAIL_CLIENT_CONFIG_CRM_NEW_ENTITY_IN"] = "Р”Р»СЏ РІС…РѕРґСЏС‰РёС… СЃ РЅРѕРІРѕРіРѕ email-Р°РґСЂРµСЃР° СЃРѕР·РґР°РІР°С‚СЊ #ENTITY#";
-$MESS["MAIL_CLIENT_CONFIG_CRM_NEW_ENTITY_OUT"] = "Р”Р»СЏ РёСЃС…РѕРґСЏС‰РёС… РЅР° РЅРѕРІС‹Р№ email-Р°РґСЂРµСЃ СЃРѕР·РґР°РІР°С‚СЊ #ENTITY#";
-$MESS["MAIL_CLIENT_CONFIG_CRM_VCF"] = "РЎРѕР·РґР°РІР°С‚СЊ РєРѕРЅС‚Р°РєС‚С‹ РёР· РІР»РѕР¶РµРЅРёР№ РІ С„РѕСЂРјР°С‚Рµ vCard";
-$MESS["MAIL_CLIENT_CONFIG_CRM_NEW_LEAD_ALLWAYS"] = "РЎРѕР·РґР°РІР°С‚СЊ РЅРѕРІС‹Р№ Р»РёРґ РґР»СЏ РєР°Р¶РґРѕРіРѕ РЅРѕРІРѕРіРѕ РІС…РѕРґСЏС‰РµРіРѕ РїРёСЃСЊРјР° СЃ СѓРєР°Р·Р°РЅРЅС‹С… #LIST#";
-$MESS["MAIL_CLIENT_CONFIG_CRM_NEW_LEAD_ALLWAYS_LIST"] = "Р°РґСЂРµСЃРѕРІ";
-$MESS["MAIL_CLIENT_CONFIG_CRM_NEW_LEAD_FOR_PROMPT"] = "email-Р°РґСЂРµСЃР° С‡РµСЂРµР· Р·Р°РїСЏС‚СѓСЋ РёР»Рё РєР°Р¶РґС‹Р№ Р°РґСЂРµСЃ СЃ РЅРѕРІРѕР№ СЃС‚СЂРѕРєРё";
-$MESS["MAIL_CLIENT_CONFIG_CRM_LEAD_SOURCE"] = "РСЃС‚РѕС‡РЅРёРє Р»РёРґРѕРІ Рё РєРѕРЅС‚Р°РєС‚РѕРІ: #SOURCE#";
-$MESS["MAIL_CLIENT_CONFIG_CRM_QUEUE"] = "РћС‡РµСЂРµРґСЊ СЂР°СЃРїСЂРµРґРµР»РµРЅРёСЏ Р»РёРґРѕРІ Рё РєРѕРЅС‚Р°РєС‚РѕРІ:";
-$MESS["MAIL_CLIENT_CONFIG_CRM_QUEUE_ADD"] = "Р”РѕР±Р°РІРёС‚СЊ";
+$MESS["MAIL_CLIENT_CONFIG_CRM"] = "Интеграция с CRM";
+$MESS["MAIL_CLIENT_CONFIG_CRM_ACTIVE"] = "Связать с CRM";
+$MESS["MAIL_CLIENT_CONFIG_CRM_AGE"] = "Обработать письма за #AGE#";
+$MESS["MAIL_CLIENT_CONFIG_CRM_PUBLIC"] = "Письма известных клиентов назначать ответственным сотрудникам";
+$MESS["MAIL_CLIENT_CONFIG_CRM_NEW_ENTITY_IN"] = "Для входящих с нового email-адреса создавать #ENTITY#";
+$MESS["MAIL_CLIENT_CONFIG_CRM_NEW_ENTITY_OUT"] = "Для исходящих на новый email-адрес создавать #ENTITY#";
+$MESS["MAIL_CLIENT_CONFIG_CRM_VCF"] = "Создавать контакты из вложений в формате vCard";
+$MESS["MAIL_CLIENT_CONFIG_CRM_NEW_LEAD_ALLWAYS"] = "Создавать новый лид для каждого нового входящего письма с указанных #LIST#";
+$MESS["MAIL_CLIENT_CONFIG_CRM_NEW_LEAD_ALLWAYS_LIST"] = "адресов";
+$MESS["MAIL_CLIENT_CONFIG_CRM_NEW_LEAD_FOR_PROMPT"] = "email-адреса через запятую или каждый адрес с новой строки";
+$MESS["MAIL_CLIENT_CONFIG_CRM_LEAD_SOURCE"] = "Источник лидов и контактов: #SOURCE#";
+$MESS["MAIL_CLIENT_CONFIG_CRM_QUEUE"] = "Очередь распределения лидов и контактов:";
+$MESS["MAIL_CLIENT_CONFIG_CRM_QUEUE_ADD"] = "Добавить";
 
-$MESS["MAIL_CLIENT_CONFIG_BTN_CONNECT"] = "РџРѕРґРєР»СЋС‡РёС‚СЊ";
-$MESS["MAIL_CLIENT_CONFIG_BTN_SAVE"] = "РЎРѕС…СЂР°РЅРёС‚СЊ";
-$MESS["MAIL_CLIENT_CONFIG_BTN_DISCONNECT"] = "РћС‚РєР»СЋС‡РёС‚СЊ";
-$MESS["MAIL_CLIENT_CONFIG_BTN_CANCEL"] = "РћС‚РјРµРЅРёС‚СЊ";
+$MESS["MAIL_CLIENT_CONFIG_BTN_CONNECT"] = "Подключить";
+$MESS["MAIL_CLIENT_CONFIG_BTN_SAVE"] = "Сохранить";
+$MESS["MAIL_CLIENT_CONFIG_BTN_DISCONNECT"] = "Отключить";
+$MESS["MAIL_CLIENT_CONFIG_BTN_CANCEL"] = "Отменить";
 
-$MESS["MAIL_CLIENT_CONFIG_SERVER_BAD"] = "РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ Р°РґСЂРµСЃ СЃРµСЂРІРµСЂР°";
-$MESS["MAIL_CLIENT_CONFIG_SERVER_EMPTY"] = "Р’РІРµРґРёС‚Рµ Р°РґСЂРµСЃ СЃРµСЂРІРµСЂР°";
-$MESS["MAIL_CLIENT_CONFIG_PORT_BAD"] = "РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РїРѕСЂС‚";
-$MESS["MAIL_CLIENT_CONFIG_LOGIN_EMPTY"] = "Р’РІРµРґРёС‚Рµ Р»РѕРіРёРЅ";
-$MESS["MAIL_CLIENT_CONFIG_PASS_EMPTY"] = "Р’РІРµРґРёС‚Рµ РїР°СЂРѕР»СЊ";
+$MESS["MAIL_CLIENT_CONFIG_SERVER_BAD"] = "Недопустимый адрес сервера";
+$MESS["MAIL_CLIENT_CONFIG_SERVER_EMPTY"] = "Введите адрес сервера";
+$MESS["MAIL_CLIENT_CONFIG_PORT_BAD"] = "Недопустимый порт";
+$MESS["MAIL_CLIENT_CONFIG_LOGIN_EMPTY"] = "Введите логин";
+$MESS["MAIL_CLIENT_CONFIG_PASS_EMPTY"] = "Введите пароль";
 
-$MESS["MAIL_CLIENT_CONFIG_EMAIL_BAD"] = "РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ email";
-$MESS["MAIL_CLIENT_CONFIG_EMAIL_EMPTY"] = "Р’РІРµРґРёС‚Рµ email";
-$MESS["MAIL_CLIENT_CONFIG_EMAIL_EXISTS"] = "Р’С‹ СѓР¶Рµ РїРѕРґРєР»СЋС‡РёР»Рё СЌС‚РѕС‚ СЏС‰РёРє";
+$MESS["MAIL_CLIENT_CONFIG_EMAIL_BAD"] = "Недопустимый email";
+$MESS["MAIL_CLIENT_CONFIG_EMAIL_EMPTY"] = "Введите email";
+$MESS["MAIL_CLIENT_CONFIG_EMAIL_EXISTS"] = "Вы уже подключили этот ящик";
 
-$MESS["MAIL_CLIENT_CONFIG_IMAP_SERVER_BAD"] = "РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ Р°РґСЂРµСЃ IMAP-СЃРµСЂРІРµСЂР°";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_PORT_BAD"] = "РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РїРѕСЂС‚ IMAP-СЃРµСЂРІРµСЂР°";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_LINK_BAD"] = "РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ Р°РґСЂРµСЃ РІРµР±-РёРЅС‚РµСЂС„РµР№СЃР°";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_SERVER_BAD"] = "Недопустимый адрес IMAP-сервера";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_PORT_BAD"] = "Недопустимый порт IMAP-сервера";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_LINK_BAD"] = "Недопустимый адрес веб-интерфейса";
 
-$MESS["MAIL_CLIENT_CONFIG_MAX_AGE_ERROR"] = "Р’С‹Р±РµСЂРёС‚Рµ РїРµСЂРёРѕРґ РґР»СЏ РїРµСЂРІРѕР№ СЃРёРЅС…СЂРѕРЅРёР·Р°С†РёРё";
-$MESS["MAIL_CLIENT_CONFIG_CRM_MAX_AGE_ERROR"] = "Р’С‹Р±РµСЂРёС‚Рµ РїРµСЂРёРѕРґ РґР»СЏ РѕР±СЂР°Р±РѕС‚РєРё РІ CRM";
+$MESS["MAIL_CLIENT_CONFIG_MAX_AGE_ERROR"] = "Выберите период для первой синхронизации";
+$MESS["MAIL_CLIENT_CONFIG_CRM_MAX_AGE_ERROR"] = "Выберите период для обработки в CRM";
 
-$MESS["MAIL_CLIENT_CONFIG_SMTP_SERVER_BAD"] = "РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ Р°РґСЂРµСЃ SMTP-СЃРµСЂРІРµСЂР°";
-$MESS["MAIL_CLIENT_CONFIG_SMTP_PORT_BAD"] = "РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РїРѕСЂС‚ SMTP-СЃРµСЂРІРµСЂР°";
+$MESS["MAIL_CLIENT_CONFIG_SMTP_SERVER_BAD"] = "Недопустимый адрес SMTP-сервера";
+$MESS["MAIL_CLIENT_CONFIG_SMTP_PORT_BAD"] = "Недопустимый порт SMTP-сервера";
 
-$MESS["MAIL_CLIENT_CONFIG_IMAP_OAUTH_ACC_ERROR"] = "РћС€РёР±РєР° РїРѕР»СѓС‡РµРЅРёСЏ РґР°РЅРЅС‹С… РїРѕС‡С‚РѕРІРѕРіРѕ СЏС‰РёРєР°";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_OAUTH_ACC_DIFF"] = "РќРµСЃРѕРѕС‚РІРµС‚СЃС‚РІРёРµ РґР°РЅРЅС‹С… РїРѕС‡С‚РѕРІРѕРіРѕ СЏС‰РёРєР°";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_OAUTH_ACC_ERROR"] = "Ошибка получения данных почтового ящика";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_OAUTH_ACC_DIFF"] = "Несоответствие данных почтового ящика";
 
-$MESS["MAIL_CLIENT_CONFIG_IMAP_ERR_EXT"] = "РџРѕРґСЂРѕР±РЅРµРµ";
-$MESS["MAIL_CLIENT_CONFIG_IMAP_AUTH_ERR_EXT"] = "РћС€РёР±РєР° Р°РІС‚РѕСЂРёР·Р°С†РёРё. РџСЂРѕРІРµСЂСЊС‚Рµ РїСЂР°РІРёР»СЊРЅРѕ Р»Рё СѓРєР°Р·Р°РЅС‹ Р»РѕРіРёРЅ Рё РїР°СЂРѕР»СЊ.<br>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ, РµСЃР»Рё РІС‹ РёСЃРїРѕР»СЊР·СѓРµС‚Рµ РїР°СЂРѕР»Рё РїСЂРёР»РѕР¶РµРЅРёР№ РёР»Рё РІРєР»СЋС‡РёР»Рё РґРІСѓС…С„Р°РєС‚РѕСЂРЅСѓСЋ Р°РІС‚РѕСЂРёР·Р°С†РёСЋ &mdash; РЅРµРѕР±С…РѕРґРёРјРѕ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ СЃРїРµС†РёР°Р»СЊРЅС‹Р№ РїР°СЂРѕР»СЊ РґР»СЏ РёРЅС‚РµРіСЂР°С†РёРё.";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_ERR_EXT"] = "Подробнее";
+$MESS["MAIL_CLIENT_CONFIG_IMAP_AUTH_ERR_EXT"] = "Ошибка авторизации. Проверьте правильно ли указаны логин и пароль.<br>Обратите внимание, если вы используете пароли приложений или включили двухфакторную авторизацию &mdash; необходимо использовать специальный пароль для интеграции.";
 
-$MESS["MAIL_CLIENT_CONFIG_LAST_MAIL_CHECK_TITLE"] = "РџРѕСЃР»РµРґРЅСЏСЏ РїСЂРѕРІРµСЂРєР° #TIME_AGO#";
-$MESS["MAIL_CLIENT_CONFIG_LAST_MAIL_CHECK_NO_DATA"] = "РќРµС‚ РґР°РЅРЅС‹С… Рѕ СЃРѕСЃС‚РѕСЏРЅРёРё СЏС‰РёРєР°";
-$MESS["MAIL_CLIENT_CONFIG_LAST_MAIL_CHECK_SUCCESS"] = "РЈСЃРїРµС€РЅРѕ";
-$MESS["MAIL_CLIENT_CONFIG_LAST_MAIL_CHECK_ERROR"] = "РћС€РёР±РєР°";
+$MESS["MAIL_CLIENT_CONFIG_LAST_MAIL_CHECK_TITLE"] = "Последняя проверка #TIME_AGO#";
+$MESS["MAIL_CLIENT_CONFIG_LAST_MAIL_CHECK_NO_DATA"] = "Нет данных о состоянии ящика";
+$MESS["MAIL_CLIENT_CONFIG_LAST_MAIL_CHECK_SUCCESS"] = "Успешно";
+$MESS["MAIL_CLIENT_CONFIG_LAST_MAIL_CHECK_ERROR"] = "Ошибка";
 
-$MESS["MAIL_MAILBOX_LICENSE_AGE_LIMIT_TITLE"] = "Р—Р°РіСЂСѓР·РєР° РїРѕС‡С‚С‹ РёР· РїРѕС‡С‚РѕРІРѕРіРѕ СЏС‰РёРєР°";
-$MESS["MAIL_MAILBOX_LICENSE_AGE_LIMIT_DESCR"] = "РћР±СЉРµРј РїРѕС‡С‚С‹, Р·Р°Р±РёСЂР°РµРјС‹Р№ РїСЂРё РїРѕРґРєР»СЋС‡РµРЅРёРё РєР°Р¶РґРѕРіРѕ РїРѕС‡С‚РѕРІРѕРіРѕ СЏС‰РёРєР°, Р·Р°РІРёСЃРёС‚ РѕС‚ С‚Р°СЂРёС„РЅРѕРіРѕ РїР»Р°РЅР° Р‘РёС‚СЂРёРєСЃ24.
+$MESS["MAIL_MAILBOX_LICENSE_AGE_LIMIT_TITLE"] = "Загрузка почты из почтового ящика";
+$MESS["MAIL_MAILBOX_LICENSE_AGE_LIMIT_DESCR"] = "Объем почты, забираемый при подключении каждого почтового ящика, зависит от тарифного плана Битрикс24.
 <br><br>
-РќР° РІР°С€РµРј С‚Р°СЂРёС„Рµ РјРѕР¶РЅРѕ Р·Р°Р±СЂР°С‚СЊ РїРѕС‡С‚Сѓ Р·Р° #LIMIT# #DAYS#.";
+На вашем тарифе можно забрать почту за #LIMIT# #DAYS#.";
 
-$MESS["MAIL_MAILBOX_DAYS_PLURAL_1"] = "РґРµРЅСЊ";
-$MESS["MAIL_MAILBOX_DAYS_PLURAL_2"] = "РґРЅСЏ";
-$MESS["MAIL_MAILBOX_DAYS_PLURAL_3"] = "РґРЅРµР№";
+$MESS["MAIL_MAILBOX_DAYS_PLURAL_1"] = "день";
+$MESS["MAIL_MAILBOX_DAYS_PLURAL_2"] = "дня";
+$MESS["MAIL_MAILBOX_DAYS_PLURAL_3"] = "дней";
 
-$MESS["MAIL_MAILBOX_LICENSE_SHARED_LIMIT_TITLE"] = "РћР±С‰РёР№ РґРѕСЃС‚СѓРї Рє РїРѕС‡С‚РѕРІС‹Рј СЏС‰РёРєР°Рј РІ Р‘РёС‚СЂРёРєСЃ24";
-$MESS["MAIL_MAILBOX_LICENSE_SHARED_LIMIT_BODY"] = "РљРѕР»РёС‡РµСЃС‚РІРѕ РїРѕС‡С‚РѕРІС‹С… СЏС‰РёРєРѕРІ, РѕР±С‰РёР№ РґРѕСЃС‚СѓРї Рє РєРѕС‚РѕСЂС‹Рј РјРѕР¶РЅРѕ РґР°С‚СЊ СЃРѕС‚СЂСѓРґРЅРёРєР°Рј, Р·Р°РІРёСЃРёС‚ РѕС‚ С‚Р°СЂРёС„РЅРѕРіРѕ РїР»Р°РЅР° Р‘РёС‚СЂРёРєСЃ24.
+$MESS["MAIL_MAILBOX_LICENSE_SHARED_LIMIT_TITLE"] = "Общий доступ к почтовым ящикам в Битрикс24";
+$MESS["MAIL_MAILBOX_LICENSE_SHARED_LIMIT_BODY"] = "Количество почтовых ящиков, общий доступ к которым можно дать сотрудникам, зависит от тарифного плана Битрикс24.
 <br><br>
-РќР° РІР°С€РµРј С‚Р°СЂРёС„Рµ РґРѕСЃС‚СѓРїРЅРѕ РѕР±С‰РёС… РїРѕС‡С‚РѕРІС‹С… СЏС‰РёРєРѕРІ: #LIMIT#";
+На вашем тарифе доступно общих почтовых ящиков: #LIMIT#";
 
-$MESS["MAIL_MAILBOX_REMOVE_CONFIRM_TEXT"] = "Р’С‹ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ С…РѕС‚РёС‚Рµ РѕС‚РєР»СЋС‡РёС‚СЊ РїРѕС‡С‚РѕРІС‹Р№ СЏС‰РёРє?";
-$MESS["MAIL_MAILBOX_REMOVE_CONFIRM"] = "РћС‚РєР»СЋС‡РёС‚СЊ РїРѕС‡С‚РѕРІС‹Р№ СЏС‰РёРє?";
+$MESS["MAIL_MAILBOX_REMOVE_CONFIRM_TEXT"] = "Вы действительно хотите отключить почтовый ящик?";
+$MESS["MAIL_MAILBOX_REMOVE_CONFIRM"] = "Отключить почтовый ящик?";

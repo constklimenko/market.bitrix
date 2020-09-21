@@ -1,5 +1,5 @@
 <?
-$MESS['REST_CONFIGURATION_IMPORT_ACCESS_DENIED'] = 'ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
-$MESS['REST_CONFIGURATION_IMPORT_TITLE'] = 'Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
-$MESS['REST_CONFIGURATION_IMPORT_ROLLBACK_TITLE'] = 'Ð’Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
-$MESS["REST_CONFIGURATION_ROLLBACK_DEFAULT_TITLE"] = "Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð´Ð¾ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ð¸Ð· Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ (#CREATE_TIME#)";
+$MESS['REST_CONFIGURATION_IMPORT_ACCESS_DENIED'] = 'Íåò äîñòóïà';
+$MESS['REST_CONFIGURATION_IMPORT_TITLE'] = 'Èìïîðò îòðàñëåâûõ íàñòðîåê';
+$MESS['REST_CONFIGURATION_IMPORT_ROLLBACK_TITLE'] = 'Âîññòàíîâëåíèå îòðàñëåâûõ íàñòðîåê';
+$MESS["REST_CONFIGURATION_ROLLBACK_DEFAULT_TITLE"] = "íàñòðîéêè äî óñòàíîâêè îòðàñëåâûõ íàñòðîåê èç ïðèëîæåíèÿ (#CREATE_TIME#)";

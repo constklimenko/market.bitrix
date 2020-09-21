@@ -1,10 +1,10 @@
 <?
-$MESS ['SEARCH_MODULE_UNAVAILABLE'] = "Ð˜Ð·Ð²Ð¸Ð½Ð¸Ñ‚Ðµ, Ð½Ð¾ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð¿Ð¾Ð¸ÑÐºÐ° Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½";
-$MESS ['SEARCH_RESULTS'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ°";
-$MESS ['SEARCH_FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
-$MESS ['SEARCH_BLOG'] = "Ð‘Ð»Ð¾Ð³Ð¸";
-$MESS ['SEARCH_SOCIALNETWORK'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
-$MESS ['SEARCH_INTRANET'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS ['SEARCH_MODULE_UNAVAILABLE'] = "Èçâèíèòå, íî ìîäóëü ïîèñêà âðåìåííî íåäîñòóïåí";
+$MESS ['SEARCH_RESULTS'] = "Ðåçóëüòàòû ïîèñêà";
+$MESS ['SEARCH_FORUM'] = "Ôîðóì";
+$MESS ['SEARCH_BLOG'] = "Áëîãè";
+$MESS ['SEARCH_SOCIALNETWORK'] = "Ñîöèàëüíàÿ ñåòü";
+$MESS ['SEARCH_INTRANET'] = "Ïîëüçîâàòåëè";
 $MESS ["SEARCH_CRM"] = "CRM";
-$MESS ["SEARCH_DISK"] = "Ð¤Ð°Ð¹Ð»Ñ‹ Ð´Ð¸ÑÐºÐ°";
+$MESS ["SEARCH_DISK"] = "Ôàéëû äèñêà";
 ?>

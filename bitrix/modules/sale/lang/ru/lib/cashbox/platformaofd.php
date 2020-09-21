@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_CASHBOX_PLATFORMA_OFD_NAME'] = 'ÐŸÐ»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð° ÐžÐ¤Ð”';
+$MESS['SALE_CASHBOX_PLATFORMA_OFD_NAME'] = 'Ïëàòôîðìà ÎÔÄ';

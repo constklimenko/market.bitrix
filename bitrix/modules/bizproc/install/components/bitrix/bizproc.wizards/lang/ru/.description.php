@@ -1,5 +1,5 @@
 <?
-$MESS ['BPWC_GROUP'] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑ";
-$MESS ['BPWC_COMPONENT_NAME_DESCRIPTION'] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑ";
-$MESS ['BPWC_COMPONENT_NAME'] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑ";
+$MESS ['BPWC_GROUP'] = "Áèçíåñ-ïðîöåññ";
+$MESS ['BPWC_COMPONENT_NAME_DESCRIPTION'] = "Áèçíåñ-ïðîöåññ";
+$MESS ['BPWC_COMPONENT_NAME'] = "Áèçíåñ-ïðîöåññ";
 ?>

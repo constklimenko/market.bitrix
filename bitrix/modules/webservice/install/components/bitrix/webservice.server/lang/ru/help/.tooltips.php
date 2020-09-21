@@ -1,5 +1,5 @@
 <?
-$MESS["WEBSERVICE_NAME_TIP"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð²ÐµÐ±-ÑÐµÑ€Ð²Ð¸ÑÐ°";
-$MESS["WEBSERVICE_MODULE_TIP"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð²ÐµÐ±-ÑÐµÑ€Ð²Ð¸Ñ";
-$MESS["WEBSERVICE_CLASS_TIP"] = "ÐšÐ¾Ð½Ñ„Ð¸Ð³ÑƒÑ€Ð¸Ñ€ÑƒÑŽÑ‰Ð¸Ð¹ ÐºÐ»Ð°ÑÑ";
+$MESS["WEBSERVICE_NAME_TIP"] = "Íàçâàíèå âåá-ñåðâèñà";
+$MESS["WEBSERVICE_MODULE_TIP"] = "Ìîäóëü âåá-ñåðâèñ";
+$MESS["WEBSERVICE_CLASS_TIP"] = "Êîíôèãóðèðóþùèé êëàññ";
 ?>

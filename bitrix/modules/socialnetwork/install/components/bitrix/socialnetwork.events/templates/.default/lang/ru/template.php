@@ -1,15 +1,15 @@
 <?
-$MESS ['SONET_C1_FR_TITLE'] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð´Ñ€ÑƒÐ¶Ð¸Ñ‚ÑŒ!";
-$MESS ['SONET_C1_ONLINE'] = "Ð¡ÐµÐ¹Ñ‡Ð°Ñ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
-$MESS ['SONET_C1_FR_TEXT'] = "Ñ…Ð¾Ñ‡ÐµÑ‚ Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð’Ð°Ñ Ð² ÑÐ¿Ð¸ÑÐ¾Ðº ÑÐ²Ð¾Ð¸Ñ… Ð´Ñ€ÑƒÐ·ÐµÐ¹";
-$MESS ['SONET_C1_FR_ADD'] = "Ð”Ñ€ÑƒÐ¶Ð¸Ñ‚ÑŒ";
-$MESS ['SONET_C1_REJECT'] = "ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ";
-$MESS ['SONET_C1_GR_TITLE'] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð²ÑÑ‚ÑƒÐ¿Ð¸Ñ‚ÑŒ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ!";
-$MESS ['SONET_C1_GR_INV'] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐ°ÐµÑ‚";
-$MESS ['SONET_C1_GR_ADD'] = "ÐŸÑ€Ð¸Ð½ÑÑ‚ÑŒ";
-$MESS ['SONET_C1_MS_TITLE'] = "Ð’Ð°Ð¼ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ!";
-$MESS ['SONET_C1_ANSWER'] = "ÐžÑ‚Ð²ÐµÑ‚Ð¸Ñ‚ÑŒ";
-$MESS ['SONET_C1_CLOSE'] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
-$MESS ['SONET_C1_CHAT'] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ñ‡Ð°Ñ‚";
-$MESS ['SONET_C1_BAN'] = "Ð’ Ñ‡ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS ['SONET_C1_FR_TITLE'] = "Ïðèãëàøåíèå äðóæèòü!";
+$MESS ['SONET_C1_ONLINE'] = "Ñåé÷àñ íà ñàéòå";
+$MESS ['SONET_C1_FR_TEXT'] = "õî÷åò äîáàâèòü Âàñ â ñïèñîê ñâîèõ äðóçåé";
+$MESS ['SONET_C1_FR_ADD'] = "Äðóæèòü";
+$MESS ['SONET_C1_REJECT'] = "Îòêëîíèòü";
+$MESS ['SONET_C1_GR_TITLE'] = "Ïðèãëàøåíèå âñòóïèòü â ãðóïïó!";
+$MESS ['SONET_C1_GR_INV'] = "Ïðèãëàøàåò";
+$MESS ['SONET_C1_GR_ADD'] = "Ïðèíÿòü";
+$MESS ['SONET_C1_MS_TITLE'] = "Âàì ñîîáùåíèå!";
+$MESS ['SONET_C1_ANSWER'] = "Îòâåòèòü";
+$MESS ['SONET_C1_CLOSE'] = "Çàêðûòü";
+$MESS ['SONET_C1_CHAT'] = "Îòêðûòü ÷àò";
+$MESS ['SONET_C1_BAN'] = "Â ÷åðíûé ñïèñîê";
 ?>

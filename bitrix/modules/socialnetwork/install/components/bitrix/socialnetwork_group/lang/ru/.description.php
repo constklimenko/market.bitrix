@@ -1,7 +1,7 @@
 <?
-$MESS ['SONET_COMPONENT'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
-$MESS ['SONET_COMPONENT_DESCRIPTION'] = "ÐšÐ¾Ð¼Ð¿Ð»ÐµÐºÑÐ½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸";
-$MESS ['SONET'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
-$MESS ['SONET_COMPONENT_GROUP_DESCRIPTION'] = "ÐšÐ¾Ð¼Ð¿Ð»ÐµÐºÑÐ½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ Ð³Ñ€ÑƒÐ¿Ð¿ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸";
-$MESS ['SONET_COMPONENT_GROUP'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ - Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS ['SONET_COMPONENT'] = "Ñîöèàëüíàÿ ñåòü";
+$MESS ['SONET_COMPONENT_DESCRIPTION'] = "Êîìïëåêñíûé êîìïîíåíò ñîöèàëüíîé ñåòè";
+$MESS ['SONET'] = "Ñîöèàëüíàÿ ñåòü";
+$MESS ['SONET_COMPONENT_GROUP_DESCRIPTION'] = "Êîìïëåêñíûé êîìïîíåíò ãðóïï ñîöèàëüíîé ñåòè";
+$MESS ['SONET_COMPONENT_GROUP'] = "Ñîöèàëüíàÿ ñåòü - ãðóïïû";
 ?>

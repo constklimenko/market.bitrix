@@ -1,5 +1,5 @@
 <?
-$MESS ['SONET_FEATURES_TEMPLATE_NAME'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»Ð°";
-$MESS ['SONET_FEATURES_TEMPLATE_DESCRIPTION'] = "ÐŸÐ¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð½Ð°ÑÑ‚Ñ€Ð°Ð¸Ð²Ð°Ñ‚ÑŒ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»";
-$MESS ['SONET_NAME'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
+$MESS ['SONET_FEATURES_TEMPLATE_NAME'] = "Íàñòðîéêà ôóíêöèîíàëà";
+$MESS ['SONET_FEATURES_TEMPLATE_DESCRIPTION'] = "Ïîçâîëÿåò íàñòðàèâàòü ôóíêöèîíàë";
+$MESS ['SONET_NAME'] = "Ñîöèàëüíàÿ ñåòü";
 ?>

@@ -1,14 +1,14 @@
 <?
-$MESS["CC_BLS_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["CC_BLS_WRONG_IBLOCK_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°.";
-$MESS["CC_BLS_WRONG_IBLOCK"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº.";
-$MESS["CC_BLS_LISTS_FOR_SONET_GROUP_DISABLED"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð´Ð»Ñ ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½.";
-$MESS["CC_BLS_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
-$MESS["CC_BLS_ACCESS_DENIED"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ¿Ð¸ÑÐºÐ°.";
-$MESS["CC_BLS_PAGE_TITLE"] = "#NAME#: ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°Ð¼Ð¸";
-$MESS["CC_BLS_CHAIN_TITLE"] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°Ð¼Ð¸";
-$MESS["CC_BLS_SECTION_ACTION_MENU_RENAME"] = "ÐŸÐµÑ€ÐµÐ¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ñ‚ÑŒ";
-$MESS["CC_BLS_NEW_SECTION_NAME_PROMPT"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½Ð¾Ð²Ð¾Ðµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°";
-$MESS["CC_BLS_SECTION_ACTION_MENU_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
-$MESS["CC_BLS_SECTION_DELETE_PROPMT"] = "Ð‘ÑƒÐ´ÑƒÑ‚ ÑƒÐ´Ð°Ð»ÐµÐ½Ñ‹ Ð²ÑÐµ Ð¿Ð¾Ð´Ñ€Ð°Ð·Ð´ÐµÐ»Ñ‹ Ð²Ð¼ÐµÑÑ‚Ðµ Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°Ð¼Ð¸. Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ€Ð°Ð·Ð´ÐµÐ»?";
+$MESS["CC_BLS_MODULE_NOT_INSTALLED"] = "Ìîäóëü óíèâåðñàëüíûõ ñïèñêîâ íå óñòàíîâëåí.";
+$MESS["CC_BLS_WRONG_IBLOCK_TYPE"] = "Íåâåðíûé òèï èíôîðìàöèîííîãî áëîêà.";
+$MESS["CC_BLS_WRONG_IBLOCK"] = "Óêàçàí íåâåðíûé ñïèñîê.";
+$MESS["CC_BLS_LISTS_FOR_SONET_GROUP_DISABLED"] = "Ôóíêöèîíàë ñïèñêîâ äëÿ ýòîé ãðóïïû îòêëþ÷åí.";
+$MESS["CC_BLS_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà.";
+$MESS["CC_BLS_ACCESS_DENIED"] = "Íåò ïðàâ äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ ñïèñêà.";
+$MESS["CC_BLS_PAGE_TITLE"] = "#NAME#: óïðàâëåíèå ðàçäåëàìè";
+$MESS["CC_BLS_CHAIN_TITLE"] = "Óïðàâëåíèå ðàçäåëàìè";
+$MESS["CC_BLS_SECTION_ACTION_MENU_RENAME"] = "Ïåðåèìåíîâàòü";
+$MESS["CC_BLS_NEW_SECTION_NAME_PROMPT"] = "Ââåäèòå íîâîå íàçâàíèå ðàçäåëà";
+$MESS["CC_BLS_SECTION_ACTION_MENU_DELETE"] = "Óäàëèòü";
+$MESS["CC_BLS_SECTION_DELETE_PROPMT"] = "Áóäóò óäàëåíû âñå ïîäðàçäåëû âìåñòå ñ ýëåìåíòàìè. Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ðàçäåë?";
 ?>

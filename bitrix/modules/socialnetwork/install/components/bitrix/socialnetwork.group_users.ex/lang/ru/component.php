@@ -1,9 +1,9 @@
 <?
-$MESS["SONET_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SONET_P_USER_NO_GROUP"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
-$MESS["SONET_GUE_NO_PERMS"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_GUE_NO_PERMS_PROJECT"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑÑ‚Ð¾Ð³Ð¾ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð°";
-$MESS["SONET_GUE_PAGE_TITLE"] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_GUE_PAGE_TITLE_PROJECT"] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð°";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS["SONET_P_USER_NO_GROUP"] = "Ãðóïïà íå íàéäåíà";
+$MESS["SONET_GUE_NO_PERMS"] = "Ó âàñ íåò ïðàâ íà ïðîñìîòð ýòîé ãðóïïû";
+$MESS["SONET_GUE_NO_PERMS_PROJECT"] = "Ó âàñ íåò ïðàâ íà ïðîñìîòð ýòîãî ïðîåêòà";
+$MESS["SONET_GUE_PAGE_TITLE"] = "Ó÷àñòíèêè ãðóïïû";
+$MESS["SONET_GUE_PAGE_TITLE_PROJECT"] = "Ó÷àñòíèêè ïðîåêòà";
 $MESS["SONET_GUE_NAME_TEMPLATE_DEFAULT"] = "#NOBR##LAST_NAME# #NAME##/NOBR#";
 ?>

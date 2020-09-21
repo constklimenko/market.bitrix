@@ -1,6 +1,6 @@
 <?
-$MESS ['LEARNING_TRANSCRIPT_NOT_FOUND'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
-$MESS ['LEARNING_TRANSCRIPT_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ°! ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ðº Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñƒ.";
-$MESS ['LEARNING_MODULE_NOT_FOUND'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['LEARNING_TRANSCRIPT_PERMISSION_DENIED'] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ñ€ÐµÐ·ÑŽÐ¼Ðµ.";
+$MESS ['LEARNING_TRANSCRIPT_NOT_FOUND'] = "Ïîëüçîâàòåëü íå íàéäåí.";
+$MESS ['LEARNING_TRANSCRIPT_ERROR'] = "Îøèáêà! Îáðàòèòåñü ê àäìèíèñòðàòîðó.";
+$MESS ['LEARNING_MODULE_NOT_FOUND'] = "Ìîäóëü îáó÷åíèÿ íå óñòàíîâëåí.";
+$MESS ['LEARNING_TRANSCRIPT_PERMISSION_DENIED'] = "Ó âàñ íåò ïðàâ íà ïðîñìîòð ðåçþìå.";
 ?>

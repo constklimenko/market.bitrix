@@ -1,15 +1,15 @@
 <?php
 $MESS['SALE_HPS_PAYMASTER'] = 'PayMaster';
-$MESS["SALE_HPS_PAYMASTER_NUMBER"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ð°ÑˆÐµÐ³Ð¾ ÑÐ°Ð¹Ñ‚Ð°";
-$MESS["SALE_HPS_PAYMASTER_TEST"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼";
+$MESS["SALE_HPS_PAYMASTER_NUMBER"] = "Èäåíòèôèêàòîð âàøåãî ñàéòà";
+$MESS["SALE_HPS_PAYMASTER_TEST"] = "Òåñòîâûé ðåæèì";
 $MESS["SALE_HPS_PAYMASTER_KEY"] = "Secret Key";
-$MESS["SALE_HPS_PAYMASTER_ORDER_ID"] = "ÐÐ¾Ð¼ÐµÑ€ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
-$MESS["SALE_HPS_PAYMASTER_DATE"] = "Ð”Ð°Ñ‚Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
-$MESS["SALE_HPS_PAYMASTER_HASH_ALGO"] = "ÐÐ»Ð³Ð¾Ñ€Ð¸Ñ‚Ð¼ ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
-$MESS["SALE_HPS_PAYMASTER_SUMMA"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ðº Ð¾Ð¿Ð»Ð°Ñ‚Ðµ";
-$MESS["SALE_HPS_PAYMASTER_CURRENCY"] = "Ð’Ð°Ð»ÑŽÑ‚Ð° ÑÑ‡ÐµÑ‚Ð°";
-$MESS["SALE_HPS_PAYMASTER_URL"] = "ÐÐ´Ñ€ÐµÑ Ð´Ð»Ñ Ð¾Ð¿Ð¾Ð²ÐµÑ‰ÐµÐ½Ð¸Ñ";
-$MESS["SALE_HPS_PAYMASTER_URL_OK"] = "ÐÐ´Ñ€ÐµÑ Ð¿Ñ€Ð¸ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ðµ";
-$MESS["SALE_HPS_PAYMASTER_URL_ERROR"] = "ÐÐ´Ñ€ÐµÑ Ð¿Ñ€Ð¸ Ð¾ÑˆÐ¸Ð±ÐºÐµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
-$MESS["SALE_HPS_PAYMASTER_PHONE"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ";
-$MESS["SALE_HPS_PAYMASTER_MAIL"] = "Email Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SALE_HPS_PAYMASTER_ORDER_ID"] = "Íîìåð îïëàòû";
+$MESS["SALE_HPS_PAYMASTER_DATE"] = "Äàòà îïëàòû";
+$MESS["SALE_HPS_PAYMASTER_HASH_ALGO"] = "Àëãîðèòì øèôðîâàíèÿ";
+$MESS["SALE_HPS_PAYMASTER_SUMMA"] = "Ñóììà ê îïëàòå";
+$MESS["SALE_HPS_PAYMASTER_CURRENCY"] = "Âàëþòà ñ÷åòà";
+$MESS["SALE_HPS_PAYMASTER_URL"] = "Àäðåñ äëÿ îïîâåùåíèÿ";
+$MESS["SALE_HPS_PAYMASTER_URL_OK"] = "Àäðåñ ïðè óñïåøíîé îïëàòå";
+$MESS["SALE_HPS_PAYMASTER_URL_ERROR"] = "Àäðåñ ïðè îøèáêå îïëàòû";
+$MESS["SALE_HPS_PAYMASTER_PHONE"] = "Òåëåôîí ïîêóïàòåëÿ";
+$MESS["SALE_HPS_PAYMASTER_MAIL"] = "Email ïîêóïàòåëÿ";

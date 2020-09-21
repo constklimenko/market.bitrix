@@ -1,6 +1,6 @@
 <?
-$MESS ['LEARNING_COURSE_TREE_NAME'] = "Ð”ÐµÑ€ÐµÐ²Ð¾ ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARNING_COURSE_TREE_DESC'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð¸ÐµÑ€Ð°Ñ€Ñ…Ð¸ÑŽ Ð³Ð»Ð°Ð² Ð¸ ÑƒÑ€Ð¾ÐºÐ¾Ð²";
-$MESS ['LEARNING_SERVICE'] = "ÐžÐ±ÑƒÑ‡ÐµÐ½Ð¸Ðµ";
-$MESS ['LEARNING_COURSE_SERVICE'] = "ÐšÑƒÑ€ÑÑ‹";
+$MESS ['LEARNING_COURSE_TREE_NAME'] = "Äåðåâî êóðñà";
+$MESS ['LEARNING_COURSE_TREE_DESC'] = "Âûâîäèò èåðàðõèþ ãëàâ è óðîêîâ";
+$MESS ['LEARNING_SERVICE'] = "Îáó÷åíèå";
+$MESS ['LEARNING_COURSE_SERVICE'] = "Êóðñû";
 ?>

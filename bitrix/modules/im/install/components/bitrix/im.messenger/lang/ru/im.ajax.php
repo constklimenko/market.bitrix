@@ -1,5 +1,5 @@
 <?
-$MESS["IM_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ IM Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
-$MESS["IM_ACCESS_ERROR"] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð½Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾";
-$MESS["IM_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°";
-$MESS["IM_ERROR_GROUP_CANCELED"] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÑÑ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð² ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ Ñ‡Ð°Ñ‚";
+$MESS["IM_MODULE_NOT_INSTALLED"] = "Ìîäóëü IM íå óñòàíîâëåí";
+$MESS["IM_ACCESS_ERROR"] = "Äåéñòâèå íå äîñòóïíî";
+$MESS["IM_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà";
+$MESS["IM_ERROR_GROUP_CANCELED"] = "Âû íå ìîæåòå îòïðàâëÿòü ñîîáùåíèÿ â óêàçàííûé ÷àò";

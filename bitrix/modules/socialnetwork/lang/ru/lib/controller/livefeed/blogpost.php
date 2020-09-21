@@ -1,4 +1,4 @@
 <?
-$MESS["SONET_CONTROLLER_LIVEFEED_BLOGPOST_EMPTY"] = "РќРµ РїРµСЂРµРґР°РЅРѕ Р·РЅР°С‡РµРЅРёРµ ID СЃРѕРѕР±С‰РµРЅРёСЏ.";
-$MESS["SONET_CONTROLLER_LIVEFEED_BLOGPOST_NOT_FOUND"] = "РЎРѕРѕР±С‰РµРЅРёРµ РЅРµ РЅР°Р№РґРµРЅРѕ.";
+$MESS["SONET_CONTROLLER_LIVEFEED_BLOGPOST_EMPTY"] = "Не передано значение ID сообщения.";
+$MESS["SONET_CONTROLLER_LIVEFEED_BLOGPOST_NOT_FOUND"] = "Сообщение не найдено.";
 ?>

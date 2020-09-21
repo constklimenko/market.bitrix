@@ -1,5 +1,5 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("РџРѕРёСЃРє");?>
+$APPLICATION->SetTitle("Поиск");?>
 
 <?$APPLICATION->IncludeComponent("bitrix:search.page", "clear", Array(
 	"RESTART"	=>	"N",

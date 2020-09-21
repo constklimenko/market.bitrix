@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸ Ð±Ð°Ð½ÐºÐ°");
+$APPLICATION->SetTitle("Íîâîñòè áàíêà");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:news.list",
 	".default",
@@ -38,7 +38,7 @@ $APPLICATION->SetTitle("ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸ Ð±Ð°Ð½ÐºÐ°");
 		"PARENT_SECTION_CODE" => "",
 		"DISPLAY_TOP_PAGER" => "N",
 		"DISPLAY_BOTTOM_PAGER" => "N",
-		"PAGER_TITLE" => "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸",
+		"PAGER_TITLE" => "Íîâîñòè",
 		"PAGER_SHOW_ALWAYS" => "N",
 		"PAGER_TEMPLATE" => "",
 		"PAGER_DESC_NUMBERING" => "N",

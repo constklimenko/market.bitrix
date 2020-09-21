@@ -1,53 +1,53 @@
 <?
-$MESS["EC_MESS_INVITE"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #OWNER_NAME# Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐ°ÐµÑ‚ Ð²Ð°Ñ Ð¿Ñ€Ð¸Ð½ÑÑ‚ÑŒ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ Ð²Ð¾ Ð²ÑÑ‚Ñ€ÐµÑ‡Ðµ \"#TITLE#\", ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ ÑÐ¾ÑÑ‚Ð¾Ð¸Ñ‚ÑÑ #ACTIVE_FROM#";
-$MESS["EC_MESS_INVITE_SITE"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐ°ÑŽ Ð²Ð°Ñ Ð¿Ñ€Ð¸Ð½ÑÑ‚ÑŒ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ Ð²Ð¾ Ð²ÑÑ‚Ñ€ÐµÑ‡Ðµ \"[B]#TITLE#[/B]\", ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ ÑÐ¾ÑÑ‚Ð¾Ð¸Ñ‚ÑÑ [B]#ACTIVE_FROM#[/B]";
-$MESS["EC_MESS_REC_INVITE"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #OWNER_NAME# Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐ°ÐµÑ‚ Ð²Ð°Ñ Ð¿Ñ€Ð¸Ð½ÑÑ‚ÑŒ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ Ð² Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÑÐµÐ¼Ð¾Ð¹ Ð²ÑÑ‚Ñ€ÐµÑ‡Ðµ \"#TITLE#\" #ACTIVE_FROM#, #RRULE#";
-$MESS["EC_MESS_REC_INVITE_SITE"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐ°ÑŽ Ð²Ð°Ñ Ð¿Ñ€Ð¸Ð½ÑÑ‚ÑŒ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ Ð² Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÑÐµÐ¼Ð¾Ð¹  Ð²ÑÑ‚Ñ€ÐµÑ‡Ðµ \"[B]#TITLE#[/B]\" [B]#ACTIVE_FROM#, #RRULE#[/B]";
+$MESS["EC_MESS_INVITE"] = "Ïîëüçîâàòåëü #OWNER_NAME# ïðèãëàøàåò âàñ ïðèíÿòü ó÷àñòèå âî âñòðå÷å \"#TITLE#\", êîòîðàÿ ñîñòîèòñÿ #ACTIVE_FROM#";
+$MESS["EC_MESS_INVITE_SITE"] = "Ïðèãëàøàþ âàñ ïðèíÿòü ó÷àñòèå âî âñòðå÷å \"[B]#TITLE#[/B]\", êîòîðàÿ ñîñòîèòñÿ [B]#ACTIVE_FROM#[/B]";
+$MESS["EC_MESS_REC_INVITE"] = "Ïîëüçîâàòåëü #OWNER_NAME# ïðèãëàøàåò âàñ ïðèíÿòü ó÷àñòèå â ïîâòîðÿåìîé âñòðå÷å \"#TITLE#\" #ACTIVE_FROM#, #RRULE#";
+$MESS["EC_MESS_REC_INVITE_SITE"] = "Ïðèãëàøàþ âàñ ïðèíÿòü ó÷àñòèå â ïîâòîðÿåìîé  âñòðå÷å \"[B]#TITLE#[/B]\" [B]#ACTIVE_FROM#, #RRULE#[/B]";
 
-$MESS["EC_MESS_INVITE_CHANGED"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #OWNER_NAME# Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð» Ð²ÑÑ‚Ñ€ÐµÑ‡Ñƒ \"#TITLE#\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼, ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ ÑÐ¾ÑÑ‚Ð¾Ð¸Ñ‚ÑÑ #ACTIVE_FROM#";
-$MESS["EC_MESS_INVITE_CHANGED_SITE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð° Ð²ÑÑ‚Ñ€ÐµÑ‡Ð° \"[B]#TITLE#[/B]\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼, ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ ÑÐ¾ÑÑ‚Ð¾Ð¸Ñ‚ÑÑ [B]#ACTIVE_FROM#[/B]";
-$MESS["EC_MESS_INVITE_CANCEL"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #OWNER_NAME# Ð¾Ñ‚Ð¼ÐµÐ½Ð¸Ð» Ð²ÑÑ‚Ñ€ÐµÑ‡Ñƒ \"#TITLE#\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼, ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ Ð´Ð¾Ð»Ð¶Ð½Ð° Ð±Ñ‹Ð»Ð° ÑÐ¾ÑÑ‚Ð¾ÑÑ‚ÑŒÑÑ #ACTIVE_FROM#";
-$MESS["EC_MESS_INVITE_CANCEL_SITE"] = "ÐžÑ‚Ð¼ÐµÐ½ÐµÐ½Ð° Ð²ÑÑ‚Ñ€ÐµÑ‡Ð° \"[B]#TITLE#[/B]\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼, ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ Ð´Ð¾Ð»Ð¶Ð½Ð° Ð±Ñ‹Ð»Ð° ÑÐ¾ÑÑ‚Ð¾ÑÑ‚ÑŒÑÑ [B]#ACTIVE_FROM#[/B]";
+$MESS["EC_MESS_INVITE_CHANGED"] = "Ïîëüçîâàòåëü #OWNER_NAME# èçìåíèë âñòðå÷ó \"#TITLE#\" ñ âàøèì ó÷àñòèåì, êîòîðàÿ ñîñòîèòñÿ #ACTIVE_FROM#";
+$MESS["EC_MESS_INVITE_CHANGED_SITE"] = "Èçìåíåíà âñòðå÷à \"[B]#TITLE#[/B]\" ñ âàøèì ó÷àñòèåì, êîòîðàÿ ñîñòîèòñÿ [B]#ACTIVE_FROM#[/B]";
+$MESS["EC_MESS_INVITE_CANCEL"] = "Ïîëüçîâàòåëü #OWNER_NAME# îòìåíèë âñòðå÷ó \"#TITLE#\" ñ âàøèì ó÷àñòèåì, êîòîðàÿ äîëæíà áûëà ñîñòîÿòüñÿ #ACTIVE_FROM#";
+$MESS["EC_MESS_INVITE_CANCEL_SITE"] = "Îòìåíåíà âñòðå÷à \"[B]#TITLE#[/B]\" ñ âàøèì ó÷àñòèåì, êîòîðàÿ äîëæíà áûëà ñîñòîÿòüñÿ [B]#ACTIVE_FROM#[/B]";
 
-$MESS["EC_MESS_REC_ALL_CANCEL"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #OWNER_NAME# Ð¾Ñ‚Ð¼ÐµÐ½Ð¸Ð» Ð²ÑÐµ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÐµÐ½Ð¸Ñ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"[B]#TITLE#[/B]\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼, Ð¾Ñ‚ [B]#ACTIVE_FROM#[/B]";
-$MESS["EC_MESS_REC_ALL_CANCEL_SITE"] = "ÐžÑ‚Ð¼ÐµÐ½ÐµÐ½Ñ‹ Ð²ÑÐµ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÐµÐ½Ð¸Ñ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"[B]#TITLE#[/B]\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼, Ð¾Ñ‚ [B]#ACTIVE_FROM#[/B]";
+$MESS["EC_MESS_REC_ALL_CANCEL"] = "Ïîëüçîâàòåëü #OWNER_NAME# îòìåíèë âñå ïîâòîðåíèÿ âñòðå÷è \"[B]#TITLE#[/B]\" ñ âàøèì ó÷àñòèåì, îò [B]#ACTIVE_FROM#[/B]";
+$MESS["EC_MESS_REC_ALL_CANCEL_SITE"] = "Îòìåíåíû âñå ïîâòîðåíèÿ âñòðå÷è \"[B]#TITLE#[/B]\" ñ âàøèì ó÷àñòèåì, îò [B]#ACTIVE_FROM#[/B]";
 
-$MESS["EC_MESS_REC_THIS_CANCEL"] = "ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€ÐµÐ½Ð¸Ðµ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"[B]#TITLE#[/B]\" ([B]#ACTIVE_FROM#[/B]) Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼ Ð±Ñ‹Ð»Ð¾ Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½Ð¾ #OWNER_NAME#";
-$MESS["EC_MESS_REC_THIS_CANCEL_SITE"] = "ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€ÐµÐ½Ð¸Ðµ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"[B]#TITLE#[/B]\" ([B]#ACTIVE_FROM#[/B]) Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼ Ð±Ñ‹Ð»Ð¾ Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½Ð¾";
+$MESS["EC_MESS_REC_THIS_CANCEL"] = "Ïîâòîðåíèå âñòðå÷è \"[B]#TITLE#[/B]\" ([B]#ACTIVE_FROM#[/B]) ñ âàøèì ó÷àñòèåì áûëî îòìåíåíî #OWNER_NAME#";
+$MESS["EC_MESS_REC_THIS_CANCEL_SITE"] = "Ïîâòîðåíèå âñòðå÷è \"[B]#TITLE#[/B]\" ([B]#ACTIVE_FROM#[/B]) ñ âàøèì ó÷àñòèåì áûëî îòìåíåíî";
 
-$MESS["EC_MESS_INVITE_DETAILS"] = "Ð”ÐµÑ‚Ð°Ð»Ð¸ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð² ÑÐ²Ð¾ÐµÐ¼ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ðµ: #LINK#";
-$MESS["EC_MESS_INVITE_DETAILS_SITE"] = "Ð”ÐµÑ‚Ð°Ð»Ð¸ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð² [url=#LINK#]ÑÐ²Ð¾ÐµÐ¼ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ðµ[/url]";
-$MESS["EC_MESS_INVITE_CONF_Y"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ: #LINK#";
-$MESS["EC_MESS_INVITE_CONF_N"] = "ÐžÑ‚ÐºÐ°Ð·Ð°Ñ‚ÑŒÑÑ Ð¾Ñ‚ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ñ: #LINK#";
-$MESS["EC_MESS_INVITE_CONF_Y_SITE"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ";
-$MESS["EC_MESS_INVITE_CONF_N_SITE"] = "ÐžÑ‚ÐºÐ°Ð·Ð°Ñ‚ÑŒÑÑ";
-$MESS["EC_MESS_VIEW_OWN_CALENDAR"] = "ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð´Ñ€ÑƒÐ³Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð¸ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð² ÑÐ²Ð¾ÐµÐ¼ [url=#LINK#]Ð¿ÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ð¾Ð¼ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ðµ[/url]";
-$MESS["EC_MESS_VIEW_OWN_CALENDAR_OUT"] = "ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð´Ñ€ÑƒÐ³Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð¸ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð² ÑÐ²Ð¾ÐµÐ¼ Ð¿ÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ð¾Ð¼ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ðµ: #LINK#";
-$MESS["EC_MESS_INVITE_TITLE"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð½Ð° Ð²ÑÑ‚Ñ€ÐµÑ‡Ñƒ \"#TITLE#\" Ð¾Ñ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ #OWNER_NAME#";
-$MESS["EC_MESS_INVITE_CHANGED_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"#TITLE#\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼";
-$MESS["EC_MESS_INVITE_CANCEL_TITLE"] = "Ð’ÑÑ‚Ñ€ÐµÑ‡Ð° \"#TITLE#\" Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½Ð°";
-$MESS["EC_MESS_INVITE_ACCEPTED"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #GUEST_NAME# Ð¿Ñ€Ð¸Ð¼ÐµÑ‚ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ Ð² Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ Ð²Ð°Ð¼Ð¸ Ð²ÑÑ‚Ñ€ÐµÑ‡Ðµ \"#TITLE#\"";
-$MESS["EC_MESS_INVITE_ACCEPTED_SITE"] = "Ð¯ Ð¿Ñ€Ð¸Ð¼Ñƒ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ Ð² Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ Ð²Ð°Ð¼Ð¸ Ð²ÑÑ‚Ñ€ÐµÑ‡Ðµ \"[B]#TITLE#[/B]\"";
-$MESS["EC_MESS_INVITE_DECLINED"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #GUEST_NAME# Ð½Ðµ Ð¿Ñ€Ð¸Ð¼ÐµÑ‚ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ Ð² Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ Ð²Ð°Ð¼Ð¸ Ð²ÑÑ‚Ñ€ÐµÑ‡Ðµ \"#TITLE#\"";
-$MESS["EC_MESS_INVITE_DECLINED_SITE"] = "Ð¯ Ð½Ðµ Ð¿Ñ€Ð¸Ð¼Ñƒ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ Ð² Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ Ð²Ð°Ð¼Ð¸ Ð²ÑÑ‚Ñ€ÐµÑ‡Ðµ \"[B]#TITLE#[/B]\"";
+$MESS["EC_MESS_INVITE_DETAILS"] = "Äåòàëè âñòðå÷è Âû ìîæåòå ïîñìîòðåòü â ñâîåì êàëåíäàðå: #LINK#";
+$MESS["EC_MESS_INVITE_DETAILS_SITE"] = "Äåòàëè âñòðå÷è Âû ìîæåòå ïîñìîòðåòü â [url=#LINK#]ñâîåì êàëåíäàðå[/url]";
+$MESS["EC_MESS_INVITE_CONF_Y"] = "Ïîäòâåðäèòü ó÷àñòèå: #LINK#";
+$MESS["EC_MESS_INVITE_CONF_N"] = "Îòêàçàòüñÿ îò ó÷àñòèÿ: #LINK#";
+$MESS["EC_MESS_INVITE_CONF_Y_SITE"] = "Ïîäòâåðäèòü ó÷àñòèå";
+$MESS["EC_MESS_INVITE_CONF_N_SITE"] = "Îòêàçàòüñÿ";
+$MESS["EC_MESS_VIEW_OWN_CALENDAR"] = "Ïîñìîòðåòü äðóãèå ñîáûòèÿ è âñòðå÷è Âû ìîæåòå â ñâîåì [url=#LINK#]ïåðñîíàëüíîì êàëåíäàðå[/url]";
+$MESS["EC_MESS_VIEW_OWN_CALENDAR_OUT"] = "Ïîñìîòðåòü äðóãèå ñîáûòèÿ è âñòðå÷è Âû ìîæåòå â ñâîåì ïåðñîíàëüíîì êàëåíäàðå: #LINK#";
+$MESS["EC_MESS_INVITE_TITLE"] = "Ïðèãëàøåíèå íà âñòðå÷ó \"#TITLE#\" îò ïîëüçîâàòåëÿ #OWNER_NAME#";
+$MESS["EC_MESS_INVITE_CHANGED_TITLE"] = "Èçìåíåíèå âñòðå÷è \"#TITLE#\" ñ âàøèì ó÷àñòèåì";
+$MESS["EC_MESS_INVITE_CANCEL_TITLE"] = "Âñòðå÷à \"#TITLE#\" îòìåíåíà";
+$MESS["EC_MESS_INVITE_ACCEPTED"] = "Ïîëüçîâàòåëü #GUEST_NAME# ïðèìåò ó÷àñòèå â îðãàíèçîâàííîé âàìè âñòðå÷å \"#TITLE#\"";
+$MESS["EC_MESS_INVITE_ACCEPTED_SITE"] = "ß ïðèìó ó÷àñòèå â îðãàíèçîâàííîé âàìè âñòðå÷å \"[B]#TITLE#[/B]\"";
+$MESS["EC_MESS_INVITE_DECLINED"] = "Ïîëüçîâàòåëü #GUEST_NAME# íå ïðèìåò ó÷àñòèå â îðãàíèçîâàííîé âàìè âñòðå÷å \"#TITLE#\"";
+$MESS["EC_MESS_INVITE_DECLINED_SITE"] = "ß íå ïðèìó ó÷àñòèå â îðãàíèçîâàííîé âàìè âñòðå÷å \"[B]#TITLE#[/B]\"";
 
-$MESS["EC_NOTIFY_TITLE_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼ Ñ \"#OLD_TITLE#\" Ð½Ð° \"#NEW_TITLE#\", Ð´Ð°Ñ‚Ð° Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ - #ACTIVE_FROM#";
-$MESS["EC_NOTIFY_DATE_FROM_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"#TITLE#\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼ Ñ \"#OLD_DATE_FROM#\", Ð½Ð° \"#NEW_DATE_FROM#\"";
-$MESS["EC_NOTIFY_DATE_TO_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"#TITLE#\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼ Ñ \"#OLD_DATE_TO#\", Ð½Ð° \"#NEW_DATE_TO#\"";
-$MESS["EC_NOTIFY_ATTENDEES_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½ ÑÐ¾ÑÑ‚Ð°Ð² ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð² Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"#TITLE#\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼, Ð´Ð°Ñ‚Ð° Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ - #ACTIVE_FROM#";
-$MESS["EC_NOTIFY_DESCRIPTION_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"#TITLE#\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼, Ð´Ð°Ñ‚Ð° Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ - #ACTIVE_FROM#";
-$MESS["EC_NOTIFY_LOCATION_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"#TITLE#\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼, Ð´Ð°Ñ‚Ð° Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ - #ACTIVE_FROM#";
-$MESS["EC_NOTIFY_LOCATION_CHANGED"] = "ÐœÐµÑÑ‚Ð¾ Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð²Ð°ÑˆÐµÐ¹ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"#TITLE#\", ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ ÑÐ¾ÑÑ‚Ð¾Ð¸Ñ‚ÑÑ #ACTIVE_FROM# Ð±Ñ‹Ð»Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾. ÐÐ¾Ð²Ð¾Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ - \"#NEW_VALUE#\"";
-$MESS["EC_NOTIFY_LOCATION_CHANGED_NONE"] = "ÐœÐµÑÑ‚Ð¾ Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð²Ð°ÑˆÐµÐ¹ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"#TITLE#\", ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ ÑÐ¾ÑÑ‚Ð¾Ð¸Ñ‚ÑÑ #ACTIVE_FROM# Ñ‚ÐµÐ¿ÐµÑ€ÑŒ Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾. Ð£Ñ‚Ð¾Ñ‡Ð½Ð¸Ñ‚Ðµ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½Ð¾ÑÑ‚Ð¸ Ñƒ Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ‚Ð¾Ñ€Ð° Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸.";
-$MESS["EC_NOTIFY_RRULE_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ñ‹ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Ñ€ÐµÐ³ÑƒÐ»ÑÑ€Ð½Ð¾Ð¹ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸ \"#TITLE#\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼";
-$MESS["EC_NOTIFY_IMPORTANCE_CHANGED"] = "Ð’ÑÑ‚Ñ€ÐµÑ‡Ð° \"#TITLE#\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼, ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ ÑÐ¾ÑÑ‚Ð¾Ð¸Ñ‚ÑÑ #ACTIVE_FROM#, Ð±Ñ‹Ð»Ð° Ð¾Ñ‚Ð¼ÐµÑ‡ÐµÐ½Ð° ÐºÐ°Ðº \"Ð²Ð°Ð¶Ð½Ð°Ñ\", Ð½Ðµ Ð¿Ñ€Ð¾Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ðµ ÐµÐµ.";
-$MESS["EC_NOTIFY_ENTRY_CHANGED"] = "Ð’ÑÑ‚Ñ€ÐµÑ‡Ð° \"#TITLE#\" Ñ Ð²Ð°ÑˆÐ¸Ð¼ ÑƒÑ‡Ð°ÑÑ‚Ð¸ÐµÐ¼, ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ ÑÐ¾ÑÑ‚Ð¾Ð¸Ñ‚ÑÑ #ACTIVE_FROM#, Ð±Ñ‹Ð»Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð°. Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð½Ñ‹Ðµ Ð¿Ð¾Ð»Ñ: #CHANGED_FIELDS_LIST#";
-$MESS["EC_NOTIFY_FIELD_NAME"] = "Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS["EC_NOTIFY_FIELD_DATE_FROM"] = "Ð´Ð°Ñ‚Ð°/Ð²Ñ€ÐµÐ¼Ñ Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ";
-$MESS["EC_NOTIFY_FIELD_RRULE"] = "Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÐµÐ½Ð¸Ñ";
-$MESS["EC_NOTIFY_FIELD_DESCRIPTION"] = "Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
-$MESS["EC_NOTIFY_FIELD_LOCATION"] = "Ð¼ÐµÑÑ‚Ð¾ Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ";
-$MESS["EC_NOTIFY_FIELD_IMPORTANCE"] = "Ð²Ð°Ð¶Ð½Ð¾ÑÑ‚ÑŒ";
-$MESS["EC_NOTIFY_FIELD_ATTENDEES"] = "ÑÐ¾ÑÑ‚Ð°Ð² ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð²";
+$MESS["EC_NOTIFY_TITLE_CHANGED"] = "Èçìåíåíî íàçâàíèå âñòðå÷è ñ âàøèì ó÷àñòèåì ñ \"#OLD_TITLE#\" íà \"#NEW_TITLE#\", äàòà ïðîâåäåíèÿ âñòðå÷è - #ACTIVE_FROM#";
+$MESS["EC_NOTIFY_DATE_FROM_CHANGED"] = "Èçìåíåíî âðåìÿ ïðîâåäåíèÿ âñòðå÷è \"#TITLE#\" ñ âàøèì ó÷àñòèåì ñ \"#OLD_DATE_FROM#\", íà \"#NEW_DATE_FROM#\"";
+$MESS["EC_NOTIFY_DATE_TO_CHANGED"] = "Èçìåíåíî âðåìÿ îêîí÷àíèÿ âñòðå÷è \"#TITLE#\" ñ âàøèì ó÷àñòèåì ñ \"#OLD_DATE_TO#\", íà \"#NEW_DATE_TO#\"";
+$MESS["EC_NOTIFY_ATTENDEES_CHANGED"] = "Èçìåíåí ñîñòàâ ó÷àñòíèêîâ âñòðå÷è \"#TITLE#\" ñ âàøèì ó÷àñòèåì, äàòà ïðîâåäåíèÿ âñòðå÷è - #ACTIVE_FROM#";
+$MESS["EC_NOTIFY_DESCRIPTION_CHANGED"] = "Èçìåíåíî îïèñàíèå âñòðå÷è \"#TITLE#\" ñ âàøèì ó÷àñòèåì, äàòà ïðîâåäåíèÿ âñòðå÷è - #ACTIVE_FROM#";
+$MESS["EC_NOTIFY_LOCATION_CHANGED"] = "Èçìåíåíî ìåñòîïîëîæåíèå âñòðå÷è \"#TITLE#\" ñ âàøèì ó÷àñòèåì, äàòà ïðîâåäåíèÿ âñòðå÷è - #ACTIVE_FROM#";
+$MESS["EC_NOTIFY_LOCATION_CHANGED"] = "Ìåñòî ïðîâåäåíèÿ âàøåé âñòðå÷è \"#TITLE#\", êîòîðàÿ ñîñòîèòñÿ #ACTIVE_FROM# áûëî èçìåíåíî. Íîâîå ìåñòîïîëîæåíèå - \"#NEW_VALUE#\"";
+$MESS["EC_NOTIFY_LOCATION_CHANGED_NONE"] = "Ìåñòî ïðîâåäåíèÿ âàøåé âñòðå÷è \"#TITLE#\", êîòîðàÿ ñîñòîèòñÿ #ACTIVE_FROM# òåïåðü íå óêàçàíî. Óòî÷íèòå ïîäðîáíîñòè ó îðãàíèçàòîðà âñòðå÷è.";
+$MESS["EC_NOTIFY_RRULE_CHANGED"] = "Èçìåíåíû ïàðàìåòðû ïîâòîðåíèÿ äëÿ ðåãóëÿðíîé âñòðå÷è \"#TITLE#\" ñ âàøèì ó÷àñòèåì";
+$MESS["EC_NOTIFY_IMPORTANCE_CHANGED"] = "Âñòðå÷à \"#TITLE#\" ñ âàøèì ó÷àñòèåì, êîòîðàÿ ñîñòîèòñÿ #ACTIVE_FROM#, áûëà îòìå÷åíà êàê \"âàæíàÿ\", íå ïðîïóñòèòå åå.";
+$MESS["EC_NOTIFY_ENTRY_CHANGED"] = "Âñòðå÷à \"#TITLE#\" ñ âàøèì ó÷àñòèåì, êîòîðàÿ ñîñòîèòñÿ #ACTIVE_FROM#, áûëà èçìåíåíà. Èçìåíåííûå ïîëÿ: #CHANGED_FIELDS_LIST#";
+$MESS["EC_NOTIFY_FIELD_NAME"] = "íàçâàíèå";
+$MESS["EC_NOTIFY_FIELD_DATE_FROM"] = "äàòà/âðåìÿ ïðîâåäåíèÿ";
+$MESS["EC_NOTIFY_FIELD_RRULE"] = "ïàðàìåòðû ïîâòîðåíèÿ";
+$MESS["EC_NOTIFY_FIELD_DESCRIPTION"] = "îïèñàíèå";
+$MESS["EC_NOTIFY_FIELD_LOCATION"] = "ìåñòî ïðîâåäåíèÿ";
+$MESS["EC_NOTIFY_FIELD_IMPORTANCE"] = "âàæíîñòü";
+$MESS["EC_NOTIFY_FIELD_ATTENDEES"] = "ñîñòàâ ó÷àñòíèêîâ";
 
 ?>

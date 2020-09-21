@@ -1,4 +1,4 @@
 <?
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_STARTED_M"] = "#NAME# РЅР°С‡Р°Р» Р·РІРѕРЅРѕРє";
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_STARTED_F"] = "#NAME# РЅР°С‡Р°Р»Р° Р·РІРѕРЅРѕРє";
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_FINISHED"] = "Р—РІРѕРЅРѕРє Р·Р°РІРµСЂС€РµРЅ";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_STARTED_M"] = "#NAME# начал звонок";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_STARTED_F"] = "#NAME# начала звонок";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_FINISHED"] = "Звонок завершен";

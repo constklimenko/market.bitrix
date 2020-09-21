@@ -1,8 +1,8 @@
 <?
-$MESS["BPTLWGT_TITLE"] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS["BPTLWGT_RUNNING"] = "Ð–Ð´ÑƒÑ‚ Ñ€ÐµÐ°ÐºÑ†Ð¸Ð¸";
-$MESS["BPTLWGT_MODULE_DISK"] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹";
-$MESS["BPTLWGT_MODULE_IBLOCK"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸";
-$MESS["BPTLWGT_MODULE_LISTS"] = "ÐŸÑ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS["BPTLWGT_MY_PROCESSES"] = "ÐœÐ¾Ð¸ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
+$MESS["BPTLWGT_TITLE"] = "Áèçíåñ-ïðîöåññû";
+$MESS["BPTLWGT_RUNNING"] = "Æäóò ðåàêöèè";
+$MESS["BPTLWGT_MODULE_DISK"] = "Äîêóìåíòû";
+$MESS["BPTLWGT_MODULE_IBLOCK"] = "Ñïèñêè";
+$MESS["BPTLWGT_MODULE_LISTS"] = "Ïðîöåññû";
+$MESS["BPTLWGT_MY_PROCESSES"] = "Ìîè ïðîöåññû";
 ?>

@@ -1,7 +1,7 @@
 <pre>
 Array
 (
-    [DATE] => ÐŒÂ  16.01.2007 Â­Â  â€šÂ Ð¸ÒÂ¬ Ð‡Â®Â«Ð¼Â§Â®ÑžÂ Ð²ÒÂ«Ð¼Ð±Ð„Â®Â¬ Ð±Ð·ÒÐ²Ò Â­Â ÐµÂ®Â¤Ð¿Ð²Ð±Ð¿ Ð±Â«ÒÂ¤Ð³Ð¾Ð¹ÐÒ Ð±Ð°ÒÂ¤Ð±Ð²ÑžÂ :
+    [DATE] =>   16.01.2007 ­  ‚ è¥¬ ¯®«ì§®¢ â¥«ìáª®¬ áç¥â¥ ­ å®¤ïâáï á«¥¤ãîé¨¥ áà¥¤áâ¢ :
     [ACCOUNT_LIST] => Array
         (
             [0] => Array
@@ -10,8 +10,8 @@ Array
                         (
                             [CURRENCY] => RUR
                             [LID] => ru
-                            [FORMAT_STRING] => # Ð°.
-                            [FULL_NAME] => Ñ’Ð³ÐŽÂ«Ð¼
+                            [FORMAT_STRING] => # à.
+                            [FULL_NAME] => ã¡«ì
                             [DEC_POINT] => .
                             [THOUSANDS_SEP] => \xA0
                             [DECIMALS] => 2
@@ -29,7 +29,7 @@ Array
                             [~TIMESTAMP_X] => 19.12.2006 18:56:56
                         )
 
-                    [INFO] => Ñž ÑžÂ Â«Ð¾Ð²Ò RUR (Ñ’Ð³ÐŽÂ«Ð¼) - 0.00 Ð°.
+                    [INFO] => ¢ ¢ «îâ¥ RUR (ã¡«ì) - 0.00 à.
                 )
 
             [1] => Array
@@ -39,7 +39,7 @@ Array
                             [CURRENCY] => USD
                             [LID] => ru
                             [FORMAT_STRING] => $#
-                            [FULL_NAME] => â€žÂ®Â«Â«Â Ð° â€˜ï¿½Ð‚
+                            [FULL_NAME] => „®«« à ‘˜€
                             [DEC_POINT] => .
                             [THOUSANDS_SEP] => ,
                             [DECIMALS] => 2
@@ -57,7 +57,7 @@ Array
                             [~TIMESTAMP_X] => 08.12.2006 15:03:44
                         )
 
-                    [INFO] => Ñž ÑžÂ Â«Ð¾Ð²Ò USD (â€žÂ®Â«Â«Â Ð° â€˜ï¿½Ð‚) - $0.00
+                    [INFO] => ¢ ¢ «îâ¥ USD („®«« à ‘˜€) - $0.00
                 )
 
         )

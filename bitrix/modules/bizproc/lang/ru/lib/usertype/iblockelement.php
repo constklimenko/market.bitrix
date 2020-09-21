@@ -1,2 +1,2 @@
 <?php
-$MESS["BP_FIELDTYPE_UF_INFOBLOCK"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
+$MESS["BP_FIELDTYPE_UF_INFOBLOCK"] = "Èíôîáëîê";

@@ -1,13 +1,13 @@
 <?
-$MESS['LEARNING_DESC_YES'] = "Ð”Ð°";
-$MESS['LEARNING_DESC_NO'] = "ÐÐµÑ‚";
-$MESS['LEARNING_COURSE_ID_NAME'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÑƒÑ€ÑÐ°";
-$MESS['LEARNING_CHECK_PERMISSIONS'] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
-$MESS['LEARNING_SELF_TEST_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ ÑÐ°Ð¼Ð¾Ñ‚ÐµÑÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸ÐµÐ¼";
-$MESS['LEARNING_CHAPTER_DETAIL_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ Ð³Ð»Ð°Ð²Ð¾Ð¹";
-$MESS['LEARNING_LESSON_DETAIL_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ ÑƒÑ€Ð¾ÐºÐ¾Ð¼";
-$MESS['LEARNING_COURSE_DETAIL_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ñ‹Ð¼ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð¼ ÐºÑƒÑ€ÑÐ°";
-$MESS['LEARNING_TESTS_LIST_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ¾ ÑÐ¿Ð¸ÑÐºÐ¾Ð¼ Ñ‚ÐµÑÑ‚Ð¾Ð²";
-$MESS['LEARNING_TEST_DETAIL_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ñ Ñ‚ÐµÑÑ‚Ð°";
-$MESS['LEARNING_URL_TEMPLATE_GROUP'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð°Ð´Ñ€ÐµÑÐ°Ð¼Ð¸ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†";
+$MESS['LEARNING_DESC_YES'] = "Äà";
+$MESS['LEARNING_DESC_NO'] = "Íåò";
+$MESS['LEARNING_COURSE_ID_NAME'] = "Èäåíòèôèêàòîð êóðñà";
+$MESS['LEARNING_CHECK_PERMISSIONS'] = "Ïðîâåðÿòü ïðàâî äîñòóïà";
+$MESS['LEARNING_SELF_TEST_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ñ ñàìîòåñòèðîâàíèåì";
+$MESS['LEARNING_CHAPTER_DETAIL_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ñ ãëàâîé";
+$MESS['LEARNING_LESSON_DETAIL_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ñ óðîêîì";
+$MESS['LEARNING_COURSE_DETAIL_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ñ äåòàëüíûì ïðîñìîòðîì êóðñà";
+$MESS['LEARNING_TESTS_LIST_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ñî ñïèñêîì òåñòîâ";
+$MESS['LEARNING_TEST_DETAIL_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ïðîõîæäåíèÿ òåñòà";
+$MESS['LEARNING_URL_TEMPLATE_GROUP'] = "Óïðàâëåíèå àäðåñàìè ñòðàíèö";
 ?>

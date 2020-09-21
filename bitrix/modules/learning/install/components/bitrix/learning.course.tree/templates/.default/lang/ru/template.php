@@ -1,3 +1,3 @@
 <?
-$MESS['LEARNING_AVAILABLE_SINCE'] = "РґРѕСЃС‚СѓРїРЅРѕ СЃ #DATE#";
+$MESS['LEARNING_AVAILABLE_SINCE'] = "доступно с #DATE#";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS ['BPAT_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['BPAT_DESCR'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
-$MESS ['BPAT_GOTO_DOC'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñƒ";
-$MESS ['BPAT_TASK_LOST'] = "Ð—Ð°Ð´Ð°Ð½Ð¸Ðµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS ['BPAT_NAME'] = "Íàçâàíèå";
+$MESS ['BPAT_DESCR'] = "Îïèñàíèå";
+$MESS ['BPAT_GOTO_DOC'] = "Ïåðåéòè ê äîêóìåíòó";
+$MESS ['BPAT_TASK_LOST'] = "Çàäàíèå íå íàéäåíî";
 ?>

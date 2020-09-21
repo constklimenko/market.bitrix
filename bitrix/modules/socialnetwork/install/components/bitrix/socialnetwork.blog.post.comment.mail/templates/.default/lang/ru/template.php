@@ -1,14 +1,14 @@
 <?
-$MESS["SBPCM_TEMPLATE_FILES"] = "Ð¤Ð°Ð¹Ð»Ñ‹:";
-$MESS["SBPCM_TEMPLATE_AUTHOR_ACTION_M"] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ð» Ð½Ð¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS["SBPCM_TEMPLATE_AUTHOR_ACTION_F"] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ð»Ð° Ð½Ð¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS["SBPCM_TEMPLATE_AUTHOR_ACTION"] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ð»(Ð°) Ð½Ð¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS["SBPCM_TEMPLATE_ADD_COMMENT_BUTTON"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS["SBPCM_TEMPLATE_ADD_COMMENT_LINK"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
-$MESS["SBPCM_TEMPLATE_DESCRIPTION"] = "ÐžÑ‚Ð²ÐµÑ‚ÑŒÑ‚Ðµ Ð½Ð° Ð¿Ð¸ÑÑŒÐ¼Ð¾, Ð¾ÑÑ‚Ð°Ð²Ð¸Ð² ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð²Ñ‹ÑˆÐµ Ð¸Ð»Ð¸ Ð½Ð¸Ð¶Ðµ Ñ‚ÐµÐºÑÑ‚Ð° Ð¿Ð¸ÑÑŒÐ¼Ð°.";
-$MESS["SBPCM_TEMPLATE_MORE_COMMENTS"] = "Ð¡Ð¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð¿Ñ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰Ð¸Ðµ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ (#NUM#)";
-$MESS["SBPCM_TEMPLATE_LIKE"] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ";
-$MESS["SBPCM_TEMPLATE_MORE"] = "Ð•Ñ‰Ðµ";
-$MESS["SBPCM_TEMPLATE_REPLY"] = "ÐžÑ‚Ð²ÐµÑ‚Ð¸Ñ‚ÑŒ";
-$MESS["BLOG_DESTINATION_ALL"] = "Ð’ÑÐµÐ¼ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ°Ð¼";
+$MESS["SBPCM_TEMPLATE_FILES"] = "Ôàéëû:";
+$MESS["SBPCM_TEMPLATE_AUTHOR_ACTION_M"] = "äîáàâèë íîâûé êîììåíòàðèé";
+$MESS["SBPCM_TEMPLATE_AUTHOR_ACTION_F"] = "äîáàâèëà íîâûé êîììåíòàðèé";
+$MESS["SBPCM_TEMPLATE_AUTHOR_ACTION"] = "äîáàâèë(à) íîâûé êîììåíòàðèé";
+$MESS["SBPCM_TEMPLATE_ADD_COMMENT_BUTTON"] = "Äîáàâèòü êîììåíòàðèé";
+$MESS["SBPCM_TEMPLATE_ADD_COMMENT_LINK"] = "Êîììåíòèðîâàòü";
+$MESS["SBPCM_TEMPLATE_DESCRIPTION"] = "Îòâåòüòå íà ïèñüìî, îñòàâèâ êîììåíòàðèé âûøå èëè íèæå òåêñòà ïèñüìà.";
+$MESS["SBPCM_TEMPLATE_MORE_COMMENTS"] = "Ñìîòðåòü ïðåäûäóùèå êîììåíòàðèè (#NUM#)";
+$MESS["SBPCM_TEMPLATE_LIKE"] = "Íðàâèòñÿ";
+$MESS["SBPCM_TEMPLATE_MORE"] = "Åùå";
+$MESS["SBPCM_TEMPLATE_REPLY"] = "Îòâåòèòü";
+$MESS["BLOG_DESTINATION_ALL"] = "Âñåì ñîòðóäíèêàì";
 ?>

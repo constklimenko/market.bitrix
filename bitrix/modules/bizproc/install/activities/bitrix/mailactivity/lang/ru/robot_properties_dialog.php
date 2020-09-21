@@ -1,4 +1,4 @@
 <?
-$MESS["BPMA_RPD_FROM_EMPTY"] = "ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð¾";
-$MESS["BPMA_RPD_FROM_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ";
+$MESS["BPMA_RPD_FROM_EMPTY"] = "Íå âûáðàíî";
+$MESS["BPMA_RPD_FROM_ADD"] = "Äîáàâèòü îòïðàâèòåëÿ";
 ?>

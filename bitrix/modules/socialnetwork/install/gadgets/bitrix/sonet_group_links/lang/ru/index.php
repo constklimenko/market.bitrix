@@ -1,19 +1,19 @@
 <?
-$MESS ['GD_SONET_GROUP_LINKS_SEND_MESSAGE_GROUP_TITLE'] = "ÐÐ°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ°Ð¼ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['GD_SONET_GROUP_LINKS_SEND_MESSAGE_GROUP'] = "ÐÐ°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_EDIT'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_FEAT'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_MOD'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð²";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_MOD1'] = "ÐœÐ¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ñ‹";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_USER'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ¾ÑÑ‚Ð°Ð²";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_BAN'] = "Ð§ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_USER1'] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_REQU'] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑÐ¸Ñ‚ÑŒ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_VREQU'] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ Ð¸ Ð·Ð°Ð¿Ñ€Ð¾ÑÑ‹ Ð½Ð° Ð²ÑÑ‚ÑƒÐ¿Ð»ÐµÐ½Ð¸Ðµ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_VREQU_IN'] = "Ð—Ð°Ð¿Ñ€Ð¾ÑÑ‹ Ð½Ð° Ð²ÑÑ‚ÑƒÐ¿Ð»ÐµÐ½Ð¸Ðµ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_VREQU_OUT'] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_JOIN'] = "Ð’ÑÑ‚ÑƒÐ¿Ð¸Ñ‚ÑŒ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_EXIT'] = "ÐŸÐ¾ÐºÐ¸Ð½ÑƒÑ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS ['GD_SONET_GROUP_LINKS_ACT_SUBSCRIBE'] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ°";
+$MESS ['GD_SONET_GROUP_LINKS_SEND_MESSAGE_GROUP_TITLE'] = "Íàïèñàòü ñîîáùåíèå ó÷àñòíèêàì ãðóïïû";
+$MESS ['GD_SONET_GROUP_LINKS_SEND_MESSAGE_GROUP'] = "Íàïèñàòü ñîîáùåíèå";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_EDIT'] = "Ðåäàêòèðîâàòü ãðóïïó";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_FEAT'] = "Èçìåíèòü íàñòðîéêè";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_DELETE'] = "Óäàëèòü ãðóïïó";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_MOD'] = "Ðåäàêòèðîâàòü ìîäåðàòîðîâ";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_MOD1'] = "Ìîäåðàòîðû";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_USER'] = "Ðåäàêòèðîâàòü ñîñòàâ";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_BAN'] = "×åðíûé ñïèñîê";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_USER1'] = "Ó÷àñòíèêè";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_REQU'] = "Ïðèãëàñèòü â ãðóïïó";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_VREQU'] = "Ïðèãëàøåíèÿ è çàïðîñû íà âñòóïëåíèå â ãðóïïó";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_VREQU_IN'] = "Çàïðîñû íà âñòóïëåíèå â ãðóïïó";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_VREQU_OUT'] = "Ïðèãëàøåíèÿ â ãðóïïó";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_JOIN'] = "Âñòóïèòü â ãðóïïó";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_EXIT'] = "Ïîêèíóòü ãðóïïó";
+$MESS ['GD_SONET_GROUP_LINKS_ACT_SUBSCRIBE'] = "Ïîäïèñêà";
 ?>

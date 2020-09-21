@@ -1,10 +1,10 @@
 <?
-$MESS["MAIN_USER_CONSENT_EDIT_COMP_TITLE_ADD"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ ÑÐ¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ";
-$MESS["MAIN_USER_CONSENT_EDIT_COMP_TITLE_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÐ¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ";
-$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_AGREEMENT_TEXT"] = "Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð³Ð»Ð°ÑÐ¸Ñ";
-$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_AGREEMENT_TEXT_HINT"] = "Ð¢ÐµÐºÑÑ‚ Ð¿Ñ€Ð°Ð²Ð¸Ð» Ð¸Ð»Ð¸ ÑÐ¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ";
-$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_LABEL_TEXT"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ Ð³Ð°Ð»ÐºÐ¸ ÑÐ¾Ð³Ð»Ð°ÑÐ¸Ñ";
-$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_LABEL_TEXT_HINT"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ð¼Ð°Ñ Ð¿Ð¾Ð´Ð¿Ð¸ÑÑŒ Ð³Ð°Ð»ÐºÐ¸ ÑÐ¾Ð³Ð»Ð°ÑÐ¸Ñ";
-$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_LABEL_TEXT_DEFAULT_VALUE"] = "ÐÐ°Ð¶Ð¸Ð¼Ð°Ñ Ð½Ð° ÐºÐ½Ð¾Ð¿ÐºÑƒ, Ñ Ð¿Ñ€Ð¸Ð½Ð¸Ð¼Ð°ÑŽ ÑƒÑÐ»Ð¾Ð²Ð¸Ñ ÑÐ¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ.";
-$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_FORM_FIELD_NAMES"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð»ÐµÐ¹ Ñ„Ð¾Ñ€Ð¼Ñ‹";
+$MESS["MAIN_USER_CONSENT_EDIT_COMP_TITLE_ADD"] = "Ñîçäàíèå ñîãëàøåíèÿ";
+$MESS["MAIN_USER_CONSENT_EDIT_COMP_TITLE_EDIT"] = "Ðåäàêòèðîâàíèå ñîãëàøåíèÿ";
+$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_AGREEMENT_TEXT"] = "Òåêñò ñîãëàñèÿ";
+$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_AGREEMENT_TEXT_HINT"] = "Òåêñò ïðàâèë èëè ñîãëàøåíèÿ";
+$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_LABEL_TEXT"] = "Ïîäïèñü ãàëêè ñîãëàñèÿ";
+$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_LABEL_TEXT_HINT"] = "Âûâîäèìàÿ ïîäïèñü ãàëêè ñîãëàñèÿ";
+$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_LABEL_TEXT_DEFAULT_VALUE"] = "Íàæèìàÿ íà êíîïêó, ÿ ïðèíèìàþ óñëîâèÿ ñîãëàøåíèÿ.";
+$MESS["MAIN_USER_CONSENT_EDIT_COMP_FIELD_FORM_FIELD_NAMES"] = "Ñïèñîê ïîëåé ôîðìû";
 ?>

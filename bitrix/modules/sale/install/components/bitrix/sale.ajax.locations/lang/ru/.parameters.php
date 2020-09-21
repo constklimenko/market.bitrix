@@ -1,11 +1,11 @@
 <?
-$MESS ["SALE_SAL_PARAM_COUNTRY"] = "Ð¡Ñ‚Ð°Ñ€Ñ‚Ð¾Ð²Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ÑÑ‚Ñ€Ð°Ð½Ñ‹";
-$MESS ["SALE_SAL_PARAM_CITY_OUT_LOCATION"] = "Ð’Ð¾Ð·Ð²Ñ€Ð°Ñ‰Ð°Ñ‚ÑŒ ID Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ (Ð² Ð¿Ñ€Ð¾Ñ‚Ð¸Ð²Ð½Ð¾Ð¼ ÑÐ»ÑƒÑ‡Ð°Ðµ - Ð³Ð¾Ñ€Ð¾Ð´Ð°)";
-$MESS ["SALE_SAL_PARAM_ALLOW_EMPTY_CITY"] = "Ð’Ñ‹Ð±Ð¾Ñ€ Ð³Ð¾Ñ€Ð¾Ð´Ð° Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð½Ðµ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÐµÐ½";
-$MESS ["SALE_SAL_PARAM_COUNTRY_INPUT_NAME"] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»Ñ Ñ„Ð¾Ñ€Ð¼Ñ‹ Ð´Ð»Ñ ÑÑ‚Ñ€Ð°Ð½Ñ‹";
-$MESS ["SALE_SAL_PARAM_REGION_INPUT_NAME"] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»Ñ Ñ„Ð¾Ñ€Ð¼Ñ‹ Ð´Ð»Ñ Ñ€ÐµÐ³Ð¸Ð¾Ð½Ð°";
-$MESS ["SALE_SAL_PARAM_CITY_INPUT_NAME"] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»Ñ Ñ„Ð¾Ñ€Ð¼Ñ‹ Ð´Ð»Ñ Ð³Ð¾Ñ€Ð¾Ð´Ð° (Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ)";
-$MESS ["SALE_SAL_PARAM_ONCITYCHANGE"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº ÑÐ¼ÐµÐ½Ñ‹ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð³Ð¾Ñ€Ð¾Ð´Ð° (Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ)";
-$MESS ['CP_BSSI_NAME'] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð° Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS ["SALE_SAL_PARAM_COUNTRY"] = "Ñòàðòîâîå çíà÷åíèå ñòðàíû";
+$MESS ["SALE_SAL_PARAM_CITY_OUT_LOCATION"] = "Âîçâðàùàòü ID ìåñòîïîëîæåíèÿ (â ïðîòèâíîì ñëó÷àå - ãîðîäà)";
+$MESS ["SALE_SAL_PARAM_ALLOW_EMPTY_CITY"] = "Âûáîð ãîðîäà ìåñòîïîëîæåíèÿ íå îáÿçàòåëåí";
+$MESS ["SALE_SAL_PARAM_COUNTRY_INPUT_NAME"] = "Èìÿ ïîëÿ ôîðìû äëÿ ñòðàíû";
+$MESS ["SALE_SAL_PARAM_REGION_INPUT_NAME"] = "Èìÿ ïîëÿ ôîðìû äëÿ ðåãèîíà";
+$MESS ["SALE_SAL_PARAM_CITY_INPUT_NAME"] = "Èìÿ ïîëÿ ôîðìû äëÿ ãîðîäà (ìåñòîïîëîæåíèÿ)";
+$MESS ["SALE_SAL_PARAM_ONCITYCHANGE"] = "Îáðàáîò÷èê ñìåíû çíà÷åíèÿ ãîðîäà (ìåñòîïîëîæåíèÿ)";
+$MESS ['CP_BSSI_NAME'] = "Èìÿ ïîëÿ ââîäà ìåñòîïîëîæåíèÿ";
 
 ?>

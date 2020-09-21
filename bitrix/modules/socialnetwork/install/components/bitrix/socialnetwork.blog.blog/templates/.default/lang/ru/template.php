@@ -1,3 +1,3 @@
 <?
-$MESS["BLOG_BLOG_BLOG_NO_AVAIBLE_MES"] = "Р”РѕСЃС‚СѓРїРЅС‹С… СЃРѕРѕР±С‰РµРЅРёР№ РЅРµС‚";
+$MESS["BLOG_BLOG_BLOG_NO_AVAIBLE_MES"] = "Доступных сообщений нет";
 ?>

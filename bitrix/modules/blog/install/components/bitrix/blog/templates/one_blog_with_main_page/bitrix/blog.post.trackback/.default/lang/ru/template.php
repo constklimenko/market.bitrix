@@ -1,3 +1,3 @@
 <?
-$MESS ['B_B_MES_TBA'] = "Trackback-Ð°Ð´Ñ€ÐµÑ";
+$MESS ['B_B_MES_TBA'] = "Trackback-àäðåñ";
 ?>

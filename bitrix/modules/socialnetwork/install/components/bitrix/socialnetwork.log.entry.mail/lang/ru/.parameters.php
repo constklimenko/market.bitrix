@@ -1,9 +1,9 @@
 <?
-$MESS["SLEM_COMMENT_ID"] = "ID ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ";
-$MESS["SLEM_LOG_ENTRY_ID"] = "ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SLEM_URL"] = "URL ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SLEM_EMAIL_TO"] = "Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
-$MESS["SLEM_RECIPIENT_ID"] = "ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
-$MESS["SLEM_AVATAR_SIZE"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð°Ð²Ð°Ñ‚Ð°Ñ€Ð° Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð·Ð°Ð¿Ð¸ÑÐ¸ (px)";
-$MESS["SLEM_AVATAR_SIZE_COMMENT"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð°Ð²Ð°Ñ‚Ð°Ñ€Ð° Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ (px)";
+$MESS["SLEM_COMMENT_ID"] = "ID êîììåíòàðèÿ";
+$MESS["SLEM_LOG_ENTRY_ID"] = "ID ñîîáùåíèÿ";
+$MESS["SLEM_URL"] = "URL ñîîáùåíèÿ";
+$MESS["SLEM_EMAIL_TO"] = "Email ïîëó÷àòåëÿ óâåäîìëåíèÿ";
+$MESS["SLEM_RECIPIENT_ID"] = "ID ïîëó÷àòåëÿ óâåäîìëåíèÿ";
+$MESS["SLEM_AVATAR_SIZE"] = "Ðàçìåð àâàòàðà àâòîðà çàïèñè (px)";
+$MESS["SLEM_AVATAR_SIZE_COMMENT"] = "Ðàçìåð àâàòàðà àâòîðà êîììåíòàðèÿ (px)";
 ?>

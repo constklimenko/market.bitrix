@@ -1,10 +1,10 @@
 <?
-$MESS ['SAL_CHOOSE_COUNTRY'] = '(Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑÑ‚Ñ€Ð°Ð½Ñƒ)';
-$MESS ['SAL_CHOOSE_REGION'] = '(Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ€ÐµÐ³Ð¸Ð¾Ð½)';
-$MESS ['SAL_CHOOSE_CITY'] = '(Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð³Ð¾Ñ€Ð¾Ð´)';
-$MESS ['SAL_CHOOSE_CITY_OTHER'] = '(Ð´Ñ€ÑƒÐ³Ð¾Ð¹)';
-$MESS ['LOC_DEFAULT_NAME_NULL'] = 'Ð´Ñ€ÑƒÐ³Ð¾Ð¹';
-$MESS ['SAL_LOC_COUNTRY'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð°';
-$MESS ['SAL_LOC_REGION'] = 'Ð ÐµÐ³Ð¸Ð¾Ð½';
-$MESS ['SAL_LOC_CITY'] = 'Ð“Ð¾Ñ€Ð¾Ð´';
+$MESS ['SAL_CHOOSE_COUNTRY'] = '(âûáåðèòå ñòðàíó)';
+$MESS ['SAL_CHOOSE_REGION'] = '(âûáåðèòå ðåãèîí)';
+$MESS ['SAL_CHOOSE_CITY'] = '(âûáåðèòå ãîðîä)';
+$MESS ['SAL_CHOOSE_CITY_OTHER'] = '(äðóãîé)';
+$MESS ['LOC_DEFAULT_NAME_NULL'] = 'äðóãîé';
+$MESS ['SAL_LOC_COUNTRY'] = 'Ñòðàíà';
+$MESS ['SAL_LOC_REGION'] = 'Ðåãèîí';
+$MESS ['SAL_LOC_CITY'] = 'Ãîðîä';
 ?>

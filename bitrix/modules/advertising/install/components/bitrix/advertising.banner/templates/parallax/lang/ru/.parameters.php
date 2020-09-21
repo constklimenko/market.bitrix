@@ -1,2 +1,2 @@
 <?
-$MESS['ADV_PARALL_HEIGHT'] = "Р’С‹СЃРѕС‚Р° Р±Р°РЅРЅРµСЂР°, px";
+$MESS['ADV_PARALL_HEIGHT'] = "Высота баннера, px";

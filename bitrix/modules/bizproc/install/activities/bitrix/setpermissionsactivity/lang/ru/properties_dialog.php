@@ -1,10 +1,10 @@
 <?
-$MESS ['BPSA_PD_PERM'] = "ÐŸÑ€Ð°Ð²Ð¾ Ð½Ð° Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÑŽ \"#OP#\" Ð¸Ð¼ÐµÑŽÑ‚";
-$MESS ['BPSA_PD_PERM_REWRITE'] = "ÐŸÐµÑ€ÐµÐ·Ð°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ";
-$MESS ['BPSA_PD_PERM_CLEAR'] = "ÐžÑ‡Ð¸ÑÑ‚Ð¸Ñ‚ÑŒ";
-$MESS ['BPSA_PD_PERM_HOLD'] = "ÐžÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ";
-$MESS ['BPSA_PD_PERM_CURRENT_LABEL'] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ðµ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS ['BPSA_PD_PERM_SCOPE_LABEL'] = "ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ Ð¿Ñ€Ð¸Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ñ‡Ð¸ÑÑ‚ÐºÐ¸ Ð¸ Ð¿ÐµÑ€ÐµÐ·Ð°Ð¿Ð¸ÑÐ¸";
-$MESS ['BPSA_PD_PERM_SCOPE_WORFLOW'] = "ÐŸÑ€Ð°Ð²Ð°, ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¼ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð¼";
-$MESS ['BPSA_PD_PERM_SCOPE_DOCUMENT'] = "Ð’ÑÐµ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS ['BPSA_PD_PERM'] = "Ïðàâî íà îïåðàöèþ \"#OP#\" èìåþò";
+$MESS ['BPSA_PD_PERM_REWRITE'] = "Ïåðåçàïèñàòü";
+$MESS ['BPSA_PD_PERM_CLEAR'] = "Î÷èñòèòü";
+$MESS ['BPSA_PD_PERM_HOLD'] = "Îñòàâèòü";
+$MESS ['BPSA_PD_PERM_CURRENT_LABEL'] = "Òåêóùèå ïðàâà äîêóìåíòà";
+$MESS ['BPSA_PD_PERM_SCOPE_LABEL'] = "Îáëàñòü ïðèìåíåíèÿ î÷èñòêè è ïåðåçàïèñè";
+$MESS ['BPSA_PD_PERM_SCOPE_WORFLOW'] = "Ïðàâà, óñòàíîâëåííûå òåêóùèì áèçíåñ-ïðîöåññîì";
+$MESS ['BPSA_PD_PERM_SCOPE_DOCUMENT'] = "Âñå ïðàâà äîêóìåíòà";
 ?>

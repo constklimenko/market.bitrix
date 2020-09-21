@@ -1,17 +1,17 @@
 <?
-$MESS ['BPWC_WP_PERMS'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿";
-$MESS ['BPWC_WP_SEF_INDEX'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð±Ð»Ð¾ÐºÐ¾Ð²";
-$MESS ['BPWC_WP_SEF_NEW'] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð±Ð»Ð¾Ðº";
-$MESS ['BPWC_WP_SEF_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð¿ÑƒÑ‰ÐµÐ½Ð½Ñ‹Ñ… Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð²";
-$MESS ['BPWC_WP_SEF_VIEW'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð·Ð°Ð¿ÑƒÑ‰ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BPWC_WP_SEF_START'] = "Ð—Ð°Ð¿ÑƒÑÐº Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BPWC_WP_TASK'] = "Ð—Ð°Ð´Ð°Ñ‡Ð°";
-$MESS ['BPWC_WP_BP'] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS ['BPWC_WP_SETVAR'] = "ÐŸÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ðµ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð²";
-$MESS ['BPWC_WP_SET_NAV_CHAIN'] = "Ð£ÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°Ñ‚ÑŒ Ñ†ÐµÐ¿Ð¾Ñ‡ÐºÑƒ Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¸";
-$MESS ['BPWC_WP_SKIP_BLOCK'] = "Ð¢Ð¾Ð»ÑŒÐºÐ¾ Ð¾Ð´Ð¸Ð½ Ð¿Ñ€Ð¾Ñ†ÐµÑÑ";
-$MESS ['BPWC_WP_IBLOCK_TYPE'] = "Ð¢Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°";
-$MESS ['BPWC_WP_ADMIN_ACCESS'] = "ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿";
-$MESS ['BPWC_WP_LOG'] = "Ð›Ð¾Ð³";
-$MESS ['BPWC_WP_SEF_EDIT'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾ÐºÐ°";
+$MESS ['BPWC_WP_PERMS'] = "Äîñòóï";
+$MESS ['BPWC_WP_SEF_INDEX'] = "Ñïèñîê áëîêîâ";
+$MESS ['BPWC_WP_SEF_NEW'] = "Íîâûé áëîê";
+$MESS ['BPWC_WP_SEF_LIST'] = "Ñïèñîê çàïóùåííûõ ïðîöåññîâ";
+$MESS ['BPWC_WP_SEF_VIEW'] = "Ïðîñìîòð çàïóùåííîãî ïðîöåññà";
+$MESS ['BPWC_WP_SEF_START'] = "Çàïóñê ïðîöåññà";
+$MESS ['BPWC_WP_TASK'] = "Çàäà÷à";
+$MESS ['BPWC_WP_BP'] = "Áèçíåñ-ïðîöåññû";
+$MESS ['BPWC_WP_SETVAR'] = "Ïåðåìåííûå áèçíåñ-ïðîöåññîâ";
+$MESS ['BPWC_WP_SET_NAV_CHAIN'] = "Óñòàíàâëèâàòü öåïî÷êó íàâèãàöèè";
+$MESS ['BPWC_WP_SKIP_BLOCK'] = "Òîëüêî îäèí ïðîöåññ";
+$MESS ['BPWC_WP_IBLOCK_TYPE'] = "Òèï èíôîðìàöèîííîãî áëîêà";
+$MESS ['BPWC_WP_ADMIN_ACCESS'] = "Àäìèíèñòðàòèâíûé äîñòóï";
+$MESS ['BPWC_WP_LOG'] = "Ëîã";
+$MESS ['BPWC_WP_SEF_EDIT'] = "Ðåäàêòèðîâàíèå áëîêà";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["BPWCWV_TEMPLATE_NAME"] = "ÐŸÐ»Ð¾ÑÐºÐ¸Ð¹";
+$MESS["BPWCWV_TEMPLATE_NAME"] = "Ïëîñêèé";
 ?>

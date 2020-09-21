@@ -1,2 +1,2 @@
 <?
-$MESS["IM_QUOTE_PANEL_DEFAULT_TITLE"] = "Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["IM_QUOTE_PANEL_DEFAULT_TITLE"] = "Ñèñòåìíîå ñîîáùåíèå";

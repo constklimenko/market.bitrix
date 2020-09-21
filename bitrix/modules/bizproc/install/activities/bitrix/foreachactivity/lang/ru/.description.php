@@ -1,6 +1,6 @@
 <?
-$MESS["BPFEA_DESCR_DESCR"] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ Ð¿ÐµÑ€ÐµÐ±Ð¾Ñ€ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ð¹ Ð²Ð¾ Ð¼Ð½Ð¾Ð¶ÐµÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ñ… Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ñ…";
-$MESS["BPFEA_DESCR_NAME"] = "Ð˜Ñ‚ÐµÑ€Ð°Ñ‚Ð¾Ñ€";
-$MESS["BPFEA_DESCR_RETURN_KEY"] = "ÐšÐ»ÑŽÑ‡";
-$MESS["BPFEA_DESCR_RETURN_VALUE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS["BPFEA_DESCR_DESCR"] = "Âûïîëíÿåò ïåðåáîð çíà÷åíèé âî ìíîæåñòâåííûõ ïåðåìåííûõ";
+$MESS["BPFEA_DESCR_NAME"] = "Èòåðàòîð";
+$MESS["BPFEA_DESCR_RETURN_KEY"] = "Êëþ÷";
+$MESS["BPFEA_DESCR_RETURN_VALUE"] = "Çíà÷åíèå";
 ?>

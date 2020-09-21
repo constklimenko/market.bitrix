@@ -1,3 +1,3 @@
 <?
-$MESS['MSP_JS_HANDLER'] = 'ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº';
+$MESS['MSP_JS_HANDLER'] = 'Îáðàáîò÷èê';
 ?>

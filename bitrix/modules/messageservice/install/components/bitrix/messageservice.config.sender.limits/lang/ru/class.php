@@ -1,9 +1,9 @@
 <?
-$MESS["MESSAGESERVICE_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ 'Ð¡Ð»ÑƒÐ¶Ð±Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹' Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["MESSAGESERVICE_PERMISSION_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
-$MESS["MESSAGESERVICE_HEADER_SENDER"] = "Ð¡ÐµÑ€Ð²Ð¸Ñ";
-$MESS["MESSAGESERVICE_HEADER_SENDER_FROM"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ";
-$MESS["MESSAGESERVICE_HEADER_LIMIT"] = "Ð”Ð½ÐµÐ²Ð½Ð¾Ð¹ Ð»Ð¸Ð¼Ð¸Ñ‚ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸";
-$MESS["MESSAGESERVICE_HEADER_CURRENT"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾ ÑÐµÐ³Ð¾Ð´Ð½Ñ";
-$MESS["MESSAGESERVICE_ROW_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["MESSAGESERVICE_MODULE_NOT_INSTALLED"] = "Ìîäóëü 'Ñëóæáà ñîîáùåíèé' íå óñòàíîâëåí.";
+$MESS["MESSAGESERVICE_PERMISSION_DENIED"] = "Äîñòóï çàïðåùåí";
+$MESS["MESSAGESERVICE_HEADER_SENDER"] = "Ñåðâèñ";
+$MESS["MESSAGESERVICE_HEADER_SENDER_FROM"] = "Îòïðàâèòåëü";
+$MESS["MESSAGESERVICE_HEADER_LIMIT"] = "Äíåâíîé ëèìèò îòïðàâêè";
+$MESS["MESSAGESERVICE_HEADER_CURRENT"] = "Îòïðàâëåíî ñåãîäíÿ";
+$MESS["MESSAGESERVICE_ROW_EDIT"] = "Ðåäàêòèðîâàòü";
 ?>

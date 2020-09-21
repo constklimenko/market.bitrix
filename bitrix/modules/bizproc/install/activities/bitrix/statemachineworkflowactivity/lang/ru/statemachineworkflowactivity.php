@@ -1,4 +1,4 @@
 <?
-$MESS ['BPSMWA_INVALID_CHILD'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ñ‚Ð¸Ð¿Ð° 'StateMachineWorkflowActivity' Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑŒ Ð² ÑÐµÐ±Ðµ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ñ‚Ð¸Ð¿Ð° 'StateActivity'.";
-$MESS ['BPSMWA_EMPTY_VAR'] = "ÐŸÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð°Ñ '#NAME#' Ð½Ðµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð°";
+$MESS ['BPSMWA_INVALID_CHILD'] = "Äåéñòâèå òèïà 'StateMachineWorkflowActivity' ìîæåò ñîäåðæàòü â ñåáå òîëüêî äåéñòâèÿ òèïà 'StateActivity'.";
+$MESS ['BPSMWA_EMPTY_VAR'] = "Ïåðåìåííàÿ '#NAME#' íå îïðåäåëåíà";
 ?>

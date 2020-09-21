@@ -1,3 +1,3 @@
 <?
-$MESS["LEARNING_START_COURSE"] = "ÐÐ°Ñ‡Ð°Ñ‚ÑŒ ÐºÑƒÑ€Ñ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ";
+$MESS["LEARNING_START_COURSE"] = "Íà÷àòü êóðñ îáó÷åíèÿ";
 ?>

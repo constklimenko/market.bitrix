@@ -1,14 +1,14 @@
 <?
-$MESS["GD_STAT_P_SITE_ID"] = "Ð¡Ð°Ð¹Ñ‚";
-$MESS["GD_STAT_P_SITE_ID_ALL"] = "Ð’ÑÐµ";
-$MESS["GD_STAT_P_HIDE_GRAPH"] = "Ð¡ÐºÑ€Ñ‹Ð²Ð°Ñ‚ÑŒ Ð³Ñ€Ð°Ñ„Ð¸Ðº";
-$MESS["GD_STAT_P_GRAPH_DAYS"] = "Ð¡Ñ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð³Ñ€Ð°Ñ„Ð¸Ðº Ð·Ð° N Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ñ… Ð´Ð½ÐµÐ¹";
-$MESS["GD_STAT_P_GRAPH_PARAMS"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð´Ð»Ñ Ð³Ñ€Ð°Ñ„Ð¸ÐºÐ°";
-$MESS["GD_STAT_P_GRAPH_WIDTH"] = "Ð¨Ð¸Ñ€Ð¸Ð½Ð° Ð³Ñ€Ð°Ñ„Ð¸ÐºÐ°";
-$MESS["GD_STAT_P_GRAPH_HEIGHT"] = "Ð’Ñ‹ÑÐ¾Ñ‚Ð° Ð³Ñ€Ð°Ñ„Ð¸ÐºÐ°";
-$MESS["GD_STAT_P_HIT"] = "Ð¥Ð¸Ñ‚Ñ‹";
-$MESS["GD_STAT_P_HOST"] = "Ð¥Ð¾ÑÑ‚Ñ‹";
-$MESS["GD_STAT_P_SESSION"] = "Ð¡ÐµÑÑÐ¸Ð¸";
-$MESS["GD_STAT_P_EVENT"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS["GD_STAT_P_GUEST"] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ð¸";
+$MESS["GD_STAT_P_SITE_ID"] = "Ñàéò";
+$MESS["GD_STAT_P_SITE_ID_ALL"] = "Âñå";
+$MESS["GD_STAT_P_HIDE_GRAPH"] = "Ñêðûâàòü ãðàôèê";
+$MESS["GD_STAT_P_GRAPH_DAYS"] = "Ñòðîèòü ãðàôèê çà N ïîñëåäíèõ äíåé";
+$MESS["GD_STAT_P_GRAPH_PARAMS"] = "Ïàðàìåòðû äëÿ ãðàôèêà";
+$MESS["GD_STAT_P_GRAPH_WIDTH"] = "Øèðèíà ãðàôèêà";
+$MESS["GD_STAT_P_GRAPH_HEIGHT"] = "Âûñîòà ãðàôèêà";
+$MESS["GD_STAT_P_HIT"] = "Õèòû";
+$MESS["GD_STAT_P_HOST"] = "Õîñòû";
+$MESS["GD_STAT_P_SESSION"] = "Ñåññèè";
+$MESS["GD_STAT_P_EVENT"] = "Ñîáûòèÿ";
+$MESS["GD_STAT_P_GUEST"] = "Ïîñåòèòåëè";
 ?>

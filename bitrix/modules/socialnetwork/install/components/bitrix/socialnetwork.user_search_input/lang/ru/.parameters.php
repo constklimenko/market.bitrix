@@ -1,6 +1,6 @@
 <?
-$MESS ['SEARCH_NAME'] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
-$MESS ['SEARCH_VALUE'] = "Ð¡Ð¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ð¾Ðµ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
-$MESS ['SEARCH_FUNCTION'] = "JavaScript Ñ„ÑƒÐ½ÐºÑ†Ð¸Ñ";
-$MESS ['SEARCH_EXTRANET'] = "ÐšÐ¾Ð´ ÑÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚Ð° (I/E/EA)";
+$MESS ['SEARCH_NAME'] = "Èìÿ ïîëÿ ââîäà";
+$MESS ['SEARCH_VALUE'] = "Ñîäåðæèìîå ïîëÿ ââîäà";
+$MESS ['SEARCH_FUNCTION'] = "JavaScript ôóíêöèÿ";
+$MESS ['SEARCH_EXTRANET'] = "Êîä ýêñòðàíåòà (I/E/EA)";
 ?>

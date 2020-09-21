@@ -1,5 +1,5 @@
 <?
-$MESS ['BPWC_WCT_EMPTY_BLOCK'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ¾Ð´ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°";
-$MESS["BIZPROC_EDIT_MENU_LIST_MESSAGE"] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS["BIZPROC_EDIT_MENU_LIST_TITLE_MESSAGE"] = "Ð—Ð°Ð¿ÑƒÑ‰ÐµÐ½Ð½Ñ‹Ðµ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
+$MESS ['BPWC_WCT_EMPTY_BLOCK'] = "Íå óêàçàí êîä èíôîðìàöèîííîãî áëîêà";
+$MESS["BIZPROC_EDIT_MENU_LIST_MESSAGE"] = "Áèçíåñ-ïðîöåññû";
+$MESS["BIZPROC_EDIT_MENU_LIST_TITLE_MESSAGE"] = "Çàïóùåííûå áèçíåñ-ïðîöåññû";
 ?>

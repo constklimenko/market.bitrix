@@ -1,6 +1,6 @@
 <?
-$MESS["LEARNING_COURSE_CONTENTS_NAME"]="Ð’ÑÐµ Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ñ‹ ÐºÑƒÑ€ÑÐ°";
-$MESS["LEARNING_COURSE_CONTENTS_DESC"]="Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð²ÑÐµ Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ñ‹ ÐºÑƒÑ€ÑÐ° Ð½Ð° Ð¾Ð´Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
-$MESS["LEARNING_SERVICE"]="ÐžÐ±ÑƒÑ‡ÐµÐ½Ð¸Ðµ";
-$MESS["LEARNING_COURSE_SERVICE"]="ÐšÑƒÑ€ÑÑ‹";
+$MESS["LEARNING_COURSE_CONTENTS_NAME"]="Âñå ìàòåðèàëû êóðñà";
+$MESS["LEARNING_COURSE_CONTENTS_DESC"]="Âûâîäèò âñå ìàòåðèàëû êóðñà íà îäíîé ñòðàíèöå";
+$MESS["LEARNING_SERVICE"]="Îáó÷åíèå";
+$MESS["LEARNING_COURSE_SERVICE"]="Êóðñû";
 ?>

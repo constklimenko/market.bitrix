@@ -1,5 +1,5 @@
 <?
-$MESS ['STATWIZ_DESCR_NAME'] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¸Ð½Ð´ÐµÐºÑÐ° IP";
-$MESS ['STATWIZ_DESCR_DESCRIPTION'] = "ÐœÐ°ÑÑ‚ÐµÑ€ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð¸Ð½Ð´ÐµÐºÑÐ¾Ð² Ð´Ð»Ñ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¸Ñ ÑÑ‚Ñ€Ð°Ð½Ñ‹ Ð¸ Ð³Ð¾Ñ€Ð¾Ð´Ð° Ð¿Ð¾ IP Ð°Ð´Ñ€ÐµÑÑƒ";
-$MESS ['STATWIZ_DESCR_COPYRIGHT'] = "Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
+$MESS ['STATWIZ_DESCR_NAME'] = "Ñîçäàíèå èíäåêñà IP";
+$MESS ['STATWIZ_DESCR_DESCRIPTION'] = "Ìàñòåð ñîçäàíèÿ èíäåêñîâ äëÿ îïðåäåëåíèÿ ñòðàíû è ãîðîäà ïî IP àäðåñó";
+$MESS ['STATWIZ_DESCR_COPYRIGHT'] = "Áèòðèêñ";
 ?>

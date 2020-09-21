@@ -1,4 +1,4 @@
 <?
-$MESS["WIKI_NOTHING_TO_FOUND"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ %LINK% Ð² ÑÑ‚Ð¾Ð¼ Ð²Ð¸ÐºÐ¸-Ð¿Ñ€Ð¾ÐµÐºÑ‚Ðµ!";
-$MESS["WIKI_SEARCH_RESULT"] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS["WIKI_NOTHING_TO_FOUND"] = "Ñîçäàòü ñòðàíèöó %LINK% â ýòîì âèêè-ïðîåêòå!";
+$MESS["WIKI_SEARCH_RESULT"] = "Ðåçóëüòàòû ïîèñêà";
 ?>

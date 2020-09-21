@@ -1,5 +1,5 @@
 <?
-$MESS ['SUP_SUPPORT_NAME'] = "Ð¢ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ°";
-$MESS ['SUP_SUPPORT_DESCRIPTION'] = "Ð¢ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ°";
-$MESS["SUPPORT_SERVICE"]="Ð¢ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ°";
+$MESS ['SUP_SUPPORT_NAME'] = "Òåõïîääåðæêà";
+$MESS ['SUP_SUPPORT_DESCRIPTION'] = "Òåõïîääåðæêà";
+$MESS["SUPPORT_SERVICE"]="Òåõïîääåðæêà";
 ?>

@@ -1,19 +1,19 @@
 <?
-$MESS["SONET_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SONET_P_USER_NO_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
-$MESS["SONET_C36_NO_USER_ID"] = "ÐšÐ¾Ð´ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð½Ðµ Ð·Ð°Ð´Ð°Ð½";
-$MESS["SONET_C36_SELF"] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐ°Ñ‚ÑŒ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ ÑÐ°Ð¼Ð¾Ð³Ð¾ ÑÐµÐ±Ñ";
-$MESS["SONET_C36_PAGE_TITLE"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS["SONET_C36_PAGE_TITLE1"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_C36_PAGE_TITLE1_PROJECT"] = "ÐŸÑ€Ð¾ÐµÐºÑ‚Ñ‹";
-$MESS["SONET_C36_NAV"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_C36_PAGE_TITLE2"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_C36_PAGE_TITLE2_PROJECT"] = "ÐŸÑ€Ð¾ÐµÐºÑ‚Ñ‹";
-$MESS["SONET_C36_PAGE_TITLE2_1"] = "ÐœÐ¾Ð¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_C36_PAGE_TITLE2_1_PROJECT"] = "ÐœÐ¾Ð¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ñ‹";
-$MESS["SONET_C36_PAGE_TITLE2_2"] = "ÐÑ€Ñ…Ð¸Ð²Ð½Ñ‹Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_C36_PAGE_TITLE2_3"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ ÑÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚";
-$MESS["SONET_C36_PAGE_TITLE2_4"] = "Ð˜Ð·Ð±Ñ€Ð°Ð½Ð½Ð¾Ðµ";
-$MESS["SONET_C36_PAGE_TITLE_COMMON"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ñ‹";
-$MESS["SONET_C36_EDIT_ENTRIES"] = "Ð¢ÐµÐ¼Ñ‹ Ð³Ñ€ÑƒÐ¿Ð¿";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS["SONET_P_USER_NO_USER"] = "Ïîëüçîâàòåëü íå íàéäåí";
+$MESS["SONET_C36_NO_USER_ID"] = "Êîä ïîëüçîâàòåëÿ íå çàäàí";
+$MESS["SONET_C36_SELF"] = "Âû íå ìîæåòå ïðèãëàøàòü â ãðóïïó ñàìîãî ñåáÿ";
+$MESS["SONET_C36_PAGE_TITLE"] = "Ïðèãëàøåíèå â ãðóïïó";
+$MESS["SONET_C36_PAGE_TITLE1"] = "Ãðóïïû";
+$MESS["SONET_C36_PAGE_TITLE1_PROJECT"] = "Ïðîåêòû";
+$MESS["SONET_C36_NAV"] = "Ãðóïïû";
+$MESS["SONET_C36_PAGE_TITLE2"] = "Ãðóïïû";
+$MESS["SONET_C36_PAGE_TITLE2_PROJECT"] = "Ïðîåêòû";
+$MESS["SONET_C36_PAGE_TITLE2_1"] = "Ìîè ãðóïïû";
+$MESS["SONET_C36_PAGE_TITLE2_1_PROJECT"] = "Ìîè ïðîåêòû";
+$MESS["SONET_C36_PAGE_TITLE2_2"] = "Àðõèâíûå ãðóïïû";
+$MESS["SONET_C36_PAGE_TITLE2_3"] = "Ãðóïïû ýêñòðàíåò";
+$MESS["SONET_C36_PAGE_TITLE2_4"] = "Èçáðàííîå";
+$MESS["SONET_C36_PAGE_TITLE_COMMON"] = "Ãðóïïû è ïðîåêòû";
+$MESS["SONET_C36_EDIT_ENTRIES"] = "Òåìû ãðóïï";
 ?>

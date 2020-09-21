@@ -1,8 +1,8 @@
 <?
-$MESS["WIKI_VERSION_FROM"] = "Ð’ÐµÑ€ÑÐ¸Ñ Ð¾Ñ‚";
-$MESS["WIKI_NEXT_VERSION"] = "Ð¡Ð»ÐµÐ´ÑƒÑŽÑ‰Ð°Ñ";
-$MESS["WIKI_PREV_VERSION"] = "ÐŸÑ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰Ð°Ñ";
-$MESS["WIKI_CURR_VERSION"] = "Ð¢ÐµÐºÑƒÑ‰Ð°Ñ Ð²ÐµÑ€ÑÐ¸Ñ";
-$MESS["WIKI_TAGS"] = "Ð¢ÐµÐ³Ð¸";
-$MESS["WIKI_SHOW_GADGET_LINK"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº ÑÑ‚Ð°Ñ‚ÑŒÐµ";
+$MESS["WIKI_VERSION_FROM"] = "Âåðñèÿ îò";
+$MESS["WIKI_NEXT_VERSION"] = "Ñëåäóþùàÿ";
+$MESS["WIKI_PREV_VERSION"] = "Ïðåäûäóùàÿ";
+$MESS["WIKI_CURR_VERSION"] = "Òåêóùàÿ âåðñèÿ";
+$MESS["WIKI_TAGS"] = "Òåãè";
+$MESS["WIKI_SHOW_GADGET_LINK"] = "Ïåðåéòè ê ñòàòüå";
 ?>

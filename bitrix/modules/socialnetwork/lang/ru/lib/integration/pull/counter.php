@@ -1,3 +1,3 @@
 <?
-$MESS["SONET_COUNTER_TYPE_LIVEFEED"] = "Ð–Ð¸Ð²Ð°Ñ Ð»ÐµÐ½Ñ‚Ð°";
+$MESS["SONET_COUNTER_TYPE_LIVEFEED"] = "Æèâàÿ ëåíòà";
 ?>

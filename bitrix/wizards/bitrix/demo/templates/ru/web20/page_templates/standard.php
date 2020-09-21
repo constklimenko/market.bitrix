@@ -3,6 +3,6 @@ require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Title");
 ?>
 
-РўРµРєСЃС‚....
+Текст....
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

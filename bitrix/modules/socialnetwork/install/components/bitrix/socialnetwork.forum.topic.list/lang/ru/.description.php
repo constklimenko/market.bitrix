@@ -1,5 +1,5 @@
 <?
-$MESS ['FORUM_LIST'] = "Ð¢ÐµÐ¼Ñ‹ (ÑÐ¿Ð¸ÑÐ¾Ðº)";
-$MESS ['FORUM_LIST_DESCRIPTION'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚ÐµÐ¼ Ð¤Ð¾Ñ€ÑƒÐ¼Ð°";
-$MESS ['SONET_NAME'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
+$MESS ['FORUM_LIST'] = "Òåìû (ñïèñîê)";
+$MESS ['FORUM_LIST_DESCRIPTION'] = "Ñïèñîê òåì Ôîðóìà";
+$MESS ['SONET_NAME'] = "Ñîöèàëüíàÿ ñåòü";
 ?>

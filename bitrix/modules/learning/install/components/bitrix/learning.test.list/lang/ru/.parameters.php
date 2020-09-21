@@ -1,8 +1,8 @@
 <?
-$MESS ['LEARNING_COURSE_ID'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARNING_DESC_YES'] = "Ð”Ð°";
-$MESS ['LEARNING_DESC_NO'] = "ÐÐµÑ‚";
-$MESS ['LEARNING_CHECK_PERMISSIONS'] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
-$MESS ['LEARNING_TESTS_PER_PAGE'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚ÐµÑÑ‚Ð¾Ð² Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
-$MESS ['LEARNING_TEST_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ñ Ñ‚ÐµÑÑ‚Ð°";
+$MESS ['LEARNING_COURSE_ID'] = "Èäåíòèôèêàòîð êóðñà";
+$MESS ['LEARNING_DESC_YES'] = "Äà";
+$MESS ['LEARNING_DESC_NO'] = "Íåò";
+$MESS ['LEARNING_CHECK_PERMISSIONS'] = "Ïðîâåðÿòü ïðàâî äîñòóïà";
+$MESS ['LEARNING_TESTS_PER_PAGE'] = "Êîëè÷åñòâî òåñòîâ íà ñòðàíèöå";
+$MESS ['LEARNING_TEST_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ïðîõîæäåíèÿ òåñòà";
 ?>

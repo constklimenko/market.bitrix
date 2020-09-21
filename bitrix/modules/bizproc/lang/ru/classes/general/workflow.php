@@ -1,3 +1,3 @@
 <?
-$MESS ['BPCGWF_TERMINATED'] = "Р’С‹РїРѕР»РЅРµРЅРёРµ РїСЂРµСЂРІР°РЅРѕ";
+$MESS ['BPCGWF_TERMINATED'] = "Выполнение прервано";
 ?>

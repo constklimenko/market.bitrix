@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_GROUP_ACTION_ERR_ORDER_NOT_FOUND"] = "Ð—Ð°ÐºÐ°Ð· Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
-$MESS["SALE_GROUP_ACTION_ERR_PAYMENT_CREATE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
-$MESS["SALE_GROUP_ACTION_ERR_SHIPMENT_CREATE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SALE_GROUP_ACTION_ERR_ORDER_NOT_FOUND"] = "Çàêàç íå íàéäåí";
+$MESS["SALE_GROUP_ACTION_ERR_PAYMENT_CREATE"] = "Îøèáêà ïðè ñîçäàíèè îïëàòû";
+$MESS["SALE_GROUP_ACTION_ERR_SHIPMENT_CREATE"] = "Îøèáêà ïðè ñîçäàíèè îòãðóçêè";

@@ -1,5 +1,5 @@
 <?
-$MESS ['SEARCH_SEARCH_PAGE_NAME'] = "Ð¡Ñ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿Ð¾Ð¸ÑÐºÐ°";
-$MESS ['SEARCH_SEARCH_PAGE_DESCRIPTION'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ Ñ„Ð¾Ñ€Ð¼Ð¾Ð¹ Ð¿Ð¾Ð¸ÑÐºÐ° Ð¸ Ð¿Ð¾ÐºÐ°Ð·Ð¾Ð¼ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð² Ð¿Ð¾Ð¸ÑÐºÐ°.";
-$MESS ['SEARCH_SERVICE'] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS ['SEARCH_SEARCH_PAGE_NAME'] = "Ñòàíäàðòíàÿ ñòðàíèöà ïîèñêà";
+$MESS ['SEARCH_SEARCH_PAGE_DESCRIPTION'] = "Ñòðàíèöà ñ ôîðìîé ïîèñêà è ïîêàçîì ðåçóëüòàòîâ ïîèñêà.";
+$MESS ['SEARCH_SERVICE'] = "Ïîèñê";
 ?>

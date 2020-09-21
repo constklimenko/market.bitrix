@@ -1,6 +1,6 @@
 <?
-$MESS ['LEARNING_TEST_DETAIL_NAME'] = "ÐšÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ñ‚ÐµÑÑ‚";
-$MESS ['LEARNING_TEST_DETAIL_DESC'] = "ÐšÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ñ‚ÐµÑÑ‚";
-$MESS ['LEARNING_SERVICE'] = "ÐžÐ±ÑƒÑ‡ÐµÐ½Ð¸Ðµ";
-$MESS ['LEARNING_TEST_SERVICE'] = "Ð¢ÐµÑÑ‚Ñ‹";
+$MESS ['LEARNING_TEST_DETAIL_NAME'] = "Êîíòðîëüíûé òåñò";
+$MESS ['LEARNING_TEST_DETAIL_DESC'] = "Êîíòðîëüíûé òåñò";
+$MESS ['LEARNING_SERVICE'] = "Îáó÷åíèå";
+$MESS ['LEARNING_TEST_SERVICE'] = "Òåñòû";
 ?>

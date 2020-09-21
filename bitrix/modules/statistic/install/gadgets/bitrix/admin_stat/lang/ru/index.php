@@ -1,17 +1,17 @@
 <?
-$MESS["GD_STAT_HITS"] = "Ð¥Ð¸Ñ‚Ñ‹";
-$MESS["GD_STAT_HOSTS"] = "Ð¥Ð¾ÑÑ‚Ñ‹";
-$MESS["GD_STAT_SESSIONS"] = "Ð¡ÐµÑÑÐ¸Ð¸";
-$MESS["GD_STAT_EVENTS"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS["GD_STAT_VISITORS"] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ð¸";
-$MESS["GD_STAT_B_YESTERDAY"] = "ÐŸÐ¾Ð·Ð°Ð²Ñ‡ÐµÑ€Ð°";
-$MESS["GD_STAT_YESTERDAY"] = "Ð’Ñ‡ÐµÑ€Ð°";
-$MESS["GD_STAT_TODAY"] = "Ð¡ÐµÐ³Ð¾Ð´Ð½Ñ";
-$MESS["GD_STAT_TOTAL"] = "Ð’ÑÐµÐ³Ð¾";
-$MESS["GD_STAT_TAB_COMMON"] = "ÐŸÐ¾ÑÐµÑ‰Ð°ÐµÐ¼Ð¾ÑÑ‚ÑŒ";
-$MESS["GD_STAT_TAB_ADV"] = "Ð Ðš";
-$MESS["GD_STAT_TAB_EVENT"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS["GD_STAT_TAB_REF"] = "Ð¡Ð°Ð¹Ñ‚Ñ‹";
-$MESS["GD_STAT_TAB_PHRASE"] = "Ð¤Ñ€Ð°Ð·Ñ‹";
-$MESS["GD_STAT_NOT_ENOUGH_DATA"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð´Ð»Ñ Ð¿Ð¾ÑÑ‚Ñ€Ð¾ÐµÐ½Ð¸Ñ Ð³Ñ€Ð°Ñ„Ð¸ÐºÐ°.";
+$MESS["GD_STAT_HITS"] = "Õèòû";
+$MESS["GD_STAT_HOSTS"] = "Õîñòû";
+$MESS["GD_STAT_SESSIONS"] = "Ñåññèè";
+$MESS["GD_STAT_EVENTS"] = "Ñîáûòèÿ";
+$MESS["GD_STAT_VISITORS"] = "Ïîñåòèòåëè";
+$MESS["GD_STAT_B_YESTERDAY"] = "Ïîçàâ÷åðà";
+$MESS["GD_STAT_YESTERDAY"] = "Â÷åðà";
+$MESS["GD_STAT_TODAY"] = "Ñåãîäíÿ";
+$MESS["GD_STAT_TOTAL"] = "Âñåãî";
+$MESS["GD_STAT_TAB_COMMON"] = "Ïîñåùàåìîñòü";
+$MESS["GD_STAT_TAB_ADV"] = "ÐÊ";
+$MESS["GD_STAT_TAB_EVENT"] = "Ñîáûòèÿ";
+$MESS["GD_STAT_TAB_REF"] = "Ñàéòû";
+$MESS["GD_STAT_TAB_PHRASE"] = "Ôðàçû";
+$MESS["GD_STAT_NOT_ENOUGH_DATA"] = "Íåäîñòàòî÷íî äàííûõ äëÿ ïîñòðîåíèÿ ãðàôèêà.";
 ?>

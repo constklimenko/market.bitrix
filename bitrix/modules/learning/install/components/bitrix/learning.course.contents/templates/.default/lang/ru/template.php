@@ -1,4 +1,4 @@
 <?
-$MESS["LEARNING_COURSE_TOC"] = "Ð¡Ð¾Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ";
-$MESS["LEARNING_COURSE_DESCRIPTION"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÐºÑƒÑ€ÑÐ°";
+$MESS["LEARNING_COURSE_TOC"] = "Ñîäåðæàíèå";
+$MESS["LEARNING_COURSE_DESCRIPTION"] = "Îïèñàíèå êóðñà";
 ?>

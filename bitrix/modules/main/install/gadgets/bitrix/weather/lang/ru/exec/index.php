@@ -40,16 +40,16 @@ $t = Intval($node->content);
 <span class="gdweather"><?=$node->content?></span><br>
 <span class="gdwinfo">
 <?$node = $xml->SelectNodes('/info/weather/day/day_part/wind_direction');?>
-Р’РµС‚РµСЂ: <?=$node->content?>, <?$node = $xml->SelectNodes('/info/weather/day/day_part/wind_speed');?><?=$node->content?> Рј/СЃРµРє. <br>
+Ветер: <?=$node->content?>, <?$node = $xml->SelectNodes('/info/weather/day/day_part/wind_speed');?><?=$node->content?> м/сек. <br>
 <?$node = $xml->SelectNodes('/info/weather/day/day_part/pressure');?>
-Р”Р°РІР»РµРЅРёРµ: <?=$node->content?> РјРј.СЂС‚.СЃС‚.<br>
+Давление: <?=$node->content?> мм.рт.ст.<br>
 <?$node = $xml->SelectNodes('/info/weather/day/day_part/dampness');?>
-Р’Р»Р°Р¶РЅРѕСЃС‚СЊ: <?=$node->content?>%<br>
+Влажность: <?=$node->content?>%<br>
 
 <?$node = $xml->SelectNodes('/info/weather/day/sun_rise');?>
-Р’РѕСЃС…РѕРґ: <?=$node->content?><br>
+Восход: <?=$node->content?><br>
 <?$node = $xml->SelectNodes('/info/weather/day/sunset');?>
-Р—Р°С…РѕРґ: <?=$node->content?>
+Заход: <?=$node->content?>
 
 </span>
 </td>
@@ -58,23 +58,23 @@ $t = Intval($node->content);
 <?$node = $xml->SelectNodes('/info/weather/tonight/temperature');?>
 <?if($node):?>
 <tr>
-<td>РќРѕС‡СЊСЋ:</td>
-<td colspan="2"><?=$node->content?>В°C</td>
+<td>Ночью:</td>
+<td colspan="2"><?=$node->content?>°C</td>
 </tr>
 <?endif?>
 
 <?$node = $xml->SelectNodes('/info/weather/tomorrow/temperature');?>
 <?if($node):?>
 <tr>
-<td>Р—Р°РІС‚СЂР°:</td>
-<td colspan="2"><?=$node->content?>В°C</td>
+<td>Завтра:</td>
+<td colspan="2"><?=$node->content?>°C</td>
 </tr>
 <?endif?>
 </table>
 <?if($arGadgetParams["SHOW_URL"]=="Y"):?>
 <br />
 <?$node = $xml->SelectNodes('/info/weather/url');?>
-<a href="<?=htmlspecialcharsbx($node->content)?>">РџРѕРґСЂРѕР±РЅРµРµ</a> <a href="<?=htmlspecialcharsbx($node->content)?>"><img width="7" height="7" border="0" src="/bitrix/components/bitrix/desktop/images/arrows.gif" /></a>
+<a href="<?=htmlspecialcharsbx($node->content)?>">Подробнее</a> <a href="<?=htmlspecialcharsbx($node->content)?>"><img width="7" height="7" border="0" src="/bitrix/components/bitrix/desktop/images/arrows.gif" /></a>
 <br />
 <?endif?>
 

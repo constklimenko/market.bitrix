@@ -1,5 +1,5 @@
 <?
-$MESS ['SONET_BZP_TEMPLATE_NAME'] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS ['SONET_BZP_TEMPLATE_DESCRIPTION'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ Ð¸ Ð¸ÑÑ‚Ð¾Ñ€Ð¸ÑŽ Ð¿Ð¾ Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°Ð¼";
-$MESS ['SONET_NAME'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
+$MESS ['SONET_BZP_TEMPLATE_NAME'] = "Áèçíåñ-ïðîöåññû";
+$MESS ['SONET_BZP_TEMPLATE_DESCRIPTION'] = "Âûâîäèò çàäàíèÿ è èñòîðèþ ïî Áèçíåñ-ïðîöåññàì";
+$MESS ['SONET_NAME'] = "Ñîöèàëüíàÿ ñåòü";
 ?>

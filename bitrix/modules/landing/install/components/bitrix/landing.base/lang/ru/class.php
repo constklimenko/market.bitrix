@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_CMP_NOT_INSTALLED'] = 'РЎРµСЂРІРёСЃ Р»РµРЅРґРёРЅРіРѕРІ РІ РґР°РЅРЅС‹Р№ РјРѕРјРµРЅС‚ РЅРµРґРѕСЃС‚СѓРїРµРЅ';
-$MESS['LANDING_ERROR_SESS_EXPIRED'] = 'Р’Р°С€Р° СЃРµСЃСЃРёСЏ РёСЃС‚РµРєР»Р°';
-$MESS['LANDING_ERROR_SITE_LIMIT_REACHED'] = 'Р”РѕСЃС‚РёРіРЅСѓС‚ Р»РёРјРёС‚ Р°РєС‚РёРІРЅС‹С… СЃР°Р№С‚РѕРІ, Р±РѕР»РµРµ РїРѕРґСЂРѕР±РЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ Рѕ Р»РёРјРёС‚Рµ <a href="#HELP_LINK_SITE_LIMIT_REACHED#" target="_blank">РїРѕ СЃСЃС‹Р»РєРµ</a>.';
-$MESS['LANDING_ERROR_ACCESS_DENIED'] = 'Р”РѕСЃС‚СѓРї Р·Р°РїСЂРµС‰РµРЅ';
-$MESS['LANDING_GOTO_EDIT'] = 'РџРµСЂРµР№С‚Рё Рє РЅР°СЃС‚СЂРѕР№РєР°Рј';
+$MESS['LANDING_CMP_NOT_INSTALLED'] = 'Сервис лендингов в данный момент недоступен';
+$MESS['LANDING_ERROR_SESS_EXPIRED'] = 'Ваша сессия истекла';
+$MESS['LANDING_ERROR_SITE_LIMIT_REACHED'] = 'Достигнут лимит активных сайтов, более подробная информация о лимите <a href="#HELP_LINK_SITE_LIMIT_REACHED#" target="_blank">по ссылке</a>.';
+$MESS['LANDING_ERROR_ACCESS_DENIED'] = 'Доступ запрещен';
+$MESS['LANDING_GOTO_EDIT'] = 'Перейти к настройкам';

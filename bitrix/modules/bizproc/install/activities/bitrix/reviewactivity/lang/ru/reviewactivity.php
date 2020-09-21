@@ -1,13 +1,13 @@
 <?
-$MESS ['BPAR_ACT_COMMENT'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS ['BPAR_ACT_INFO'] = "ÐžÐ·Ð½Ð°ÐºÐ¾Ð¼Ð»ÐµÐ½Ð¾ #PERCENT#% (#REVIEWED# Ð¸Ð· #TOTAL#)";
-$MESS ['BPAR_ACT_BUTTON2'] = "ÐžÐ·Ð½Ð°ÐºÐ¾Ð¼Ð»ÐµÐ½";
-$MESS ['BPAR_ACT_REVIEWED'] = "ÐžÐ·Ð½Ð°ÐºÐ¾Ð¼Ð»ÐµÐ½Ð¸Ðµ Ñ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð¼ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾.";
-$MESS ['BPAR_ACT_TRACK2'] = "ÐžÐ·Ð½Ð°ÐºÐ¾Ð¼Ð»ÐµÐ½Ð¸Ðµ Ñ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑÐ¼Ð¸ Ð¸Ð· ÑÐ¿Ð¸ÑÐºÐ°: #VAL#";
-$MESS ['BPAR_ACT_REVIEW_TRACK'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #PERSON# Ð¾Ð·Ð½Ð°ÐºÐ¾Ð¼Ð¸Ð»ÑÑ Ñ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð¼#COMMENT#";
-$MESS ['BPAR_ACT_PROP_EMPTY1'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS ['BPAR_ACT_PROP_EMPTY4'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS ['BPAA_ACT_APPROVERS_NONE'] = "Ð½ÐµÑ‚";
-$MESS ['BPAA_ACT_NO_ACTION'] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
-$MESS ['BPAA_ACT_COMMENT_ERROR'] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾ Ð¿Ð¾Ð»Ðµ: #COMMENT_LABEL#";
+$MESS ['BPAR_ACT_COMMENT'] = "Êîììåíòàðèé";
+$MESS ['BPAR_ACT_INFO'] = "Îçíàêîìëåíî #PERCENT#% (#REVIEWED# èç #TOTAL#)";
+$MESS ['BPAR_ACT_BUTTON2'] = "Îçíàêîìëåí";
+$MESS ['BPAR_ACT_REVIEWED'] = "Îçíàêîìëåíèå ñ äîêóìåíòîì çàâåðøåíî.";
+$MESS ['BPAR_ACT_TRACK2'] = "Îçíàêîìëåíèå ñ äîêóìåíòîì ïîëüçîâàòåëÿìè èç ñïèñêà: #VAL#";
+$MESS ['BPAR_ACT_REVIEW_TRACK'] = "Ïîëüçîâàòåëü #PERSON# îçíàêîìèëñÿ ñ äîêóìåíòîì#COMMENT#";
+$MESS ['BPAR_ACT_PROP_EMPTY1'] = "Ñâîéñòâî 'Ïîëüçîâàòåëè' íå óêàçàíî.";
+$MESS ['BPAR_ACT_PROP_EMPTY4'] = "Ñâîéñòâî 'Íàçâàíèå' íå óêàçàíî.";
+$MESS ['BPAA_ACT_APPROVERS_NONE'] = "íåò";
+$MESS ['BPAA_ACT_NO_ACTION'] = "Íåâåðíî óêàçàíî äåéñòâèå";
+$MESS ['BPAA_ACT_COMMENT_ERROR'] = "Íå çàïîëíåíî ïîëå: #COMMENT_LABEL#";
 ?>

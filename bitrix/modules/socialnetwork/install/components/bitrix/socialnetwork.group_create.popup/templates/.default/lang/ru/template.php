@@ -1,7 +1,7 @@
 <?
-$MESS["SONET_SGCP_T_DO_INVITE"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑÐ¸Ñ‚ÑŒ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ #NAME#";
-$MESS["SONET_SGCP_T_DO_INVITE_PROJECT"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑÐ¸Ñ‚ÑŒ Ð² Ð¿Ñ€Ð¾ÐµÐºÑ‚ #NAME#";
-$MESS["SONET_SGCP_T_DO_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ #NAME#";
-$MESS["SONET_SGCP_T_DO_CREATE"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS["SONET_SGCP_LOADING"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ°...";
+$MESS["SONET_SGCP_T_DO_INVITE"] = "Ïðèãëàñèòü â ãðóïïó #NAME#";
+$MESS["SONET_SGCP_T_DO_INVITE_PROJECT"] = "Ïðèãëàñèòü â ïðîåêò #NAME#";
+$MESS["SONET_SGCP_T_DO_EDIT"] = "Ðåäàêòèðîâàíèå ãðóïïû #NAME#";
+$MESS["SONET_SGCP_T_DO_CREATE"] = "Ñîçäàòü ãðóïïó";
+$MESS["SONET_SGCP_LOADING"] = "Çàãðóçêà...";
 ?>

@@ -1,2 +1,2 @@
 <?php
-$MESS["LANDING_DEMO_STORE_INSTAGRAM--HEADER_MAIN--NAME"] = "Ð¨Ð°Ð¿ÐºÐ° Ð½Ð° Ð³Ð»Ð°Ð²Ð½Ð¾Ð¹";
+$MESS["LANDING_DEMO_STORE_INSTAGRAM--HEADER_MAIN--NAME"] = "Øàïêà íà ãëàâíîé";

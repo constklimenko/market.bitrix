@@ -1,15 +1,15 @@
 <?
 $MESS["SALE_HPS_ROBOXCHANGE_TITLE"] = "RoboKassa";
-$MESS["SALE_HPS_ROBOXCHANGE_PAYMENT_ID"] = "ÐÐ¾Ð¼ÐµÑ€ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
-$MESS["SALE_HPS_ROBOXCHANGE_SHOULD_PAY"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
-$MESS["SALE_HPS_ROBOXCHANGE_CURRENCY"] = "Ð’Ð°Ð»ÑŽÑ‚Ð° ÑÑ‡ÐµÑ‚Ð°";
-$MESS["SALE_HPS_ROBOXCHANGE_DATE_INSERT"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_ROBOXCHANGE_PAYMENT_ID"] = "Íîìåð îïëàòû";
+$MESS["SALE_HPS_ROBOXCHANGE_SHOULD_PAY"] = "Ñóììà îïëàòû";
+$MESS["SALE_HPS_ROBOXCHANGE_CURRENCY"] = "Âàëþòà ñ÷åòà";
+$MESS["SALE_HPS_ROBOXCHANGE_DATE_INSERT"] = "Äàòà ñîçäàíèÿ îïëàòû";
 $MESS["SALE_HPS_ROBOXCHANGE_EMAIL_USER"] = "E-mail";
-$MESS["SALE_HPS_ROBOXCHANGE_SHOPLOGIN"] = "Ð›Ð¾Ð³Ð¸Ð½ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
-$MESS["SALE_HPS_ROBOXCHANGE_SHOPPASSWORD"] = "ÐŸÐ°Ñ€Ð¾Ð»ÑŒ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
-$MESS["SALE_HPS_ROBOXCHANGE_SHOPPASSWORD2"] = "ÐŸÐ°Ñ€Ð¾Ð»ÑŒ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° #2";
-$MESS["SALE_HPS_ROBOXCHANGE_TEST_SHOPPASSWORD"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
-$MESS["SALE_HPS_ROBOXCHANGE_TEST_SHOPPASSWORD2"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° #2";
-$MESS["SALE_HPS_ROBOXCHANGE_ORDERDESCR"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
-$MESS["SALE_HPS_ROBOXCHANGE_CHANGE_STATUS_PAY"] = "ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸ Ð¾Ð¿Ð»Ð°Ñ‡Ð¸Ð²Ð°Ñ‚ÑŒ Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ Ð¿Ñ€Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ð¸ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾Ð³Ð¾ ÑÑ‚Ð°Ñ‚ÑƒÑÐ°";
-$MESS["SALE_HPS_ROBOXCHANGE_TEST"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼";
+$MESS["SALE_HPS_ROBOXCHANGE_SHOPLOGIN"] = "Ëîãèí ìàãàçèíà";
+$MESS["SALE_HPS_ROBOXCHANGE_SHOPPASSWORD"] = "Ïàðîëü ìàãàçèíà";
+$MESS["SALE_HPS_ROBOXCHANGE_SHOPPASSWORD2"] = "Ïàðîëü ìàãàçèíà #2";
+$MESS["SALE_HPS_ROBOXCHANGE_TEST_SHOPPASSWORD"] = "Òåñòîâûé ïàðîëü ìàãàçèíà";
+$MESS["SALE_HPS_ROBOXCHANGE_TEST_SHOPPASSWORD2"] = "Òåñòîâûé ïàðîëü ìàãàçèíà #2";
+$MESS["SALE_HPS_ROBOXCHANGE_ORDERDESCR"] = "Îïèñàíèå îïëàòû";
+$MESS["SALE_HPS_ROBOXCHANGE_CHANGE_STATUS_PAY"] = "Àâòîìàòè÷åñêè îïëà÷èâàòü îïëàòó ïðè ïîëó÷åíèè óñïåøíîãî ñòàòóñà";
+$MESS["SALE_HPS_ROBOXCHANGE_TEST"] = "Òåñòîâûé ðåæèì";

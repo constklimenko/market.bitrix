@@ -1,13 +1,13 @@
 <?
-$MESS["BX_WS_STAT_LF_TITLE"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ°";
-$MESS["BX_WS_STAT_LF_HITS"] = "Ð¥Ð¸Ñ‚Ñ‹";
-$MESS["BX_WS_STAT_LF_SESSIONS"] = "Ð¡ÐµÑÑÐ¸Ð¸";
-$MESS["BX_WS_STAT_LF_EVENTS"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS["BX_WS_STAT_LF_HOSTS"] = "Ð¥Ð¾ÑÑ‚Ñ‹";
-$MESS["BX_WS_STAT_LF_GUESTS"] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ð¸";
-$MESS["BX_WS_STAT_LF_NEW_GUESTS"] = "ÐÐ¾Ð²Ñ‹Ðµ Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ð¸";
-$MESS["BX_WS_STAT_LF_TODAY"] = "CÐµÐ³Ð¾Ð´Ð½Ñ";
-$MESS["BX_WS_STAT_LF_YESTERDAY"] = "Ð’Ñ‡ÐµÑ€Ð°";
-$MESS["BX_WS_STAT_LF_B_YESTERDAY"] = "ÐŸÐ¾Ð·Ð°Ð²Ñ‡ÐµÑ€Ð°";
-$MESS["BX_WS_STAT_LF_TOTAL"] = "Ð’ÑÐµÐ³Ð¾";
+$MESS["BX_WS_STAT_LF_TITLE"] = "Ñòàòèñòèêà";
+$MESS["BX_WS_STAT_LF_HITS"] = "Õèòû";
+$MESS["BX_WS_STAT_LF_SESSIONS"] = "Ñåññèè";
+$MESS["BX_WS_STAT_LF_EVENTS"] = "Ñîáûòèÿ";
+$MESS["BX_WS_STAT_LF_HOSTS"] = "Õîñòû";
+$MESS["BX_WS_STAT_LF_GUESTS"] = "Ïîñåòèòåëè";
+$MESS["BX_WS_STAT_LF_NEW_GUESTS"] = "Íîâûå ïîñåòèòåëè";
+$MESS["BX_WS_STAT_LF_TODAY"] = "Cåãîäíÿ";
+$MESS["BX_WS_STAT_LF_YESTERDAY"] = "Â÷åðà";
+$MESS["BX_WS_STAT_LF_B_YESTERDAY"] = "Ïîçàâ÷åðà";
+$MESS["BX_WS_STAT_LF_TOTAL"] = "Âñåãî";
 ?>

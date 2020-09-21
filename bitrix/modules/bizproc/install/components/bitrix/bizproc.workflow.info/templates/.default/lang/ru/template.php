@@ -1,3 +1,3 @@
 <?
-$MESS['BPWFITPL_DOC_HISTORY'] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS['BPWFITPL_COMMENTS'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸";
+$MESS['BPWFITPL_DOC_HISTORY'] = "Èñòîðèÿ èçìåíåíèé äîêóìåíòà";
+$MESS['BPWFITPL_COMMENTS'] = "Êîììåíòàðèè";

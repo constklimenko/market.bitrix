@@ -1,2 +1,2 @@
 <?php
-$MESS["BP_SCRIPT_PLACEMENT_GRID_BTN_TITLE"] = "Ð—Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚ÑŒ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¹";
+$MESS["BP_SCRIPT_PLACEMENT_GRID_BTN_TITLE"] = "Çàïóñòèòü ñöåíàðèé";

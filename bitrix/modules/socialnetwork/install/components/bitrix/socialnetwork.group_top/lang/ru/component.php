@@ -1,9 +1,9 @@
 <?
-$MESS ['SONET_MODULE_NOT_INSTALL'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['SONET_P_USER_NO_USER'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
-$MESS ['SONET_C24_PAGE_TITLE'] = "ÐŸÐ¾Ð¸ÑÐº Ð³Ñ€ÑƒÐ¿Ð¿";
-$MESS ['SONET_C24_GROUPS'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['SONET_C24_EMPTY'] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['SONET_C24_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð¸ÑÐºÐ°: ";
-$MESS ['SONET_C24_NAV'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS ['SONET_MODULE_NOT_INSTALL'] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS ['SONET_P_USER_NO_USER'] = "Ïîëüçîâàòåëü íå íàéäåí";
+$MESS ['SONET_C24_PAGE_TITLE'] = "Ïîèñê ãðóïï";
+$MESS ['SONET_C24_GROUPS'] = "Ãðóïïû";
+$MESS ['SONET_C24_EMPTY'] = "Íå íàéäåíî íè îäíîé ãðóïïû";
+$MESS ['SONET_C24_ERROR'] = "Îøèáêà ïîèñêà: ";
+$MESS ['SONET_C24_NAV'] = "Ãðóïïû";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS ['EC_CALENDAR_MODULE_NOT_INSTALLED'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÐµÐ¹ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
-$MESS ['EC_NOT_CONFIRMED'] = "Ð£Ñ‡Ð°ÑÑ‚Ð¸Ðµ Ð½Ðµ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¾";
+$MESS ['EC_CALENDAR_MODULE_NOT_INSTALLED'] = "Ìîäóëü êàëåíäàðåé íå óñòàíîâëåí";
+$MESS ['EC_NOT_CONFIRMED'] = "Ó÷àñòèå íå ïîäòâåðæäåíî";
 ?>

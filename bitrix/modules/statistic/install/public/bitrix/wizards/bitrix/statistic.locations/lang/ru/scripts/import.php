@@ -1,6 +1,6 @@
 <?
-$MESS ['STATWIZ_IMPORT_ERROR_ACCESS_DENIED'] = "ÐžÑˆÐ¸Ð±ÐºÐ°! ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°.";
-$MESS ['STATWIZ_IMPORT_ERROR_FILE'] = "ÐžÑˆÐ¸Ð±ÐºÐ°! ÐÐµÐ²ÐµÑ€Ð½Ð¾Ðµ Ð¸Ð¼Ñ Ñ„Ð°Ð¹Ð»Ð°.";
-$MESS ['STATWIZ_IMPORT_FILE_LOADING'] = "ÐžÐ±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÐ¼ Ñ„Ð°Ð¹Ð»...";
-$MESS ['STATWIZ_IMPORT_ALL_DONE'] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¸Ð½Ð´ÐµÐºÑÐ° Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾.";
+$MESS ['STATWIZ_IMPORT_ERROR_ACCESS_DENIED'] = "Îøèáêà! Íåò äîñòóïà.";
+$MESS ['STATWIZ_IMPORT_ERROR_FILE'] = "Îøèáêà! Íåâåðíîå èìÿ ôàéëà.";
+$MESS ['STATWIZ_IMPORT_FILE_LOADING'] = "Îáðàáàòûâàåì ôàéë...";
+$MESS ['STATWIZ_IMPORT_ALL_DONE'] = "Ñîçäàíèå èíäåêñà çàâåðøåíî.";
 ?>

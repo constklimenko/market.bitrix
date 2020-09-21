@@ -1,4 +1,4 @@
 <?
-$MESS["EVENT_CALENDAR"] = "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
-$MESS ['EVENT_CALENDAR_SETTINGS_SLIDER'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº (ÑÐ»ÑƒÐ¶ÐµÐ±Ð½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚)";
+$MESS["EVENT_CALENDAR"] = "Êàëåíäàðü ñîáûòèé";
+$MESS ['EVENT_CALENDAR_SETTINGS_SLIDER'] = "Ôîðìà íàñòðîåê (ñëóæåáíûé êîìïîíåíò)";
 ?>

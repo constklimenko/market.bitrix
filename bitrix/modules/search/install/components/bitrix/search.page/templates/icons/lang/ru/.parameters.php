@@ -1,18 +1,18 @@
 <?
-$MESS["TP_BSP_STRUCTURE_FILTER"] = "Ð˜Ð¼Ñ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ñ‹ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
-$MESS["TP_BSP_USE_SUGGEST"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´ÑÐºÐ°Ð·ÐºÑƒ Ñ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ð¼Ð¸ Ñ„Ñ€Ð°Ð·Ð°Ð¼Ð¸";
-$MESS["TP_BSP_PATH_TO_SONET_MESSAGES_CHAT"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð»Ð¸Ñ‡Ð½Ð¾Ð³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ ÑÐ¾Ñ†ÑÐµÑ‚Ð¸";
-$MESS["TP_BSP_PATH_TO_VIDEO_CALL"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð²Ð¸Ð´ÐµÐ¾Ð·Ð²Ð¾Ð½ÐºÐ°";
-$MESS["TP_BSP_PATH_TO_CONPANY_DEPARTMENT"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð¿Ð¾Ð´Ñ€Ð°Ð·Ð´ÐµÐ»ÐµÐ½Ð¸Ñ";
-$MESS["TP_BSP_NAME_TEMPLATE"] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ Ð¸Ð¼ÐµÐ½Ð¸";
-$MESS["TP_BSP_SHOW_LOGIN"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð»Ð¾Ð³Ð¸Ð½, ÐµÑÐ»Ð¸ Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð¾ Ð¸Ð¼Ñ";
-$MESS["TP_BSP_SHOW_RATING"] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³";
-$MESS["TP_BSP_SHOW_RATING_CONFIG"] = "Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
-$MESS["TP_BSP_RATING_TYPE"] = "Ð’Ð¸Ð´ ÐºÐ½Ð¾Ð¿Ð¾Ðº Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð°";
-$MESS["TP_BSP_RATING_TYPE_CONFIG"] = "Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
-$MESS["TP_BSP_RATING_TYPE_STANDART_TEXT"] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ / ÐÐµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ (Ñ‚ÐµÐºÑÑ‚Ð¾Ð²Ñ‹Ð¹)";
-$MESS["TP_BSP_RATING_TYPE_STANDART_GRAPHIC"] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ / ÐÐµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ (Ð³Ñ€Ð°Ñ„Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹)";
-$MESS["TP_BSP_RATING_TYPE_LIKE_TEXT"] = "ÐœÐ½Ðµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ (Ñ‚ÐµÐºÑÑ‚Ð¾Ð²Ñ‹Ð¹)";
-$MESS["TP_BSP_RATING_TYPE_LIKE_GRAPHIC"] = "ÐœÐ½Ðµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ (Ð³Ñ€Ð°Ñ„Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹)";
-$MESS["TP_BSP_PATH_TO_USER_PROFILE"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŽ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["TP_BSP_STRUCTURE_FILTER"] = "Èìÿ ôèëüòðà ñòðàíèöû ñòðóêòóðû êîìïàíèè";
+$MESS["TP_BSP_USE_SUGGEST"] = "Ïîêàçûâàòü ïîäñêàçêó ñ ïîèñêîâûìè ôðàçàìè";
+$MESS["TP_BSP_PATH_TO_SONET_MESSAGES_CHAT"] = "Ñòðàíèöà îòïðàâêè ëè÷íîãî ñîîáùåíèÿ ñîöñåòè";
+$MESS["TP_BSP_PATH_TO_VIDEO_CALL"] = "Ñòðàíèöà âèäåîçâîíêà";
+$MESS["TP_BSP_PATH_TO_CONPANY_DEPARTMENT"] = "Øàáëîí ïóòè ê ñòðàíèöå ïîäðàçäåëåíèÿ";
+$MESS["TP_BSP_NAME_TEMPLATE"] = "Îòîáðàæåíèå èìåíè";
+$MESS["TP_BSP_SHOW_LOGIN"] = "Ïîêàçûâàòü ëîãèí, åñëè íå çàäàíî èìÿ";
+$MESS["TP_BSP_SHOW_RATING"] = "Âêëþ÷èòü ðåéòèíã";
+$MESS["TP_BSP_SHOW_RATING_CONFIG"] = "ïî óìîë÷àíèþ";
+$MESS["TP_BSP_RATING_TYPE"] = "Âèä êíîïîê ðåéòèíãà";
+$MESS["TP_BSP_RATING_TYPE_CONFIG"] = "ïî óìîë÷àíèþ";
+$MESS["TP_BSP_RATING_TYPE_STANDART_TEXT"] = "Íðàâèòñÿ / Íå íðàâèòñÿ (òåêñòîâûé)";
+$MESS["TP_BSP_RATING_TYPE_STANDART_GRAPHIC"] = "Íðàâèòñÿ / Íå íðàâèòñÿ (ãðàôè÷åñêèé)";
+$MESS["TP_BSP_RATING_TYPE_LIKE_TEXT"] = "Ìíå íðàâèòñÿ (òåêñòîâûé)";
+$MESS["TP_BSP_RATING_TYPE_LIKE_GRAPHIC"] = "Ìíå íðàâèòñÿ (ãðàôè÷åñêèé)";
+$MESS["TP_BSP_PATH_TO_USER_PROFILE"] = "Øàáëîí ïóòè ê ïðîôèëþ ïîëüçîâàòåëÿ";
 ?>

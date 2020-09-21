@@ -1,11 +1,11 @@
 <?
-$MESS ['BPSNMA_PD_CALENDAR_TYPE'] = "Ð¢Ð¸Ð¿ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ñ (Ð½Ðµ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾)";
-$MESS ['BPSNMA_PD_CALENDAR_OWNER'] = "ID Ð²Ð»Ð°Ð´ÐµÐ»ÑŒÑ†Ð° ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ñ (Ð½Ðµ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾)";
-$MESS ['BPSNMA_PD_CALENDAR_SECTION'] = "ID ÑÐµÐºÑ†Ð¸Ð¸ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ñ (Ð½Ðµ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾)";
-$MESS ['BPSNMA_PD_CUSER'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
-$MESS ['BPSNMA_PD_CNAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS ['BPSNMA_PD_CDESCR'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS ['BPSNMA_PD_CFROM'] = "Ð”Ð°Ñ‚Ð° Ð½Ð°Ñ‡Ð°Ð»Ð°";
-$MESS ['BPSNMA_PD_CTO'] = "Ð”Ð°Ñ‚Ð° Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ";
-$MESS ['BPSNMA_PD_TIMEZONE'] = "Ð§Ð°ÑÐ¾Ð²Ð¾Ð¹ Ð¿Ð¾ÑÑ";
+$MESS ['BPSNMA_PD_CALENDAR_TYPE'] = "Òèï êàëåíäàðÿ (íå îáÿçàòåëüíî)";
+$MESS ['BPSNMA_PD_CALENDAR_OWNER'] = "ID âëàäåëüöà êàëåíäàðÿ (íå îáÿçàòåëüíî)";
+$MESS ['BPSNMA_PD_CALENDAR_SECTION'] = "ID ñåêöèè êàëåíäàðÿ (íå îáÿçàòåëüíî)";
+$MESS ['BPSNMA_PD_CUSER'] = "Ïîëüçîâàòåëü";
+$MESS ['BPSNMA_PD_CNAME'] = "Íàçâàíèå ñîáûòèÿ";
+$MESS ['BPSNMA_PD_CDESCR'] = "Îïèñàíèå ñîáûòèÿ";
+$MESS ['BPSNMA_PD_CFROM'] = "Äàòà íà÷àëà";
+$MESS ['BPSNMA_PD_CTO'] = "Äàòà îêîí÷àíèÿ";
+$MESS ['BPSNMA_PD_TIMEZONE'] = "×àñîâîé ïîÿñ";
 ?>

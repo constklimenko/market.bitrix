@@ -1,3 +1,3 @@
 <?
-$MESS ['IBLOCK_INSTALL_PUBLIC_SECTION'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ ÐºÐ½Ð¸Ð³";
+$MESS ['IBLOCK_INSTALL_PUBLIC_SECTION'] = "Êàòàëîã êíèã";
 ?>

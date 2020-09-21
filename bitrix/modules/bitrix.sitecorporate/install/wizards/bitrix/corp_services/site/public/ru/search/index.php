@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("ÐŸÐ¾Ð¸ÑÐº");
+$APPLICATION->SetTitle("Ïîèñê");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:search.page",
 	"suggest",
@@ -16,7 +16,7 @@ $APPLICATION->SetTitle("ÐŸÐ¾Ð¸ÑÐº");
 		"PAGE_RESULT_COUNT" => "50",
 		"CACHE_TYPE" => "A",
 		"CACHE_TIME" => "36000000",
-		"PAGER_TITLE" => "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ°",
+		"PAGER_TITLE" => "Ðåçóëüòàòû ïîèñêà",
 		"PAGER_SHOW_ALWAYS" => "Y",
 		"PAGER_TEMPLATE" => "",
 		"AJAX_OPTION_SHADOW" => "Y",

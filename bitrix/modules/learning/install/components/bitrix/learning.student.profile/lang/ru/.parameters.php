@@ -1,3 +1,3 @@
 <?
-$MESS ['LEARNING_TRANSCRIPT_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ c Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°Ð¼Ð¸ ÑÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸";
+$MESS ['LEARNING_TRANSCRIPT_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó c ðåçóëüòàòàìè ñåðòèôèêàöèè";
 ?>

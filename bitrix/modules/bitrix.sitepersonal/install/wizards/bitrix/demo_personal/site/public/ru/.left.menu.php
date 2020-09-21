@@ -1,21 +1,21 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"ÐÐ°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ Ð² Ð±Ð»Ð¾Ð³", 
+		"Íàïèñàòü â áëîã", 
 		SITE_DIR."edit/new/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ð§ÐµÑ€Ð½Ð¾Ð²Ð¸ÐºÐ¸", 
+		"×åðíîâèêè", 
 		SITE_DIR."draft/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ñ„Ð¾Ñ‚Ð¾", 
+		"Çàãðóçèòü ôîòî", 
 		SITE_DIR."photo/0/action/upload/", 
 		Array(), 
 		Array(), 

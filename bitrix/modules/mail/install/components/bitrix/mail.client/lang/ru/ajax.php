@@ -1,9 +1,9 @@
 <?
-$MESS["MAIL_MESSAGE_EMPTY_RCPT"] = "Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÐµÐ¹";
-$MESS["MAIL_MESSAGE_SEND_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ð¸ÑÑŒÐ¼Ð¾";
-$MESS["MAIL_MESSAGE_EMPTY_SENDER"] = "Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ";
-$MESS["MAIL_MESSAGE_BAD_SENDER"] = "ÐÐµÐ´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹Ð¹ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ";
-$MESS['MAIL_CLIENT_ACTIVITY_CREATE_ERROR'] = "ÐŸÑ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð¿Ð¸ÑÑŒÐ¼Ð° Ð² CRM Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
-$MESS['MAIL_CLIENT_ACTIVITY_COMMUNICATIONS_EMPTY_ERROR'] = "Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð´Ð»Ñ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ð¿Ð¸ÑÑŒÐ¼Ð° Ð² CRM";
-$MESS['MAIL_CLIENT_ACTIVITY_PERMISSION_DENIED_ERROR'] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ð¿Ð¸ÑÑŒÐ¼Ð° Ð² CRM";
+$MESS["MAIL_MESSAGE_EMPTY_RCPT"] = "Óêàæèòå ïîëó÷àòåëåé";
+$MESS["MAIL_MESSAGE_SEND_ERROR"] = "Íå óäàëîñü îòïðàâèòü ïèñüìî";
+$MESS["MAIL_MESSAGE_EMPTY_SENDER"] = "Óêàæèòå îòïðàâèòåëÿ";
+$MESS["MAIL_MESSAGE_BAD_SENDER"] = "Íåäîïóñòèìûé îòïðàâèòåëü";
+$MESS['MAIL_CLIENT_ACTIVITY_CREATE_ERROR'] = "Ïðè ñîõðàíåíèè ïèñüìà â CRM ïðîèçîøëà îøèáêà";
+$MESS['MAIL_CLIENT_ACTIVITY_COMMUNICATIONS_EMPTY_ERROR'] = "Óêàæèòå ïîëó÷àòåëåé äëÿ ñîõðàíåíèÿ ïèñüìà â CRM";
+$MESS['MAIL_CLIENT_ACTIVITY_PERMISSION_DENIED_ERROR'] = "Íåäîñòàòî÷íî ïðàâ äëÿ ñîõðàíåíèÿ ïèñüìà â CRM";
 

@@ -1,5 +1,5 @@
 <?
-$MESS["IDEA_COMPONENT"] = "Ð˜Ð´ÐµÐ¸";
-$MESS["IDEA_COMPONENT_DESCRIPTION"] = "ÐšÐ¾Ð¼Ð¿Ð»ÐµÐºÑÐ½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ Ð¸Ð´ÐµÐ¹";
-$MESS ['IDEA'] = "ÐœÐµÐ½ÐµÐ´Ð¶ÐµÑ€ Ð¸Ð´ÐµÐ¹";
+$MESS["IDEA_COMPONENT"] = "Èäåè";
+$MESS["IDEA_COMPONENT_DESCRIPTION"] = "Êîìïëåêñíûé êîìïîíåíò èäåé";
+$MESS ['IDEA'] = "Ìåíåäæåð èäåé";
 ?>

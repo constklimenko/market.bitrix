@@ -1,22 +1,22 @@
 <?
-$MESS ['BLOG_BLOG_BLOG_NO_AVAIBLE_MES'] = "РЎРѕРѕР±С‰РµРЅРёРµ РЅРµ РЅР°Р№РґРµРЅРѕ";
-$MESS ['BLOG_MES_DELETE_POST_CONFIRM'] = "Р’С‹ СѓРІРµСЂРµРЅС‹, С‡С‚Рѕ С…РѕС‚РёС‚Рµ СѓРґР°Р»РёС‚СЊ СЃРѕРѕР±С‰РµРЅРёРµ?";
-$MESS ['BLOG_BLOG_BLOG_EDIT'] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ";
-$MESS ['BLOG_BLOG_BLOG_DELETE'] = "РЈРґР°Р»РёС‚СЊ";
-$MESS ['BLOG_MES_HIDE'] = "РЎРєСЂС‹С‚СЊ";
-$MESS ['IDEA_MES_SHOW'] = "РџРѕРєР°Р·Р°С‚СЊ";
-$MESS ['BLOG_MES_HIDE_POST_CONFIRM'] = "Р’С‹ СѓРІРµСЂРµРЅС‹, С‡С‚Рѕ С…РѕС‚РёС‚Рµ СЃРєСЂС‹С‚СЊ СЌС‚Рѕ СЃРѕРѕР±С‰РµРЅРёРµ?";
-$MESS ['IDEA_MES_SHOW_POST_CONFIRM'] = "Р’С‹ СѓРІРµСЂРµРЅС‹, С‡С‚Рѕ С…РѕС‚РёС‚Рµ РїРѕРєР°Р·Р°С‚СЊ СЌС‚Рѕ СЃРѕРѕР±С‰РµРЅРёРµ?";
+$MESS ['BLOG_BLOG_BLOG_NO_AVAIBLE_MES'] = "Сообщение не найдено";
+$MESS ['BLOG_MES_DELETE_POST_CONFIRM'] = "Вы уверены, что хотите удалить сообщение?";
+$MESS ['BLOG_BLOG_BLOG_EDIT'] = "Редактировать";
+$MESS ['BLOG_BLOG_BLOG_DELETE'] = "Удалить";
+$MESS ['BLOG_MES_HIDE'] = "Скрыть";
+$MESS ['IDEA_MES_SHOW'] = "Показать";
+$MESS ['BLOG_MES_HIDE_POST_CONFIRM'] = "Вы уверены, что хотите скрыть это сообщение?";
+$MESS ['IDEA_MES_SHOW_POST_CONFIRM'] = "Вы уверены, что хотите показать это сообщение?";
 
-$MESS["IDEA_STATUS_NEW"] = "РќРѕРІР°СЏ";
-$MESS["IDEA_STATUS_PROCESSING"] = "Р’ СЂР°Р±РѕС‚Рµ";
-$MESS["IDEA_STATUS_COMPLETED"] = "Р’РЅРµРґСЂРµРЅРѕ";
-$MESS["IDEA_RATING_TITLE"] = "Р РµР№С‚РёРЅРі";
-$MESS["IDEA_INTRODUCED_TITLE"] = "РџСЂРµРґР»РѕР¶РёР»";
+$MESS["IDEA_STATUS_NEW"] = "Новая";
+$MESS["IDEA_STATUS_PROCESSING"] = "В работе";
+$MESS["IDEA_STATUS_COMPLETED"] = "Внедрено";
+$MESS["IDEA_RATING_TITLE"] = "Рейтинг";
+$MESS["IDEA_INTRODUCED_TITLE"] = "Предложил";
 
-$MESS["IDEA_POST_DUPLICATE"] = "Р”СѓР±Р»РёРєР°С‚ РёРґРµРё, РєРѕС‚РѕСЂР°СЏ Р±С‹Р»Р°  <a href='#LINK#'>РїСЂРµРґР»РѕР¶РµРЅР° СЂР°РЅРµРµ</a>";
-$MESS["IDEA_POST_COMMENT_CNT"] = "РљРѕРјРјРµРЅС‚Р°СЂРёРµРІ";
+$MESS["IDEA_POST_DUPLICATE"] = "Дубликат идеи, которая была  <a href='#LINK#'>предложена ранее</a>";
+$MESS["IDEA_POST_COMMENT_CNT"] = "Комментариев";
 
-$MESS["IDEA_POST_SUBSCRIBE"] = "РџРѕРґРїРёСЃР°С‚СЊСЃСЏ";
-$MESS["IDEA_POST_UNSUBSCRIBE"] = "РћС‚РїРёСЃР°С‚СЊСЃСЏ";
+$MESS["IDEA_POST_SUBSCRIBE"] = "Подписаться";
+$MESS["IDEA_POST_UNSUBSCRIBE"] = "Отписаться";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["IDEA_TAG_TITLE"] = "ÐžÐ±Ð»Ð°ÐºÐ¾ Ñ‚ÐµÐ³Ð¾Ð²";
+$MESS["IDEA_TAG_TITLE"] = "Îáëàêî òåãîâ";
 ?>

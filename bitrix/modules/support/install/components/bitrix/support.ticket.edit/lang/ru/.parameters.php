@@ -1,16 +1,16 @@
 <?
-$MESS["SUP_EDIT_DEFAULT_TEMPLATE_PARAM_1_NAME"] = "ID Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SUP_EDIT_DEFAULT_TEMPLATE_PARAM_2_NAME"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¿Ð¸ÑÐºÐ° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¹";
-$MESS["SUP_EDIT_MESSAGES_PER_PAGE"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð½Ð° Ð¾Ð´Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
-$MESS["SUP_DESC_YES"] = "Ð”Ð°";
-$MESS["SUP_DESC_NO"] = "ÐÐµÑ‚";
-$MESS["SUP_SET_PAGE_TITLE"] = "Ð£ÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°Ñ‚ÑŒ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
-$MESS["SUP_SHOW_COUPON_FIELD"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»Ðµ Ð²Ð²Ð¾Ð´Ð° ÐºÑƒÐ¿Ð¾Ð½Ð°";
-$MESS["SUP_MESSAGE_SORT_ORDER"] = "ÐÐ°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð² Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸";
-$MESS["SUP_MESSAGE_MAX_LENGTH"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð´Ð»Ð¸Ð½Ð° Ð½ÐµÑ€Ð°Ð·Ñ€Ñ‹Ð²Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð¾ÐºÐ¸";
-$MESS["SUP_MESSAGE_MAX_LENGTH_TIP"] = "Ð—Ð°Ð´Ð°ÐµÑ‚ÑÑ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð´Ð»Ð¸Ð½Ð° Ñ„Ñ€Ð°Ð·Ñ‹ Ð±ÐµÐ· Ð¿Ñ€Ð¾Ð±ÐµÐ»Ð¾Ð² Ð¸Ð»Ð¸ ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð² Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´Ð° ÑÑ‚Ñ€Ð¾ÐºÐ¸.";
-$MESS["SUP_SORT_ASC"] = "Ð¿Ð¾ Ð²Ð¾Ð·Ñ€Ð°ÑÑ‚Ð°Ð½Ð¸ÑŽ";
-$MESS["SUP_SORT_DESC"] = "Ð¿Ð¾ ÑƒÐ±Ñ‹Ð²Ð°Ð½Ð¸ÑŽ";
+$MESS["SUP_EDIT_DEFAULT_TEMPLATE_PARAM_1_NAME"] = "ID îáðàùåíèÿ";
+$MESS["SUP_EDIT_DEFAULT_TEMPLATE_PARAM_2_NAME"] = "Ñòðàíèöà ñïèñêà îáðàùåíèé";
+$MESS["SUP_EDIT_MESSAGES_PER_PAGE"] = "Êîëè÷åñòâî ñîîáùåíèé íà îäíîé ñòðàíèöå";
+$MESS["SUP_DESC_YES"] = "Äà";
+$MESS["SUP_DESC_NO"] = "Íåò";
+$MESS["SUP_SET_PAGE_TITLE"] = "Óñòàíàâëèâàòü çàãîëîâîê ñòðàíèöû";
+$MESS["SUP_SHOW_COUPON_FIELD"] = "Ïîêàçûâàòü ïîëå ââîäà êóïîíà";
+$MESS["SUP_MESSAGE_SORT_ORDER"] = "Íàïðàâëåíèå äëÿ ñîðòèðîâêè ñîîáùåíèé â îáðàùåíèè";
+$MESS["SUP_MESSAGE_MAX_LENGTH"] = "Ìàêñèìàëüíàÿ äëèíà íåðàçðûâíîé ñòðîêè";
+$MESS["SUP_MESSAGE_MAX_LENGTH_TIP"] = "Çàäàåòñÿ ìàêñèìàëüíàÿ äëèíà ôðàçû áåç ïðîáåëîâ èëè ñèìâîëîâ ïåðåâîäà ñòðîêè.";
+$MESS["SUP_SORT_ASC"] = "ïî âîçðàñòàíèþ";
+$MESS["SUP_SORT_DESC"] = "ïî óáûâàíèþ";
 $MESS["SUP_SORT_FIELD_ID"] = "ID";
-$MESS["SUP_SORT_FIELD_NUMBER"] = "ÐÐ¾Ð¼ÐµÑ€ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["SUP_SORT_FIELD_NUMBER"] = "Íîìåð ñîîáùåíèÿ";
 ?>

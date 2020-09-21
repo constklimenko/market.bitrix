@@ -1,20 +1,20 @@
 <?
-$MESS["BLOG_IMAGE"] = "РР·РѕР±СЂР°Р¶РµРЅРёРµ";
-$MESS["BLOG_DELETE"] = "СѓРґР°Р»РёС‚СЊ";
-$MESS["BLOG_CATEGORY"] = "РўРµРіРё";
-$MESS["BLOG_COMMENTS"] = "РєРѕРјРјРµРЅС‚Р°СЂРёРё";
-$MESS["BLOG_P_IMAGE_UPLOAD"] = "Р—Р°РіСЂСѓР·РєР° РёР·РѕР±СЂР°Р¶РµРЅРёСЏ";
-$MESS["BLOG_P_IMAGE_LINK"] = "Р’СЃС‚Р°РІРёС‚СЊ СЃСЃС‹Р»РєСѓ РЅР° РёР·РѕР±СЂР°Р¶РµРЅРёРµ";
-$MESS["BLOG_P_IMAGES"] = "РР·РѕР±СЂР°Р¶РµРЅРёСЏ:";
-$MESS["BLOG_BLOG_IN_IMAGES_TITLE"] = "РћРїРёСЃР°РЅРёРµ РёР·РѕР±СЂР°Р¶РµРЅРёСЏ";
-$MESS["BLOG_BLOG_BLOG_CATEGORY"] = "РўРµРіРё:";
-$MESS["BLOG_PREVIEW_TITLE"] = "РџСЂРµРґРїСЂРѕСЃРјРѕС‚СЂ СЃРѕРѕР±С‰РµРЅРёСЏ:";
-$MESS["FPF_VIDEO"] = "Р’СЃС‚Р°РІРёС‚СЊ РІРёРґРµРѕ";
-$MESS["BLOG_VIEWS"] = "РџСЂРѕСЃРјРѕС‚СЂРѕРІ";
-$MESS["BPC_VIDEO_P"] = "РџСѓС‚СЊ Рє РІРёРґРµРѕ";
-$MESS["BPC_VIDEO_PATH_EXAMPLE"] = "РќР°РїСЂРёРјРµСЂ: <i>http://www.youtube.com/watch?v=YgmtS4n4ujY</i> <br/> РёР»Рё  <i>www.mysite.com/video/my_video.mp4</i>";
-$MESS["BPC_IMAGE_SIZE_NOTICE"] = "РњР°РєСЃРёРјР°Р»СЊРЅРѕ РґРѕРїСѓСЃС‚РёРјС‹Р№ СЂР°Р·РјРµСЂ Р·Р°РіСЂСѓР¶Р°РµРјРѕР№ РєР°СЂС‚РёРЅРєРё <b>#SIZE#Mb</b>.";
-$MESS["IDEA_DESCRIPTION_TITLE"] = "РћРїРёСЃР°РЅРёРµ РёРґРµРё";
-$MESS["IDEA_TITLE_TITLE"] = "Р—Р°РіРѕР»РѕРІРѕРє";
-$MESS["IDEA_ADD_IDEA_BUTTON_TITLE"] = "РџСЂРµРґР»РѕР¶РёС‚СЊ!";
+$MESS["BLOG_IMAGE"] = "Изображение";
+$MESS["BLOG_DELETE"] = "удалить";
+$MESS["BLOG_CATEGORY"] = "Теги";
+$MESS["BLOG_COMMENTS"] = "комментарии";
+$MESS["BLOG_P_IMAGE_UPLOAD"] = "Загрузка изображения";
+$MESS["BLOG_P_IMAGE_LINK"] = "Вставить ссылку на изображение";
+$MESS["BLOG_P_IMAGES"] = "Изображения:";
+$MESS["BLOG_BLOG_IN_IMAGES_TITLE"] = "Описание изображения";
+$MESS["BLOG_BLOG_BLOG_CATEGORY"] = "Теги:";
+$MESS["BLOG_PREVIEW_TITLE"] = "Предпросмотр сообщения:";
+$MESS["FPF_VIDEO"] = "Вставить видео";
+$MESS["BLOG_VIEWS"] = "Просмотров";
+$MESS["BPC_VIDEO_P"] = "Путь к видео";
+$MESS["BPC_VIDEO_PATH_EXAMPLE"] = "Например: <i>http://www.youtube.com/watch?v=YgmtS4n4ujY</i> <br/> или  <i>www.mysite.com/video/my_video.mp4</i>";
+$MESS["BPC_IMAGE_SIZE_NOTICE"] = "Максимально допустимый размер загружаемой картинки <b>#SIZE#Mb</b>.";
+$MESS["IDEA_DESCRIPTION_TITLE"] = "Описание идеи";
+$MESS["IDEA_TITLE_TITLE"] = "Заголовок";
+$MESS["IDEA_ADD_IDEA_BUTTON_TITLE"] = "Предложить!";
 ?>

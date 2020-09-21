@@ -1,10 +1,10 @@
 <?
-$MESS["IM_MESSENGER_OPEN_CALL"] = "Ð¡Ð¾Ð²ÐµÑ€ÑˆÐ¸Ñ‚ÑŒ Ð·Ð²Ð¾Ð½Ð¾Ðº";
-$MESS["IM_MESSENGER_OPEN_MESSENGER"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ð’ÐµÐ±-Ð¼ÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€";
-$MESS["IM_MESSENGER_OPEN_MESSENGER_CP"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ð‘Ð¸Ð·Ð½ÐµÑ-Ñ‡Ð°Ñ‚";
-$MESS["IM_MESSENGER_OPEN_MESSENGER_2"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ñ‡Ð°Ñ‚ Ð¸ Ð·Ð²Ð¾Ð½ÐºÐ¸";
-$MESS["IM_MESSENGER_OPEN_NOTIFY"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
-$MESS["IM_MESSENGER_OPEN_EMAIL"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ðµ";
-$MESS["IM_MESSENGER_OPEN_LF"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº Ð¶Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ðµ";
-$MESS["IM_MESSENGER_OPEN_NETWORK"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24 Network";
+$MESS["IM_MESSENGER_OPEN_CALL"] = "Ñîâåðøèòü çâîíîê";
+$MESS["IM_MESSENGER_OPEN_MESSENGER"] = "Îòêðûòü Âåá-ìåññåíäæåð";
+$MESS["IM_MESSENGER_OPEN_MESSENGER_CP"] = "Îòêðûòü Áèçíåñ-÷àò";
+$MESS["IM_MESSENGER_OPEN_MESSENGER_2"] = "Îòêðûòü ÷àò è çâîíêè";
+$MESS["IM_MESSENGER_OPEN_NOTIFY"] = "Îòêðûòü óâåäîìëåíèÿ";
+$MESS["IM_MESSENGER_OPEN_EMAIL"] = "Ïåðåéòè ê ýëåêòðîííîé ïî÷òå";
+$MESS["IM_MESSENGER_OPEN_LF"] = "Ïåðåéòè ê æèâîé ëåíòå";
+$MESS["IM_MESSENGER_OPEN_NETWORK"] = "Ïåðåéòè â Áèòðèêñ24 Network";
 ?>

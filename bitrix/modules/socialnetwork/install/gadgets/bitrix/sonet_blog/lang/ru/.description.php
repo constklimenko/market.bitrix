@@ -1,4 +1,4 @@
 <?
-$MESS ['GD_SONET_BLOG_NAME'] = "Ð‘Ð»Ð¾Ð³";
-$MESS ['GD_SONET_BLOG_DESC'] = "Ð‘Ð»Ð¾Ð³/ÐžÑ‚Ñ‡ÐµÑ‚Ñ‹";
+$MESS ['GD_SONET_BLOG_NAME'] = "Áëîã";
+$MESS ['GD_SONET_BLOG_DESC'] = "Áëîã/Îò÷åòû";
 ?>

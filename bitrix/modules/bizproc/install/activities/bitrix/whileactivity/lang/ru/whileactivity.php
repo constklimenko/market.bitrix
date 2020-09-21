@@ -1,6 +1,6 @@
 <?
-$MESS ['BPWA_CONDITION_NOT_SET'] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾ ÑƒÑÐ»Ð¾Ð²Ð¸Ðµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ñ†Ð¸ÐºÐ»Ð°";
-$MESS ['BPWA_NO_CONDITION'] = "Ð£ÑÐ»Ð¾Ð²Ð¸Ðµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
-$MESS ['BPWA_INVALID_CONDITION_TYPE'] = "Ð¢Ð¸Ð¿ ÑƒÑÐ»Ð¾Ð²Ð¸Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
-$MESS ['BPWA_CYCLE_LIMIT'] = "ÐŸÑ€ÐµÐ²Ñ‹ÑˆÐµÐ½ Ð»Ð¸Ð¼Ð¸Ñ‚ Ð¸Ñ‚ÐµÑ€Ð°Ñ†Ð¸Ð¹ Ñ†Ð¸ÐºÐ»Ð°";
+$MESS ['BPWA_CONDITION_NOT_SET'] = "Íå óñòàíîâëåíî óñëîâèå âûïîëíåíèÿ öèêëà";
+$MESS ['BPWA_NO_CONDITION'] = "Óñëîâèå íå íàéäåíî";
+$MESS ['BPWA_INVALID_CONDITION_TYPE'] = "Òèï óñëîâèÿ íå íàéäåí";
+$MESS ['BPWA_CYCLE_LIMIT'] = "Ïðåâûøåí ëèìèò èòåðàöèé öèêëà";
 ?>

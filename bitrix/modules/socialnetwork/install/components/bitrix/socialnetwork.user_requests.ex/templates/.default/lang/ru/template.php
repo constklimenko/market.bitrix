@@ -1,18 +1,18 @@
 <?
-$MESS["SONET_URE_T_DO_SAVE"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ñ€Ð¾Ñ";
-$MESS["SONET_URE_T_REJECT"] = "ÐžÑ‚ÐºÐ°Ð·Ð°Ñ‚ÑŒ";
-$MESS["SONET_URE_T_REJECT_OUT"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ";
-$MESS["SONET_URE_T_CHECK_ALL"] = "ÐžÑ‚Ð¼ÐµÑ‚Ð¸Ñ‚ÑŒ Ð²ÑÐµ/Ð¡Ð½ÑÑ‚ÑŒ Ð¾Ñ‚Ð¼ÐµÑ‚ÐºÑƒ Ñƒ Ð²ÑÐµÑ…";
-$MESS["SONET_URE_T_SUBTITLE_IN"] = "Ð’Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ Ð·Ð°Ð¿Ñ€Ð¾ÑÑ‹";
-$MESS["SONET_URE_T_SUBTITLE_OUT"] = "Ð˜ÑÑ…Ð¾Ð´ÑÑ‰Ð¸Ðµ Ð·Ð°Ð¿Ñ€Ð¾ÑÑ‹";
-$MESS["SONET_URE_T_SENDER"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ";
-$MESS["SONET_URE_T_RECIPIENT"] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ";
-$MESS["SONET_URE_T_MESSAGE_IN"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SONET_URE_T_MESSAGE_OUT"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SONET_URE_T_NO_REQUESTS"] = "ÐÐµÑ‚ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ð¹.";
-$MESS["SONET_URE_T_NO_REQUESTS_DESCR"] = "Ð—Ð´ÐµÑÑŒ Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°ÑŽÑ‚ÑÑ Ð·Ð°Ð¿Ñ€Ð¾ÑÑ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð½Ð° Ð´Ñ€ÑƒÐ¶Ð±Ñƒ Ñ Ð²Ð°Ð¼Ð¸ Ð¸ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ Ð²ÑÑ‚ÑƒÐ¿Ð¸Ñ‚ÑŒ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ.";
-$MESS["SONET_URE_T_NO_REQUESTS_OUT"] = "ÐÐµÑ‚ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ð¹.";
-$MESS["SONET_URE_T_NO_REQUESTS_OUT_DESCR"] = "Ð—Ð´ÐµÑÑŒ Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°ÑŽÑ‚ÑÑ Ð²Ð°ÑˆÐ¸ Ð·Ð°Ð¿Ñ€Ð¾ÑÑ‹ Ð½Ð° Ð´Ñ€ÑƒÐ¶Ð±Ñƒ Ð¸ Ð²ÑÑ‚ÑƒÐ¿Ð»ÐµÐ½Ð¸Ðµ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ.";
-$MESS["SONET_URE_T_INVITE"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ";
-$MESS["SONET_URE_T_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["SONET_URE_T_DO_SAVE"] = "Ïîäòâåðäèòü çàïðîñ";
+$MESS["SONET_URE_T_REJECT"] = "Îòêàçàòü";
+$MESS["SONET_URE_T_REJECT_OUT"] = "Îòìåíèòü ïðèãëàøåíèå";
+$MESS["SONET_URE_T_CHECK_ALL"] = "Îòìåòèòü âñå/Ñíÿòü îòìåòêó ó âñåõ";
+$MESS["SONET_URE_T_SUBTITLE_IN"] = "Âõîäÿùèå çàïðîñû";
+$MESS["SONET_URE_T_SUBTITLE_OUT"] = "Èñõîäÿùèå çàïðîñû";
+$MESS["SONET_URE_T_SENDER"] = "Îòïðàâèòåëü";
+$MESS["SONET_URE_T_RECIPIENT"] = "Ïîëó÷àòåëü";
+$MESS["SONET_URE_T_MESSAGE_IN"] = "Ñîîáùåíèÿ";
+$MESS["SONET_URE_T_MESSAGE_OUT"] = "Ñîîáùåíèÿ";
+$MESS["SONET_URE_T_NO_REQUESTS"] = "Íåò ïðèãëàøåíèé.";
+$MESS["SONET_URE_T_NO_REQUESTS_DESCR"] = "Çäåñü ïîêàçûâàþòñÿ çàïðîñû ïîëüçîâàòåëåé íà äðóæáó ñ âàìè è ïðèãëàøåíèÿ âñòóïèòü â ãðóïïó.";
+$MESS["SONET_URE_T_NO_REQUESTS_OUT"] = "Íåò ïðèãëàøåíèé.";
+$MESS["SONET_URE_T_NO_REQUESTS_OUT_DESCR"] = "Çäåñü ïîêàçûâàþòñÿ âàøè çàïðîñû íà äðóæáó è âñòóïëåíèå â ãðóïïó.";
+$MESS["SONET_URE_T_INVITE"] = "Ïîäòâåðäèòü";
+$MESS["SONET_URE_T_CANCEL"] = "Îòìåíèòü";
 ?>

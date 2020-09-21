@@ -1,11 +1,11 @@
 <?
-$MESS["SONET_UM_GENERAL"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ";
-$MESS["SONET_UM_FRIENDS"] = "Ð”Ñ€ÑƒÐ·ÑŒÑ";
-$MESS["SONET_UM_GROUPS"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_UM_PHOTO"] = "Ð¤Ð¾Ñ‚Ð¾";
-$MESS["SONET_UM_FORUM"] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
-$MESS["SONET_UM_CALENDAR"] = "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ";
-$MESS["SONET_UM_FILES"] = "ÐœÐ¾Ð¹ Ð”Ð¸ÑÐº";
-$MESS["SONET_UM_BLOG"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SONET_UM_TASKS"] = "Ð—Ð°Ð´Ð°Ñ‡Ð¸";
+$MESS["SONET_UM_GENERAL"] = "Ïðîôèëü";
+$MESS["SONET_UM_FRIENDS"] = "Äðóçüÿ";
+$MESS["SONET_UM_GROUPS"] = "Ãðóïïû";
+$MESS["SONET_UM_PHOTO"] = "Ôîòî";
+$MESS["SONET_UM_FORUM"] = "Ôîðóì";
+$MESS["SONET_UM_CALENDAR"] = "Êàëåíäàðü";
+$MESS["SONET_UM_FILES"] = "Ìîé Äèñê";
+$MESS["SONET_UM_BLOG"] = "Ñîîáùåíèÿ";
+$MESS["SONET_UM_TASKS"] = "Çàäà÷è";
 ?>

@@ -1,8 +1,8 @@
 <?
-$MESS["CP_BLF_IBLOCK_TYPE_ID"] = "Ð¢Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
-$MESS["CP_BLF_IBLOCK_ID"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
-$MESS["CP_BLF_SECTION_ID"] = "Ð Ð°Ð·Ð´ÐµÐ»";
-$MESS["CP_BLF_ELEMENT_ID"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚";
-$MESS["CP_BLF_FIELD_ID"] = "ÐŸÐ¾Ð»Ðµ";
-$MESS["CP_BLF_FILE_ID"] = "Ð¤Ð°Ð¹Ð»";
+$MESS["CP_BLF_IBLOCK_TYPE_ID"] = "Òèï èíôîáëîêà";
+$MESS["CP_BLF_IBLOCK_ID"] = "Èíôîáëîê";
+$MESS["CP_BLF_SECTION_ID"] = "Ðàçäåë";
+$MESS["CP_BLF_ELEMENT_ID"] = "Ýëåìåíò";
+$MESS["CP_BLF_FIELD_ID"] = "Ïîëå";
+$MESS["CP_BLF_FILE_ID"] = "Ôàéë";
 ?>

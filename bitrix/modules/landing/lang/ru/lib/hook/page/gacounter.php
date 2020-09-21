@@ -1,11 +1,11 @@
 <?php
 $MESS['LANDING_HOOK_GACOUNTER_USE'] = 'Google Analytics';
 $MESS['LANDING_HOOK_GACOUNTER_COUNTER'] = 'Google Analytics';
-$MESS['LANDING_HOOK_GACOUNTER_PLACEHOLDER'] = 'Р’РІРµРґРёС‚Рµ ID';
-$MESS['LANDING_HOOK_GACOUNTER_SEND_CLICK'] = 'РћС‚РїСЂР°РІР»СЏС‚СЊ РґР°РЅРЅС‹Рµ Рѕ РєР»РёРєР°С… РїРѕ РєРЅРѕРїРєР°Рј Рё СЃСЃС‹Р»РєР°Рј';
-$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE'] = 'РўРёРї РґР°РЅРЅС‹С…';
-$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE_HREF'] = 'РЎСЃС‹Р»РєР°';
-$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE_TEXT'] = 'РўРµРєСЃС‚ СЃСЃС‹Р»РєРё';
-$MESS['LANDING_HOOK_GACOUNTER_SEND_SHOW'] = 'РћС‚РїСЂР°РІР»СЏС‚СЊ РґР°РЅРЅС‹Рµ Рѕ РїСЂРѕСЃРјРѕС‚СЂРµ Р±Р»РѕРєРѕРІ СЃС‚СЂР°РЅРёС†С‹';
-$MESS['LANDING_HOOK_DETAIL_HELP'] = 'РџРѕРґСЂРѕР±РЅРµРµ';
-$MESS['LANDING_HOOK_GACOUNTER_LOCKED'] = '<p>РЎРѕР±РёСЂР°Р№С‚Рµ Рё Р°РЅР°Р»РёР·РёСЂСѓР№С‚Рµ СЃС‚Р°С‚РёСЃС‚РёРєСѓ РїРѕСЃРµС‰Р°РµРјРѕСЃС‚Рё СЃР°Р№С‚Р° СЃ РїРѕРјРѕС‰СЊСЋ Google Analytics. РџРѕРґРєР»СЋС‡РµРЅРёРµ СЃС‡РµС‚С‡РёРєР° РІРѕР·РјРѕР¶РЅРѕ С‚РѕР»СЊРєРѕ РЅР° СЂР°СЃС€РёСЂРµРЅРЅРѕРј С‚Р°СЂРёС„Рµ.</p><p>РСЃРїРѕР»СЊР·СѓР№С‚Рµ Р±РѕР»СЊС€Рµ РІРѕР·РјРѕР¶РЅРѕСЃС‚РµР№ РІ РЅР°СЃС‚СЂРѕР№РєР°С… СЃР°Р№С‚Р°, РїРµСЂРµР№РґСЏ РЅР° РґСЂСѓРіРѕР№ С‚Р°СЂРёС„.</p>';
+$MESS['LANDING_HOOK_GACOUNTER_PLACEHOLDER'] = 'Введите ID';
+$MESS['LANDING_HOOK_GACOUNTER_SEND_CLICK'] = 'Отправлять данные о кликах по кнопкам и ссылкам';
+$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE'] = 'Тип данных';
+$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE_HREF'] = 'Ссылка';
+$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE_TEXT'] = 'Текст ссылки';
+$MESS['LANDING_HOOK_GACOUNTER_SEND_SHOW'] = 'Отправлять данные о просмотре блоков страницы';
+$MESS['LANDING_HOOK_DETAIL_HELP'] = 'Подробнее';
+$MESS['LANDING_HOOK_GACOUNTER_LOCKED'] = '<p>Собирайте и анализируйте статистику посещаемости сайта с помощью Google Analytics. Подключение счетчика возможно только на расширенном тарифе.</p><p>Используйте больше возможностей в настройках сайта, перейдя на другой тариф.</p>';

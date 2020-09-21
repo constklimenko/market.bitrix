@@ -1,7 +1,7 @@
 <?
-$MESS["BLOG_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["IDEA_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¸Ð´ÐµÐ¹ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["IBLOCK_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["IDEA_POST_SUBSCRIBE"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ°Ñ‚ÑŒÑÑ";
-$MESS["IDEA_POST_UNSUBSCRIBE"] = "ÐžÑ‚Ð¿Ð¸ÑÐ°Ñ‚ÑŒÑÑ";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
+$MESS["IDEA_MODULE_NOT_INSTALL"] = "Ìîäóëü èäåé íå óñòàíîâëåí.";
+$MESS["IBLOCK_MODULE_NOT_INSTALL"] = "Ìîäóëü èíôîáëîêîâ íå óñòàíîâëåí.";
+$MESS["IDEA_POST_SUBSCRIBE"] = "Ïîäïèñàòüñÿ";
+$MESS["IDEA_POST_UNSUBSCRIBE"] = "Îòïèñàòüñÿ";
 ?>

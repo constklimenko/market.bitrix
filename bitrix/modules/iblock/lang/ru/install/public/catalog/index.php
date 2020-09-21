@@ -1,3 +1,3 @@
 <?
-$MESS ['IBLOCK_INSTALL_PUBLIC_CATALOG_TITLE'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³";
+$MESS ['IBLOCK_INSTALL_PUBLIC_CATALOG_TITLE'] = "Êàòàëîã";
 ?>

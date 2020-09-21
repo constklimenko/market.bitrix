@@ -1,3 +1,3 @@
 <?
-$MESS ['ADV_NIVO_DESCRIPTION'] = "Ð‘Ð°Ð½Ð½ÐµÑ€ Ð´Ð»Ñ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Nivo Slider";
+$MESS ['ADV_NIVO_DESCRIPTION'] = "Áàííåð äëÿ øàáëîíà Nivo Slider";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS["F_ERR_SESS_FINISH"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°. ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ.";
-$MESS["SONET_FORUM_LOG_TOPIC_TEMPLATE"] = "#AUTHOR_NAME# ÑÐ¾Ð·Ð´Ð°Ð»(Ð°) Ñ‚ÐµÐ¼Ñƒ Ð½Ð° Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ: #TITLE#.";
-$MESS["SONET_FORUM_ACTION_IM_COMMENT"] = "ÐŸÑ€Ð¾ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð» Ð²Ð°ÑˆÑƒ Ñ‚ÐµÐ¼Ñƒ Ñ„Ð¾Ñ€ÑƒÐ¼Ð° \"#title#\"";
+$MESS["F_ERR_SESS_FINISH"] = "Âàøà ñåññèÿ èñòåêëà. Ïîâòîðèòå äåéñòâèå.";
+$MESS["SONET_FORUM_LOG_TOPIC_TEMPLATE"] = "#AUTHOR_NAME# ñîçäàë(à) òåìó íà ôîðóìå: #TITLE#.";
+$MESS["SONET_FORUM_ACTION_IM_COMMENT"] = "Ïðîêîììåíòèðîâàë âàøó òåìó ôîðóìà \"#title#\"";
 ?>

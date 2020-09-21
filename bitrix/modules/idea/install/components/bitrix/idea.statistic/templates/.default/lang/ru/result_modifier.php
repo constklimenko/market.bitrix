@@ -1,4 +1,4 @@
 <?
-$MESS['IDEA_STATISTIC_TOTAL_TITLE'] = 'Ð’ÑÐµÐ³Ð¾ Ð¸Ð´ÐµÐ¹';
-$MESS['IDEA_STATISTIC_NO_STATUS_TITLE'] = 'Ð‘ÐµÐ· ÑÑ‚Ð°Ñ‚ÑƒÑÐ°';
+$MESS['IDEA_STATISTIC_TOTAL_TITLE'] = 'Âñåãî èäåé';
+$MESS['IDEA_STATISTIC_NO_STATUS_TITLE'] = 'Áåç ñòàòóñà';
 ?>

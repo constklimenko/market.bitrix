@@ -1,3 +1,3 @@
 <?
-$MESS ['BPWHA_PD_TEXT'] = "Ð¥ÐµÐ½Ð´Ð»ÐµÑ€";
+$MESS ['BPWHA_PD_TEXT'] = "Õåíäëåð";
 ?>

@@ -1,8 +1,8 @@
 <?
-$MESS ['GD_SONET_USER_GROUPS_ALL_GROUPS'] = "Ð’ÑÐµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['GD_SONET_USER_GROUPS_NO_GROUPS'] = "ÐÐµÑ‚ Ð³Ñ€ÑƒÐ¿Ð¿";
-$MESS ['GD_SONET_USER_GROUPS_GR_UNAVAIL'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð³Ñ€ÑƒÐ¿Ð¿ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½";
-$MESS ['GD_SONET_USER_GROUPS_CREATE_GROUP'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS ['GD_SONET_USER_GROUPS_SEARCH_GROUP'] = "Ð˜ÑÐºÐ°Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['GD_SONET_USER_GROUPS_LOG'] = "ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS ['GD_SONET_USER_GROUPS_ALL_GROUPS'] = "Âñå ãðóïïû";
+$MESS ['GD_SONET_USER_GROUPS_NO_GROUPS'] = "Íåò ãðóïï";
+$MESS ['GD_SONET_USER_GROUPS_GR_UNAVAIL'] = "Ñïèñîê ãðóïï íåäîñòóïåí";
+$MESS ['GD_SONET_USER_GROUPS_CREATE_GROUP'] = "Ñîçäàòü ãðóïïó";
+$MESS ['GD_SONET_USER_GROUPS_SEARCH_GROUP'] = "Èñêàòü ãðóïïû";
+$MESS ['GD_SONET_USER_GROUPS_LOG'] = "Îáíîâëåíèÿ";
 ?>

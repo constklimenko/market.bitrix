@@ -1,3 +1,3 @@
 <?php
-$MESS['SALE_HPS_ALFABANK_PAYMENT'] = 'Ð’Ñ‹ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÑ‡ÐµÑ‚Ð° Ð² ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ ÐÐ›Ð‘Ðž';
-$MESS['SALE_HPS_ALFABANK_SEND'] = 'Ð’Ñ‹ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ';
+$MESS['SALE_HPS_ALFABANK_PAYMENT'] = 'Âûñòàâëåíèå ñ÷åòà â ñèñòåìå ÀËÁÎ';
+$MESS['SALE_HPS_ALFABANK_SEND'] = 'Âûñòàâèòü';

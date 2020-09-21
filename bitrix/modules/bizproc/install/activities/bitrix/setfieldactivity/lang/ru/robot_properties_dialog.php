@@ -1,7 +1,7 @@
 <?
-$MESS["BIZPROC_AUTOMATION_SFA_FIELDS_LIST"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»Ðµ";
-$MESS["BIZPROC_AUTOMATION_SFA_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
-$MESS["BIZPROC_AUTOMATION_SFA_NOT_SELECTED"] = "Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð¾";
-$MESS["BIZPROC_AUTOMATION_SFA_MODIFIED_BY"] = "Ð˜Ð·Ð¼ÐµÐ½ÑÑ‚ÑŒ Ð¾Ñ‚ Ð¸Ð¼ÐµÐ½Ð¸";
-$MESS["BIZPROC_AUTOMATION_SFA_CLONE"] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["BIZPROC_AUTOMATION_SFA_FIELDS_LIST"] = "Âûáðàòü ïîëå";
+$MESS["BIZPROC_AUTOMATION_SFA_DELETE"] = "Óäàëèòü";
+$MESS["BIZPROC_AUTOMATION_SFA_NOT_SELECTED"] = "íå âûáðàíî";
+$MESS["BIZPROC_AUTOMATION_SFA_MODIFIED_BY"] = "Èçìåíÿòü îò èìåíè";
+$MESS["BIZPROC_AUTOMATION_SFA_CLONE"] = "äîáàâèòü";
 ?>

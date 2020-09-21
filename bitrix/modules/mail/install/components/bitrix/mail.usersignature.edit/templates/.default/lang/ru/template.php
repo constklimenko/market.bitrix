@@ -1,2 +1,2 @@
 <?php
-$MESS["MAIL_SIGNATURE_UPDATE_SUCCESS"] = "РџРѕРґРїРёСЃСЊ РѕР±РЅРѕРІР»РµРЅР°";
+$MESS["MAIL_SIGNATURE_UPDATE_SUCCESS"] = "Подпись обновлена";

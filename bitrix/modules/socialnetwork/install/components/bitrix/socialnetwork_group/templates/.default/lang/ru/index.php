@@ -1,3 +1,3 @@
 <?
-$MESS ['MY_GROUPS_PAGE_TITLE'] = "ÐœÐ¾Ð¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS ['MY_GROUPS_PAGE_TITLE'] = "Ìîè ãðóïïû";
 ?>

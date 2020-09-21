@@ -1,3 +1,3 @@
 <?
-$MESS["RSS_TITLE"] = "Ð˜Ð´ÐµÐ¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ #USER_NAME#";
+$MESS["RSS_TITLE"] = "Èäåè ïîëüçîâàòåëÿ #USER_NAME#";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS["IM_FULLSCREEN_TITLE"] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ñ‡Ð°Ñ‚";
-$MESS["IM_FULLSCREEN_TITLE_2"] = "Ð§Ð°Ñ‚ Ð¸ Ð·Ð²Ð¾Ð½ÐºÐ¸";
+$MESS["IM_FULLSCREEN_TITLE"] = "Áèçíåñ-÷àò";
+$MESS["IM_FULLSCREEN_TITLE_2"] = "×àò è çâîíêè";
 ?>

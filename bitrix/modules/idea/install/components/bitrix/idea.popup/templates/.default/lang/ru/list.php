@@ -1,5 +1,5 @@
 <?
-$MESS["IDEA_PATH_IDEA_INDEX"] = "Ð•Ñ‰Ðµ";
-$MESS["IDEA_INPUT_TITLE_IDEA"] = "Ð’Ð°Ñˆ Ð¾Ñ‚Ð·Ñ‹Ð²...";
-$MESS["IDEA_POPUP_CATEGORY_ALL"] = "Ð’ÑÐµ";
+$MESS["IDEA_PATH_IDEA_INDEX"] = "Åùå";
+$MESS["IDEA_INPUT_TITLE_IDEA"] = "Âàø îòçûâ...";
+$MESS["IDEA_POPUP_CATEGORY_ALL"] = "Âñå";
 ?>

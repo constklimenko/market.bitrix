@@ -1,7 +1,7 @@
 <?
 define("NEED_AUTH",true);
 
-$arAuthResult["MESSAGE"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ñ„Ð°Ð¹Ð»Ñƒ Ð·Ð°ÐºÑ€Ñ‹Ñ‚";
+$arAuthResult["MESSAGE"] = "Äîñòóï ê ôàéëó çàêðûò";
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_before.php");
 
 $FILE_PERM = $APPLICATION->GetFileAccessPermission($_REQUEST["DIR"]."/files/".$_REQUEST["fname"], $USER->GetUserGroupArray());

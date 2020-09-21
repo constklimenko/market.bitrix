@@ -1,11 +1,11 @@
 <?
-$MESS["LISTS_LCP_TEMPLATE_DESCRIPTION_PAGE"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹ Ð´Ð»Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸";
-$MESS["LISTS_LCP_TEMPLATE_TITLE_SYSTEM_PROCESSES"] = "Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð½Ñ‹Ðµ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS["LISTS_LCP_TEMPLATE_TITLE_USER_PROCESSES"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ðµ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS["LISTS_LCP_TEMPLATE_BUTTON_INSTALL"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
-$MESS["LISTS_LCP_TEMPLATE_TRANSITION_PROCESSES"] = "ÐŸÑ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS["LISTS_LCP_TEMPLATE_STATUS_ACTION_SUCCESS"] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾";
-$MESS["LISTS_LCP_TEMPLATE_STATUS_ACTION_ERROR"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
-$MESS["LISTS_LCP_TEMPLATE_PROCESS_INSTALLED"] = " (Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½)";
-$MESS["LISTS_LCP_TEMPLATE_DESCRIPTION_PAGE_ALL_INSTALL"] = "Ð£ Ð²Ð°Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ñ‹ Ð²ÑÐµ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ðµ Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹.";
+$MESS["LISTS_LCP_TEMPLATE_DESCRIPTION_PAGE"] = "Âûáåðèòå ïðîöåññû äëÿ óñòàíîâêè";
+$MESS["LISTS_LCP_TEMPLATE_TITLE_SYSTEM_PROCESSES"] = "Ñèñòåìíûå ïðîöåññû";
+$MESS["LISTS_LCP_TEMPLATE_TITLE_USER_PROCESSES"] = "Ïîëüçîâàòåëüñêèå ïðîöåññû";
+$MESS["LISTS_LCP_TEMPLATE_BUTTON_INSTALL"] = "Óñòàíîâèòü";
+$MESS["LISTS_LCP_TEMPLATE_TRANSITION_PROCESSES"] = "Ïðîöåññû";
+$MESS["LISTS_LCP_TEMPLATE_STATUS_ACTION_SUCCESS"] = "Óñïåøíî";
+$MESS["LISTS_LCP_TEMPLATE_STATUS_ACTION_ERROR"] = "Ïðîèçîøëà îøèáêà";
+$MESS["LISTS_LCP_TEMPLATE_PROCESS_INSTALLED"] = " (Óñòàíîâëåí)";
+$MESS["LISTS_LCP_TEMPLATE_DESCRIPTION_PAGE_ALL_INSTALL"] = "Ó âàñ óñòàíîâëåíû âñå äîñòóïíûå Áèçíåñ-ïðîöåññû.";
 ?>

@@ -1,5 +1,5 @@
 <?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die();?><?
-// Ð¤Ð°Ð¹Ð» Ð¿Ñ€Ð¸Ð½Ð¸Ð¼Ð°ÐµÑ‚ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹, Ð¿ÐµÑ€ÐµÐ´Ð°Ð½Ð½Ñ‹Ðµ Ð¼ÐµÑ‚Ð¾Ð´Ð¾Ð¼ GET Ð¸ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð² Ñ€ÐµÐ¶Ð¸Ð¼Ðµ PAYMENT
+// Ôàéë ïðèíèìàåò ïàðàìåòðû, ïåðåäàííûå ìåòîäîì GET è òîëüêî â ðåæèìå PAYMENT
 if($mode == "PAYMENT")
 {
 	if(IntVal($issuer_id)>0)
@@ -24,14 +24,14 @@ if($mode == "PAYMENT")
 		if($bCorrectPayment)
 		{
 			$strPS_STATUS_DESCRIPTION = "";
-			$strPS_STATUS_DESCRIPTION .= "Ð½Ð¾Ð¼ÐµÑ€ ÑÑ‡ÐµÑ‚Ð° - ".$invoice."; ";
-			$strPS_STATUS_DESCRIPTION .= "Ð½Ð¾Ð¼ÐµÑ€ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° - ".$payment_id."; ";
-			$strPS_STATUS_DESCRIPTION .= "Ð´Ð°Ñ‚Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° - ".$date."";
-			$strPS_STATUS_DESCRIPTION .= "ÐºÐ¾Ð´ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° - ".$confirmed."";
+			$strPS_STATUS_DESCRIPTION .= "íîìåð ñ÷åòà - ".$invoice."; ";
+			$strPS_STATUS_DESCRIPTION .= "íîìåð ïëàòåæà - ".$payment_id."; ";
+			$strPS_STATUS_DESCRIPTION .= "äàòà ïëàòåæà - ".$date."";
+			$strPS_STATUS_DESCRIPTION .= "êîä ïîäòâåðæäåíèÿ ïëàòåæà - ".$confirmed."";
 
 			$strPS_STATUS_MESSAGE = "";
 			if (isset($payer) && strlen($payer)>0)
-				$strPS_STATUS_MESSAGE .= "e-mail Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ - ".$payer."; ";
+				$strPS_STATUS_MESSAGE .= "e-mail ïîêóïàòåëÿ - ".$payer."; ";
 
 			$arFields = array(
 					"PS_STATUS" => "Y",
@@ -57,8 +57,8 @@ if($mode == "PAYMENT")
 		}
 	}
 	else 
-		echo "ÐšÐ¾Ð´ Ð·Ð°ÐºÐ°Ð·Ð° Ð½Ðµ Ð·Ð°Ð´Ð°Ð½";
+		echo "Êîä çàêàçà íå çàäàí";
 }
 else
-	echo "Ð’Ð¸Ð´ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸ Ð½Ðµ PAYMENT";
+	echo "Âèä îïåðàöèè íå PAYMENT";
 ?>

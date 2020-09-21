@@ -1,8 +1,8 @@
 <?
-$MESS["IDEA_ADD_IDEA_TITLE"] = "ÐÐ¾Ð²Ð°Ñ Ð¸Ð´ÐµÑ";
-$MESS["IDEA_ADD_IDEA_CATEGORY_TITLE"] = "ÐÐ¾Ð²Ð°Ñ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ";
+$MESS["IDEA_ADD_IDEA_TITLE"] = "Íîâàÿ èäåÿ";
+$MESS["IDEA_ADD_IDEA_CATEGORY_TITLE"] = "Íîâàÿ êàòåãîðèÿ";
 
-$MESS["IDEA_MENU_TITLE"] = "Ð•Ñ‰Ðµ";
-$MESS["IDEA_MY_IDEA_TITLE"] = "ÐœÐ¾Ð¸ Ð¸Ð´ÐµÐ¸";
-$MESS["IDEA_MY_SUBSCRIBE_TITLE"] = "ÐœÐ¾Ð¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS["IDEA_MENU_TITLE"] = "Åùå";
+$MESS["IDEA_MY_IDEA_TITLE"] = "Ìîè èäåè";
+$MESS["IDEA_MY_SUBSCRIBE_TITLE"] = "Ìîè ïîäïèñêè";
 ?>

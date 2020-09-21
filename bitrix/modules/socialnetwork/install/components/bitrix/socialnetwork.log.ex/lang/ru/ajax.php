@@ -1,11 +1,11 @@
 <?
-$MESS["SUBSCRIBE_TRANSPORT_NONE"] = "ÐÐµ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÑÑ‚ÑŒ";
-$MESS["SUBSCRIBE_TRANSPORT_MAIL"] = "Ð£Ð²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð¾ e-mail";
-$MESS["SUBSCRIBE_TRANSPORT_XMPP"] = "ÐœÐ³Ð½Ð¾Ð²ÐµÐ½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
-$MESS["SUBSCRIBE_TRANSPORT_DIGEST"] = "Ð•Ð¶ÐµÐ´Ð½ÐµÐ²Ð½Ñ‹Ð¹ Ð´Ð°Ð¹Ð´Ð¶ÐµÑÑ‚";
-$MESS["SUBSCRIBE_TRANSPORT_DIGEST_WEEK"] = "Ð•Ð¶ÐµÐ½ÐµÐ´ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð´Ð°Ð¹Ð´Ð¶ÐµÑÑ‚";
-$MESS["SUBSCRIBE_CB_ALL"] = "Ð’ÑÐµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ ÑÑ‚Ð¾Ð³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
-$MESS["SUBSCRIBE_CB_ALL_1"] = "Ð°Ð²Ñ‚Ð¾Ñ€ #TITLE#";
-$MESS["SUBSCRIBE_CB_ALL_2"] = "Ð’ÑÐµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° #TITLE#";
-$MESS["SONET_LOG_EXTRANET_SUFFIX"] = " (ÑÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚)";
+$MESS["SUBSCRIBE_TRANSPORT_NONE"] = "Íå óâåäîìëÿòü";
+$MESS["SUBSCRIBE_TRANSPORT_MAIL"] = "Óâåäîìëåíèå ïî e-mail";
+$MESS["SUBSCRIBE_TRANSPORT_XMPP"] = "Ìãíîâåííîå ñîîáùåíèå";
+$MESS["SUBSCRIBE_TRANSPORT_DIGEST"] = "Åæåäíåâíûé äàéäæåñò";
+$MESS["SUBSCRIBE_TRANSPORT_DIGEST_WEEK"] = "Åæåíåäåëüíûé äàéäæåñò";
+$MESS["SUBSCRIBE_CB_ALL"] = "Âñå ñîáûòèÿ ýòîãî ïîëüçîâàòåëÿ";
+$MESS["SUBSCRIBE_CB_ALL_1"] = "àâòîð #TITLE#";
+$MESS["SUBSCRIBE_CB_ALL_2"] = "Âñå ñîáûòèÿ àâòîðà #TITLE#";
+$MESS["SONET_LOG_EXTRANET_SUFFIX"] = " (ýêñòðàíåò)";
 ?>

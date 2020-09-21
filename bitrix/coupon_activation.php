@@ -2,13 +2,8 @@
 define("UPDATE_SYSTEM_VERSION", "9.0.2");
 error_reporting(E_ALL & ~E_NOTICE);
 
-include_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/lib/loader.php");
-$application = \Bitrix\Main\HttpApplication::getInstance();
-$application->initializeBasicKernel();
-
 require_once($_SERVER['DOCUMENT_ROOT']."/bitrix/php_interface/dbconn.php");
 require_once($_SERVER['DOCUMENT_ROOT']."/bitrix/modules/main/classes/".$DBType."/database.php");
-require_once($_SERVER['DOCUMENT_ROOT']."/bitrix/modules/main/tools.php");
 
 if ($_REQUEST['lang'] == 'ru')
 	define("LANGUAGE_ID", 'ru');
@@ -30,8 +25,6 @@ if (LANGUAGE_ID == 'ru')
 	$MESS['ERROR_INVALID_COUPON'] = 'Лицензионный ключ / купон не корректен';
 	$MESS['ERROR_EMPTY_COUPON'] = 'Лицензионный ключ / купон не указан';
 	$MESS['SUCCESS_RECOVER'] = "Работоспособность сайта восстановлена";
-	$MESS['ERROR_NOT_WRITABLE'] = "Ядро продукта не доступно на запись";
-	$MESS['ERROR_NOT_FOPEN'] = "Не удалось открыть файл на запись";
 }
 else
 {
@@ -47,8 +40,6 @@ else
 	$MESS['ERROR_INVALID_COUPON'] = 'License Key / Coupon is incorrect';
 	$MESS['ERROR_EMPTY_COUPON'] = 'License Key / Coupon is not specified';
 	$MESS['SUCCESS_RECOVER'] = "Site restore completed";
-	$MESS['ERROR_NOT_WRITABLE'] = "Folder is not writable";
-	$MESS['ERROR_NOT_FOPEN'] = "File open fails";
 }
 
 $DB = new CDatabase;
@@ -116,9 +107,6 @@ function UpdateGetHTTPPage($requestDataAdd, &$errorMessage)
 	$serverPort = 80;
 
 	$proxyAddr = UpdateGetOption("update_site_proxy_addr", "");
-	$proxyPort = 0;
-	$proxyUserName = "";
-	$proxyPassword = "";
 	if (strlen($proxyAddr) > 0)
 	{
 		$proxyPort = intval(UpdateGetOption("update_site_proxy_port", ""));
@@ -162,8 +150,6 @@ function UpdateGetHTTPPage($requestDataAdd, &$errorMessage)
 			"&stable=".urlencode(UpdateGetOption("stable_versions_only", "Y")).
 			"&CANGZIP=".urlencode(function_exists("gzcompress") ? "Y" : "N").
 			"&SUPD_STS=".urlencode("RA").
-			"&SUPD_SRS=".urlencode("RU").
-			"&SUPD_CMP=".urlencode("N").
 			"&SUPD_DBS=".urlencode($DB->type).
 			"&XE=".urlencode(($DB->XE) ? "Y" : "N").
 			"&SUPD_URS=".urlencode($usrCnt).
@@ -291,22 +277,9 @@ function UpdateActivateCoupon($coupon, &$errorMessage)
 
 	UpdateSetOption('admin_passwordh', $arContent["V1"]);
 
-	if (is_writable($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/admin"))
-	{
-		if ($fp = fopen($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/admin/define.php", 'w'))
-		{
-			fwrite($fp, "<"."?Define(\"TEMPORARY_CACHE\", \"".$arContent["V2"]."\");?".">");
-			fclose($fp);
-		}
-		else
-		{
-			$errorMessage .= $MESS['ERROR_NOT_FOPEN'].". ";
-		}
-	}
-	else
-	{
-		$errorMessage .= $MESS['ERROR_NOT_WRITABLE'].". ";
-	}
+	$fp = fopen($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/admin/define.php", 'w');
+	fwrite($fp, "<"."?Define(\"TEMPORARY_CACHE\", \"".$arContent["V2"]."\");?".">");
+	fclose($fp);
 
 	if (isset($arContent["DATE_TO_SOURCE"]))
 		UpdateSetOption("~support_finish_date", $arContent["DATE_TO_SOURCE"]);
@@ -314,28 +287,11 @@ function UpdateActivateCoupon($coupon, &$errorMessage)
 		UpdateSetOption("PARAM_MAX_SITES", intval($arContent["MAX_SITES"]));
 	if (isset($arContent["MAX_USERS"]))
 		UpdateSetOption("PARAM_MAX_USERS", intval($arContent["MAX_USERS"]));
-    if (isset($arContent["MAX_USERS_STRING"]))
-        UpdateSetOption("~PARAM_MAX_USERS", $arContent["MAX_USERS_STRING"]);
-	if (isset($arContent["DATE_TO_SOURCE_STRING"]))
-		UpdateSetOption("~PARAM_FINISH_DATE", $arContent["DATE_TO_SOURCE_STRING"]);
 	if (isset($arContent["ISLC"]))
 	{
-		if (is_writable($_SERVER['DOCUMENT_ROOT']."/bitrix"))
-		{
-			if ($fp = fopen($_SERVER['DOCUMENT_ROOT']."/bitrix/license_key.php", "wb"))
-			{
-				fputs($fp, '<'.'?$LICENSE_KEY = "'.EscapePHPString($coupon).'";?'.'>');
-				fclose($fp);
-			}
-			else
-			{
-				$errorMessage .= $MESS['ERROR_NOT_FOPEN'].". ";
-			}
-		}
-		else
-		{
-			$errorMessage .= $MESS['ERROR_NOT_WRITABLE'].". ";
-		}
+		$fp = fopen($_SERVER['DOCUMENT_ROOT']."/bitrix/license_key.php", "wb");
+		fputs($fp, '<'.'?$LICENSE_KEY = "'.htmlspecialchars($coupon).'";?'.'>');
+		fclose($fp);
 	}
 
 	return true;
@@ -345,11 +301,11 @@ function UpdateIsAdmin($login, $password)
 {
 	global $DB;
 
-	if (!is_string($login) || $login == '' || !is_string($password) || $password == '')
+	if (strlen($login) <= 0 || strlen($password) <= 0)
 		return false;
 
 	$dbUser = $DB->Query(
-		"SELECT U.ID, U.PASSWORD, U.LOGIN_ATTEMPTS ".
+		"SELECT U.ID, U.PASSWORD ".
 		"FROM b_user U ".
 		"	INNER JOIN b_user_group UG ON (UG.USER_ID = U.ID) ".
 		"WHERE U.LOGIN = '".$DB->ForSql($login)."' ".
@@ -361,27 +317,20 @@ function UpdateIsAdmin($login, $password)
 	);
 	if ($arUser = $dbUser->Fetch())
 	{
-		if(intval($arUser["LOGIN_ATTEMPTS"]) <= 5)
+		if (strlen($arUser["PASSWORD"]) > 32)
 		{
-			if (strlen($arUser["PASSWORD"]) > 32)
-			{
-				$salt = substr($arUser["PASSWORD"], 0, strlen($arUser["PASSWORD"]) - 32);
-				$db_password = substr($arUser["PASSWORD"], -32);
-			}
-			else
-			{
-				$salt = "";
-				$db_password = $arUser["PASSWORD"];
-			}
-
-			$user_password =  md5($salt.$password);
-
-			if($db_password === $user_password)
-			{
-				return true;
-			}
+			$salt = substr($arUser["PASSWORD"], 0, strlen($arUser["PASSWORD"]) - 32);
+			$db_password = substr($arUser["PASSWORD"], -32);
 		}
-		$DB->Query("UPDATE b_user SET LOGIN_ATTEMPTS = LOGIN_ATTEMPTS+1, TIMESTAMP_X = TIMESTAMP_X WHERE ID = ".intval($arUser["ID"]));
+		else
+		{
+			$salt = "";
+			$db_password = $arUser["PASSWORD"];
+		}
+
+		$user_password =  md5($salt.$password);
+
+		return ($db_password === $user_password);
 	}
 
 	return false;
@@ -395,7 +344,7 @@ header("Content-Type: text/html; charset=windows-1251");
 
 if ($_SERVER["REQUEST_METHOD"] == "POST")
 {
-	if (is_string($_POST["autoActivateCoupon"]) && $_POST["autoActivateCoupon"] <> '')
+	if (strlen($_POST["autoActivateCoupon"]) > 0)
 	{
 		$autoActivateCoupon = $_POST["autoActivateCoupon"];
 		if (preg_match("#^[A-Z0-9]{3}-[A-Z0-9]{10}-[A-Z0-9]{10}$#i", $autoActivateCoupon))
@@ -412,9 +361,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
 		die();
 	}
 
-	if (is_string($_POST["reincarnate"]) && $_POST["reincarnate"] <> '')
+	if (strlen($_POST["reincarnate"]) > 0)
 	{
-		if (!is_string($_POST["coupon"]) || $_POST["coupon"] == '')
+		if (strlen($_POST["coupon"]) <= 0)
 		{
 			$errorMessage .= $MESS['ERROR_EMPTY_COUPON'].". ";
 		}
@@ -465,7 +414,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
 
 	?>
 	<form method="POST" action="/bitrix/coupon_activation.php">
-	<input type="hidden" name="lang" value="<?= htmlspecialcharsbx(LANGUAGE_ID) ?>" />
+	<input type="hidden" name="lang" value="<?= htmlspecialchars(LANGUAGE_ID) ?>" />
 
 	<table width="100%" cellspacing="0" cellpadding="0" border="0">
 		<tr>
@@ -505,7 +454,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
 										<table cellpadding="0" cellspacing="0" border="0" class="edit-table">
 											<tr>
 												<td width="40%" align="right"><?= $MESS['LOGIN_PROMT'] ?>:</td>
-												<td><input type="text" name="login" value="<?= htmlspecialcharsbx(strval($_POST["login"])) ?>" size="40"></td>
+												<td><input type="text" name="login" value="<?= htmlspecialchars($_POST["login"]) ?>" size="40"></td>
 											</tr>
 											<tr>
 												<td width="40%" align="right"><?= $MESS['PASSWORD_PROMT'] ?>:</td>
@@ -513,7 +462,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
 											</tr>
 											<tr>
 												<td width="40%" align="right"><?= $MESS['COUPON_PROMT'] ?>:</td>
-												<td><input type="text" name="coupon" value="<?= htmlspecialcharsbx(strval($_POST["coupon"])) ?>" size="40"></td>
+												<td><input type="text" name="coupon" value="<?= htmlspecialchars($_POST["coupon"]) ?>" size="40"></td>
 											</tr>
 										</table>
 										</div></div>

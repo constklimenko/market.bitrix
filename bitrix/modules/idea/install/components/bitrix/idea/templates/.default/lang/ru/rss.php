@@ -1,3 +1,3 @@
 <?
-$MESS ['RSS_TITLE'] = "Ð˜Ð´ÐµÐ¸";
+$MESS ['RSS_TITLE'] = "Èäåè";
 ?>

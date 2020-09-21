@@ -1,4 +1,4 @@
 <?
-$MESS ['BPIEBA_DESCR_DESCR'] = "Ð’ÐµÑ‚ÐºÐ° ÑƒÑÐ»Ð¾Ð²Ð¸Ñ";
-$MESS ['BPIEBA_DESCR_NAME'] = "Ð£ÑÐ»Ð¾Ð²Ð¸Ðµ";
+$MESS ['BPIEBA_DESCR_DESCR'] = "Âåòêà óñëîâèÿ";
+$MESS ['BPIEBA_DESCR_NAME'] = "Óñëîâèå";
 ?>

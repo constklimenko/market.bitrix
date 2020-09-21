@@ -1,3 +1,3 @@
 <?
-$MESS['WIZDEMO_FORM_FEEDBACK_MENU'] = 'ÐžÐ±Ñ€Ð°Ñ‚Ð½Ð°Ñ ÑÐ²ÑÐ·ÑŒ';
+$MESS['WIZDEMO_FORM_FEEDBACK_MENU'] = 'Îáðàòíàÿ ñâÿçü';
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_CASHBOX_SELL_RETURN_NAME"] = "Bargeldlose RÃ¼ckerstattung";
+$MESS["SALE_CASHBOX_SELL_RETURN_NAME"] = "Bargeldlose Rückerstattung";
 ?>

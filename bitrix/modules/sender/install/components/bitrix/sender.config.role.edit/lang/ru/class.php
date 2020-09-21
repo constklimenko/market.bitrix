@@ -1,4 +1,4 @@
 <?php
-$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TITLE_EDIT"]="Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð¾Ð»Ð¸";
-$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TITLE_ADD"]="Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ñ€Ð¾Ð»Ð¸";
-$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TEMPLATE_NAME"]="Ð‘ÐµÐ· Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ñ";
+$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TITLE_EDIT"]="Ðåäàêòèðîâàíèå ðîëè";
+$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TITLE_ADD"]="Ñîçäàíèå ðîëè";
+$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TEMPLATE_NAME"]="Áåç íàçâàíèÿ";

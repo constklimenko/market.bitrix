@@ -1,4 +1,4 @@
 <?
-$MESS ['LEARNING_CHAPTER_CONTENTS'] = "Ð¡Ð¾Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ Ð³Ð»Ð°Ð²Ñ‹";
-$MESS ['LEARNING_PASS_SELF_TEST'] = "ÐŸÑ€Ð¾Ð¹Ñ‚Ð¸ Ñ‚ÐµÑÑ‚ Ð´Ð»Ñ ÑÐ°Ð¼Ð¾Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸";
+$MESS ['LEARNING_CHAPTER_CONTENTS'] = "Ñîäåðæàíèå ãëàâû";
+$MESS ['LEARNING_PASS_SELF_TEST'] = "Ïðîéòè òåñò äëÿ ñàìîïðîâåðêè";
 ?>

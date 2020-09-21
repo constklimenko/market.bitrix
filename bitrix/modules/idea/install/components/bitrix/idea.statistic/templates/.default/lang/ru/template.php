@@ -1,3 +1,3 @@
 <?
-$MESS['IDEA_STATISTIC_TITLE'] = 'Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ°';
+$MESS['IDEA_STATISTIC_TITLE'] = 'Ñòàòèñòèêà';
 ?>

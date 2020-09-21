@@ -1,3 +1,3 @@
 <?php
-$MESS["BP_SCR_ED_CMP_TITLE"] = "Ð¡Ñ†ÐµÐ½Ð°Ñ€Ð¸Ð¹";
-$MESS["BP_SCR_ED_CMP_SCRIPT_NOT_FOUND"] = "Ð¡Ñ†ÐµÐ½Ð°Ñ€Ð¸Ð¹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["BP_SCR_ED_CMP_TITLE"] = "Ñöåíàðèé";
+$MESS["BP_SCR_ED_CMP_SCRIPT_NOT_FOUND"] = "Ñöåíàðèé íå íàéäåí";

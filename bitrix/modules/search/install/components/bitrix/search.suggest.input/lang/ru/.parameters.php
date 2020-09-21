@@ -1,6 +1,6 @@
 <?
-$MESS ['CP_BSSI_NAME'] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
-$MESS ['CP_BSSI_VALUE'] = "Ð¡Ð¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ð¾Ðµ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
-$MESS ['CP_BSSI_INPUT_SIZE'] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
-$MESS ['CP_BSSI_DROPDOWN_SIZE'] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð²Ñ‹Ð¿Ð°Ð´Ð°ÑŽÑ‰ÐµÐ³Ð¾ ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS ['CP_BSSI_NAME'] = "Èìÿ ïîëÿ ââîäà";
+$MESS ['CP_BSSI_VALUE'] = "Ñîäåðæèìîå ïîëÿ ââîäà";
+$MESS ['CP_BSSI_INPUT_SIZE'] = "Ðàçìåð ïîëÿ ââîäà";
+$MESS ['CP_BSSI_DROPDOWN_SIZE'] = "Ðàçìåð âûïàäàþùåãî ñïèñêà";
 ?>

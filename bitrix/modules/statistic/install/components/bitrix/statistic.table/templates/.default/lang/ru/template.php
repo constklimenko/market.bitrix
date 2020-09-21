@@ -2,11 +2,11 @@
 $MESS ['STATT_HITS'] = "Hits";
 $MESS ['STATT_HOSTS'] = "Hosts";
 $MESS ['STATT_VISITORS'] = "Visitors";
-$MESS ['STATT_VIEW_HITS'] = "Ð¥Ð¸Ñ‚Ñ‹";
-$MESS ['STATT_VIEW_TODAY_HITS'] = "Ð¥Ð¸Ñ‚Ñ‹ Ð·Ð° ÑÐµÐ³Ð¾Ð´Ð½ÑÑˆÐ½Ð¸Ð¹ Ð´ÐµÐ½ÑŒ";
-$MESS ['STATT_VIEW_HOSTS'] = "Ð¥Ð¾ÑÑ‚Ñ‹";
-$MESS ['STATT_VIEW_TODAY_HOSTS'] = "Ð¥Ð¾ÑÑ‚Ñ‹ Ð·Ð° ÑÐµÐ³Ð¾Ð´Ð½ÑÑˆÐ½Ð¸Ð¹ Ð´ÐµÐ½ÑŒ";
-$MESS ['STATT_VIEW_GUESTS'] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ð¸ ÑÐ°Ð¹Ñ‚Ð°";
-$MESS ['STATT_VIEW_TODAY_GUESTS'] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ð¸ ÑÐ°Ð¹Ñ‚Ð° Ð·Ð° ÑÐµÐ³Ð¾Ð´Ð½ÑÑˆÐ½Ð¸Ð¹ Ð´ÐµÐ½ÑŒ";
-$MESS ['STATT_VIEW_USERS_ONLINE'] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ð¸ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ Ð² Ð´Ð°Ð½Ð½Ñ‹Ð¹ Ð¼Ð¾Ð¼ÐµÐ½Ñ‚";
+$MESS ['STATT_VIEW_HITS'] = "Õèòû";
+$MESS ['STATT_VIEW_TODAY_HITS'] = "Õèòû çà ñåãîäíÿøíèé äåíü";
+$MESS ['STATT_VIEW_HOSTS'] = "Õîñòû";
+$MESS ['STATT_VIEW_TODAY_HOSTS'] = "Õîñòû çà ñåãîäíÿøíèé äåíü";
+$MESS ['STATT_VIEW_GUESTS'] = "Ïîñåòèòåëè ñàéòà";
+$MESS ['STATT_VIEW_TODAY_GUESTS'] = "Ïîñåòèòåëè ñàéòà çà ñåãîäíÿøíèé äåíü";
+$MESS ['STATT_VIEW_USERS_ONLINE'] = "Ïîñåòèòåëè íà ñàéòå â äàííûé ìîìåíò";
 ?>

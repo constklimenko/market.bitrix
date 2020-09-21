@@ -1,6 +1,6 @@
 <?
-$MESS ['BX_WS_WEBSERVICE_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð²ÐµÐ±-ÑÐµÑ€Ð²Ð¸ÑÐ°";
-$MESS ['BX_WS_WEBSERVICE_CLASS'] = "ÐšÐ¾Ð½Ñ„Ð¸Ð³ÑƒÑ€Ð¸Ñ€ÑƒÑŽÑ‰Ð¸Ð¹ ÐºÐ»Ð°ÑÑ";
-$MESS ['BX_WS_WEBSERVICE_MODULE'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð²ÐµÐ±-ÑÐµÑ€Ð²Ð¸Ñ";
+$MESS ['BX_WS_WEBSERVICE_NAME'] = "Íàçâàíèå âåá-ñåðâèñà";
+$MESS ['BX_WS_WEBSERVICE_CLASS'] = "Êîíôèãóðèðóþùèé êëàññ";
+$MESS ['BX_WS_WEBSERVICE_MODULE'] = "Ìîäóëü âåá-ñåðâèñ";
 
 ?>

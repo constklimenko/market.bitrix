@@ -1,9 +1,9 @@
 <?
-$MESS['LEARNING_LESSON_ID_NAME'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑƒÑ€Ð¾ÐºÐ°";
-$MESS['LEARNING_SELF_TEST_TEMPLATE_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ ÑÐ°Ð¼Ð¾Ñ‚ÐµÑÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸ÐµÐ¼";
-$MESS['LEARNING_PATH_TO_USER_PROFILE'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÐµÐ¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
-$MESS['LEARNING_DESC_YES'] = "Ð”Ð°";
-$MESS['LEARNING_DESC_NO'] = "ÐÐµÑ‚";
-$MESS['LEARNING_CHECK_PERMISSIONS'] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
-$MESS['LEARNING_COURSE_ID'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÑƒÑ€ÑÐ°";
+$MESS['LEARNING_LESSON_ID_NAME'] = "Èäåíòèôèêàòîð óðîêà";
+$MESS['LEARNING_SELF_TEST_TEMPLATE_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ñ ñàìîòåñòèðîâàíèåì";
+$MESS['LEARNING_PATH_TO_USER_PROFILE'] = "URL, âåäóùèé íà ñòðàíèöó ñ ïðîôèëåì ïîëüçîâàòåëÿ";
+$MESS['LEARNING_DESC_YES'] = "Äà";
+$MESS['LEARNING_DESC_NO'] = "Íåò";
+$MESS['LEARNING_CHECK_PERMISSIONS'] = "Ïðîâåðÿòü ïðàâî äîñòóïà";
+$MESS['LEARNING_COURSE_ID'] = "Èäåíòèôèêàòîð êóðñà";
 ?>

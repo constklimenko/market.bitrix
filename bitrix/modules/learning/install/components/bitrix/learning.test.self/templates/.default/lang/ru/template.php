@@ -1,9 +1,9 @@
 <?
-$MESS['LEARNING_QUESTION_S'] = "Ð’Ð¾Ð¿Ñ€Ð¾Ñ";
-$MESS['LEARNING_QUESTION_FROM'] = "Ð¸Ð·";
-$MESS['LEARNING_SELECT_ANSWER'] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¾Ñ‚Ð²ÐµÑ‚";
-$MESS["LEARNING_INPUT_ANSWER"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¾Ñ‚Ð²ÐµÑ‚";
-$MESS['LEARNING_SUBMIT_ANSWER'] = "ÐžÑ‚Ð²ÐµÑ‚Ð¸Ñ‚ÑŒ";
-$MESS['LEARNING_ENABLE_JAVASCRIPT'] = "Ð”Ð»Ñ Ð¿Ñ€Ð¾Ñ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ñ Ñ‚ÐµÑÑ‚Ð° Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð²ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Javascript.";
-$MESS['INCORRECT_QUESTION_MESSAGE'] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS['LEARNING_QUESTION_S'] = "Âîïðîñ";
+$MESS['LEARNING_QUESTION_FROM'] = "èç";
+$MESS['LEARNING_SELECT_ANSWER'] = "Âûáåðèòå îòâåò";
+$MESS["LEARNING_INPUT_ANSWER"] = "Ââåäèòå îòâåò";
+$MESS['LEARNING_SUBMIT_ANSWER'] = "Îòâåòèòü";
+$MESS['LEARNING_ENABLE_JAVASCRIPT'] = "Äëÿ ïðîõîæäåíèÿ òåñòà íåîáõîäèìî âêëþ÷èòü Javascript.";
+$MESS['INCORRECT_QUESTION_MESSAGE'] = "Îøèáêà";
 ?>

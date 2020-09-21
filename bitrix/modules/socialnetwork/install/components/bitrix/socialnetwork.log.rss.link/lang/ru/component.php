@@ -1,6 +1,6 @@
 <?
-$MESS["SONET_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
-$MESS["SONET_LRL_ENTITY_ID_EMPTY"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ¾Ð´ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
-$MESS["SONET_LRL_GROUP_ID_INCORRECT"] = "ÐšÐ¾Ð´ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
-$MESS["SONET_LRL_USER_ID_INCORRECT"] = "ÐšÐ¾Ð´ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí";
+$MESS["SONET_LRL_ENTITY_ID_EMPTY"] = "Íå óêàçàí êîä ñóùíîñòè";
+$MESS["SONET_LRL_GROUP_ID_INCORRECT"] = "Êîä ãðóïïû óêàçàí íåâåðíî";
+$MESS["SONET_LRL_USER_ID_INCORRECT"] = "Êîä ïîëüçîâàòåëÿ óêàçàí íåâåðíî";
 ?>

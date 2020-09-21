@@ -1,7 +1,7 @@
 <?
 if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
 
-$defCountry = "Ð Ð¾ÑÑÐ¸Ñ";
+$defCountry = "Ðîññèÿ";
 $defCity = "c213"; //Moscow
 $url = 'ts='.time();
 
@@ -94,12 +94,12 @@ $arCity = $arCities[$currentCountry];
 $arParameters = Array(
 	"PARAMETERS"=> Array(
 		"CACHE_TIME" => array(
-			"NAME" => "Ð’Ñ€ÐµÐ¼Ñ ÐºÐµÑˆÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ, ÑÐµÐº (0-Ð½Ðµ ÐºÐµÑˆÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ)",
+			"NAME" => "Âðåìÿ êåøèðîâàíèÿ, ñåê (0-íå êåøèðîâàòü)",
 			"TYPE" => "STRING",
 			"DEFAULT" => "3600"
 			),
 		"SHOW_URL" => Array(
-				"NAME" => "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÑÑ‹Ð»ÐºÑƒ Ð½Ð° Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ",
+				"NAME" => "Ïîêàçûâàòü ññûëêó íà ïîäðîáíóþ èíôîðìàöèþ",
 				"TYPE" => "CHECKBOX",
 				"MULTIPLE" => "N",
 				"DEFAULT" => "N",
@@ -107,7 +107,7 @@ $arParameters = Array(
 	),
 	"USER_PARAMETERS"=> Array(
 		"COUNTRY"=>Array(
-			"NAME" => "Ð¡Ñ‚Ñ€Ð°Ð½Ð°",
+			"NAME" => "Ñòðàíà",
 			"TYPE" => "LIST",
 			"MULTIPLE" => "N",
 			"REFRESH" => "Y",
@@ -115,7 +115,7 @@ $arParameters = Array(
 			"VALUES"=>$arCountries,
 		),
 		"CITY"=>Array(
-			"NAME" => "Ð“Ð¾Ñ€Ð¾Ð´",
+			"NAME" => "Ãîðîä",
 			"TYPE" => "LIST",
 			"MULTIPLE" => "N",
 			"DEFAULT" => $defCity,

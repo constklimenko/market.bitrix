@@ -1,4 +1,4 @@
 <?
-$MESS["MAIL_USER_TITLE"] = "ÐŸÐ¾Ñ‡Ñ‚Ð° Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
-$MESS["MAIL_USER_HEADER"] = "Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ#BEGIN#24#END#";
+$MESS["MAIL_USER_TITLE"] = "Ïî÷òà Áèòðèêñ24";
+$MESS["MAIL_USER_HEADER"] = "Áèòðèêñ#BEGIN#24#END#";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ['SEARCH_LABEL'] = "ÐÐ°Ð¹Ñ‚Ð¸:";
+$MESS ['SEARCH_LABEL'] = "Íàéòè:";
 ?>

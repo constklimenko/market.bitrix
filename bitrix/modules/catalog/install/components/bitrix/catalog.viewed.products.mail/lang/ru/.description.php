@@ -1,5 +1,5 @@
 <?
-$MESS["CVPM_DEFAULT_TEMPLATE_NAME"] = "Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹";
-$MESS["CVPM_DEFAULT_TEMPLATE_DESCRIPTION"] = "Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹";
-$MESS["CVPM_NAME"] = "Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS["CVPM_DEFAULT_TEMPLATE_NAME"] = "Ðåêîìåíäóåìûå òîâàðû";
+$MESS["CVPM_DEFAULT_TEMPLATE_DESCRIPTION"] = "Ðåêîìåíäóåìûå òîâàðû";
+$MESS["CVPM_NAME"] = "Ðåêîìåíäóåìûå òîâàðû";
 ?>

@@ -1,20 +1,20 @@
 <?
-$MESS ['ECLFV_EVENT'] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
-$MESS ['ECLFV_EVENT_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS ['ECLFV_EVENT_START'] = "ÐÐ°Ñ‡Ð°Ð»Ð¾";
-$MESS ['ECLFV_EVENT_LOCATION'] = "ÐœÐµÑÑ‚Ð¾ Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ";
-$MESS ['ECLFV_EVENT_ATTENDEES'] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ð»Ð¸ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ";
-$MESS ['ECLFV_EVENT_ATTENDEES_DES'] = "ÐžÑ‚ÐºÐ°Ð·Ð°Ð»Ð¸ÑÑŒ Ð¾Ñ‚ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ñ";
-$MESS ['ECLFV_DESCRIPTION'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS ['ECLFV_INVITE_ACCEPT'] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ";
-$MESS ['ECLFV_INVITE_DECLINE'] = "ÐžÑ‚ÐºÐ°Ð·Ð°Ñ‚ÑŒÑÑ";
-$MESS ['ECLFV_INVITE_ACCEPT2'] = "Ð£Ñ‡Ð°ÑÑ‚Ð²Ð¾Ð²Ð°Ñ‚ÑŒ Ð² ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¸";
-$MESS ['ECLFV_INVITE_DECLINE2'] = "ÐžÑ‚ÐºÐ°Ð·Ð°Ñ‚ÑŒÑÑ Ð¾Ñ‚ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ñ";
-$MESS ['ECLFV_EVENT_ACCEPTED'] = "Ð’Ñ‹ ÑƒÑ‡Ð°ÑÑ‚Ð²ÑƒÐµÑ‚Ðµ Ð² ÑÑ‚Ð¾Ð¼ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¸";
-$MESS ['ECLFV_EVENT_DECLINED'] = "Ð’Ñ‹ Ð½Ðµ ÑƒÑ‡Ð°ÑÑ‚Ð²ÑƒÐµÑ‚Ðµ Ð² ÑÑ‚Ð¾Ð¼ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¸";
+$MESS ['ECLFV_EVENT'] = "Ñîáûòèå";
+$MESS ['ECLFV_EVENT_NAME'] = "Íàçâàíèå ñîáûòèÿ";
+$MESS ['ECLFV_EVENT_START'] = "Íà÷àëî";
+$MESS ['ECLFV_EVENT_LOCATION'] = "Ìåñòî ïðîâåäåíèÿ";
+$MESS ['ECLFV_EVENT_ATTENDEES'] = "Ïîäòâåðäèëè ó÷àñòèå";
+$MESS ['ECLFV_EVENT_ATTENDEES_DES'] = "Îòêàçàëèñü îò ó÷àñòèÿ";
+$MESS ['ECLFV_DESCRIPTION'] = "Îïèñàíèå ñîáûòèÿ";
+$MESS ['ECLFV_INVITE_ACCEPT'] = "Ïîäòâåðäèòü ó÷àñòèå";
+$MESS ['ECLFV_INVITE_DECLINE'] = "Îòêàçàòüñÿ";
+$MESS ['ECLFV_INVITE_ACCEPT2'] = "Ó÷àñòâîâàòü â ñîáûòèè";
+$MESS ['ECLFV_INVITE_DECLINE2'] = "Îòêàçàòüñÿ îò ó÷àñòèÿ";
+$MESS ['ECLFV_EVENT_ACCEPTED'] = "Âû ó÷àñòâóåòå â ýòîì ñîáûòèè";
+$MESS ['ECLFV_EVENT_DECLINED'] = "Âû íå ó÷àñòâóåòå â ýòîì ñîáûòèè";
 $MESS ['ECLFV_CRM'] = "CRM";
-$MESS ['ECLFV_REC_DECLINE'] = "ÐžÑ‚ÐºÐ°Ð·Ð°Ñ‚ÑŒÑÑ Ð¾Ñ‚ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ñ Ð² Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÑÑŽÑ‰ÐµÐ¼ÑÑ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¸?";
-$MESS ['ECLFV_REC_DECLINE_THIS'] = "Ð¢Ð¾Ð»ÑŒÐºÐ¾ Ð² ÑÑ‚Ð¾Ð¼";
-$MESS ['ECLFV_REC_DECLINE_NEXT'] = "Ð’ ÑÑ‚Ð¾Ð¼ Ð¸ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ñ…";
-$MESS ['ECLFV_REC_DECLINE_ALL'] = "Ð’Ð¾ Ð²ÑÐµÑ…";
+$MESS ['ECLFV_REC_DECLINE'] = "Îòêàçàòüñÿ îò ó÷àñòèÿ â ïîâòîðÿþùåìñÿ ñîáûòèè?";
+$MESS ['ECLFV_REC_DECLINE_THIS'] = "Òîëüêî â ýòîì";
+$MESS ['ECLFV_REC_DECLINE_NEXT'] = "Â ýòîì è ñëåäóþùèõ";
+$MESS ['ECLFV_REC_DECLINE_ALL'] = "Âî âñåõ";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ['ADV_BS_DESCRIPTION'] = "Ð‘Ð°Ð½Ð½ÐµÑ€ Ð´Ð»Ñ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Bootstrap 4";
+$MESS ['ADV_BS_DESCRIPTION'] = "Áàííåð äëÿ øàáëîíà Bootstrap 4";
 ?>

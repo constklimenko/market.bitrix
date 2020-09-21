@@ -1,3 +1,3 @@
 <?
-$MESS["BLOG_BLOG_USER_HIDDEN"] = "[ ÑÐºÑ€Ñ‹Ñ‚Ð¾ ]";
+$MESS["BLOG_BLOG_USER_HIDDEN"] = "[ ñêðûòî ]";
 ?>

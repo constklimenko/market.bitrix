@@ -2,14 +2,14 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"ÐŸÐ¾Ð¸ÑÐº", 
+		"Ïîèñê", 
 		"./", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°", 
+		"Êàðòà ñàéòà", 
 		"map.php", 
 		Array(), 
 		Array(), 

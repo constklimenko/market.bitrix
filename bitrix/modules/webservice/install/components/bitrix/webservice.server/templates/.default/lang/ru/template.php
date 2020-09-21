@@ -1,36 +1,36 @@
 <?
 
-$MESS["BX_WSTMPL_RESULT"] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ Ð²Ñ‹Ð·Ð¾Ð²Ð°: ";
-$MESS["BX_WSTMPL_ERROR_NOWSDESCR"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐµÑ€Ð²Ð¸ÑÐ° Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚.";
-$MESS["BX_WSTMPL_TITLE_PREFIX"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð²ÐµÐ±-ÑÐµÑ€Ð²Ð¸ÑÐ°: ";
-$MESS["BX_WSTMPL_WEBSERVICE"] = "Ð’ÐµÐ±-ÑÐµÑ€Ð²Ð¸Ñ: ";
-$MESS["BX_WSTMPL_ENDPOINT"] = "Ð¢Ð¾Ñ‡ÐºÐ° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°: ";
-$MESS["BX_WSTMPL_METHODS"] = "ÐœÐµÑ‚Ð¾Ð´Ñ‹: ";
-$MESS["BX_WSTMPL_ERROR_NOMETHODS"] = "ÐœÐµÑ‚Ð¾Ð´Ñ‹ Ð½Ðµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ñ‹ Ð´Ð»Ñ ÑÑ‚Ð¾Ð³Ð¾ ÑÐµÑ€Ð²Ð¸ÑÐ°.";
-$MESS["BX_WSTMPL_CLASS"] = "ÐšÐ»Ð°ÑÑ: ";
-$MESS["BX_WSTMPL_METHOD"] = "ÐœÐµÑ‚Ð¾Ð´ Ð²ÐµÐ±-ÑÐµÑ€Ð²Ð¸ÑÐ°: ";
-$MESS["BX_WSTMPL_NAMESPACE"] = "ÐŸÑ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð¾ Ð¸Ð¼ÐµÐ½: ";
-$MESS["BX_WSTMPL_BSTYLE"] = "Ð¡Ñ‚Ð¸Ð»ÑŒ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÐ¸: ";
-$MESS["BX_WSTMPL_DOC"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ: ";
-$MESS["BX_WSTMPL_WSDLDESCPRE"] = "Ð¡Ð»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ðµ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÑŽÑ‚ÑÑ. Ð¤Ð¾Ñ€Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¸Ðµ ÑÐ¼. Ð² ";
-$MESS["BX_WSTMPL_WSDLDESC"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐ»ÑƒÐ¶Ð±Ñ‹.";
-$MESS["BX_WSTMPL_INNERTESTPRE"] = "Ð—Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚ÑŒ Ð²ÑÑ‚Ñ€Ð¾ÐµÐ½Ð½Ñ‹Ðµ Ñ‚ÐµÑÑ‚Ñ‹ Ð²ÐµÐ±-ÑÐµÑ€Ð²Ð¸ÑÐ° Ð¼Ð¾Ð¶Ð½Ð¾ ";
-$MESS["BX_WSTMPL_INNERTEST"] = "Ð·Ð´ÐµÑÑŒ.";
+$MESS["BX_WSTMPL_RESULT"] = "Ðåçóëüòàò âûçîâà: ";
+$MESS["BX_WSTMPL_ERROR_NOWSDESCR"] = "Îïèñàíèå ñåðâèñà îòñóòñòâóåò.";
+$MESS["BX_WSTMPL_TITLE_PREFIX"] = "Îïèñàíèå âåá-ñåðâèñà: ";
+$MESS["BX_WSTMPL_WEBSERVICE"] = "Âåá-ñåðâèñ: ";
+$MESS["BX_WSTMPL_ENDPOINT"] = "Òî÷êà äîñòóïà: ";
+$MESS["BX_WSTMPL_METHODS"] = "Ìåòîäû: ";
+$MESS["BX_WSTMPL_ERROR_NOMETHODS"] = "Ìåòîäû íå îïèñàíû äëÿ ýòîãî ñåðâèñà.";
+$MESS["BX_WSTMPL_CLASS"] = "Êëàññ: ";
+$MESS["BX_WSTMPL_METHOD"] = "Ìåòîä âåá-ñåðâèñà: ";
+$MESS["BX_WSTMPL_NAMESPACE"] = "Ïðîñòðàíñòâî èìåí: ";
+$MESS["BX_WSTMPL_BSTYLE"] = "Ñòèëü ïðèâÿçêè: ";
+$MESS["BX_WSTMPL_DOC"] = "Îïèñàíèå: ";
+$MESS["BX_WSTMPL_WSDLDESCPRE"] = "Ñëåäóþùèå îïåðàöèè ïîääåðæèâàþòñÿ. Ôîðìàëüíîå îïðåäåëåíèå ñì. â ";
+$MESS["BX_WSTMPL_WSDLDESC"] = "Îïèñàíèå ñëóæáû.";
+$MESS["BX_WSTMPL_INNERTESTPRE"] = "Çàïóñòèòü âñòðîåííûå òåñòû âåá-ñåðâèñà ìîæíî ";
+$MESS["BX_WSTMPL_INNERTEST"] = "çäåñü.";
 
-$MESS["BX_WSTMPL_BACKPRE"] = "Ð”Ð»Ñ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð»Ð½Ð¾Ð³Ð¾ ÑÐ¿Ð¸ÑÐºÐ° Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¹ Ñ‰ÐµÐ»ÐºÐ½Ð¸Ñ‚Ðµ ";
-$MESS["BX_WSTMPL_BACK"] = "Ð·Ð´ÐµÑÑŒ.";
-$MESS["BX_WSTMPL_PARAMS"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹: ";
-$MESS["BX_WSTMPL_TEST"] = "Ð¢ÐµÑÑ‚: ";
-$MESS["BX_WSTMPL_ERROR_NOFORCOMPLEX"] = " Ð¤Ð¾Ñ€Ð¼Ð° Ð´Ð»Ñ Ñ‚ÐµÑÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð° Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ Ð¼ÐµÑ‚Ð¾Ð´Ð¾Ð² Ñ Ð¿Ñ€Ð¸Ð¼Ð¸Ñ‚Ð¸Ð²Ð½Ñ‹Ð¼Ð¸ Ñ‚Ð¸Ð¿Ð°Ð¼Ð¸ Ð² ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð².";
-$MESS["BX_WSTMPL_ERROR_PARAMETER"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€";
-$MESS["BX_WSTMPL_ERROR_VALUE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
-$MESS["BX_WSTMPL_ERROR_SUBMIT"] = "Ð—Ð°Ð¿ÑƒÑÐº";
+$MESS["BX_WSTMPL_BACKPRE"] = "Äëÿ ïîëó÷åíèÿ ïîëíîãî ñïèñêà îïåðàöèé ùåëêíèòå ";
+$MESS["BX_WSTMPL_BACK"] = "çäåñü.";
+$MESS["BX_WSTMPL_PARAMS"] = "Ïàðàìåòðû: ";
+$MESS["BX_WSTMPL_TEST"] = "Òåñò: ";
+$MESS["BX_WSTMPL_ERROR_NOFORCOMPLEX"] = " Ôîðìà äëÿ òåñòèðîâàíèÿ äîñòóïíà òîëüêî äëÿ ìåòîäîâ ñ ïðèìèòèâíûìè òèïàìè â êà÷åñòâå ïàðàìåòðîâ.";
+$MESS["BX_WSTMPL_ERROR_PARAMETER"] = "Ïàðàìåòð";
+$MESS["BX_WSTMPL_ERROR_VALUE"] = "Çíà÷åíèå";
+$MESS["BX_WSTMPL_ERROR_SUBMIT"] = "Çàïóñê";
 
-$MESS["BX_WSTMPL_ERROR_NOTENOUGHTPARAMS"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ð² Ð·Ð°Ð¿Ñ€Ð¾ÑÐµ.";
-$MESS["BX_WSTMPL_ERROR_UNKNOWN"] = "Ð§ÐµÐ³Ð¾-Ñ‚Ð¾ Ð²ÑÐµ Ð¶Ðµ Ð½Ð°Ð¼ Ð½Ðµ Ñ…Ð²Ð°Ñ‚Ð°ÐµÑ‚ Ð´Ð»Ñ Ð·Ð°Ð¿ÑƒÑÐºÐ° Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°.";
+$MESS["BX_WSTMPL_ERROR_NOTENOUGHTPARAMS"] = "Íåäîñòàòî÷íî ïàðàìåòðîâ â çàïðîñå.";
+$MESS["BX_WSTMPL_ERROR_UNKNOWN"] = "×åãî-òî âñå æå íàì íå õâàòàåò äëÿ çàïóñêà çàïðîñà.";
 
-$MESS["BX_WSTMPL_ERRSEC_NOOP"] = "Ð’Ñ‹ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¸Ð»Ð¸ Ð½ÐµÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‰Ð¸Ð¹ ÐºÐ¾Ð½Ñ‚ÐµÐ½Ñ‚.";
-$MESS["BX_WSTMPL_ERROR_NOTFORAUTH"] = " Ð¤Ð¾Ñ€Ð¼Ð° Ð´Ð»Ñ Ñ‚ÐµÑÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð° Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ Ð¼ÐµÑ‚Ð¾Ð´Ð¾Ð² Ð½Ðµ Ñ‚Ñ€ÐµÐ±ÑƒÑŽÑ‰Ð¸Ñ… Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ñ‡ÐµÑ€ÐµÐ· HTTP Basic.";
+$MESS["BX_WSTMPL_ERRSEC_NOOP"] = "Âû çàïðîñèëè íåñóùåñòâóþùèé êîíòåíò.";
+$MESS["BX_WSTMPL_ERROR_NOTFORAUTH"] = " Ôîðìà äëÿ òåñòèðîâàíèÿ äîñòóïíà òîëüêî äëÿ ìåòîäîâ íå òðåáóþùèõ àâòîðèçàöèè ÷åðåç HTTP Basic.";
 
 
 

@@ -1,15 +1,15 @@
 <?
-$MESS ['SONET_PAGE_VAR'] = "Ð˜Ð¼Ñ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹ Ð´Ð»Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
-$MESS ['SONET_GROUP_VAR'] = "Ð˜Ð¼Ñ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹ Ð´Ð»Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['SONET_USER_VAR'] = "Ð˜Ð¼Ñ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹ Ð´Ð»Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
-$MESS ['SONET_PATH_TO_GROUP'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['SONET_PATH_TO_GROUP_SEARCH'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð¿Ð¾Ð¸ÑÐºÐ° Ð³Ñ€ÑƒÐ¿Ð¿";
-$MESS ['SONET_ITEMS_COUNT'] = "Ð§Ð¸ÑÐ»Ð¾ Ð·Ð°Ð¿Ð¸ÑÐµÐ¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ";
-$MESS ['SONET_DATE_TIME_FORMAT'] = "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚ Ð´Ð°Ñ‚Ñ‹";
-$MESS ['SONET_DISPLAY_IMAGE'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
-$MESS ['SONET_DISPLAY_DESCRIPTION'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
-$MESS ['SONET_DISPLAY_NUMBER_OF_MEMBERS'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ñ‡Ð¸ÑÐ»Ð¾ ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð²";
-$MESS ['SONET_DISPLAY_SUBJECT'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ñ‚ÐµÐ¼Ñƒ";
-$MESS ['SONET_FILTER_MY'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¼Ð¾Ð¸";
-$MESS ['SONET_VARIABLE_ALIASES'] = "Ð˜Ð¼ÐµÐ½Ð° Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ñ…";
+$MESS ['SONET_PAGE_VAR'] = "Èìÿ ïåðåìåííîé äëÿ ñòðàíèöû";
+$MESS ['SONET_GROUP_VAR'] = "Èìÿ ïåðåìåííîé äëÿ ãðóïïû";
+$MESS ['SONET_USER_VAR'] = "Èìÿ ïåðåìåííîé äëÿ ïîëüçîâàòåëÿ";
+$MESS ['SONET_PATH_TO_GROUP'] = "Øàáëîí ïóòè ê ñòðàíèöå ãðóïïû";
+$MESS ['SONET_PATH_TO_GROUP_SEARCH'] = "Øàáëîí ïóòè ê ñòðàíèöå ïîèñêà ãðóïï";
+$MESS ['SONET_ITEMS_COUNT'] = "×èñëî çàïèñåé íà ñòðàíèöó";
+$MESS ['SONET_DATE_TIME_FORMAT'] = "Ôîðìàò äàòû";
+$MESS ['SONET_DISPLAY_IMAGE'] = "Ïîêàçûâàòü èçîáðàæåíèå";
+$MESS ['SONET_DISPLAY_DESCRIPTION'] = "Ïîêàçûâàòü îïèñàíèå";
+$MESS ['SONET_DISPLAY_NUMBER_OF_MEMBERS'] = "Ïîêàçûâàòü ÷èñëî ó÷àñòíèêîâ";
+$MESS ['SONET_DISPLAY_SUBJECT'] = "Ïîêàçûâàòü òåìó";
+$MESS ['SONET_FILTER_MY'] = "Ïîêàçûâàòü òîëüêî ìîè";
+$MESS ['SONET_VARIABLE_ALIASES'] = "Èìåíà ïåðåìåííûõ";
 ?>

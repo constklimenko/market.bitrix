@@ -1,28 +1,28 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"ÐœÐµÐ½ÑŽ", 
+		"Ìåíþ", 
 		"/examples/menu/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"ÐšÐ¾Ð½Ñ‚Ñ€Ð¾Ð»Ð¸Ñ€ÑƒÐµÐ¼Ð¾Ðµ ÑÐºÐ°Ñ‡Ð¸Ð²Ð°Ð½Ð¸Ðµ", 
+		"Êîíòðîëèðóåìîå ñêà÷èâàíèå", 
 		"/examples/download/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ RSS", 
+		"Èìïîðò RSS", 
 		"/examples/rss/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"ÐÐ°ÑÑ‚Ñ€Ð°Ð¸Ð²Ð°ÐµÐ¼Ð°Ñ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ñ", 
+		"Íàñòðàèâàåìàÿ ðåãèñòðàöèÿ", 
 		"/examples/custom-registration/", 
 		Array(), 
 		Array(), 
@@ -30,7 +30,7 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"ÐœÐ¾Ð¸ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ñ‹", 
+		"Ìîè êîìïîíåíòû", 
 		"/examples/my-components/", 
 		Array(), 
 		Array(), 
@@ -38,7 +38,7 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"ÐŸÑ€Ð°Ð²Ð¸Ð»Ð° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð°Ð´Ñ€ÐµÑÐ¾Ð² (Ð§ÐŸÐ£)", 
+		"Ïðàâèëà îáðàáîòêè àäðåñîâ (×ÏÓ)", 
 		"/examples/sef/", 
 		Array(), 
 		Array(), 
@@ -46,7 +46,7 @@ $aMenuLinks = Array(
 	),
 	
 	Array(
-		"Ð¤Ð¾Ñ€Ð¼Ð° Ð¾Ð±Ñ€Ð°Ñ‚Ð½Ð¾Ð¹ ÑÐ²ÑÐ·Ð¸", 
+		"Ôîðìà îáðàòíîé ñâÿçè", 
 		"/examples/feedback/", 
 		Array(), 
 		Array(), 

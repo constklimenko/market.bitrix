@@ -1,3 +1,3 @@
 <?
-$MESS["CC_BLEN_BREADCRUMB_LISTS"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸";
+$MESS["CC_BLEN_BREADCRUMB_LISTS"] = "Ñïèñêè";
 ?>

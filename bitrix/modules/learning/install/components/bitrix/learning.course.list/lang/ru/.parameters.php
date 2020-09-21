@@ -1,16 +1,16 @@
 <?
-$MESS ['LEARNING_DESC_ASC'] = "ÐŸÐ¾ Ð²Ð¾Ð·Ñ€Ð°ÑÑ‚Ð°Ð½Ð¸ÑŽ";
-$MESS ['LEARNING_DESC_DESC'] = "ÐŸÐ¾ ÑƒÐ±Ñ‹Ð²Ð°Ð½Ð¸ÑŽ";
-$MESS ['LEARNING_DESC_YES'] = "Ð”Ð°";
-$MESS ['LEARNING_DESC_NO'] = "ÐÐµÑ‚";
-$MESS ['LEARNING_DESC_FID'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARNING_DESC_FNAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['LEARNING_DESC_FACT'] = "Ð”Ð°Ñ‚Ð° Ð½Ð°Ñ‡Ð°Ð»Ð° Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚Ð¸";
-$MESS ['LEARNING_DESC_FSORT'] = "Ð˜Ð½Ð´ÐµÐºÑ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸";
-$MESS ['LEARNING_DESC_FTSAMP'] = "Ð”Ð°Ñ‚Ð° Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
-$MESS ['LEARNING_DESC_SORTBY'] = "ÐŸÐ¾Ð»Ðµ Ð´Ð»Ñ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸";
-$MESS ['LEARNING_DESC_SORTORDER'] = "ÐÐ°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸";
-$MESS ['LEARNING_COURSE_URL_NAME'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ñ‹Ð¼ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð¼ ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARNING_CHECK_PERMISSIONS'] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
-$MESS ['LEARNING_COURSES_PER_PAGE'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÐºÑƒÑ€ÑÐ¾Ð² Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
+$MESS ['LEARNING_DESC_ASC'] = "Ïî âîçðàñòàíèþ";
+$MESS ['LEARNING_DESC_DESC'] = "Ïî óáûâàíèþ";
+$MESS ['LEARNING_DESC_YES'] = "Äà";
+$MESS ['LEARNING_DESC_NO'] = "Íåò";
+$MESS ['LEARNING_DESC_FID'] = "Èäåíòèôèêàòîð êóðñà";
+$MESS ['LEARNING_DESC_FNAME'] = "Íàçâàíèå";
+$MESS ['LEARNING_DESC_FACT'] = "Äàòà íà÷àëà àêòèâíîñòè";
+$MESS ['LEARNING_DESC_FSORT'] = "Èíäåêñ ñîðòèðîâêè";
+$MESS ['LEARNING_DESC_FTSAMP'] = "Äàòà ïîñëåäíåãî èçìåíåíèÿ";
+$MESS ['LEARNING_DESC_SORTBY'] = "Ïîëå äëÿ ñîðòèðîâêè";
+$MESS ['LEARNING_DESC_SORTORDER'] = "Íàïðàâëåíèå äëÿ ñîðòèðîâêè";
+$MESS ['LEARNING_COURSE_URL_NAME'] = "URL, âåäóùèé íà ñòðàíèöó ñ äåòàëüíûì ïðîñìîòðîì êóðñà";
+$MESS ['LEARNING_CHECK_PERMISSIONS'] = "Ïðîâåðÿòü ïðàâî äîñòóïà";
+$MESS ['LEARNING_COURSES_PER_PAGE'] = "Êîëè÷åñòâî êóðñîâ íà ñòðàíèöå";
 ?>

@@ -1,10 +1,10 @@
 <?
-$MESS["SONET_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SONET_P_USER_NO_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
-$MESS["SONET_UFE_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
-$MESS["SONET_UFE_FRIENDS_NAV"] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸";
-$MESS["SONET_UFE_BAN_NAV"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
-$MESS["SONET_UFE_NO_FR_FUNC"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» Ð´Ñ€ÑƒÐ·ÐµÐ¹ Ð²Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS["SONET_P_USER_NO_USER"] = "Ïîëüçîâàòåëü íå íàéäåí";
+$MESS["SONET_UFE_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí.";
+$MESS["SONET_UFE_FRIENDS_NAV"] = "Ó÷àñòíèêè";
+$MESS["SONET_UFE_BAN_NAV"] = "Ïîëüçîâàòåëè";
+$MESS["SONET_UFE_NO_FR_FUNC"] = "Ôóíêöèîíàë äðóçåé âûêëþ÷åí";
 $MESS["SONET_UFE_NAME_TEMPLATE_DEFAULT"] = "#NOBR##LAST_NAME# #NAME##/NOBR#";
-$MESS["SONET_UFE_PAGE_TITLE"] = "Ð”Ñ€ÑƒÐ·ÑŒÑ";
+$MESS["SONET_UFE_PAGE_TITLE"] = "Äðóçüÿ";
 ?>

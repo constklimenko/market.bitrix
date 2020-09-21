@@ -1,23 +1,23 @@
 <?
-$MESS ['BPRIA_ACT_TRACK1'] = "ÐŸÑ€ÐµÐ´Ð¾ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð´Ð¾Ð»Ð¶ÐµÐ½ #VAL#";
-$MESS ['BPRIA_ACT_INFO'] = "ÐžÐ¶Ð¸Ð´Ð°Ð½Ð¸Ðµ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð¹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸";
-$MESS ['BPRIA_LOG_Y'] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð²Ð²ÐµÐ´ÐµÐ½Ð°";
-$MESS ['BPRIA_LOG_COMMENTS'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS ['BPRIA_ACT_APPROVE_TRACK'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #PERSON# Ð²Ð²ÐµÐ» Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ#COMMENT#";
-$MESS ['BPRIA_ACT_COMMENT'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS ['BPRIA_ACT_BUTTON1'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
-$MESS ['BPRIA_ACT_YES'] = "Ð”Ð°";
-$MESS ['BPRIA_ACT_NO'] = "ÐÐµÑ‚";
-$MESS ['BPRIA_ARGUMENT_NULL'] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ '#PARAM#'";
-$MESS ['BPRIA_ACT_PROP_EMPTY1'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS ['BPRIA_ACT_PROP_EMPTY4'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS ['BPRIA_ACT_PROP_EMPTY2'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð¿Ð¾Ð»Ñ.";
+$MESS ['BPRIA_ACT_TRACK1'] = "Ïðåäîñòàâèòü äîïîëíèòåëüíóþ èíôîðìàöèþ äîëæåí #VAL#";
+$MESS ['BPRIA_ACT_INFO'] = "Îæèäàíèå äîïîëíèòåëüíîé èíôîðìàöèè";
+$MESS ['BPRIA_LOG_Y'] = "Èíôîðìàöèÿ ââåäåíà";
+$MESS ['BPRIA_LOG_COMMENTS'] = "Êîììåíòàðèé";
+$MESS ['BPRIA_ACT_APPROVE_TRACK'] = "Ïîëüçîâàòåëü #PERSON# ââåë äîïîëíèòåëüíóþ èíôîðìàöèþ#COMMENT#";
+$MESS ['BPRIA_ACT_COMMENT'] = "Êîììåíòàðèé";
+$MESS ['BPRIA_ACT_BUTTON1'] = "Ñîõðàíèòü";
+$MESS ['BPRIA_ACT_YES'] = "Äà";
+$MESS ['BPRIA_ACT_NO'] = "Íåò";
+$MESS ['BPRIA_ARGUMENT_NULL'] = "Íå çàïîëíåíî îáÿçàòåëüíîå çíà÷åíèå '#PARAM#'";
+$MESS ['BPRIA_ACT_PROP_EMPTY1'] = "Ñâîéñòâî 'Ïîëüçîâàòåëè' íå óêàçàíî.";
+$MESS ['BPRIA_ACT_PROP_EMPTY4'] = "Ñâîéñòâî 'Íàçâàíèå' íå óêàçàíî.";
+$MESS ['BPRIA_ACT_PROP_EMPTY2'] = "Íå óêàçàíî íè îäíîãî ïîëÿ.";
 
-$MESS ['BPRIA_ACT_APPROVE'] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚ Ð¿Ñ€Ð¸Ð½ÑÑ‚";
-$MESS ['BPRIA_ACT_NONAPPROVE'] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚ Ð¾Ñ‚ÐºÐ»Ð¾Ð½ÐµÐ½";
-$MESS ['BPRIA_ACT_NONAPPROVE_TRACK'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #PERSON# Ð¾Ñ‚ÐºÐ»Ð¾Ð½Ð¸Ð» Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚#COMMENT#";
-$MESS ['BPRIA_ACT_BUTTON2'] = "ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ";
-$MESS ['BPRIA_ACT_NO_ACTION'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
-$MESS ['BPRIA_LOG_N'] = "ÐžÑ‚ÐºÐ»Ð¾Ð½ÐµÐ½";
-$MESS ['BPRIA_ACT_COMMENT_ERROR'] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾ Ð¿Ð¾Ð»Ðµ: #COMMENT_LABEL#";
+$MESS ['BPRIA_ACT_APPROVE'] = "Äîêóìåíò ïðèíÿò";
+$MESS ['BPRIA_ACT_NONAPPROVE'] = "Äîêóìåíò îòêëîíåí";
+$MESS ['BPRIA_ACT_NONAPPROVE_TRACK'] = "Ïîëüçîâàòåëü #PERSON# îòêëîíèë äîêóìåíò#COMMENT#";
+$MESS ['BPRIA_ACT_BUTTON2'] = "Îòêëîíèòü";
+$MESS ['BPRIA_ACT_NO_ACTION'] = "Íå óêàçàíî äåéñòâèå";
+$MESS ['BPRIA_LOG_N'] = "Îòêëîíåí";
+$MESS ['BPRIA_ACT_COMMENT_ERROR'] = "Íå çàïîëíåíî ïîëå: #COMMENT_LABEL#";
 ?>

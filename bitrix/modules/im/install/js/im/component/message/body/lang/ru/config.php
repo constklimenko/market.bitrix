@@ -1,3 +1,3 @@
 <?
-$MESS["IM_MESSENGER_MESSAGE_LIKE"] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ";
-$MESS["IM_MESSENGER_MESSAGE_DELETED"] = "Ð­Ñ‚Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð±Ñ‹Ð»Ð¾ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¾.";
+$MESS["IM_MESSENGER_MESSAGE_LIKE"] = "Íðàâèòñÿ";
+$MESS["IM_MESSENGER_MESSAGE_DELETED"] = "Ýòî ñîîáùåíèå áûëî óäàëåíî.";

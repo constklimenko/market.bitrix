@@ -1,3 +1,3 @@
 <?
-$MESS["interface_grid_default_view"]="<РџСЂРµРґСЃС‚Р°РІР»РµРЅРёРµ РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ>";
+$MESS["interface_grid_default_view"]="<Представление по умолчанию>";
 ?>

@@ -1,7 +1,7 @@
 <?
-$MESS["IM_MESSENGER_COMMENT_PLURAL_0"] = "ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS["IM_MESSENGER_COMMENT_PLURAL_1"] = "ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ";
-$MESS["IM_MESSENGER_COMMENT_PLURAL_2"] = "ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
-$MESS["IM_MESSENGER_COMMENT_ZERO"] = "ÐÐµÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
-$MESS["IM_MESSENGER_COMMENT_OPEN"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["IM_MESSENGER_COMMENT_PLURAL_0"] = "êîììåíòàðèé";
+$MESS["IM_MESSENGER_COMMENT_PLURAL_1"] = "êîììåíòàðèÿ";
+$MESS["IM_MESSENGER_COMMENT_PLURAL_2"] = "êîììåíòàðèåâ";
+$MESS["IM_MESSENGER_COMMENT_ZERO"] = "Íåò êîììåíòàðèåâ";
+$MESS["IM_MESSENGER_COMMENT_OPEN"] = "Îòêðûòü";
 ?>

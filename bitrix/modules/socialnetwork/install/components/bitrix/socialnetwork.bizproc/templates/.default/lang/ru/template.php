@@ -1,14 +1,14 @@
 <?
-$MESS ['SONET_BP_EPMTY_TASKS'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹ Ðº Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸ÑŽ Ð¿ÑƒÑÑ‚";
-$MESS ['SONET_BP_TASKS'] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
-$MESS ['SONET_BP_TRACKING'] = "ÐÑ€Ñ…Ð¸Ð² Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹";
-$MESS ['SONET_BP_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['SONET_BP_DESCR'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
-$MESS ['SONET_BP_DATE'] = "Ð”Ð°Ñ‚Ð°";
-$MESS ['SONET_BP_EVENT'] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
-$MESS ['SONET_BP_DOC'] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚";
-$MESS ['SONET_BP_VIEW_DOCUMENT'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚";
-$MESS ['SONET_BP_VIEW_TASK'] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ Ð·Ð°Ð´Ð°Ð½Ð¸Ðµ";
-$MESS ['SONET_BP_EDIT_TASK'] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ";
-$MESS ['SONET_BP_ACTION'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
+$MESS ['SONET_BP_EPMTY_TASKS'] = "Ñïèñîê çàäàíèé ê âûïîëíåíèþ ïóñò";
+$MESS ['SONET_BP_TASKS'] = "Òåêóùèå çàäàíèÿ";
+$MESS ['SONET_BP_TRACKING'] = "Àðõèâ çàäàíèé";
+$MESS ['SONET_BP_NAME'] = "Íàçâàíèå";
+$MESS ['SONET_BP_DESCR'] = "Îïèñàíèå";
+$MESS ['SONET_BP_DATE'] = "Äàòà";
+$MESS ['SONET_BP_EVENT'] = "Ñîáûòèå";
+$MESS ['SONET_BP_DOC'] = "Äîêóìåíò";
+$MESS ['SONET_BP_VIEW_DOCUMENT'] = "Ïðîñìîòðåòü äîêóìåíò";
+$MESS ['SONET_BP_VIEW_TASK'] = "Âûïîëíèòü çàäàíèå";
+$MESS ['SONET_BP_EDIT_TASK'] = "Âûïîëíèòü";
+$MESS ['SONET_BP_ACTION'] = "Äåéñòâèå";
 ?>

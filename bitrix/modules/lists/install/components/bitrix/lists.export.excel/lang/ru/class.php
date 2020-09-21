@@ -1,13 +1,13 @@
 <?
-$MESS["CC_BLL_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["CC_BLL_COLUMN_BIZPROC"] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS["CC_BLL_COLUMN_SECTION"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
-$MESS ['CC_BLL_ENLARGE'] = "Ð£Ð²ÐµÐ»Ð¸Ñ‡Ð¸Ñ‚ÑŒ";
-$MESS ['CC_BLL_DOWNLOAD'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½ Ð´Ð»Ñ ÑÐºÐ°Ñ‡Ð¸Ð²Ð°Ð½Ð¸Ñ";
-$MESS["CC_BLL_WRONG_IBLOCK_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°.";
-$MESS["CC_BLL_WRONG_IBLOCK"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº.";
-$MESS["CC_BLL_LISTS_FOR_SONET_GROUP_DISABLED"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð´Ð»Ñ ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½.";
-$MESS["CC_BLL_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
-$MESS["CC_BLL_ACCESS_DENIED"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ¿Ð¸ÑÐºÐ°.";
-$MESS["CC_BLL_COMMENTS"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸";
-$MESS["CC_BLL_UPPER_LEVEL"] = "Ð’ÐµÑ€Ñ…Ð½Ð¸Ð¹ ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ";
+$MESS["CC_BLL_MODULE_NOT_INSTALLED"] = "Ìîäóëü óíèâåðñàëüíûõ ñïèñêîâ íå óñòàíîâëåí.";
+$MESS["CC_BLL_COLUMN_BIZPROC"] = "Áèçíåñ-ïðîöåññû";
+$MESS["CC_BLL_COLUMN_SECTION"] = "Ðàçäåëû";
+$MESS ['CC_BLL_ENLARGE'] = "Óâåëè÷èòü";
+$MESS ['CC_BLL_DOWNLOAD'] = "Äîñòóïåí äëÿ ñêà÷èâàíèÿ";
+$MESS["CC_BLL_WRONG_IBLOCK_TYPE"] = "Íåâåðíûé òèï èíôîðìàöèîííîãî áëîêà.";
+$MESS["CC_BLL_WRONG_IBLOCK"] = "Óêàçàí íåâåðíûé ñïèñîê.";
+$MESS["CC_BLL_LISTS_FOR_SONET_GROUP_DISABLED"] = "Ôóíêöèîíàë ñïèñêîâ äëÿ ýòîé ãðóïïû îòêëþ÷åí.";
+$MESS["CC_BLL_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà.";
+$MESS["CC_BLL_ACCESS_DENIED"] = "Íåò ïðàâ äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ ñïèñêà.";
+$MESS["CC_BLL_COMMENTS"] = "Êîììåíòàðèè";
+$MESS["CC_BLL_UPPER_LEVEL"] = "Âåðõíèé óðîâåíü";

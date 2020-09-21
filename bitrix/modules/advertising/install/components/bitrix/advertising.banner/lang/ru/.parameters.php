@@ -1,10 +1,10 @@
 <?
-$MESS ['ADV_TYPE'] = "Ð¢Ð¸Ð¿ Ð±Ð°Ð½Ð½ÐµÑ€Ð°";
-$MESS ['ADV_SELECT_DEFAULT'] = "Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ‚Ð¸Ð¿ Ð±Ð°Ð½Ð½ÐµÑ€Ð°";
-$MESS ['adv_banner_params_noindex'] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÑÑ‚ÑŒ Ð² ÑÑÑ‹Ð»ÐºÐ¸ noindex/nofollow";
-$MESS ['ADV_QUANTITY'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð±Ð°Ð½Ð½ÐµÑ€Ð¾Ð² Ð´Ð»Ñ Ð¿Ð¾ÐºÐ°Ð·Ð°";
-$MESS ['ADV_DEFAULT_TEMPLATE'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ ÑÐ»Ð°Ð¹Ð´Ð¾Ð² Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
-$MESS ['ADV_SLIDE_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ñ€Ð¾ÐºÑ€ÑƒÑ‚ÐºÐ¸";
-$MESS ['ADV_NAV_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¸";
-$MESS ['ADV_NOT_SELECTED'] = "(Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð¾)";
+$MESS ['ADV_TYPE'] = "Òèï áàííåðà";
+$MESS ['ADV_SELECT_DEFAULT'] = "âûáåðèòå òèï áàííåðà";
+$MESS ['adv_banner_params_noindex'] = "Äîáàâëÿòü â ññûëêè noindex/nofollow";
+$MESS ['ADV_QUANTITY'] = "Êîëè÷åñòâî áàííåðîâ äëÿ ïîêàçà";
+$MESS ['ADV_DEFAULT_TEMPLATE'] = "Øàáëîí ñëàéäîâ ïî óìîë÷àíèþ";
+$MESS ['ADV_SLIDE_SETTINGS'] = "Íàñòðîéêè ïðîêðóòêè";
+$MESS ['ADV_NAV_SETTINGS'] = "Íàñòðîéêè íàâèãàöèè";
+$MESS ['ADV_NOT_SELECTED'] = "(íå âûáðàíî)";
 ?>

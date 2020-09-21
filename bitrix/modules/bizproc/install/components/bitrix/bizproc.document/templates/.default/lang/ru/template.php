@@ -1,15 +1,15 @@
 <?
-$MESS ['IBEL_BIZPROC_STOP'] = "Ð¾ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
-$MESS ['IBEL_BIZPROC_DEL'] = "ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ";
-$MESS ['IBEL_BIZPROC_LOG'] = "Ð¶ÑƒÑ€Ð½Ð°Ð»";
-$MESS ['IBEL_BIZPROC_DATE'] = "Ð”Ð°Ñ‚Ð° Ñ‚ÐµÐºÑƒÑ‰ÐµÐ³Ð¾ ÑÐ¾ÑÑ‚Ð¾ÑÐ½Ð¸Ñ";
-$MESS ['IBEL_BIZPROC_STATE'] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ð¹ ÑÑ‚Ð°Ñ‚ÑƒÑ";
-$MESS ['IBEL_BIZPROC_RUN_CMD'] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð°Ð½Ð´Ñƒ";
-$MESS ['IBEL_BIZPROC_RUN_CMD_NO'] = "ÐÐµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒ";
-$MESS ['IBEL_BIZPROC_TASKS'] = "Ð—Ð°Ð´Ð°Ñ‡Ð¸ Ð¿Ð¾ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑƒ";
-$MESS ['IBEL_BIZPROC_NEW'] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑ";
-$MESS ['IBEL_BIZPROC_START'] = "Ð—Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑ";
-$MESS ['IBEL_BIZPROC_SAVE'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
-$MESS ['IBEL_BIZPROC_APPLY'] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
-$MESS ['IBEL_BIZPROC_CANCEL'] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['IBEL_BIZPROC_STOP'] = "îñòàíîâèòü";
+$MESS ['IBEL_BIZPROC_DEL'] = "óäàëèòü";
+$MESS ['IBEL_BIZPROC_LOG'] = "æóðíàë";
+$MESS ['IBEL_BIZPROC_DATE'] = "Äàòà òåêóùåãî ñîñòîÿíèÿ";
+$MESS ['IBEL_BIZPROC_STATE'] = "Òåêóùèé ñòàòóñ";
+$MESS ['IBEL_BIZPROC_RUN_CMD'] = "Âûïîëíèòü êîìàíäó";
+$MESS ['IBEL_BIZPROC_RUN_CMD_NO'] = "Íå âûïîëíÿòü";
+$MESS ['IBEL_BIZPROC_TASKS'] = "Çàäà÷è ïî áèçíåñ-ïðîöåññó";
+$MESS ['IBEL_BIZPROC_NEW'] = "Íîâûé áèçíåñ-ïðîöåññ";
+$MESS ['IBEL_BIZPROC_START'] = "Çàïóñòèòü íîâûé áèçíåñ-ïðîöåññ";
+$MESS ['IBEL_BIZPROC_SAVE'] = "Ñîõðàíèòü";
+$MESS ['IBEL_BIZPROC_APPLY'] = "Ïðèìåíèòü";
+$MESS ['IBEL_BIZPROC_CANCEL'] = "Îòìåíèòü";
 ?>

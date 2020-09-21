@@ -1,5 +1,5 @@
 <?
-$MESS["SBPM_DEFAULT_TEMPLATE_NAME"] = "Ð£Ð²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ðµ Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¸";
-$MESS["SBPM_DEFAULT_TEMPLATE_DESCRIPTION"] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°ÐµÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð–Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ñ‹";
-$MESS["SONET_NAME"] = "Ð£Ð²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸";
+$MESS["SBPM_DEFAULT_TEMPLATE_NAME"] = "Óâåäîìëåíèå î ñîîáùåíèè";
+$MESS["SBPM_DEFAULT_TEMPLATE_DESCRIPTION"] = "Îòîáðàæàåò ñîîáùåíèå Æèâîé ëåíòû";
+$MESS["SONET_NAME"] = "Óâåäîìëåíèÿ ñîöèàëüíîé ñåòè";
 ?>

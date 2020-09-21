@@ -1,5 +1,5 @@
 <?
-$MESS["IDEA_STATUS_NEW"] = "ÐÐ¾Ð²Ð°Ñ";
-$MESS["IDEA_STATUS_PROCESSING"] = "Ð’ Ñ€Ð°Ð±Ð¾Ñ‚Ðµ";
-$MESS["IDEA_STATUS_COMPLETED"] = "Ð’Ð½ÐµÐ´Ñ€ÐµÐ½Ð¾";
+$MESS["IDEA_STATUS_NEW"] = "Íîâàÿ";
+$MESS["IDEA_STATUS_PROCESSING"] = "Â ðàáîòå";
+$MESS["IDEA_STATUS_COMPLETED"] = "Âíåäðåíî";
 ?>

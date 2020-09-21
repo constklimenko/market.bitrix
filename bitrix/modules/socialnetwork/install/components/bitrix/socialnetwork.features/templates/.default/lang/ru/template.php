@@ -1,16 +1,16 @@
 <?
-$MESS["SONET_C4_FUNC_TITLE"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» \"#NAME#\" Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½";
-$MESS["SONET_C4_FUNC_TITLE_ON"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» \"#NAME#\" Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½";
-$MESS["SONET_C4_FUNC_TITLE_OFF"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» \"#NAME#\" Ð²Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½";
-$MESS["SONET_C4_SUBMIT"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
-$MESS["SONET_C4_GR_SUCCESS"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ñ‹.";
-$MESS["SONET_C4_US_SUCCESS"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ñ‹.";
-$MESS["SONET_C4_T_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
-$MESS["SONET_FEATURES_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS["SONET_C4_NO_FEATURES"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ð°Ñ… Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½, Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð²ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÐµÐ³Ð¾ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹.";
-$MESS["SONET_C4_INVITE_TITLE"] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_C4_INVITE_TITLE_PROJECT"] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð°";
-$MESS["SONET_C4_INVITE_OPERATION"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐ°Ñ‚ÑŒ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ Ð¼Ð¾Ð³ÑƒÑ‚";
-$MESS["SONET_C4_INVITE_OPERATION_PROJECT"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐ°Ñ‚ÑŒ Ð² Ð¿Ñ€Ð¾ÐµÐºÑ‚ Ð¼Ð¾Ð³ÑƒÑ‚";
-$MESS["SONET_C4_T_ERROR"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°";
+$MESS["SONET_C4_FUNC_TITLE"] = "Ôóíêöèîíàë \"#NAME#\" âêëþ÷åí";
+$MESS["SONET_C4_FUNC_TITLE_ON"] = "Ôóíêöèîíàë \"#NAME#\" âêëþ÷åí";
+$MESS["SONET_C4_FUNC_TITLE_OFF"] = "Ôóíêöèîíàë \"#NAME#\" âûêëþ÷åí";
+$MESS["SONET_C4_SUBMIT"] = "Ñîõðàíèòü";
+$MESS["SONET_C4_GR_SUCCESS"] = "Ïàðàìåòðû ãðóïïû óñïåøíî èçìåíåíû.";
+$MESS["SONET_C4_US_SUCCESS"] = "Ïàðàìåòðû ïîëüçîâàòåëÿ óñïåøíî èçìåíåíû.";
+$MESS["SONET_C4_T_CANCEL"] = "Îòìåíèòü";
+$MESS["SONET_FEATURES_NAME"] = "Íàçâàíèå";
+$MESS["SONET_C4_NO_FEATURES"] = "Ôóíêöèîíàë â ãðóïïàõ îòêëþ÷åí, âû ìîæåòå âêëþ÷èòü åãî íà ñòðàíèöå ðåäàêòèðîâàíèÿ ãðóïïû.";
+$MESS["SONET_C4_INVITE_TITLE"] = "Ó÷àñòíèêè ãðóïïû";
+$MESS["SONET_C4_INVITE_TITLE_PROJECT"] = "Ó÷àñòíèêè ïðîåêòà";
+$MESS["SONET_C4_INVITE_OPERATION"] = "Ïðèãëàøàòü â ãðóïïó ìîãóò";
+$MESS["SONET_C4_INVITE_OPERATION_PROJECT"] = "Ïðèãëàøàòü â ïðîåêò ìîãóò";
+$MESS["SONET_C4_T_ERROR"] = "Ïðîèçîøëà îøèáêà îáðàáîòêè çàïðîñà";
 ?>

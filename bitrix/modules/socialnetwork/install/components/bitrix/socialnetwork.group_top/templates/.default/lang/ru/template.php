@@ -1,6 +1,6 @@
 <?
-$MESS ['SONET_C68_T_SUBJ'] = "Ð¢ÐµÐ¼Ð°";
-$MESS ['SONET_C68_T_MEMBERS'] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð²";
-$MESS ['SONET_C68_T_ALL'] = "Ð’ÑÐµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['SONET_C68_T_EMPTY'] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°ÐµÐ¼Ñ‹Ñ… Ð³Ñ€ÑƒÐ¿Ð¿ Ð½ÐµÑ‚.";
+$MESS ['SONET_C68_T_SUBJ'] = "Òåìà";
+$MESS ['SONET_C68_T_MEMBERS'] = "Ó÷àñòíèêîâ";
+$MESS ['SONET_C68_T_ALL'] = "Âñå ãðóïïû";
+$MESS ['SONET_C68_T_EMPTY'] = "Îòîáðàæàåìûõ ãðóïï íåò.";
 ?>

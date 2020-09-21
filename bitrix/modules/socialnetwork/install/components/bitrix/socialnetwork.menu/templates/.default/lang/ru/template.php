@@ -1,28 +1,28 @@
 <?
-$MESS ['SONET_SM_SETTINGS_TITLE_1'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»Ð°: ";
-$MESS ['SONET_SM_SETTINGS_TITLE_forum'] = "Ñ„Ð¾Ñ€ÑƒÐ¼";
-$MESS ['SONET_SM_SETTINGS_TITLE_blog'] = "ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['SONET_SM_SETTINGS_TITLE_microblog'] = "Ð¼Ð¸ÐºÑ€Ð¾Ð±Ð»Ð¾Ð³";
+$MESS ['SONET_SM_SETTINGS_TITLE_1'] = "Íàñòðîéêà ôóíêöèîíàëà: ";
+$MESS ['SONET_SM_SETTINGS_TITLE_forum'] = "ôîðóì";
+$MESS ['SONET_SM_SETTINGS_TITLE_blog'] = "ñîîáùåíèÿ";
+$MESS ['SONET_SM_SETTINGS_TITLE_microblog'] = "ìèêðîáëîã";
 
-$MESS ['SONET_SM_SETTINGS_TITLE_photo'] = "Ñ„Ð¾Ñ‚Ð¾";
-$MESS ['SONET_SM_SETTINGS_TITLE_calendar'] = "ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ";
-$MESS ['SONET_SM_SETTINGS_TITLE_tasks'] = "Ð·Ð°Ð´Ð°Ñ‡Ð¸";
-$MESS ['SONET_SM_SETTINGS_TITLE_files'] = "Ñ„Ð°Ð¹Ð»Ñ‹";
-$MESS ['SONET_SM_SETTINGS_TITLE_search'] = "Ð¿Ð¾Ð¸ÑÐº";
-$MESS ['SONET_SM_SETTINGS_TITLE_global'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¼ÐµÐ½ÑŽ";
+$MESS ['SONET_SM_SETTINGS_TITLE_photo'] = "ôîòî";
+$MESS ['SONET_SM_SETTINGS_TITLE_calendar'] = "êàëåíäàðü";
+$MESS ['SONET_SM_SETTINGS_TITLE_tasks'] = "çàäà÷è";
+$MESS ['SONET_SM_SETTINGS_TITLE_files'] = "ôàéëû";
+$MESS ['SONET_SM_SETTINGS_TITLE_search'] = "ïîèñê";
+$MESS ['SONET_SM_SETTINGS_TITLE_global'] = "Íàñòðîéêè ìåíþ";
 
-$MESS ['SONET_SM_TDEF_ERR1'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸ Ð¿ÑƒÐ½ÐºÑ‚Ð° Ð¼ÐµÐ½ÑŽ Ð½Ð° ÑÐµÑ€Ð²ÐµÑ€Ðµ.";
-$MESS ['SONET_SM_TDEF_ERR2'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿ÑƒÐ½ÐºÑ‚Ð° Ð¼ÐµÐ½ÑŽ Ð½Ð° ÑÐµÑ€Ð²ÐµÑ€Ðµ.";
-$MESS ['SONET_SM_TDEF_ADD'] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÐµÑ‰Ñ‘";
-$MESS ['SONET_SM_TDEF_INACTIVE'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»";
-$MESS ['SONET_SM_TDEF_MENU_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð¼ÐµÐ½ÑŽ";
+$MESS ['SONET_SM_TDEF_ERR1'] = "Îøèáêà ñîõðàíåíèÿ ïîçèöèè ïóíêòà ìåíþ íà ñåðâåðå.";
+$MESS ['SONET_SM_TDEF_ERR2'] = "Îøèáêà äîáàâëåíèÿ ïóíêòà ìåíþ íà ñåðâåðå.";
+$MESS ['SONET_SM_TDEF_ADD'] = "Ïîêàçàòü åù¸";
+$MESS ['SONET_SM_TDEF_INACTIVE'] = "Äîáàâèòü ôóíêöèîíàë";
+$MESS ['SONET_SM_TDEF_MENU_SETTINGS'] = "Íàñòðîèòü ìåíþ";
 
-$MESS ['SONET_SM_TDEF_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»";
-$MESS ['SONET_SM_TDEF_OFF'] = "ÐžÑ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»";
-$MESS ['SONET_SM_TDEF_ON'] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»";
+$MESS ['SONET_SM_TDEF_SETTINGS'] = "Íàñòðîèòü ôóíêöèîíàë";
+$MESS ['SONET_SM_TDEF_OFF'] = "Îòêëþ÷èòü ôóíêöèîíàë";
+$MESS ['SONET_SM_TDEF_ON'] = "Âêëþ÷èòü ôóíêöèîíàë";
 
-$MESS ['SONET_SM_TDEF_CONF1'] = "Ð Ð°ÑÐ¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð¿ÑƒÐ½ÐºÑ‚Ð¾Ð² Ð¼ÐµÐ½ÑŽ Ð±ÑƒÐ´ÐµÑ‚ ÑÐ±Ñ€Ð¾ÑˆÐµÐ½Ð¾ Ð² Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ. ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ?";
-$MESS ['SONET_SM_TDEF_CONF2'] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» Ð±ÑƒÐ´ÐµÑ‚ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½. ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ?";
+$MESS ['SONET_SM_TDEF_CONF1'] = "Ðàñïîëîæåíèå ïóíêòîâ ìåíþ áóäåò ñáðîøåíî â çíà÷åíèå ïî óìîë÷àíèþ. Ïðîäîëæèòü?";
+$MESS ['SONET_SM_TDEF_CONF2'] = "Ôóíêöèîíàë áóäåò îòêëþ÷åí. Ïðîäîëæèòü?";
 
 
 ?>

@@ -1,9 +1,9 @@
 <?
-$MESS["SONET_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SONET_P_USER_NO_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
-$MESS["SONET_P_USER_NO_GROUP"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°.";
-$MESS["SONET_P_USER_NO_GROUP_PROJECT"] = "ÐŸÑ€Ð¾ÐµÐºÑ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
-$MESS["SONET_C9_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_C9_TITLE_PROJECT"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð°";
-$MESS["SONET_C9_NO_PERMS"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° ÑÑ‚Ñƒ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÑŽ";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS["SONET_P_USER_NO_USER"] = "Ïîëüçîâàòåëü íå íàéäåí.";
+$MESS["SONET_P_USER_NO_GROUP"] = "Ãðóïïà íå íàéäåíà.";
+$MESS["SONET_P_USER_NO_GROUP_PROJECT"] = "Ïðîåêò íå íàéäåí.";
+$MESS["SONET_C9_TITLE"] = "Óäàëåíèå ãðóïïû";
+$MESS["SONET_C9_TITLE_PROJECT"] = "Óäàëåíèå ïðîåêòà";
+$MESS["SONET_C9_NO_PERMS"] = "Ó âàñ íåò ïðàâ íà ýòó îïåðàöèþ";
 ?>

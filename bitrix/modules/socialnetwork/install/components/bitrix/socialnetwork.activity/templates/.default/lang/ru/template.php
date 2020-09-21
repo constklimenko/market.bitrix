@@ -1,17 +1,17 @@
 <?
-$MESS ['SONET_ACTIVITY_T_GROUP_TITLE'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° #NAME#";
-$MESS ['SONET_ACTIVITY_T_USER_TITLE1'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ ";
-$MESS ['SONET_ACTIVITY_T_SWITCH1'] = "Ð¡Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ";
-$MESS ['SONET_ACTIVITY_T_SWITCH2'] = "ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½Ð¾ÑÑ‚Ð¸";
-$MESS ['SONET_ACTIVITY_T_NO_UPDATES'] = "ÐÐµÑ‚ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹.";
-$MESS ['SONET_ACTIVITY_T_FORUM'] = "Ñ„Ð¾Ñ€ÑƒÐ¼Ñ‹/Ð¾Ð±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ñ";
-$MESS ['SONET_ACTIVITY_T_BLOG'] = "Ð±Ð»Ð¾Ð³Ð¸/Ð¾Ñ‚Ñ‡ÐµÑ‚Ñ‹";
-$MESS ['SONET_ACTIVITY_T_PHOTO'] = "Ñ„Ð¾Ñ‚Ð¾";
-$MESS ['SONET_ACTIVITY_T_FILES'] = "Ñ„Ð°Ð¹Ð»Ñ‹";
-$MESS ['SONET_ACTIVITY_T_CALENDAR'] = "ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ð¸";
-$MESS ['SONET_ACTIVITY_T_TASKS'] = "Ð·Ð°Ð´Ð°Ñ‡Ð¸";
-$MESS ['SONET_ACTIVITY_T_SYSTEM'] = "ÑÐ¸ÑÑ‚ÐµÐ¼Ð½Ñ‹Ðµ";
-$MESS ['SONET_ACTIVITY_T_SYSTEM_GROUPS'] = "Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['SONET_ACTIVITY_T_SYSTEM_FRIENDS'] = "Ð´Ñ€ÑƒÐ·ÑŒÑ";
-$MESS ['SONET_ACTIVITY_T_ALL'] = "Ð²ÑÐµ";
+$MESS ['SONET_ACTIVITY_T_GROUP_TITLE'] = "Ãðóïïà #NAME#";
+$MESS ['SONET_ACTIVITY_T_USER_TITLE1'] = "Ïîëüçîâàòåëü ";
+$MESS ['SONET_ACTIVITY_T_SWITCH1'] = "Ñâåðíóòü";
+$MESS ['SONET_ACTIVITY_T_SWITCH2'] = "Ïîäðîáíîñòè";
+$MESS ['SONET_ACTIVITY_T_NO_UPDATES'] = "Íåò îáíîâëåíèé.";
+$MESS ['SONET_ACTIVITY_T_FORUM'] = "ôîðóìû/îáñóæäåíèÿ";
+$MESS ['SONET_ACTIVITY_T_BLOG'] = "áëîãè/îò÷åòû";
+$MESS ['SONET_ACTIVITY_T_PHOTO'] = "ôîòî";
+$MESS ['SONET_ACTIVITY_T_FILES'] = "ôàéëû";
+$MESS ['SONET_ACTIVITY_T_CALENDAR'] = "êàëåíäàðè";
+$MESS ['SONET_ACTIVITY_T_TASKS'] = "çàäà÷è";
+$MESS ['SONET_ACTIVITY_T_SYSTEM'] = "ñèñòåìíûå";
+$MESS ['SONET_ACTIVITY_T_SYSTEM_GROUPS'] = "ãðóïïû";
+$MESS ['SONET_ACTIVITY_T_SYSTEM_FRIENDS'] = "äðóçüÿ";
+$MESS ['SONET_ACTIVITY_T_ALL'] = "âñå";
 ?>

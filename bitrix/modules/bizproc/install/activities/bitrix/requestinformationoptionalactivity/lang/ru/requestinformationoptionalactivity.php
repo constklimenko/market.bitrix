@@ -1,15 +1,15 @@
 <?
-$MESS ['BPRIOA_ACT_TRACK1'] = "ÐŸÑ€ÐµÐ´Ð¾ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð´Ð¾Ð»Ð¶ÐµÐ½ #VAL#";
-$MESS ['BPRIOA_ACT_INFO'] = "ÐžÐ¶Ð¸Ð´Ð°Ð½Ð¸Ðµ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð¹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸";
-$MESS ['BPRIOA_LOG_COMMENTS'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS ['BPRIOA_ACT_APPROVE_TRACK'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #PERSON# Ð²Ð²ÐµÐ» Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ#COMMENT#";
-$MESS ['BPRIOA_ACT_CANCEL_TRACK'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #PERSON# Ð¾Ñ‚Ð¼ÐµÐ½Ð¸Ð» Ð²Ð²Ð¾Ð´ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð¹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸#COMMENT#";
-$MESS ['BPRIOA_ACT_COMMENT'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS ['BPRIOA_ACT_BUTTON1'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
-$MESS ['BPRIOA_ARGUMENT_NULL'] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ '#PARAM#'";
-$MESS ['BPRIOA_ACT_PROP_EMPTY1'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS ['BPRIOA_ACT_PROP_EMPTY4'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
-$MESS ['BPRIOA_ACT_PROP_EMPTY2'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð¿Ð¾Ð»Ñ.";
-$MESS ['BPRIOA_ACT_BUTTON2'] = "ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ";
-$MESS ['BPRIOA_ACT_COMMENT_ERROR'] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾ Ð¿Ð¾Ð»Ðµ: #COMMENT_LABEL#";
+$MESS ['BPRIOA_ACT_TRACK1'] = "Ïðåäîñòàâèòü äîïîëíèòåëüíóþ èíôîðìàöèþ äîëæåí #VAL#";
+$MESS ['BPRIOA_ACT_INFO'] = "Îæèäàíèå äîïîëíèòåëüíîé èíôîðìàöèè";
+$MESS ['BPRIOA_LOG_COMMENTS'] = "Êîììåíòàðèé";
+$MESS ['BPRIOA_ACT_APPROVE_TRACK'] = "Ïîëüçîâàòåëü #PERSON# ââåë äîïîëíèòåëüíóþ èíôîðìàöèþ#COMMENT#";
+$MESS ['BPRIOA_ACT_CANCEL_TRACK'] = "Ïîëüçîâàòåëü #PERSON# îòìåíèë ââîä äîïîëíèòåëüíîé èíôîðìàöèè#COMMENT#";
+$MESS ['BPRIOA_ACT_COMMENT'] = "Êîììåíòàðèé";
+$MESS ['BPRIOA_ACT_BUTTON1'] = "Ñîõðàíèòü";
+$MESS ['BPRIOA_ARGUMENT_NULL'] = "Íå çàïîëíåíî îáÿçàòåëüíîå çíà÷åíèå '#PARAM#'";
+$MESS ['BPRIOA_ACT_PROP_EMPTY1'] = "Ñâîéñòâî 'Ïîëüçîâàòåëè' íå óêàçàíî.";
+$MESS ['BPRIOA_ACT_PROP_EMPTY4'] = "Ñâîéñòâî 'Íàçâàíèå' íå óêàçàíî.";
+$MESS ['BPRIOA_ACT_PROP_EMPTY2'] = "Íå óêàçàíî íè îäíîãî ïîëÿ.";
+$MESS ['BPRIOA_ACT_BUTTON2'] = "Îòêëîíèòü";
+$MESS ['BPRIOA_ACT_COMMENT_ERROR'] = "Íå çàïîëíåíî ïîëå: #COMMENT_LABEL#";
 

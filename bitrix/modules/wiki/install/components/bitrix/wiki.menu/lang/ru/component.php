@@ -1,9 +1,9 @@
 <?
-$MESS["WIKI_ACCESS_DENIED"] = "Р”РѕСЃС‚СѓРї Р·Р°РїСЂРµС‰РµРЅ.";
-$MESS["WIKI_MODULE_NOT_INSTALLED"] = "РњРѕРґСѓР»СЊ wiki РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
-$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "РњРѕРґСѓР»СЊ iblock РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
-$MESS["IBLOCK_NOT_ASSIGNED"] = "РќРµ РІС‹Р±СЂР°РЅ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Р№ Р±Р»РѕРє";
-$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "РњРѕРґСѓР»СЊ socialnetwork РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
-$MESS["WIKI_DEFAULT_PAGE_NAME"] = "Р“Р»Р°РІРЅР°СЏ СЃС‚СЂР°РЅРёС†Р°";
-$MESS["CATEGORY_NAME"] = "РљР°С‚РµРіРѕСЂРёСЏ";
+$MESS["WIKI_ACCESS_DENIED"] = "Доступ запрещен.";
+$MESS["WIKI_MODULE_NOT_INSTALLED"] = "Модуль wiki не установлен.";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "Модуль iblock не установлен.";
+$MESS["IBLOCK_NOT_ASSIGNED"] = "Не выбран информационный блок";
+$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "Модуль socialnetwork не установлен.";
+$MESS["WIKI_DEFAULT_PAGE_NAME"] = "Главная страница";
+$MESS["CATEGORY_NAME"] = "Категория";
 ?>

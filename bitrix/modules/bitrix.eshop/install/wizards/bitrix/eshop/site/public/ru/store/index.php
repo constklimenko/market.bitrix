@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ð¡ÐºÐ»Ð°Ð´Ñ‹");
+$APPLICATION->SetTitle("Ñêëàäû");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:catalog.store",
 	"bootstrap_v4",
@@ -9,7 +9,7 @@ $APPLICATION->SetTitle("Ð¡ÐºÐ»Ð°Ð´Ñ‹");
 		"PHONE" => "N",
 		"SCHEDULE" => "N",
 		"SET_TITLE" => "Y",
-		"TITLE" => "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÐºÐ»Ð°Ð´Ð¾Ð² Ñ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½Ð¾Ð¹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÐµÐ¹",
+		"TITLE" => "Ñïèñîê ñêëàäîâ ñ ïîäðîáíîé èíôîðìàöèåé",
 		"MAP_TYPE" => "0",
 		"CACHE_TYPE" => "A",
 		"CACHE_TIME" => "3600",

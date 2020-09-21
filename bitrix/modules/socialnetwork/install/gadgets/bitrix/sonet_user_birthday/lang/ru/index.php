@@ -1,4 +1,4 @@
 <?
-$MESS ['GD_SONET_USER_BIRTHDAY_NOT_ALLOWED'] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½.";
-$MESS ['GD_SONET_USER_BIRTHDAY_ONLY_CURRENT'] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð° Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ñ‚ÐµÐºÑƒÑ‰ÐµÐ³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ.";
+$MESS ['GD_SONET_USER_BIRTHDAY_NOT_ALLOWED'] = "Ôóíêöèîíàë îòêëþ÷åí.";
+$MESS ['GD_SONET_USER_BIRTHDAY_ONLY_CURRENT'] = "Èíôîðìàöèÿ äîñòóïíà òîëüêî íà ñòðàíèöå òåêóùåãî ïîëüçîâàòåëÿ.";
 ?>

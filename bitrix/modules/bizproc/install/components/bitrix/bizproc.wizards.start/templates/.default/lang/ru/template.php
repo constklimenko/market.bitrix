@@ -1,10 +1,10 @@
 <?
-$MESS ['BPWC_WRCT_SUCCESS'] = "Ð—Ð°Ð¿Ñ€Ð¾Ñ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑÐ¾Ð·Ð´Ð°Ð½.";
-$MESS ['BPWC_WRCT_ERROR'] = "Ð—Ð°Ð¿Ñ€Ð¾Ñ Ð½Ðµ Ð·Ð°Ð¿ÑƒÑ‰ÐµÐ½.";
-$MESS ['BPWC_WRCT_2LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð²";
-$MESS ['BPWC_WRCT_SUBTITLE'] = "Ð—Ð°Ð¿ÑƒÑÐº Ð½Ð¾Ð²Ð¾Ð³Ð¾ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BPWC_WRCT_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['BPWC_WRCT_DESCR'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
-$MESS ['BPWC_WRCT_SAVE'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð·Ð°ÑÐ²ÐºÑƒ";
-$MESS ['BPWC_WRCT_CANCEL'] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS ['BPWC_WRCT_SUCCESS'] = "Çàïðîñ óñïåøíî ñîçäàí.";
+$MESS ['BPWC_WRCT_ERROR'] = "Çàïðîñ íå çàïóùåí.";
+$MESS ['BPWC_WRCT_2LIST'] = "Ñïèñîê áèçíåñ-ïðîöåññîâ";
+$MESS ['BPWC_WRCT_SUBTITLE'] = "Çàïóñê íîâîãî áèçíåñ-ïðîöåññà";
+$MESS ['BPWC_WRCT_NAME'] = "Íàçâàíèå";
+$MESS ['BPWC_WRCT_DESCR'] = "Îïèñàíèå";
+$MESS ['BPWC_WRCT_SAVE'] = "Ñîçäàòü çàÿâêó";
+$MESS ['BPWC_WRCT_CANCEL'] = "Îòìåíà";
 ?>

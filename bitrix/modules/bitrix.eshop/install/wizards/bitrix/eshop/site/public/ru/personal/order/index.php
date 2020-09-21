@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ð—Ð°ÐºÐ°Ð·Ñ‹");
+$APPLICATION->SetTitle("Çàêàçû");
 ?><?
 LocalRedirect('#SITE_DIR#personal/');
 ?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

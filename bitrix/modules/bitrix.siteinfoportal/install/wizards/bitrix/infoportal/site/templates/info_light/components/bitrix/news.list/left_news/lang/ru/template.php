@@ -1,3 +1,3 @@
 <?
-$MESS["SHOW_COUNTER_TITLE"] = "РџСЂРѕСЃРјРѕС‚СЂРѕРІ: ";
+$MESS["SHOW_COUNTER_TITLE"] = "Просмотров: ";
 ?>

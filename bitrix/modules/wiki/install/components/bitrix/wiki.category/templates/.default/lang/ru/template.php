@@ -1,6 +1,6 @@
 <?
-$MESS["WIKI_CONTINUED"] = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ðµ";
-$MESS["WIKI_SUBCATEGORY"] = "ÐŸÐ¾Ð´ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸";
-$MESS["WIKI_PAGES_IN_SUBCATEGORY"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ Ð² ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸";
-$MESS["NAV_TITLE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†";
+$MESS["WIKI_CONTINUED"] = "Ïðîäîëæåíèå";
+$MESS["WIKI_SUBCATEGORY"] = "Ïîäêàòåãîðèè";
+$MESS["WIKI_PAGES_IN_SUBCATEGORY"] = "Ñòðàíèöû â êàòåãîðèè";
+$MESS["NAV_TITLE"] = "Ñïèñîê ñòðàíèö";
 ?>

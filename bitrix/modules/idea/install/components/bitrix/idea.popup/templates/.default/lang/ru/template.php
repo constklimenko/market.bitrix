@@ -1,6 +1,6 @@
 <?
-$MESS["IDEA_POPUP_LEAVE_IDEA"] = "ÐžÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ð²Ð°Ñˆ Ð¾Ñ‚Ð·Ñ‹Ð² Ð¸Ð»Ð¸ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
-$MESS["IDEA_POPUP_WAIT"] = 'ÐŸÐ¾Ð´Ð¾Ð¶Ð´Ð¸Ñ‚Ðµ, Ð¸Ð´ÐµÑ‚ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ°.';
-$MESS["IDEA_POPUP_APPLY"] = 'ÐŸÑ€ÐµÐ´Ð»Ð¾Ð¶Ð¸Ñ‚ÑŒ';
-$MESS["IDEA_POPUP_CANCEL"] = 'Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ Ð² ÑÐ¿Ð¸ÑÐ¾Ðº';
+$MESS["IDEA_POPUP_LEAVE_IDEA"] = "Îñòàâüòå âàø îòçûâ èëè ïðåäëîæåíèå";
+$MESS["IDEA_POPUP_WAIT"] = 'Ïîäîæäèòå, èäåò çàãðóçêà.';
+$MESS["IDEA_POPUP_APPLY"] = 'Ïðåäëîæèòü';
+$MESS["IDEA_POPUP_CANCEL"] = 'Âåðíóòüñÿ â ñïèñîê';
 ?>

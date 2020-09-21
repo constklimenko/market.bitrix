@@ -1,6 +1,6 @@
 <?
-$MESS["SONET_C2_GR_ADD"] = "ÐŸÑ€Ð¸Ð½ÑÑ‚ÑŒ";
-$MESS["SONET_C2_REJECT"] = "ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ";
-$MESS["SONET_C2_FR_ADD"] = "Ð”Ñ€ÑƒÐ¶Ð¸Ñ‚ÑŒ";
-$MESS["SONET_C2_ANSWER"] = "ÐžÑ‚Ð²ÐµÑ‚Ð¸Ñ‚ÑŒ";
+$MESS["SONET_C2_GR_ADD"] = "Ïðèíÿòü";
+$MESS["SONET_C2_REJECT"] = "Îòêëîíèòü";
+$MESS["SONET_C2_FR_ADD"] = "Äðóæèòü";
+$MESS["SONET_C2_ANSWER"] = "Îòâåòèòü";
 ?>

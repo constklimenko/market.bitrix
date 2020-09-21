@@ -1,3 +1,3 @@
 <?
-$MESS["FORUM_ICON_TITLE"] = "РњРѕРґСѓР»СЊ С„РѕСЂСѓРјРѕРІ";
+$MESS["FORUM_ICON_TITLE"] = "Модуль форумов";
 ?>

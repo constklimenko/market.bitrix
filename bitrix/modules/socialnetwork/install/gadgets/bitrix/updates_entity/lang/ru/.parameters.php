@@ -1,12 +1,12 @@
 <?
-$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID'] = "Ð¢Ð¸Ð¿ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_FORUM'] = "Ð¾Ð±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ñ";
-$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_BLOG'] = "Ð¾Ñ‚Ñ‡ÐµÑ‚Ñ‹";
-$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_PHOTO'] = "Ñ„Ð¾Ñ‚Ð¾";
-$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_FILES'] = "Ñ„Ð°Ð¹Ð»Ñ‹";
-$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_CALENDAR'] = "ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ð¸";
-$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_TASKS'] = "Ð·Ð°Ð´Ð°Ñ‡Ð¸";
-$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_SYSTEM'] = "ÑÐ¸ÑÑ‚ÐµÐ¼Ð½Ñ‹Ðµ";
-$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_ALL'] = "Ð²ÑÐµ";
-$MESS ['GD_UPDATES_ENTITY_P_LOG_CNT'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°ÐµÐ¼Ñ‹Ñ… Ð·Ð°Ð¿Ð¸ÑÐµÐ¹";
+$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID'] = "Òèï ñîîáùåíèÿ";
+$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_FORUM'] = "îáñóæäåíèÿ";
+$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_BLOG'] = "îò÷åòû";
+$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_PHOTO'] = "ôîòî";
+$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_FILES'] = "ôàéëû";
+$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_CALENDAR'] = "êàëåíäàðè";
+$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_TASKS'] = "çàäà÷è";
+$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_SYSTEM'] = "ñèñòåìíûå";
+$MESS ['GD_UPDATES_ENTITY_P_EVENT_ID_VALUE_ALL'] = "âñå";
+$MESS ['GD_UPDATES_ENTITY_P_LOG_CNT'] = "Êîëè÷åñòâî îòîáðàæàåìûõ çàïèñåé";
 ?>

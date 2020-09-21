@@ -1,10 +1,10 @@
 <?
-$MESS['BPAT_GOTO_DOC'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñƒ";
-$MESS['BPATL_SUCCESS'] = "Ð—Ð°Ð´Ð°Ð½Ð¸Ðµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾.";
-$MESS['BPAT_COMMENT'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS['BPATL_DOC_HISTORY'] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS['BPATL_COMMENTS'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸";
-$MESS['BPATL_TASK_TITLE'] = "Ð—Ð°Ð´Ð°Ð½Ð¸Ðµ";
-$MESS["BPATL_USER_STATUS_YES"] = "Ð’Ñ‹ ÑƒÑ‚Ð²ÐµÑ€Ð´Ð¸Ð»Ð¸ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚";
-$MESS["BPATL_USER_STATUS_NO"] = "Ð’Ñ‹ Ð¾Ñ‚ÐºÐ»Ð¾Ð½Ð¸Ð»Ð¸ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚";
-$MESS["BPATL_USER_STATUS_OK"] = "Ð’Ñ‹ Ð¾Ð·Ð½Ð°ÐºÐ¾Ð¼Ð¸Ð»Ð¸ÑÑŒ Ñ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð¼";
+$MESS['BPAT_GOTO_DOC'] = "Ïåðåéòè ê äîêóìåíòó";
+$MESS['BPATL_SUCCESS'] = "Çàäàíèå âûïîëíåíî.";
+$MESS['BPAT_COMMENT'] = "Êîììåíòàðèé";
+$MESS['BPATL_DOC_HISTORY'] = "Èñòîðèÿ èçìåíåíèé äîêóìåíòà";
+$MESS['BPATL_COMMENTS'] = "Êîììåíòàðèè";
+$MESS['BPATL_TASK_TITLE'] = "Çàäàíèå";
+$MESS["BPATL_USER_STATUS_YES"] = "Âû óòâåðäèëè äîêóìåíò";
+$MESS["BPATL_USER_STATUS_NO"] = "Âû îòêëîíèëè äîêóìåíò";
+$MESS["BPATL_USER_STATUS_OK"] = "Âû îçíàêîìèëèñü ñ äîêóìåíòîì";

@@ -1,3 +1,3 @@
 <?
-$MESS["CVPM_LIST_PRODUCTS"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº id Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["CVPM_LIST_PRODUCTS"] = "Ñïèñîê id òîâàðîâ";
 ?>

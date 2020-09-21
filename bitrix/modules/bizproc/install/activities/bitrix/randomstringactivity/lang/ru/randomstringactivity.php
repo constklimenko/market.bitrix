@@ -1,10 +1,10 @@
 <?
-$MESS ['BPRNDSA_SIZE_NAME'] = "Ð”Ð»Ð¸Ð½Ð° ÑÑ‚Ñ€Ð¾ÐºÐ¸";
-$MESS ['BPRNDSA_ALPHABET_NAME'] = "ÐÐ»Ñ„Ð°Ð²Ð¸Ñ‚";
-$MESS ['BPRNDSA_ALPHABET_NUM'] = "Ð§Ð¸ÑÐ»Ð°";
-$MESS ['BPRNDSA_ALPHABET_ALPHALOWER'] = "ÐŸÑ€Ð¾Ð¿Ð¸ÑÐ½Ñ‹Ðµ Ð±ÑƒÐºÐ²Ñ‹";
-$MESS ['BPRNDSA_ALPHABET_ALPHAUPPER'] = "Ð—Ð°Ð³Ð»Ð°Ð²Ð½Ñ‹Ðµ Ð±ÑƒÐºÐ²Ñ‹";
-$MESS ['BPRNDSA_ALPHABET_SPECIAL'] = "Ð¡Ð¿ÐµÑ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐ¸Ð¼Ð²Ð¾Ð»Ñ‹";
-$MESS ['BPRNDSA_EMPTY_SIZE'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð´Ð»Ð¸Ð½Ð° ÑÑ‚Ñ€Ð¾ÐºÐ¸";
-$MESS ['BPRNDSA_EMPTY_ALPHABET'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð°Ð»Ñ„Ð°Ð²Ð¸Ñ‚";
+$MESS ['BPRNDSA_SIZE_NAME'] = "Äëèíà ñòðîêè";
+$MESS ['BPRNDSA_ALPHABET_NAME'] = "Àëôàâèò";
+$MESS ['BPRNDSA_ALPHABET_NUM'] = "×èñëà";
+$MESS ['BPRNDSA_ALPHABET_ALPHALOWER'] = "Ïðîïèñíûå áóêâû";
+$MESS ['BPRNDSA_ALPHABET_ALPHAUPPER'] = "Çàãëàâíûå áóêâû";
+$MESS ['BPRNDSA_ALPHABET_SPECIAL'] = "Ñïåöèàëüíûå ñèìâîëû";
+$MESS ['BPRNDSA_EMPTY_SIZE'] = "Íå óêàçàíà äëèíà ñòðîêè";
+$MESS ['BPRNDSA_EMPTY_ALPHABET'] = "Íå óêàçàí àëôàâèò";
 ?>

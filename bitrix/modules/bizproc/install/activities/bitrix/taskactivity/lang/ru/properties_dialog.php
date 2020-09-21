@@ -1,15 +1,15 @@
 <?
-$MESS ['BPTA1A_TASK_TYPE'] = "Ð¢Ð¸Ð¿ Ð·Ð°Ð´Ð°Ñ‡Ð¸";
-$MESS ['BPTA1A_TASK_TYPE_U'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
-$MESS ['BPTA1A_TASK_TYPE_G'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°";
-$MESS ['BPTA1A_TASKOWNERID'] = "Ð’Ð»Ð°Ð´ÐµÐ»ÐµÑ†";
-$MESS ['BPTA1A_TASKCREATEDBY'] = "Ð—Ð°Ð´Ð°Ñ‡Ð° ÑÐ¾Ð·Ð´Ð°ÐµÑ‚ÑÑ Ð¾Ñ‚ Ð¸Ð¼ÐµÐ½Ð¸";
-$MESS ['BPTA1A_TASKASSIGNEDTO'] = "ÐžÑ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹";
-$MESS ['BPTA1A_TASKACTIVEFROM'] = "ÐÐ°Ñ‡Ð°Ð»Ð¾";
-$MESS ['BPTA1A_TASKACTIVETO'] = "ÐžÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ðµ";
-$MESS ['BPTA1A_TASKNAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð·Ð°Ð´Ð°Ñ‡Ð¸";
-$MESS ['BPTA1A_TASKDETAILTEXT'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð·Ð°Ð´Ð°Ñ‡Ð¸";
-$MESS ['BPTA1A_TASKTRACKERS'] = "Ð¡Ð»ÐµÐ´ÑÑ‰Ð¸Ðµ";
-$MESS ['BPTA1A_TASKPRIORITY'] = "Ð’Ð°Ð¶Ð½Ð¾ÑÑ‚ÑŒ";
-$MESS ['BPTA1A_TASKFORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼ Ð´Ð»Ñ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
+$MESS ['BPTA1A_TASK_TYPE'] = "Òèï çàäà÷è";
+$MESS ['BPTA1A_TASK_TYPE_U'] = "Ïîëüçîâàòåëü";
+$MESS ['BPTA1A_TASK_TYPE_G'] = "Ãðóïïà";
+$MESS ['BPTA1A_TASKOWNERID'] = "Âëàäåëåö";
+$MESS ['BPTA1A_TASKCREATEDBY'] = "Çàäà÷à ñîçäàåòñÿ îò èìåíè";
+$MESS ['BPTA1A_TASKASSIGNEDTO'] = "Îòâåòñòâåííûé";
+$MESS ['BPTA1A_TASKACTIVEFROM'] = "Íà÷àëî";
+$MESS ['BPTA1A_TASKACTIVETO'] = "Îêîí÷àíèå";
+$MESS ['BPTA1A_TASKNAME'] = "Íàçâàíèå çàäà÷è";
+$MESS ['BPTA1A_TASKDETAILTEXT'] = "Îïèñàíèå çàäà÷è";
+$MESS ['BPTA1A_TASKTRACKERS'] = "Ñëåäÿùèå";
+$MESS ['BPTA1A_TASKPRIORITY'] = "Âàæíîñòü";
+$MESS ['BPTA1A_TASKFORUM'] = "Ôîðóì äëÿ êîììåíòàðèåâ";
 ?>

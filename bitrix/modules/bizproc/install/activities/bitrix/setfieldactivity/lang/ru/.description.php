@@ -1,5 +1,5 @@
 <?
-$MESS["BPSFA_DESCR_DESCR"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»ÐµÐ¹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS["BPSFA_DESCR_NAME"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS["BPSFA_DESCR_ROBOT_TITLE_1"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["BPSFA_DESCR_DESCR"] = "Èçìåíåíèå ïîëåé äîêóìåíòà";
+$MESS["BPSFA_DESCR_NAME"] = "Èçìåíåíèå äîêóìåíòà";
+$MESS["BPSFA_DESCR_ROBOT_TITLE_1"] = "Èçìåíåíèå äîêóìåíòà";
 ?>

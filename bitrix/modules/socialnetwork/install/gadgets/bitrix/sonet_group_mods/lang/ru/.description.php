@@ -1,4 +1,4 @@
 <?
-$MESS ['GD_SONET_GROUP_MODS_NAME'] = "ÐœÐ¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ñ‹";
-$MESS ['GD_SONET_GROUP_MODS_DESC'] = "ÐœÐ¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ñ‹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS ['GD_SONET_GROUP_MODS_NAME'] = "Ìîäåðàòîðû";
+$MESS ['GD_SONET_GROUP_MODS_DESC'] = "Ìîäåðàòîðû ãðóïïû";
 ?>

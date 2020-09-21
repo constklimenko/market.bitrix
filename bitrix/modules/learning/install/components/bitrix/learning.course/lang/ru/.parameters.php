@@ -1,40 +1,40 @@
 <?
-$MESS ['LEARNING_DESC_YES'] = "Ð”Ð°";
-$MESS ['LEARNING_DESC_NO'] = "ÐÐµÑ‚";
-$MESS ['LEARNING_COURSE_ID_NAME'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARNING_CHECK_PERMISSIONS'] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS ['LEARNING_DESC_YES'] = "Äà";
+$MESS ['LEARNING_DESC_NO'] = "Íåò";
+$MESS ['LEARNING_COURSE_ID_NAME'] = "Èäåíòèôèêàòîð êóðñà";
+$MESS ['LEARNING_CHECK_PERMISSIONS'] = "Ïðîâåðÿòü ïðàâî äîñòóïà";
 
 
 
-$MESS ['LEARN_COURSE_ID_DESC'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARN_INDEX_ID_DESC'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ð´ÐµÐºÑÐ½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
-$MESS ['LEARN_LESSON_ID_DESC'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑƒÑ€Ð¾ÐºÐ°";
-$MESS ['LEARN_CHAPTER_ID_DESC'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð³Ð»Ð°Ð²Ñ‹";
-$MESS ['LEARN_SELF_TEST_DESC'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚ÐµÑÑ‚Ð° Ð´Ð»Ñ ÑÐ°Ð¼Ð¾Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸";
-$MESS ['LEARN_TEST_ID_DESC'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚ÐµÑÑ‚Ð°";
-$MESS ['LEARN_TYPE_ID_DESC'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð²ÑÐµÑ… Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ð¾Ð² ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARN_TEST_LIST_ID_DESC'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ¿Ð¸ÑÐºÐ° Ñ‚ÐµÑÑ‚Ð¾Ð²";
-$MESS ['LEARN_GRADEBOOK_ID_DESC'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¶ÑƒÑ€Ð½Ð°Ð»Ð°";
-$MESS ['LEARN_FOR_TEST_ID_DESC'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚ÐµÑÑ‚Ð° Ð² Ð¶ÑƒÑ€Ð½Ð°Ð»Ðµ";
+$MESS ['LEARN_COURSE_ID_DESC'] = "Èäåíòèôèêàòîð êóðñà";
+$MESS ['LEARN_INDEX_ID_DESC'] = "Èäåíòèôèêàòîð èíäåêñíîé ñòðàíèöû";
+$MESS ['LEARN_LESSON_ID_DESC'] = "Èäåíòèôèêàòîð óðîêà";
+$MESS ['LEARN_CHAPTER_ID_DESC'] = "Èäåíòèôèêàòîð ãëàâû";
+$MESS ['LEARN_SELF_TEST_DESC'] = "Èäåíòèôèêàòîð òåñòà äëÿ ñàìîïðîâåðêè";
+$MESS ['LEARN_TEST_ID_DESC'] = "Èäåíòèôèêàòîð òåñòà";
+$MESS ['LEARN_TYPE_ID_DESC'] = "Èäåíòèôèêàòîð âñåõ ìàòåðèàëîâ êóðñà";
+$MESS ['LEARN_TEST_LIST_ID_DESC'] = "Èäåíòèôèêàòîð ñïèñêà òåñòîâ";
+$MESS ['LEARN_GRADEBOOK_ID_DESC'] = "Èäåíòèôèêàòîð æóðíàëà";
+$MESS ['LEARN_FOR_TEST_ID_DESC'] = "Èäåíòèôèêàòîð òåñòà â æóðíàëå";
 
 
-$MESS ['LEARN_INDEX_DESC'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° Ð³Ð»Ð°Ð²Ð½ÑƒÑŽ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ";
-$MESS ['LEARN_LESSON_DETAIL_DESC'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑƒÑ€Ð¾ÐºÐ°";
-$MESS ['LEARN_CHAPTER_DETAIL_DESC'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð³Ð»Ð°Ð²Ñ‹";
-$MESS ['LEARN_TEST_SELF_DESC'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ‚ÐµÑÑ‚Ð° Ð´Ð»Ñ ÑÐ°Ð¼Ð¾Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸";
-$MESS ['LEARN_TEST_DETAIL_DESC'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ‚ÐµÑÑ‚Ð°";
-$MESS ['LEARN_TEST_LIST_DESC'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ¿Ð¸ÑÐºÐ° Ñ‚ÐµÑÑ‚Ð¾Ð²";
-$MESS ['LEARN_COURSE_CONTENTS_DESC'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ¾ Ð²ÑÐµÐ¼Ð¸ Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ð°Ð¼Ð¸ ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARN_GRADEBOOK_DESC'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð¶ÑƒÑ€Ð½Ð°Ð»Ð°";
-$MESS ['LEARN_PATH_TO_USER_PROFILE'] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÐµÐ¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['LEARN_INDEX_DESC'] = "URL, âåäóùèé íà ãëàâíóþ ñòðàíèöó";
+$MESS ['LEARN_LESSON_DETAIL_DESC'] = "URL, âåäóùèé íà ñòðàíèöó óðîêà";
+$MESS ['LEARN_CHAPTER_DETAIL_DESC'] = "URL, âåäóùèé íà ñòðàíèöó ãëàâû";
+$MESS ['LEARN_TEST_SELF_DESC'] = "URL, âåäóùèé íà ñòðàíèöó òåñòà äëÿ ñàìîïðîâåðêè";
+$MESS ['LEARN_TEST_DETAIL_DESC'] = "URL, âåäóùèé íà ñòðàíèöó òåñòà";
+$MESS ['LEARN_TEST_LIST_DESC'] = "URL, âåäóùèé íà ñòðàíèöó ñïèñêà òåñòîâ";
+$MESS ['LEARN_COURSE_CONTENTS_DESC'] = "URL, âåäóùèé íà ñòðàíèöó ñî âñåìè ìàòåðèàëàìè êóðñà";
+$MESS ['LEARN_GRADEBOOK_DESC'] = "URL, âåäóùèé íà ñòðàíèöó æóðíàëà";
+$MESS ['LEARN_PATH_TO_USER_PROFILE'] = "URL, âåäóùèé íà ñòðàíèöó ñ ïðîôèëåì ïîëüçîâàòåëÿ";
 
-$MESS ['LEARNING_PAGE_WINDOW_NAME'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð² Ð² Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð¹ Ñ†ÐµÐ¿Ð¾Ñ‡ÐºÐµ";
-$MESS ['LEARNING_SHOW_TIME_LIMIT'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÑ‡ÐµÑ‚Ñ‡Ð¸Ðº Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ñ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸";
-$MESS ['LEARNING_TESTS_PER_PAGE'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚ÐµÑÑ‚Ð¾Ð² Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
+$MESS ['LEARNING_PAGE_WINDOW_NAME'] = "Êîëè÷åñòâî âîïðîñîâ â íàâèãàöèîííîé öåïî÷êå";
+$MESS ['LEARNING_SHOW_TIME_LIMIT'] = "Ïîêàçûâàòü ñ÷åò÷èê îãðàíè÷åíèÿ âðåìåíè";
+$MESS ['LEARNING_TESTS_PER_PAGE'] = "Êîëè÷åñòâî òåñòîâ íà ñòðàíèöå";
 
-$MESS ['TEST_DETAIL_GROUP'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ñ‚ÐµÑÑ‚Ð°";
-$MESS ['TEST_LIST_GROUP'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ¿Ð¸ÑÐºÐ° Ñ‚ÐµÑÑ‚Ð¾Ð²";
+$MESS ['TEST_DETAIL_GROUP'] = "Íàñòðîéêè òåñòà";
+$MESS ['TEST_LIST_GROUP'] = "Íàñòðîéêè ñïèñêà òåñòîâ";
 
 
-$MESS ['T_LEARNING_PAGE_NUMBER_VARIABLE'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ°";
+$MESS ['T_LEARNING_PAGE_NUMBER_VARIABLE'] = "Èäåíòèôèêàòîð âîïðîñà";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ['SONET_C2_SECURITY_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚Ð¸";
+$MESS ['SONET_C2_SECURITY_ERROR'] = "Îøèáêà áåçîïàñíîñòè";
 ?>

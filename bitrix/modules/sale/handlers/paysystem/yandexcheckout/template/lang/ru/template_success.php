@@ -1,2 +1,2 @@
 <?php
-$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_EXT_SUCCESS"] = "Ð¡Ñ‡ÐµÑ‚ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð²Ñ‹ÑÑ‚Ð°Ð²Ð»ÐµÐ½";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_EXT_SUCCESS"] = "Ñ÷åò óñïåøíî âûñòàâëåí";

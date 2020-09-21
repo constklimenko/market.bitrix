@@ -33,9 +33,9 @@ $node = $xml->SelectNodes('/info/traffic/title');
 <span class="gdtrafic"><?=$node->content?></span><br>
 <span class="gdtrafinfo">
 <?$node = $xml->SelectNodes('/info/traffic/region/length');?>
-РџСЂРѕС‚СЏР¶РµРЅРЅРѕСЃС‚СЊ: <?=$node->content?> Рј<br>
+Протяженность: <?=$node->content?> м<br>
 <?$node = $xml->SelectNodes('/info/traffic/region/time');?>
-РџРѕСЃР»РµРґРЅРµРµ РѕР±РЅРѕРІР»РµРЅРёРµ: <?=$node->content?>
+Последнее обновление: <?=$node->content?>
 
 </span>
 </td>
@@ -49,7 +49,7 @@ $t = Intval($node->content);
 <?if($arGadgetParams["SHOW_URL"]=="Y"):?>
 <br />
 <?$node = $xml->SelectNodes('/info/traffic/region/url');?>
-<a href="<?=htmlspecialcharsbx($node->content)?>">РџРѕРґСЂРѕР±РЅРµРµ</a> <a href="<?=htmlspecialcharsbx($node->content)?>"><img width="7" height="7" border="0" src="/bitrix/components/bitrix/desktop/images/arrows.gif" /></a>
+<a href="<?=htmlspecialcharsbx($node->content)?>">Подробнее</a> <a href="<?=htmlspecialcharsbx($node->content)?>"><img width="7" height="7" border="0" src="/bitrix/components/bitrix/desktop/images/arrows.gif" /></a>
 <br />
 <?endif?>
 <?$cache->EndDataCache();?>

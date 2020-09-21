@@ -1,8 +1,8 @@
 <?
-$MESS ['WZ_TITLE'] = "ÐœÐ°ÑÑ‚ÐµÑ€ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['WZ_YES'] = "Ð”Ð°";
-$MESS ['WZ_TICKET_LIST'] = "ÐœÐ¾Ð¸ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS ['BACK'] = "&lt; ÐÐ°Ð·Ð°Ð´";
-$MESS ['NEXT'] = "Ð”Ð°Ð»ÐµÐµ &gt;";
-$MESS ['FINISH'] = "Ð“Ð¾Ñ‚Ð¾Ð²Ð¾";
+$MESS ['WZ_TITLE'] = "Ìàñòåð ñîçäàíèÿ îáðàùåíèÿ";
+$MESS ['WZ_YES'] = "Äà";
+$MESS ['WZ_TICKET_LIST'] = "Ìîè îáðàùåíèÿ";
+$MESS ['BACK'] = "&lt; Íàçàä";
+$MESS ['NEXT'] = "Äàëåå &gt;";
+$MESS ['FINISH'] = "Ãîòîâî";
 ?>

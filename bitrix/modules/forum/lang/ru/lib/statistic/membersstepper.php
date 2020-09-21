@@ -1,3 +1,3 @@
 <?
-$MESS["FORUM_MEMBERS_STEPPER_TITLE"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS["FORUM_MEMBERS_STEPPER_TITLE"] = "Ñòàòèñòèêà ïîëüçîâàòåëåé ôîðóìà";
 ?>

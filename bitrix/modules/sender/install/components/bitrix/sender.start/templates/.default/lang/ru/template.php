@@ -1,7 +1,7 @@
 <?
-$MESS["SENDER_START_TITLE"] = "Ð¡Ñ‚Ð°Ñ€Ñ‚";
-$MESS["SENDER_START_CREATE_AD"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½ÑƒÑŽ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸ÑŽ";
-$MESS["SENDER_START_CREATE_RC"] = "Ð“ÐµÐ½ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð¾Ð´Ð°Ð¶";
-$MESS["SENDER_START_CREATE_LETTER"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ñ€Ð°ÑÑÑ‹Ð»ÐºÑƒ";
-$MESS["SENDER_START_ADDITIONAL"] = "Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾";
+$MESS["SENDER_START_TITLE"] = "Ñòàðò";
+$MESS["SENDER_START_CREATE_AD"] = "Ñîçäàòü ðåêëàìíóþ êàìïàíèþ";
+$MESS["SENDER_START_CREATE_RC"] = "Ãåíåðàòîð ïðîäàæ";
+$MESS["SENDER_START_CREATE_LETTER"] = "Ñîçäàòü ðàññûëêó";
+$MESS["SENDER_START_ADDITIONAL"] = "äîïîëíèòåëüíî";
 ?>

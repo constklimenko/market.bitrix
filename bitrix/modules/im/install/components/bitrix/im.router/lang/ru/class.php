@@ -1,3 +1,3 @@
 <?
-$MESS["IM_COMPONENT_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð²ÐµÐ±-Ð¼ÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["IM_COMPONENT_MODULE_NOT_INSTALLED"] = "Ìîäóëü âåá-ìåññåíäæåð íå óñòàíîâëåí";
 ?>

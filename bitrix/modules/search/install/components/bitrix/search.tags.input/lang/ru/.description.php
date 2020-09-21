@@ -1,5 +1,5 @@
 <?
-$MESS ['SEARCH_FORM_NAME'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð²Ð²Ð¾Ð´Ð° Ñ‚ÐµÐ³Ð¾Ð²";
-$MESS ['SEARCH_FORM_DESC'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð²Ð²Ð¾Ð´Ð° Ñ‚ÐµÐ³Ð¾Ð² (autocomplete).";
-$MESS ['SEARCH_SERVICE'] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS ['SEARCH_FORM_NAME'] = "Ôîðìà ââîäà òåãîâ";
+$MESS ['SEARCH_FORM_DESC'] = "Ôîðìà ââîäà òåãîâ (autocomplete).";
+$MESS ['SEARCH_SERVICE'] = "Ïîèñê";
 ?>

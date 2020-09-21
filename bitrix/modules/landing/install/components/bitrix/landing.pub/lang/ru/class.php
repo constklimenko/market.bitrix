@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_CMP_SITE_NOT_FOUND'] = 'Ð¡Ð°Ð¹Ñ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
-$MESS['LANDING_CMP_SITE_NOT_FOUND_KNOWLEDGE'] = 'Ð‘Ð°Ð·Ð° Ð·Ð½Ð°Ð½Ð¸Ð¹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð° Ð¸Ð»Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð½ÐµÐ¹ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½';
-$MESS['LANDING_CMP_SITE_NOT_FOUND_GROUP'] = 'Ð‘Ð°Ð·Ð° Ð·Ð½Ð°Ð½Ð¸Ð¹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð° Ð¸Ð»Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð½ÐµÐ¹ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½';
+$MESS['LANDING_CMP_SITE_NOT_FOUND'] = 'Ñàéò íå íàéäåí';
+$MESS['LANDING_CMP_SITE_NOT_FOUND_KNOWLEDGE'] = 'Áàçà çíàíèé íå íàéäåíà èëè äîñòóï ê íåé çàïðåùåí';
+$MESS['LANDING_CMP_SITE_NOT_FOUND_GROUP'] = 'Áàçà çíàíèé íå íàéäåíà èëè äîñòóï ê íåé çàïðåùåí';

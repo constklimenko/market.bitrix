@@ -1,12 +1,12 @@
 <?
-$MESS ['LEARNING_MODULE_NOT_FOUND'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS ['LEARNING_COURSE_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÐºÑƒÑ€ÑÐ¾Ð²";
-$MESS ['LEARNING_COURSES_NAV'] = "ÐšÑƒÑ€ÑÑ‹";
-$MESS ['LEARNING_COURSES_COURSE_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐºÑƒÑ€Ñ";
-$MESS ['LEARNING_PANEL_CONTROL_PANEL'] = "ÐŸÐ°Ð½ÐµÐ»ÑŒ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
-$MESS ['LEARNING_PANEL_CONTROL_PANEL_ALT'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² Ð¿Ð°Ð½ÐµÐ»ÑŒ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
-$MESS ['comp_course_list_toolbar_add'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐºÑƒÑ€Ñ";
-$MESS ['comp_course_list_toolbar_add_title'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ ÐºÑƒÑ€Ñ Ð² Ð¿Ð°Ð½ÐµÐ»Ð¸ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
-$MESS ['comp_course_list_toolbar_list'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÐºÑƒÑ€ÑÐ°Ð¼Ð¸";
-$MESS ['comp_course_list_toolbar_list_title'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÐºÑƒÑ€ÑÐ¾Ð² Ð² Ð¿Ð°Ð½ÐµÐ»Ð¸ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS ['LEARNING_MODULE_NOT_FOUND'] = "Ìîäóëü îáó÷åíèÿ íå óñòàíîâëåí.";
+$MESS ['LEARNING_COURSE_LIST'] = "Ñïèñîê êóðñîâ";
+$MESS ['LEARNING_COURSES_NAV'] = "Êóðñû";
+$MESS ['LEARNING_COURSES_COURSE_ADD'] = "Äîáàâèòü êóðñ";
+$MESS ['LEARNING_PANEL_CONTROL_PANEL'] = "Ïàíåëü óïðàâëåíèÿ";
+$MESS ['LEARNING_PANEL_CONTROL_PANEL_ALT'] = "Ïåðåéòè â ïàíåëü óïðàâëåíèÿ";
+$MESS ['comp_course_list_toolbar_add'] = "Äîáàâèòü êóðñ";
+$MESS ['comp_course_list_toolbar_add_title'] = "Äîáàâèòü íîâûé êóðñ â ïàíåëè óïðàâëåíèÿ";
+$MESS ['comp_course_list_toolbar_list'] = "Óïðàâëåíèå êóðñàìè";
+$MESS ['comp_course_list_toolbar_list_title'] = "Ñïèñîê êóðñîâ â ïàíåëè óïðàâëåíèÿ";
 ?>

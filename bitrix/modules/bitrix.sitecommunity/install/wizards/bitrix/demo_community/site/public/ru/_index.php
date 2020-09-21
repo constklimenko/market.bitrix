@@ -1,5 +1,5 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ð—Ð°Ð¿Ð¸ÑÐ¸");
+$APPLICATION->SetTitle("Çàïèñè");
 ?> 
 <p><?
 $APPLICATION->IncludeComponent("bitrix:blog.new_posts.list", "general_page", array(

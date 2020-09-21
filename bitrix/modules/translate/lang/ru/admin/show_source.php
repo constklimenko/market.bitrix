@@ -1,6 +1,6 @@
 <?
-$MESS["TR_FILE_VIEW_PHPERROR"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ÑÐ¿Ð¾Ð»Ð½ÑÐµÐ¼Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ð°.";
-$MESS["TRANS_TITLE"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ PHP ÐºÐ¾Ð´Ð°";
-$MESS["TR_FILE_SOURCE_CODE"] = "PHP ÐºÐ¾Ð´:";
-$MESS["TR_LIST_COLUMN_LANGUAGE_ID"] = "Ð¯Ð·Ñ‹Ðº";
+$MESS["TR_FILE_VIEW_PHPERROR"] = "Íåäîñòàòî÷íî ïðàâ äëÿ ïðîñìîòðà èñïîëíÿåìîãî ôàéëà.";
+$MESS["TRANS_TITLE"] = "Ïðîñìîòð PHP êîäà";
+$MESS["TR_FILE_SOURCE_CODE"] = "PHP êîä:";
+$MESS["TR_LIST_COLUMN_LANGUAGE_ID"] = "ßçûê";
 ?>

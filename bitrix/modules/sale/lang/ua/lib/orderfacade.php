@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_GROUP_ACTION_ERR_ORDER_NOT_FOUND"] = "Р—Р°РјРѕРІР»РµРЅРЅСЏ РЅРµ Р·РЅР°Р№РґРµРЅРѕ";
-$MESS["SALE_GROUP_ACTION_ERR_PAYMENT_CREATE"] = "РџРѕРјРёР»РєР° РїСЂРё СЃС‚РІРѕСЂРµРЅРЅС– РѕРїР»Р°С‚Рё";
-$MESS["SALE_GROUP_ACTION_ERR_SHIPMENT_CREATE"] = "РџРѕРјРёР»РєР° РїСЂРё СЃС‚РІРѕСЂРµРЅРЅС– РІС–РґРІР°РЅС‚Р°Р¶РµРЅРЅСЏ";
+$MESS["SALE_GROUP_ACTION_ERR_ORDER_NOT_FOUND"] = "Замовлення не знайдено";
+$MESS["SALE_GROUP_ACTION_ERR_PAYMENT_CREATE"] = "Помилка при створенні оплати";
+$MESS["SALE_GROUP_ACTION_ERR_SHIPMENT_CREATE"] = "Помилка при створенні відвантаження";
 ?>

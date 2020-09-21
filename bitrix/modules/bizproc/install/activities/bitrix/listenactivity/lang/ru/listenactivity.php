@@ -1,3 +1,3 @@
 <?
-$MESS ['BPLA_INVALID_ACTIVITY'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ñ‚Ð¸Ð¿Ð° 'ListenActivity' Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑŒ Ð² ÑÐµÐ±Ðµ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ñ‚Ð¸Ð¿Ð° 'EventDrivenActivity'.";
+$MESS ['BPLA_INVALID_ACTIVITY'] = "Äåéñòâèå òèïà 'ListenActivity' ìîæåò ñîäåðæàòü â ñåáå òîëüêî äåéñòâèÿ òèïà 'EventDrivenActivity'.";
 ?>

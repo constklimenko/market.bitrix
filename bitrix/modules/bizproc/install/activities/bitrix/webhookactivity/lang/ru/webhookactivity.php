@@ -1,6 +1,6 @@
 <?
-$MESS ['BPWHA_HANDLER_NAME'] = "Ð¥ÐµÐ½Ð´Ð»ÐµÑ€";
-$MESS ['BPWHA_EMPTY_TEXT'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ…ÐµÐ½Ð´Ð»ÐµÑ€";
-$MESS ['BPWHA_HANDLER_WRONG_URL'] = "ÐÐµ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ñ…ÐµÐ½Ð´Ð»ÐµÑ€ URL";
-$MESS ['BPWHA_HANDLER_WRONG_PROTOCOL'] = "ÐÐµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÐ¼Ñ‹Ð¹ Ð¿Ñ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð» Ð´Ð»Ñ Ñ…ÐµÐ½Ð´Ð»ÐµÑ€ URL";
+$MESS ['BPWHA_HANDLER_NAME'] = "Õåíäëåð";
+$MESS ['BPWHA_EMPTY_TEXT'] = "Íå óêàçàí õåíäëåð";
+$MESS ['BPWHA_HANDLER_WRONG_URL'] = "Íå êîððåêòíûé õåíäëåð URL";
+$MESS ['BPWHA_HANDLER_WRONG_PROTOCOL'] = "Íå ïîääåðæèâàåìûé ïðîòîêîë äëÿ õåíäëåð URL";
 ?>

@@ -1,28 +1,28 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Ð–Ð¸Ð²Ð°Ñ Ð»ÐµÐ½Ñ‚Ð°", 
+		"Æèâàÿ ëåíòà", 
 		"#SEF_FOLDER#log/", 
 		Array("#SEF_FOLDER#index.php"), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ð›Ð¸Ñ‡Ð½Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°", 
+		"Ëè÷íàÿ ñòðàíèöà", 
 		"#SEF_FOLDER#user/index.php",
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"ÐÐ°Ð¹Ñ‚Ð¸ Ð»ÑŽÐ´ÐµÐ¹", 
+		"Íàéòè ëþäåé", 
 		"#SEF_FOLDER#search/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"ÐÐ°Ð¹Ñ‚Ð¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ", 
+		"Íàéòè ãðóïïó", 
 		"#SEF_FOLDER#group/search/", 
 		Array(), 
 		Array(), 

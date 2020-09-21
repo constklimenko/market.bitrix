@@ -1,5 +1,5 @@
 <?
-$MESS ['SONET_GROUPBAN_TEMPLATE_NAME'] = "Ð§ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['SONET_GROUPBAN_TEMPLATE_DESCRIPTION'] = "ÐŸÐ¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð¸ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ñ‡ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['SONET_NAME'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
+$MESS ['SONET_GROUPBAN_TEMPLATE_NAME'] = "×åðíûé ñïèñîê ãðóïïû";
+$MESS ['SONET_GROUPBAN_TEMPLATE_DESCRIPTION'] = "Ïîçâîëÿåò ïðîñìîòðåòü è èçìåíèòü ÷åðíûé ñïèñîê ãðóïïû";
+$MESS ['SONET_NAME'] = "Ñîöèàëüíàÿ ñåòü";
 ?>

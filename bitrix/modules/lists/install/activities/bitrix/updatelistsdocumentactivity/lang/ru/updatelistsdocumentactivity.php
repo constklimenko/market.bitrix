@@ -1,12 +1,12 @@
 <?
-$MESS['BPULDA_WRONG_TYPE'] = "Ð¢Ð¸Ð¿ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð° '#PARAM#' Ð½Ðµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½.";
-$MESS['BPULDA_FIELD_REQUIED'] = "ÐŸÐ¾Ð»Ðµ '#FIELD#' Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ð´Ð»Ñ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ.";
-$MESS['BPULDA_ERROR_DT'] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°.";
-$MESS['BPULDA_ERROR_ELEMENT_ID'] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾ ID ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS['BPULDA_ERROR_FIELDS'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ð¿Ð¾Ð»Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS['BPULDA_ELEMENT_ID'] = "ID ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS['BPULDA_DOC_TYPE'] = "Ð¢Ð¸Ð¿ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
-$MESS["BPULDA_DT_LISTS"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸";
-$MESS["BPULDA_DT_PROCESSES"] = "ÐŸÑ€Ð¾Ñ†ÐµÑÑÑ‹";
-$MESS["BPULDA_DT_LISTS_SOCNET"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸ Ð³Ñ€ÑƒÐ¿Ð¿ Ð¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð¾Ð²";
+$MESS['BPULDA_WRONG_TYPE'] = "Òèï ïàðàìåòðà '#PARAM#' íå îïðåäåëåí.";
+$MESS['BPULDA_FIELD_REQUIED'] = "Ïîëå '#FIELD#' îáÿçàòåëüíî äëÿ çàïîëíåíèÿ.";
+$MESS['BPULDA_ERROR_DT'] = "Íåêîððåêòíûé òèï äîêóìåíòà.";
+$MESS['BPULDA_ERROR_ELEMENT_ID'] = "Íå çàïîëíåíî ID ýëåìåíòà";
+$MESS['BPULDA_ERROR_FIELDS'] = "Íå óêàçàíû ïîëÿ ýëåìåíòà";
+$MESS['BPULDA_ELEMENT_ID'] = "ID ýëåìåíòà";
+$MESS['BPULDA_DOC_TYPE'] = "Òèï äîêóìåíòà";
+$MESS["BPULDA_DT_LISTS"] = "Ñïèñêè";
+$MESS["BPULDA_DT_PROCESSES"] = "Ïðîöåññû";
+$MESS["BPULDA_DT_LISTS_SOCNET"] = "Ñïèñêè ãðóïï è ïðîåêòîâ";
 ?>

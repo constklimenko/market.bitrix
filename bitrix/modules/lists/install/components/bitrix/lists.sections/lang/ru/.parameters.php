@@ -1,9 +1,9 @@
 <?
-$MESS ['CP_BLS_IBLOCK_TYPE_ID'] = "Ð¢Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
-$MESS ['CP_BLS_IBLOCK_ID'] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
-$MESS ['CP_BLS_SECTION_ID'] = "Ð Ð°Ð·Ð´ÐµÐ»";
-$MESS ['CP_BLS_LISTS_URL'] = "URL Ð³Ð»Ð°Ð²Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÐ¿Ð¸ÑÐºÐ¾Ð²";
-$MESS ['CP_BLS_LIST_EDIT_URL'] = "URL Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ¿Ð¸ÑÐºÐ°";
-$MESS ['CP_BLS_LIST_URL'] = "URL ÑÐ¿Ð¸ÑÐºÐ°";
-$MESS ['CP_BLS_LIST_SECTIONS_URL'] = "URL ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°Ð¼Ð¸";
+$MESS ['CP_BLS_IBLOCK_TYPE_ID'] = "Òèï èíôîáëîêà";
+$MESS ['CP_BLS_IBLOCK_ID'] = "Èíôîáëîê";
+$MESS ['CP_BLS_SECTION_ID'] = "Ðàçäåë";
+$MESS ['CP_BLS_LISTS_URL'] = "URL ãëàâíîé ñòðàíèöû ñïèñêîâ";
+$MESS ['CP_BLS_LIST_EDIT_URL'] = "URL íàñòðîéêè ñïèñêà";
+$MESS ['CP_BLS_LIST_URL'] = "URL ñïèñêà";
+$MESS ['CP_BLS_LIST_SECTIONS_URL'] = "URL óïðàâëåíèÿ ðàçäåëàìè";
 ?>

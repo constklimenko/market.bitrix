@@ -1,3 +1,3 @@
 <?
-$MESS['CR_PRICE'] = 'Ð¦ÐµÐ½Ð°';
+$MESS['CR_PRICE'] = 'Öåíà';
 ?>

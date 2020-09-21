@@ -1,10 +1,10 @@
 <?
-$MESS ['LEARNING_MYCOURSES_CODE'] = "ÐšÑƒÑ€Ñ";
-$MESS ['LEARNING_MYCOURSES_COURSE'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['LEARNING_MYCOURSES_SCORE'] = "Ð‘Ð°Ð»Ð»Ð¾Ð²";
-$MESS ['LEARNING_MYCOURSES_RESULT'] = "Ð—Ð°Ð²ÐµÑ€ÑˆÐµÐ½?";
-$MESS ['LEARNING_MYCOURSES_YES'] = "Ð”Ð°";
-$MESS ['LEARNING_MYCOURSES_NO'] = "ÐÐµÑ‚";
-$MESS ['LEARNING_MYCOURSES_NO_DATA'] = "ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
-$MESS ['LEARNING_MYCOURSES_NO_TESTS'] = "ÐÐµÑ‚ Ñ‚ÐµÑÑ‚Ð¾Ð²";
+$MESS ['LEARNING_MYCOURSES_CODE'] = "Êóðñ";
+$MESS ['LEARNING_MYCOURSES_COURSE'] = "Íàçâàíèå";
+$MESS ['LEARNING_MYCOURSES_SCORE'] = "Áàëëîâ";
+$MESS ['LEARNING_MYCOURSES_RESULT'] = "Çàâåðøåí?";
+$MESS ['LEARNING_MYCOURSES_YES'] = "Äà";
+$MESS ['LEARNING_MYCOURSES_NO'] = "Íåò";
+$MESS ['LEARNING_MYCOURSES_NO_DATA'] = "Íåò äàííûõ";
+$MESS ['LEARNING_MYCOURSES_NO_TESTS'] = "Íåò òåñòîâ";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["RSS_TITLE"] = "Ð˜Ð´ÐµÐ¸ / ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ \"#IDEA_CATEGORY#\"";
+$MESS["RSS_TITLE"] = "Èäåè / Êàòåãîðèÿ \"#IDEA_CATEGORY#\"";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS['IDEA_STATUS_ALL'] = 'Ð’ÑÐµ';
+$MESS['IDEA_STATUS_ALL'] = 'Âñå';
 ?>

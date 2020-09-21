@@ -1,15 +1,15 @@
 <?
-$MESS ['BPATL_MODIFIED'] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½";
-$MESS ['BPATL_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['BPATL_DESCRIPTION'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
-$MESS ['BPATL_EMPTY'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð´Ð°Ñ‡ Ð¿ÑƒÑÑ‚.";
-$MESS ['BPATL_DOCUMENT'] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚";
-$MESS ['BPATL_DOCUMENT_TITLE'] = "ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚";
-$MESS ['BPATL_CURRENT_TASKS'] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
-$MESS ['BPATL_FINISHED_TASKS'] = "ÐÑ€Ñ…Ð¸Ð² Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹";
-$MESS ['BPWC_WLCT_TOTAL'] = "Ð’ÑÐµÐ³Ð¾";
-$MESS ['BPATL_GROUP_ACTION_YES'] = "Ð£Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ";
-$MESS ['BPATL_GROUP_ACTION_NO'] = "ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ";
-$MESS ['BPATL_GROUP_ACTION_OK'] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ";
-$MESS ['BPATL_GROUP_ACTION_DELEGATE'] = "Ð”ÐµÐ»ÐµÐ³Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS ['BPATL_MODIFIED'] = "Èçìåíåí";
+$MESS ['BPATL_NAME'] = "Íàçâàíèå";
+$MESS ['BPATL_DESCRIPTION'] = "Îïèñàíèå";
+$MESS ['BPATL_EMPTY'] = "Ñïèñîê çàäà÷ ïóñò.";
+$MESS ['BPATL_DOCUMENT'] = "Äîêóìåíò";
+$MESS ['BPATL_DOCUMENT_TITLE'] = "Ïîñìîòðåòü äîêóìåíò";
+$MESS ['BPATL_CURRENT_TASKS'] = "Òåêóùèå çàäàíèÿ";
+$MESS ['BPATL_FINISHED_TASKS'] = "Àðõèâ çàäàíèé";
+$MESS ['BPWC_WLCT_TOTAL'] = "Âñåãî";
+$MESS ['BPATL_GROUP_ACTION_YES'] = "Óòâåðäèòü";
+$MESS ['BPATL_GROUP_ACTION_NO'] = "Îòêëîíèòü";
+$MESS ['BPATL_GROUP_ACTION_OK'] = "Âûïîëíèòü";
+$MESS ['BPATL_GROUP_ACTION_DELEGATE'] = "Äåëåãèðîâàòü";
 ?>

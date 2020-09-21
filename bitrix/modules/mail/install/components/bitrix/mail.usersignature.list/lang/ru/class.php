@@ -1,9 +1,9 @@
 <?php
-$MESS["MAIL_USERSIGNATURE_MODULE_ERROR"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"ÐŸÐ¾Ñ‡Ñ‚Ð°\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
-$MESS["MAIL_USERSIGNATURE_LIST_TITLE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð´Ð¿Ð¸ÑÐµÐ¹";
-$MESS["MAIL_USERSIGNATURE_LIST_SENDER"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ";
-$MESS["MAIL_USERSIGNATURE_LIST_SIGNATURE"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ";
-$MESS["MAIL_USERSIGNATURE_LIST_DEFAULT"] = "Ð”Ð»Ñ Ð²ÑÐµÑ…";
-$MESS["MAIL_USERSIGNATURE_ADD_BUTTON"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÑŒ";
-$MESS["MAIL_USERSIGNATURE_DELETE_ACTION"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
-$MESS["MAIL_USERSIGNATURE_EDIT_ACTION"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["MAIL_USERSIGNATURE_MODULE_ERROR"] = "Ìîäóëü \"Ïî÷òà\" íå óñòàíîâëåí";
+$MESS["MAIL_USERSIGNATURE_LIST_TITLE"] = "Ñïèñîê ïîäïèñåé";
+$MESS["MAIL_USERSIGNATURE_LIST_SENDER"] = "Îòïðàâèòåëü";
+$MESS["MAIL_USERSIGNATURE_LIST_SIGNATURE"] = "Ïîäïèñü";
+$MESS["MAIL_USERSIGNATURE_LIST_DEFAULT"] = "Äëÿ âñåõ";
+$MESS["MAIL_USERSIGNATURE_ADD_BUTTON"] = "Äîáàâèòü ïîäïèñü";
+$MESS["MAIL_USERSIGNATURE_DELETE_ACTION"] = "Óäàëèòü";
+$MESS["MAIL_USERSIGNATURE_EDIT_ACTION"] = "Ðåäàêòèðîâàòü";

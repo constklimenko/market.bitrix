@@ -1,5 +1,5 @@
 <?
-$MESS["IDEA_POPUP_COMPONENT"] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð¸Ð´ÐµÐ¸ (popup)";
-$MESS["IDEA_POPUP_COMPONENT_DESCRIPTION"] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð¸Ð´ÐµÐ¸ Ð²Ð¾ Ð²ÑÐ¿Ð»Ñ‹Ð²Ð°ÑŽÑ‰ÐµÐ¼ Ð¾ÐºÐ½Ðµ (popup)";
-$MESS ['IDEA'] = "ÐœÐµÐ½ÐµÐ´Ð¶ÐµÑ€ Ð¸Ð´ÐµÐ¹";
+$MESS["IDEA_POPUP_COMPONENT"] = "Ôîðìà äîáàâëåíèè èäåè (popup)";
+$MESS["IDEA_POPUP_COMPONENT_DESCRIPTION"] = "Ôîðìà äîáàâëåíèè èäåè âî âñïëûâàþùåì îêíå (popup)";
+$MESS ['IDEA'] = "Ìåíåäæåð èäåé";
 ?>

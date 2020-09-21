@@ -1,19 +1,19 @@
 <?
-$MESS["ONE_BLOG_BLOG_URL"] = "Ð‘Ð»Ð¾Ð³";
-$MESS["BC_POST_IBLOCK_CATEGORIES"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº, Ð² ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¼ Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑÑ ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð° ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¹";
-$MESS["IDEA_PARAM_POST_BIND_STATUS_DEFAULT"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ Ð´Ð»Ñ Ð½Ð¾Ð²Ð¾Ð¹ Ð¸Ð´ÐµÐ¸";
-$MESS["BC_MESSAGE_COUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¸Ð´ÐµÐ¹ Ð² ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸";
-$MESS["CATEGORIES_CNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¹";
-$MESS["B_SHOW_RATING"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð¸";
-$MESS["IDEA_PARAM_RATING_TEMPLATE_TITLE"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð¾Ð²";
-$MESS["IDEA_PARAM_AUTH_TEMPLATE"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ñ„Ð¾Ñ€Ð¼Ñ‹ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸";
-$MESS["IDEA_PARAM_RATING_TEMPLATE_STANDART"] = "Ð¡Ñ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ñ‹Ð¹";
-$MESS["IDEA_PARAM_RATING_TEMPLATE_LIKE"] = "ÐœÐ½Ðµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ(Ð»ÐµÐ³ÐºÐ¸Ð¹)";
-$MESS["IDEA_PARAM_PATH_IDEA_INDEX"] = "ÐŸÑƒÑ‚ÑŒ Ðº ÑÐ¿Ð¸ÑÐºÑƒ Ð¸Ð´ÐµÐ¹";
-$MESS["IDEA_PARAM_PATH_IDEA_POST"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ð¼Ñƒ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸ÑŽ Ð¸Ð´ÐµÐ¸";
-$MESS["IDEA_PARAM_BUTTON_COLOR"] = "Ð¦Ð²ÐµÑ‚ Ñ„Ð¾Ð½Ð° ÐºÐ½Ð¾Ð¿ÐºÐ¸";
-$MESS["IDEA_PARAM_REGISTER_URL"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸";
-$MESS["IDEA_PARAM_FORGOT_PASSWORD_URL"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð·Ð°Ð±Ñ‹Ñ‚Ð¾Ð³Ð¾ Ð¿Ð°Ñ€Ð¾Ð»Ñ";
-$MESS["IDEA_DISABLE_SONET_LOG"] = "ÐžÑ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ Ð² Ð¶Ð¸Ð²ÑƒÑŽ Ð»ÐµÐ½Ñ‚Ñƒ";
-$MESS["IDEA_DISABLE_EMAIL"] = "ÐžÑ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ðµ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
+$MESS["ONE_BLOG_BLOG_URL"] = "Áëîã";
+$MESS["BC_POST_IBLOCK_CATEGORIES"] = "Èíôîáëîê, â êîòîðîì õðàíèòñÿ ñòðóêòóðà êàòåãîðèé";
+$MESS["IDEA_PARAM_POST_BIND_STATUS_DEFAULT"] = "Ñòàòóñ ïî óìîë÷àíèþ äëÿ íîâîé èäåè";
+$MESS["BC_MESSAGE_COUNT"] = "Êîëè÷åñòâî èäåé â êàòåãîðèè";
+$MESS["CATEGORIES_CNT"] = "Êîëè÷åñòâî êàòåãîðèé";
+$MESS["B_SHOW_RATING"] = "Èñïîëüçîâàòü ðåéòèíãè";
+$MESS["IDEA_PARAM_RATING_TEMPLATE_TITLE"] = "Øàáëîí ðåéòèíãîâ";
+$MESS["IDEA_PARAM_AUTH_TEMPLATE"] = "Øàáëîí ôîðìû àâòîðèçàöèè";
+$MESS["IDEA_PARAM_RATING_TEMPLATE_STANDART"] = "Ñòàíäàðòíûé";
+$MESS["IDEA_PARAM_RATING_TEMPLATE_LIKE"] = "Ìíå íðàâèòñÿ(ëåãêèé)";
+$MESS["IDEA_PARAM_PATH_IDEA_INDEX"] = "Ïóòü ê ñïèñêó èäåé";
+$MESS["IDEA_PARAM_PATH_IDEA_POST"] = "Ïóòü ê äåòàëüíîìó îïèñàíèþ èäåè";
+$MESS["IDEA_PARAM_BUTTON_COLOR"] = "Öâåò ôîíà êíîïêè";
+$MESS["IDEA_PARAM_REGISTER_URL"] = "Ñòðàíèöà ðåãèñòðàöèè";
+$MESS["IDEA_PARAM_FORGOT_PASSWORD_URL"] = "Ñòðàíèöà çàáûòîãî ïàðîëÿ";
+$MESS["IDEA_DISABLE_SONET_LOG"] = "Îòêëþ÷èòü óâåäîìëåíèÿ â æèâóþ ëåíòó";
+$MESS["IDEA_DISABLE_EMAIL"] = "Îòêëþ÷èòü ïî÷òîâûå óâåäîìëåíèÿ";
 ?>

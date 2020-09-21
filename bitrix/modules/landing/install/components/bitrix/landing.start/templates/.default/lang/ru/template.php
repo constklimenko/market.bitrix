@@ -1,17 +1,17 @@
 <?php
-$MESS['LANDING_TPL_ADD_SITE'] = 'РЎРѕР·РґР°С‚СЊ СЃР°Р№С‚';
-$MESS['LANDING_TPL_ADD_SITE_PAGE'] = 'РЎРѕР·РґР°С‚СЊ СЃР°Р№С‚';
-$MESS['LANDING_TPL_ADD_SITE_STORE'] = 'РЎРѕР·РґР°С‚СЊ РјР°РіР°Р·РёРЅ';
-$MESS['LANDING_TPL_ADD_SITE_KNOWLEDGE'] = 'РЎРѕР·РґР°С‚СЊ Р±Р°Р·Сѓ Р·РЅР°РЅРёР№';
-$MESS['LANDING_TPL_ADD_PAGE'] = 'РќРѕРІР°СЏ СЃС‚СЂР°РЅРёС†Р°';
-$MESS['LANDING_TPL_ACCEPT'] = 'РЇ СЃРѕРіР»Р°СЃРµРЅ';
-$MESS['LANDING_TPL_JS_PAY_TARIFF'] = 'РџРµСЂРµР№С‚Рё РЅР° СЂР°СЃС€РёСЂРµРЅРЅС‹Р№ С‚Р°СЂРёС„';
-$MESS['LANDING_TPL_JS_PAY_TARIFF_TITLE'] = 'РћРіСЂР°РЅРёС‡РµРЅРёРµ РїРѕ С‚Р°СЂРёС„Сѓ';
-$MESS['LANDING_TPL_MENU_SITES'] = 'РЎРїРёСЃРѕРє СЃР°Р№С‚РѕРІ';
-$MESS['LANDING_TPL_MENU_SITES_KNOWLEDGE'] = 'Р‘Р°Р·Р° Р·РЅР°РЅРёР№';
-$MESS['LANDING_TPL_MENU_RIGHTS'] = 'РџСЂР°РІР° РґРѕСЃС‚СѓРїР°';
-$MESS['LANDING_TPL_SETTING_SITE'] = 'РќР°СЃС‚СЂРѕР№РєРё СЃР°Р№С‚Р°';
-$MESS['LANDING_TPL_SETTING_CATALOG'] = 'РќР°СЃС‚СЂРѕР№РєРё РєР°С‚Р°Р»РѕРіР°';
-$MESS['LANDING_ROLES_UNAVAILABLE'] = '<p>РќР° РІР°С€РµРј С‚Р°СЂРёС„РЅРѕРј РїР»Р°РЅРµ РµСЃС‚СЊ РѕРіСЂР°РЅРёС‡РµРЅРёРµ РЅР° СЂР°СЃРїСЂРµРґРµР»РµРЅРёРµ РїСЂР°РІ РґРѕСЃС‚СѓРїР°.</p>
-<p>РџСЂР°РІР° РґРѕСЃС‚СѓРїР° РїРѕР·РІРѕР»СЏС‚ СѓРєР°Р·Р°С‚СЊ, РєС‚Рѕ РёР· СЃРѕС‚СЂСѓРґРЅРёРєРѕРІ Р±СѓРґРµС‚ РІРёРґРµС‚СЊ СЂР°Р·РґРµР» &laquo;РЎР°Р№С‚С‹&raquo; РІ Р»РµРІРѕРј РјРµРЅСЋ, Р° РєС‚Рѕ СЂРµРґР°РєС‚РёСЂРѕРІР°С‚СЊ РёР»Рё РїСѓР±Р»РёРєРѕРІР°С‚СЊ СЃРѕРґРµСЂР¶РёРјРѕРµ СЂР°Р·РґРµР»Р°.</p> 
-<p>Р§С‚РѕР±С‹ РёР·РјРµРЅРёС‚СЊ РїСЂР°РІР° РґРѕСЃС‚СѓРїР° РїРµСЂРµР№РґРёС‚Рµ РЅР° РґСЂСѓРіРѕР№ С‚Р°СЂРёС„РЅС‹Р№ РїР»Р°РЅ.</p>';
+$MESS['LANDING_TPL_ADD_SITE'] = 'Создать сайт';
+$MESS['LANDING_TPL_ADD_SITE_PAGE'] = 'Создать сайт';
+$MESS['LANDING_TPL_ADD_SITE_STORE'] = 'Создать магазин';
+$MESS['LANDING_TPL_ADD_SITE_KNOWLEDGE'] = 'Создать базу знаний';
+$MESS['LANDING_TPL_ADD_PAGE'] = 'Новая страница';
+$MESS['LANDING_TPL_ACCEPT'] = 'Я согласен';
+$MESS['LANDING_TPL_JS_PAY_TARIFF'] = 'Перейти на расширенный тариф';
+$MESS['LANDING_TPL_JS_PAY_TARIFF_TITLE'] = 'Ограничение по тарифу';
+$MESS['LANDING_TPL_MENU_SITES'] = 'Список сайтов';
+$MESS['LANDING_TPL_MENU_SITES_KNOWLEDGE'] = 'База знаний';
+$MESS['LANDING_TPL_MENU_RIGHTS'] = 'Права доступа';
+$MESS['LANDING_TPL_SETTING_SITE'] = 'Настройки сайта';
+$MESS['LANDING_TPL_SETTING_CATALOG'] = 'Настройки каталога';
+$MESS['LANDING_ROLES_UNAVAILABLE'] = '<p>На вашем тарифном плане есть ограничение на распределение прав доступа.</p>
+<p>Права доступа позволят указать, кто из сотрудников будет видеть раздел &laquo;Сайты&raquo; в левом меню, а кто редактировать или публиковать содержимое раздела.</p> 
+<p>Чтобы изменить права доступа перейдите на другой тарифный план.</p>';

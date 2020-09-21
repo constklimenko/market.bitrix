@@ -1,16 +1,16 @@
 <?
-$MESS["CC_BLF_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["CC_BLF_WRONG_IBLOCK_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°.";
-$MESS["CC_BLF_WRONG_IBLOCK"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº.";
-$MESS["CC_BLF_LISTS_FOR_SONET_GROUP_DISABLED"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» ÑÐ¿Ð¸ÑÐºÐ¾Ð² Ð´Ð»Ñ ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½.";
-$MESS["CC_BLF_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
-$MESS["CC_BLF_ACCESS_DENIED"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ¿Ð¸ÑÐºÐ°.";
-$MESS["CC_BLF_TITLE_EDIT"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð¾Ð»ÐµÐ¹ ÑÐ¿Ð¸ÑÐºÐ°: #NAME#";
-$MESS["CC_BLF_CHAIN_EDIT"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° ÑÐ¿Ð¸ÑÐºÐ°";
-$MESS["CC_BLF_ACTION_MENU_EDIT"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
-$MESS["CC_BLF_ACTION_MENU_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
-$MESS["CC_BLF_ACTION_MENU_DELETE_CONF"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾ Ð¿Ð¾Ð»Ðµ?";
-$MESS["CC_BLF_CHAIN_FIELDS"] = "ÐŸÐ¾Ð»Ñ ÑÐ¿Ð¸ÑÐºÐ°";
-$MESS["CC_BLF_TITLE_EDIT_PROCESS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð¾Ð»ÐµÐ¹ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°: #NAME#";
-$MESS["CC_BLF_TITLE_FIELDS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð¾Ð»ÐµÐ¹: #NAME#";
+$MESS["CC_BLF_MODULE_NOT_INSTALLED"] = "Ìîäóëü óíèâåðñàëüíûõ ñïèñêîâ íå óñòàíîâëåí.";
+$MESS["CC_BLF_WRONG_IBLOCK_TYPE"] = "Íåâåðíûé òèï èíôîðìàöèîííîãî áëîêà.";
+$MESS["CC_BLF_WRONG_IBLOCK"] = "Óêàçàí íåâåðíûé ñïèñîê.";
+$MESS["CC_BLF_LISTS_FOR_SONET_GROUP_DISABLED"] = "Ôóíêöèîíàë ñïèñêîâ äëÿ ýòîé ãðóïïû îòêëþ÷åí.";
+$MESS["CC_BLF_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà.";
+$MESS["CC_BLF_ACCESS_DENIED"] = "Íåò ïðàâ äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ ñïèñêà.";
+$MESS["CC_BLF_TITLE_EDIT"] = "Íàñòðîéêà ïîëåé ñïèñêà: #NAME#";
+$MESS["CC_BLF_CHAIN_EDIT"] = "Íàñòðîéêà ñïèñêà";
+$MESS["CC_BLF_ACTION_MENU_EDIT"] = "Èçìåíèòü";
+$MESS["CC_BLF_ACTION_MENU_DELETE"] = "Óäàëèòü";
+$MESS["CC_BLF_ACTION_MENU_DELETE_CONF"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòî ïîëå?";
+$MESS["CC_BLF_CHAIN_FIELDS"] = "Ïîëÿ ñïèñêà";
+$MESS["CC_BLF_TITLE_EDIT_PROCESS"] = "Íàñòðîéêà ïîëåé ïðîöåññà: #NAME#";
+$MESS["CC_BLF_TITLE_FIELDS"] = "Íàñòðîéêà ïîëåé: #NAME#";
 ?>

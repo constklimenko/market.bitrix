@@ -1,3 +1,3 @@
 <?
-$MESS["IM_REPLICA_FILE"] = "Π€Π°ΠΉΠ»";
+$MESS["IM_REPLICA_FILE"] = "Τΰιλ";
 ?>

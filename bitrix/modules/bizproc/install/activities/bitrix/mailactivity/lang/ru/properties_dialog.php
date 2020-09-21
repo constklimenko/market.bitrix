@@ -1,17 +1,17 @@
 <?
-$MESS["BPMA_PD_CP"] = "ÐšÐ¾Ð´Ð¸Ñ€Ð¾Ð²ÐºÐ°";
-$MESS["BPMA_PD_BODY"] = "Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BPMA_PD_MESS_TYPE"] = "Ð¢Ð¸Ð¿ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BPMA_PD_TO"] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BPMA_PD_FROM"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BPMA_PD_SUBJECT"] = "Ð¢ÐµÐ¼Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BPMA_PD_TEXT"] = "Ð¢ÐµÐºÑÑ‚";
-$MESS["BPMA_PD_DIRRECT_MAIL"] = "Ð¡Ð¿Ð¾ÑÐ¾Ð± Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸";
-$MESS["BPMA_PD_DIRRECT_MAIL_Y"] = "ÐŸÑ€ÑÐ¼Ð°Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ°";
-$MESS["BPMA_PD_DIRRECT_MAIL_N"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²ÐºÐ° Ñ‡ÐµÑ€ÐµÐ· ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
-$MESS["BPMA_PD_MAIL_SITE"] = "Ð¡Ð°Ð¹Ñ‚ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["BPMA_PD_MAIL_SITE_OTHER"] = "Ð´Ñ€ÑƒÐ³Ð¾Ð¹";
-$MESS["BPMA_PD_MAIL_SEPARATOR"] = "Ð Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ñ… Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
-$MESS["BPMA_PD_FILE"] = "Ð’Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
-$MESS["BPMA_PD_FILE_SELECT"] = "Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["BPMA_PD_CP"] = "Êîäèðîâêà";
+$MESS["BPMA_PD_BODY"] = "Òåêñò ñîîáùåíèÿ";
+$MESS["BPMA_PD_MESS_TYPE"] = "Òèï ñîîáùåíèÿ";
+$MESS["BPMA_PD_TO"] = "Ïîëó÷àòåëü ñîîáùåíèÿ";
+$MESS["BPMA_PD_FROM"] = "Îòïðàâèòåëü ñîîáùåíèÿ";
+$MESS["BPMA_PD_SUBJECT"] = "Òåìà ñîîáùåíèÿ";
+$MESS["BPMA_PD_TEXT"] = "Òåêñò";
+$MESS["BPMA_PD_DIRRECT_MAIL"] = "Ñïîñîá îòïðàâêè";
+$MESS["BPMA_PD_DIRRECT_MAIL_Y"] = "Ïðÿìàÿ îòïðàâêà";
+$MESS["BPMA_PD_DIRRECT_MAIL_N"] = "Îòïðàâêà ÷åðåç ñèñòåìó ñîîáùåíèé";
+$MESS["BPMA_PD_MAIL_SITE"] = "Ñàéò øàáëîíà ñîîáùåíèÿ";
+$MESS["BPMA_PD_MAIL_SITE_OTHER"] = "äðóãîé";
+$MESS["BPMA_PD_MAIL_SEPARATOR"] = "Ðàçäåëèòåëü ïî÷òîâûõ àäðåñîâ";
+$MESS["BPMA_PD_FILE"] = "Âëîæåíèÿ";
+$MESS["BPMA_PD_FILE_SELECT"] = "âûáðàòü";
 ?>

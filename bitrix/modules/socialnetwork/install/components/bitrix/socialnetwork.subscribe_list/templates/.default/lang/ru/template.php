@@ -1,19 +1,19 @@
 <?
-$MESS["SONET_C30_T_all"] = "Ð’ÑÐµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS["SONET_C30_T_INHERITED"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
-$MESS["SONET_C30_T_SUBMIT"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
-$MESS["SONET_C30_T_VISIBLE_Y"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ";
-$MESS["SONET_C30_T_VISIBLE_N"] = "Ð¡ÐºÑ€Ñ‹Ð²Ð°Ñ‚ÑŒ";
-$MESS["SONET_C30_T_TRANSPORT_N"] = "ÐÐµ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÑÑ‚ÑŒ";
-$MESS["SONET_C30_T_TRANSPORT_M"] = "Ð£Ð²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð¾ e-mail";
-$MESS["SONET_C30_T_TRANSPORT_X"] = "ÐœÐ³Ð½Ð¾Ð²ÐµÐ½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
-$MESS["SONET_C30_T_TRANSPORT_D"] = "Ð•Ð¶ÐµÐ´Ð½ÐµÐ²Ð½Ñ‹Ð¹ Ð´Ð°Ð¹Ð´Ð¶ÐµÑÑ‚";
-$MESS["SONET_C30_T_TRANSPORT_E"] = "Ð•Ð¶ÐµÐ½ÐµÐ´ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð´Ð°Ð¹Ð´Ð¶ÐµÑÑ‚";
-$MESS["SONET_C30_NO_SUBSCRIPTIONS"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¾Ðº";
-$MESS["SONET_C30_CREATED_BY"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° Ð½Ð° Ð°Ð²Ñ‚Ð¾Ñ€Ð¾Ð²";
-$MESS["SONET_C30_SUBHEADER_G"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ð°Ñ…";
-$MESS["SONET_C30_SUBHEADER_U"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð² Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑÑ… Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
-$MESS["SONET_C30_SUBHEADER_OTHER"] = "ÐžÑÑ‚Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS["SONET_C30_SHOW_IN_LIST"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð² Ð–Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ðµ";
-$MESS["SONET_C30_DELETE_SUBSCRIPTION"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÑƒ";
+$MESS["SONET_C30_T_all"] = "Âñå ñîáûòèÿ";
+$MESS["SONET_C30_T_INHERITED"] = "Ïî óìîë÷àíèþ";
+$MESS["SONET_C30_T_SUBMIT"] = "Ñîõðàíèòü èçìåíåíèÿ";
+$MESS["SONET_C30_T_VISIBLE_Y"] = "Ïîêàçûâàòü";
+$MESS["SONET_C30_T_VISIBLE_N"] = "Ñêðûâàòü";
+$MESS["SONET_C30_T_TRANSPORT_N"] = "Íå óâåäîìëÿòü";
+$MESS["SONET_C30_T_TRANSPORT_M"] = "Óâåäîìëåíèå ïî e-mail";
+$MESS["SONET_C30_T_TRANSPORT_X"] = "Ìãíîâåííîå ñîîáùåíèå";
+$MESS["SONET_C30_T_TRANSPORT_D"] = "Åæåäíåâíûé äàéäæåñò";
+$MESS["SONET_C30_T_TRANSPORT_E"] = "Åæåíåäåëüíûé äàéäæåñò";
+$MESS["SONET_C30_NO_SUBSCRIPTIONS"] = "Íåò äîñòóïíûõ ïîäïèñîê";
+$MESS["SONET_C30_CREATED_BY"] = "Ïîäïèñêà íà àâòîðîâ";
+$MESS["SONET_C30_SUBHEADER_G"] = "Ñîáûòèÿ â ãðóïïàõ";
+$MESS["SONET_C30_SUBHEADER_U"] = "Ñîáûòèÿ â ïðîôèëÿõ ïîëüçîâàòåëåé";
+$MESS["SONET_C30_SUBHEADER_OTHER"] = "Îñòàëüíûå ñîáûòèÿ";
+$MESS["SONET_C30_SHOW_IN_LIST"] = "Ïîêàçûâàòü â Æèâîé ëåíòå";
+$MESS["SONET_C30_DELETE_SUBSCRIPTION"] = "Óäàëèòü ïîäïèñêó";
 ?>

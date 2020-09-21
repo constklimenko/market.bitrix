@@ -2,7 +2,7 @@
 $aMenuLinks = Array(
 
 	Array(
-		"РљР°Рє СЃРґРµР»Р°С‚СЊ СЃРІРѕР№ РєРѕРјРїРѕРЅРµРЅС‚?",
+		"Как сделать свой компонент?",
 		"/examples/my-components/",
 		Array(),
 		Array(),
@@ -10,7 +10,7 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"РЎРїРёСЃРѕРє РЅРѕРІРѕСЃС‚РµР№",
+		"Список новостей",
 		"/examples/my-components/news_list.php",
 		Array(),
 		Array(),
@@ -18,7 +18,7 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"РќРѕРІРѕСЃС‚СЊ РґРµС‚Р°Р»СЊРЅРѕ",
+		"Новость детально",
 		"/examples/my-components/news_detail.php?ID=#IBLOCK_ELEMENT.ID(IBLOCK_XML_ID=content-news)#",
 		Array("/examples/my-components/news_detail.php"),
 		Array(),
@@ -26,7 +26,7 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"РљРѕРјРїР»РµРєСЃРЅС‹Р№ РєРѕРјРїРѕРЅРµРЅС‚",
+		"Комплексный компонент",
 		"/examples/my-components/news_composite.php",
 		Array(),
 		Array(),
@@ -34,7 +34,7 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"РљРѕРјРїР»РµРєСЃРЅС‹Р№ РєРѕРјРїРѕРЅРµРЅС‚. Р§РџРЈ",
+		"Комплексный компонент. ЧПУ",
 		"/examples/my-components/news/",
 		Array(),
 		Array(),

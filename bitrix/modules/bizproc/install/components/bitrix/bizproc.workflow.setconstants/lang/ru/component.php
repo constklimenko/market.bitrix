@@ -1,6 +1,6 @@
 <?
-$MESS ['BPWFSC_PAGE_TITLE'] = "#NAME#: ÐšÐ¾Ð½ÑÑ‚Ð°Ð½Ñ‚Ñ‹ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";
-$MESS ['BPWFSC_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
-$MESS ['BPWFSC_ARGUMENT_NULL'] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ '#PARAM#'.";
+$MESS ['BPWFSC_PAGE_TITLE'] = "#NAME#: Êîíñòàíòû áèçíåñ-ïðîöåññà";
+$MESS ['BPWFSC_ERROR'] = "Îøèáêà";
+$MESS ['BPWFSC_ARGUMENT_NULL'] = "Íå çàïîëíåíî îáÿçàòåëüíîå çíà÷åíèå '#PARAM#'.";
 $MESS ['BPWFSC_ARGUMENT_ERROR'] = "#PARAM#: #ERROR#";
 ?>

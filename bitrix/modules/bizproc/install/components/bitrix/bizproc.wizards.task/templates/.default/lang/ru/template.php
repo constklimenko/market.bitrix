@@ -1,6 +1,6 @@
 <?
-$MESS ['BPWC_WTCT_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['BPWC_WTCT_DESCR'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
-$MESS ['BPWTC_WRCT_2LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð²";
-$MESS ['BPWTC_WRCT_SUBTITLE'] = "Ð—Ð°Ð´Ð°Ð½Ð¸Ðµ";
+$MESS ['BPWC_WTCT_NAME'] = "Íàçâàíèå";
+$MESS ['BPWC_WTCT_DESCR'] = "Îïèñàíèå";
+$MESS ['BPWTC_WRCT_2LIST'] = "Ñïèñîê áèçíåñ-ïðîöåññîâ";
+$MESS ['BPWTC_WRCT_SUBTITLE'] = "Çàäàíèå";
 ?>

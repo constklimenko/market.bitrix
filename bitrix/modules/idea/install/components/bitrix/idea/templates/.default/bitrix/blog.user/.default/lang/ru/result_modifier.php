@@ -1,19 +1,19 @@
 <?
-$MESS["IDEA_USER_INFO_LAST_ACTIVITY_DATE_TITLE"] = "Ð”Ð°Ñ‚Ð° Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ð²Ñ…Ð¾Ð´Ð°";
-$MESS["IDEA_USER_INFO_WORK_COMPANY_TITLE"] = "ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
-$MESS["IDEA_USER_INFO_PERSONAL_PHONE_TITLE"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½";
-$MESS["IDEA_USER_INFO_PERSONAL_CITY_TITLE"] = "Ð“Ð¾Ñ€Ð¾Ð´";
-$MESS["IDEA_USER_INFO_PERSONAL_STATE_TITLE"] = "ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ / ÐºÑ€Ð°Ð¹";
-$MESS["IDEA_USER_INFO_PERSONAL_COUNTRY_TITLE"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð°";
-$MESS["IDEA_USER_INFO_WORK_POSITION_TITLE"] = "Ð”Ð¾Ð»Ð¶Ð½Ð¾ÑÑ‚ÑŒ Ð² ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
-$MESS["IDEA_USER_INFO_WORK_WWW_TITLE"] = "WWW-ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
-$MESS["IDEA_USER_INFO_WORK_PHONE_TITLE"] = "Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½";
-$MESS["IDEA_USER_INFO_WORK_CITY_TITLE"] = "Ð“Ð¾Ñ€Ð¾Ð´ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
-$MESS["IDEA_USER_INFO_WORK_STATE_TITLE"] = "ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ / ÐºÑ€Ð°Ð¹ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
-$MESS["IDEA_USER_INFO_WORK_COUNTRY_TITLE"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð° ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
-$MESS["IDEA_USER_INFO_WORK_PROFILE_TITLE"] = "ÐÐ°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð´ÐµÑÑ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚Ð¸ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
-$MESS["IDEA_USER_INFO_DATE_REGISTER_TITLE"] = "Ð”Ð°Ñ‚Ð° Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸";
-$MESS["IDEA_USER_INFO_PERSONAL_GENDER_TITLE"] = "ÐŸÐ¾Ð»";
-$MESS["IDEA_USER_INFO_PERSONAL_BIRTHDATE_TITLE"] = "Ð”ÐµÐ½ÑŒ Ñ€Ð¾Ð¶Ð´ÐµÐ½Ð¸Ñ";
-$MESS["IDEA_USER_INFO_SECOND_NAME_TITLE"] = "ÐžÑ‚Ñ‡ÐµÑÑ‚Ð²Ð¾";
+$MESS["IDEA_USER_INFO_LAST_ACTIVITY_DATE_TITLE"] = "Äàòà ïîñëåäíåãî âõîäà";
+$MESS["IDEA_USER_INFO_WORK_COMPANY_TITLE"] = "Íàèìåíîâàíèå êîìïàíèè";
+$MESS["IDEA_USER_INFO_PERSONAL_PHONE_TITLE"] = "Òåëåôîí";
+$MESS["IDEA_USER_INFO_PERSONAL_CITY_TITLE"] = "Ãîðîä";
+$MESS["IDEA_USER_INFO_PERSONAL_STATE_TITLE"] = "Îáëàñòü / êðàé";
+$MESS["IDEA_USER_INFO_PERSONAL_COUNTRY_TITLE"] = "Ñòðàíà";
+$MESS["IDEA_USER_INFO_WORK_POSITION_TITLE"] = "Äîëæíîñòü â êîìïàíèè";
+$MESS["IDEA_USER_INFO_WORK_WWW_TITLE"] = "WWW-ñòðàíèöà êîìïàíèè";
+$MESS["IDEA_USER_INFO_WORK_PHONE_TITLE"] = "Ðàáî÷èé òåëåôîí";
+$MESS["IDEA_USER_INFO_WORK_CITY_TITLE"] = "Ãîðîä êîìïàíèè";
+$MESS["IDEA_USER_INFO_WORK_STATE_TITLE"] = "Îáëàñòü / êðàé êîìïàíèè";
+$MESS["IDEA_USER_INFO_WORK_COUNTRY_TITLE"] = "Ñòðàíà êîìïàíèè";
+$MESS["IDEA_USER_INFO_WORK_PROFILE_TITLE"] = "Íàïðàâëåíèÿ äåÿòåëüíîñòè êîìïàíèè";
+$MESS["IDEA_USER_INFO_DATE_REGISTER_TITLE"] = "Äàòà ðåãèñòðàöèè";
+$MESS["IDEA_USER_INFO_PERSONAL_GENDER_TITLE"] = "Ïîë";
+$MESS["IDEA_USER_INFO_PERSONAL_BIRTHDATE_TITLE"] = "Äåíü ðîæäåíèÿ";
+$MESS["IDEA_USER_INFO_SECOND_NAME_TITLE"] = "Îò÷åñòâî";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS["SONET_GCE_T_TYPE_SUBTITLE_GROUP"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ‚Ð¸Ð¿ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS["SONET_GCE_T_TYPE_SUBTITLE_PROJECT"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ‚Ð¸Ð¿ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð°";
+$MESS["SONET_GCE_T_TYPE_SUBTITLE_GROUP"] = "Âûáåðèòå òèï ãðóïïû";
+$MESS["SONET_GCE_T_TYPE_SUBTITLE_PROJECT"] = "Âûáåðèòå òèï ïðîåêòà";
 ?>

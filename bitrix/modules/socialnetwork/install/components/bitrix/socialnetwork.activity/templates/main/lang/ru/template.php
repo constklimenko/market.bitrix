@@ -1,5 +1,5 @@
 <?
-$MESS ['SONET_ACTIVITY_T_GROUP_TITLE'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° #NAME#";
-$MESS ['SONET_ACTIVITY_T_USER_TITLE1'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ ";
-$MESS ['SONET_ACTIVITY_T_NO_UPDATES'] = "ÐÐµÑ‚ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹.";
+$MESS ['SONET_ACTIVITY_T_GROUP_TITLE'] = "Ãðóïïà #NAME#";
+$MESS ['SONET_ACTIVITY_T_USER_TITLE1'] = "Ïîëüçîâàòåëü ";
+$MESS ['SONET_ACTIVITY_T_NO_UPDATES'] = "Íåò îáíîâëåíèé.";
 ?>

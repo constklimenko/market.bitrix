@@ -1,12 +1,12 @@
 <?
-$MESS ['SONET_C33_T_FRIENDS'] = "Ð”Ñ€ÑƒÐ·ÑŒÑ";
-$MESS ['SONET_C33_T_ONLINE'] = "Ð¡ÐµÐ¹Ñ‡Ð°Ñ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
-$MESS ['SONET_C33_T_INVITE'] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑÐ¸Ñ‚ÑŒ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
-$MESS ['SONET_C33_T_2FRIENDS'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ";
-$MESS ['SONET_C33_T_DEL_FRIEND'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð´Ñ€ÑƒÐ³Ð°";
-$MESS ['SONET_C33_T_NO_FRIENDS'] = "Ð‘Ð»Ð¸Ð¶Ð°Ð¹ÑˆÐ¸Ðµ Ð´Ð½Ð¸ Ñ€Ð¾Ð¶Ð´ÐµÐ½Ð¸Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ñ‹";
-$MESS ['SONET_C33_T_FR_UNAVAIL'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð´Ñ€ÑƒÐ·ÐµÐ¹ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½";
-$MESS ['SONET_C33_T_ADD_FRIEND'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð´Ñ€ÑƒÐ·ÐµÐ¹";
-$MESS ['SONET_C33_T_ADD_FRIEND1'] = "ÐÐ°Ð¹Ñ‚Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
-$MESS ['SONET_C33_T_UPDATES'] = "ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS ['SONET_C33_T_FRIENDS'] = "Äðóçüÿ";
+$MESS ['SONET_C33_T_ONLINE'] = "Ñåé÷àñ íà ñàéòå";
+$MESS ['SONET_C33_T_INVITE'] = "Ïðèãëàñèòü â ãðóïïó";
+$MESS ['SONET_C33_T_2FRIENDS'] = "Äîáàâèòü â äðóçüÿ";
+$MESS ['SONET_C33_T_DEL_FRIEND'] = "Óäàëèòü äðóãà";
+$MESS ['SONET_C33_T_NO_FRIENDS'] = "Áëèæàéøèå äíè ðîæäåíèÿ íå íàéäåíû";
+$MESS ['SONET_C33_T_FR_UNAVAIL'] = "Ñïèñîê äðóçåé íåäîñòóïåí";
+$MESS ['SONET_C33_T_ADD_FRIEND'] = "Äîáàâèòü äðóçåé";
+$MESS ['SONET_C33_T_ADD_FRIEND1'] = "Íàéòè ïîëüçîâàòåëåé";
+$MESS ['SONET_C33_T_UPDATES'] = "Ïîñìîòðåòü ïîñëåäíèå èçìåíåíèÿ";
 ?>

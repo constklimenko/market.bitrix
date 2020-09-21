@@ -1,5 +1,5 @@
 <?
-$MESS ['BPCWG_DESCR_DESCR2'] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ñ€Ð°Ð±Ð¾Ñ‡ÐµÐ¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['BPCWG_DESCR_NAME2'] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['BPCWG_GROUP_ID'] = 'ID Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹';
+$MESS ['BPCWG_DESCR_DESCR2'] = "Ñîçäàíèå ðàáî÷åé ãðóïïû";
+$MESS ['BPCWG_DESCR_NAME2'] = "Ñîçäàíèå ãðóïïû";
+$MESS ['BPCWG_GROUP_ID'] = 'ID ãðóïïû';
 ?>

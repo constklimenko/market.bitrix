@@ -1,3 +1,3 @@
 <?
-$MESS ['IDEA_SUBSCRIBE_MINE_TITLE'] = "ÐœÐ¾Ð¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS ['IDEA_SUBSCRIBE_MINE_TITLE'] = "Ìîè ïîäïèñêè";
 ?>

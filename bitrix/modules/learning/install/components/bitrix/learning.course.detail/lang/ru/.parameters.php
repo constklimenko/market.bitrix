@@ -1,6 +1,6 @@
 <?
-$MESS ['LEARNING_DESC_YES'] = "Ð”Ð°";
-$MESS ['LEARNING_DESC_NO'] = "ÐÐµÑ‚";
-$MESS ['LEARNING_COURSE_ID_NAME'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÑƒÑ€ÑÐ°";
-$MESS ['LEARNING_CHECK_PERMISSIONS'] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS ['LEARNING_DESC_YES'] = "Äà";
+$MESS ['LEARNING_DESC_NO'] = "Íåò";
+$MESS ['LEARNING_COURSE_ID_NAME'] = "Èäåíòèôèêàòîð êóðñà";
+$MESS ['LEARNING_CHECK_PERMISSIONS'] = "Ïðîâåðÿòü ïðàâî äîñòóïà";
 ?>

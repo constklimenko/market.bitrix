@@ -1,5 +1,5 @@
 <?
-$MESS ['GD_SONET_BLOG_TITLE_GROUP'] = "ÐžÑ‚Ñ‡ÐµÑ‚Ñ‹";
-$MESS ['GD_SONET_BLOG_TITLE_USER'] = "Ð‘Ð»Ð¾Ð³";
-$MESS ['GD_SONET_BLOG_NOT_ALLOWED'] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð¸Ð»Ð¸ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½";
+$MESS ['GD_SONET_BLOG_TITLE_GROUP'] = "Îò÷åòû";
+$MESS ['GD_SONET_BLOG_TITLE_USER'] = "Áëîã";
+$MESS ['GD_SONET_BLOG_NOT_ALLOWED'] = "Íåò ïðàâ íà ïðîñìîòð èëè ôóíêöèîíàë îòêëþ÷åí";
 ?>

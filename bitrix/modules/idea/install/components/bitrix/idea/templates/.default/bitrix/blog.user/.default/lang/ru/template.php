@@ -1,6 +1,6 @@
 <?
-$MESS["GD_SONET_USER_DESC_CONTACT_TITLE"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð½Ð°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ";
-$MESS["GD_SONET_USER_DESC_PERSONAL_TITLE"] = "Ð›Ð¸Ñ‡Ð½Ð°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ";
-$MESS["IDEA_USER_INFO_NAV_TITLE"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #NAME#";
-$MESS["IDEA_USER_INFO_LINK_TITLE"] = "Ð˜Ð´ÐµÐ¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["GD_SONET_USER_DESC_CONTACT_TITLE"] = "Êîíòàêòíàÿ èíôîðìàöèÿ";
+$MESS["GD_SONET_USER_DESC_PERSONAL_TITLE"] = "Ëè÷íàÿ èíôîðìàöèÿ";
+$MESS["IDEA_USER_INFO_NAV_TITLE"] = "Ïîëüçîâàòåëü #NAME#";
+$MESS["IDEA_USER_INFO_LINK_TITLE"] = "Èäåè ïîëüçîâàòåëÿ";
 ?>

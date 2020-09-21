@@ -1,7 +1,7 @@
 <?
-$MESS ['BPCDA_PD_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
-$MESS ['BPCDA_PD_CALENDAR'] = "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ";
-$MESS ['BPCDA_PD_NO'] = "ÐÐµÑ‚";
-$MESS ['BPCDA_PD_WRONG_TYPE'] = "Ð¢Ð¸Ð¿ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð° Ð½Ðµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½";
-$MESS ['BPCDA_PD_YES'] = "Ð”Ð°";
+$MESS ['BPCDA_PD_ADD'] = "Äîáàâèòü";
+$MESS ['BPCDA_PD_CALENDAR'] = "Êàëåíäàðü";
+$MESS ['BPCDA_PD_NO'] = "Íåò";
+$MESS ['BPCDA_PD_WRONG_TYPE'] = "Òèï ïàðàìåòðà íå îïðåäåëåí";
+$MESS ['BPCDA_PD_YES'] = "Äà";
 ?>

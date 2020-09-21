@@ -1,5 +1,5 @@
 <?
-$sSectionName = "Ð¤Ð¾Ñ‚Ð¾";
+$sSectionName = "Ôîòî";
 $arDirProperties = array(
    "hide_sidebar" => "Y"
 );

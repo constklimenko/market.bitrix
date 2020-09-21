@@ -1,5 +1,5 @@
 <?
-$MESS ["SAL_DEFAULT_TEMPLATE_NAME"] = "AJAX-Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
-$MESS ["SAL_DEFAULT_TEMPLATE_DESCRIPTION"] = "Ð”Ð¸Ð½Ð°Ð¼Ð¸Ñ‡ÐµÑÐºÐ°Ñ Ñ„Ð¾Ñ€Ð¼Ð° Ð²Ñ‹Ð±Ð¾Ñ€Ð° Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
-$MESS ["SAL_NAME"] = "ÐŸÑ€Ð¾Ñ†ÐµÐ´ÑƒÑ€Ð° Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS ["SAL_DEFAULT_TEMPLATE_NAME"] = "AJAX-ìåñòîïîëîæåíèÿ";
+$MESS ["SAL_DEFAULT_TEMPLATE_DESCRIPTION"] = "Äèíàìè÷åñêàÿ ôîðìà âûáîðà ìåñòîïîëîæåíèÿ";
+$MESS ["SAL_NAME"] = "Ïðîöåäóðà îôîðìëåíèÿ çàêàçà";
 ?>

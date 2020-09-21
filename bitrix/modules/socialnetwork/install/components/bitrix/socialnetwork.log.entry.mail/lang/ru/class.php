@@ -1,5 +1,5 @@
 <?
-$MESS["SLEM_SOCIALNETWORK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SLEM_NO_LOG_ENTRY"] = "Ð—Ð°Ð¿Ð¸ÑÑŒ â„–#ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°.";
-$MESS["SLEM_NO_COMMENT"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ â„–#ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS["SLEM_SOCIALNETWORK_MODULE_NOT_INSTALLED"] = "Ìîäóëü Ñîöèàëüíàÿ ñåòü íå óñòàíîâëåí.";
+$MESS["SLEM_NO_LOG_ENTRY"] = "Çàïèñü ¹#ID# íå íàéäåíà.";
+$MESS["SLEM_NO_COMMENT"] = "Êîììåíòàðèé ¹#ID# íå íàéäåí.";
 ?>

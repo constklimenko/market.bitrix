@@ -1,7 +1,7 @@
 <?
-$MESS ['BPSNMA_PD_CUSER'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
-$MESS ['BPSNMA_PD_CNAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS ['BPSNMA_PD_CDESCR'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
-$MESS ['BPSNMA_PD_CFROM'] = "Ð”Ð°Ñ‚Ð° Ð½Ð°Ñ‡Ð°Ð»Ð°";
-$MESS ['BPSNMA_PD_CTO'] = "Ð”Ð°Ñ‚Ð° Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ";
+$MESS ['BPSNMA_PD_CUSER'] = "Ïîëüçîâàòåëü";
+$MESS ['BPSNMA_PD_CNAME'] = "Íàçâàíèå ñîáûòèÿ";
+$MESS ['BPSNMA_PD_CDESCR'] = "Îïèñàíèå ñîáûòèÿ";
+$MESS ['BPSNMA_PD_CFROM'] = "Äàòà íà÷àëà";
+$MESS ['BPSNMA_PD_CTO'] = "Äàòà îêîí÷àíèÿ";
 ?>

@@ -1,6 +1,6 @@
 <?
-$sSectionName = "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
+$sSectionName = "Êàëåíäàðü ñîáûòèé";
 $arDirProperties = Array(
-   "description" => "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹"
+   "description" => "Êàëåíäàðü ñîáûòèé"
 );
 ?>

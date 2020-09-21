@@ -1,15 +1,15 @@
 <?
-$MESS["GD_SONET_GROUP_DESC_NAME"] = "Р Р°Р±РѕС‡Р°СЏ РіСЂСѓРїРїР°";
-$MESS["GD_SONET_GROUP_DESC_ARCHIVE"] = "РђСЂС…РёРІРЅР°СЏ РіСЂСѓРїРїР°";
-$MESS["GD_SONET_GROUP_DESC_SUBJECT_NAME"] = "РўРµРјР°";
-$MESS["GD_SONET_GROUP_DESC_DESCRIPTION"] = "РћРїРёСЃР°РЅРёРµ";
-$MESS["GD_SONET_GROUP_DESC_CREATED"] = "РЎРѕР·РґР°РЅР°";
-$MESS["GD_SONET_GROUP_DESC_NMEM"] = "РЈС‡Р°СЃС‚РЅРёРєРѕРІ";
-$MESS["GD_SONET_GROUP_DESC_TYPE"] = "РўРёРї РіСЂСѓРїРїС‹";
-$MESS["GD_SONET_GROUP_DESC_TYPE_O1"] = "Р­С‚Рѕ РѕС‚РєСЂС‹С‚Р°СЏ РіСЂСѓРїРїР°. Р’ РЅРµС‘ РјРѕР¶РµС‚ РІСЃС‚СѓРїРёС‚СЊ Р»СЋР±РѕР№ Р¶РµР»Р°СЋС‰РёР№.";
-$MESS["GD_SONET_GROUP_DESC_TYPE_O2"] = "Р­С‚Рѕ Р·Р°РєСЂС‹С‚Р°СЏ РіСЂСѓРїРїР°. Р’СЃС‚СѓРїРёС‚СЊ РІ РіСЂСѓРїРїСѓ РјРѕР¶РЅРѕ С‚РѕР»СЊРєРѕ РїРѕСЃР»Рµ РѕРґРѕР±СЂРµРЅРёСЏ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂРѕРј.";
-$MESS["GD_SONET_GROUP_DESC_TYPE_V1"] = "Р­С‚Рѕ РІРёРґРёРјР°СЏ РіСЂСѓРїРїР°. Р•Рµ РЅР°Р»РёС‡РёРµ РІРёРґРЅРѕ РІСЃРµРј РїРѕР»СЊР·РѕРІР°С‚РµР»СЏРј.";
-$MESS["GD_SONET_GROUP_DESC_TYPE_V2"] = "Р­С‚Рѕ РЅРµРІРёРґРёРјР°СЏ РіСЂСѓРїРїР°. РћРЅР° РІРёРґРЅР° С‚РѕР»СЊРєРѕ С‡Р»РµРЅР°Рј РіСЂСѓРїРїС‹.";
-$MESS["GD_SONET_GROUP_DESC_REQUEST_SENT_MESSAGE"] = "Р’С‹ СѓР¶Рµ РѕС‚РїСЂР°РІРёР»Рё Р·Р°РїСЂРѕСЃ РЅР° РІСЃС‚СѓРїР»РµРЅРёРµ РІ СЌС‚Сѓ РіСЂСѓРїРїСѓ.";
-$MESS["GD_SONET_GROUP_DESC_REQUEST_SENT_MESSAGE_BY_GROUP"] = "Р’Р°Рј СѓР¶Рµ РѕС‚РїСЂР°РІР»РµРЅРѕ РїСЂРёРіР»Р°С€РµРЅРёРµ РІ СЌС‚Сѓ РіСЂСѓРїРїСѓ. Р’С‹ РјРѕР¶РµС‚Рµ РїРѕРґС‚РІРµСЂРґРёС‚СЊ РµРіРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ <a href='#LINK#'>РїСЂРёРіР»Р°С€РµРЅРёР№</a>.";
+$MESS["GD_SONET_GROUP_DESC_NAME"] = "Рабочая группа";
+$MESS["GD_SONET_GROUP_DESC_ARCHIVE"] = "Архивная группа";
+$MESS["GD_SONET_GROUP_DESC_SUBJECT_NAME"] = "Тема";
+$MESS["GD_SONET_GROUP_DESC_DESCRIPTION"] = "Описание";
+$MESS["GD_SONET_GROUP_DESC_CREATED"] = "Создана";
+$MESS["GD_SONET_GROUP_DESC_NMEM"] = "Участников";
+$MESS["GD_SONET_GROUP_DESC_TYPE"] = "Тип группы";
+$MESS["GD_SONET_GROUP_DESC_TYPE_O1"] = "Это открытая группа. В неё может вступить любой желающий.";
+$MESS["GD_SONET_GROUP_DESC_TYPE_O2"] = "Это закрытая группа. Вступить в группу можно только после одобрения администратором.";
+$MESS["GD_SONET_GROUP_DESC_TYPE_V1"] = "Это видимая группа. Ее наличие видно всем пользователям.";
+$MESS["GD_SONET_GROUP_DESC_TYPE_V2"] = "Это невидимая группа. Она видна только членам группы.";
+$MESS["GD_SONET_GROUP_DESC_REQUEST_SENT_MESSAGE"] = "Вы уже отправили запрос на вступление в эту группу.";
+$MESS["GD_SONET_GROUP_DESC_REQUEST_SENT_MESSAGE_BY_GROUP"] = "Вам уже отправлено приглашение в эту группу. Вы можете подтвердить его на странице <a href='#LINK#'>приглашений</a>.";
 ?>

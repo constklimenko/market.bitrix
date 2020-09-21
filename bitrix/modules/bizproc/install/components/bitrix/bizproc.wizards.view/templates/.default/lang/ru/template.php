@@ -1,15 +1,15 @@
 <?
-$MESS ['BPWC_WNCT_STATE'] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ð¹ ÑÑ‚Ð°Ñ‚ÑƒÑ";
-$MESS ['BPWC_WNCT_TASKS'] = "Ð’Ð°ÑˆÐ¸ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
-$MESS ['BPWC_WNCT_EVENTS'] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
-$MESS ['BPWC_WLC_MISSING_DOCUMENT'] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
-$MESS ['BPWC_WNCT_2LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð²";
-$MESS ['BPWC_WNCT_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['BPWC_WNCT_TAB1'] = "ÐžÑÐ½Ð¾Ð²Ð½Ð¾Ðµ";
-$MESS ['BPWC_WNCT_TAB2'] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾";
-$MESS ['BPWC_WNCT_TL_DATE'] = "Ð”Ð°Ñ‚Ð°";
-$MESS ['BPWC_WNCT_TL_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['BPWC_WNCT_TL_NOTE'] = "ÐŸÑ€Ð¸Ð¼ÐµÑ‡Ð°Ð½Ð¸Ðµ";
-$MESS ['BPWC_WNCT_TL_TOTAL'] = "Ð’ÑÐµÐ³Ð¾";
-$MESS ['BPWC_WNCT_TL_HISTORY'] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ";
+$MESS ['BPWC_WNCT_STATE'] = "Òåêóùèé ñòàòóñ";
+$MESS ['BPWC_WNCT_TASKS'] = "Âàøè çàäàíèÿ";
+$MESS ['BPWC_WNCT_EVENTS'] = "Îòïðàâèòü ñîáûòèå";
+$MESS ['BPWC_WLC_MISSING_DOCUMENT'] = "Áèçíåñ-ïðîöåññ íå íàéäåí";
+$MESS ['BPWC_WNCT_2LIST'] = "Ñïèñîê áèçíåñ-ïðîöåññîâ";
+$MESS ['BPWC_WNCT_NAME'] = "Íàçâàíèå";
+$MESS ['BPWC_WNCT_TAB1'] = "Îñíîâíîå";
+$MESS ['BPWC_WNCT_TAB2'] = "Äîïîëíèòåëüíî";
+$MESS ['BPWC_WNCT_TL_DATE'] = "Äàòà";
+$MESS ['BPWC_WNCT_TL_NAME'] = "Íàçâàíèå";
+$MESS ['BPWC_WNCT_TL_NOTE'] = "Ïðèìå÷àíèå";
+$MESS ['BPWC_WNCT_TL_TOTAL'] = "Âñåãî";
+$MESS ['BPWC_WNCT_TL_HISTORY'] = "Èñòîðèÿ âûïîëíåíèÿ";
 ?>

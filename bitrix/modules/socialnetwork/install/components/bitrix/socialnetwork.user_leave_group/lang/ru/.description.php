@@ -1,5 +1,5 @@
 <?
-$MESS ['SONET_GROUP_LEAVE_TEMPLATE_NAME'] = "Ð’Ñ‹Ñ…Ð¾Ð´ Ð¸Ð· Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['SONET_GROUP_LEAVE_TEMPLATE_DESCRIPTION'] = "ÐŸÐ¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð²Ñ‹Ð¹Ñ‚Ð¸ Ð¸Ð· Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
-$MESS ['SONET_NAME'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
+$MESS ['SONET_GROUP_LEAVE_TEMPLATE_NAME'] = "Âûõîä èç ãðóïïû";
+$MESS ['SONET_GROUP_LEAVE_TEMPLATE_DESCRIPTION'] = "Ïîçâîëÿåò âûéòè èç ãðóïïû";
+$MESS ['SONET_NAME'] = "Ñîöèàëüíàÿ ñåòü";
 ?>

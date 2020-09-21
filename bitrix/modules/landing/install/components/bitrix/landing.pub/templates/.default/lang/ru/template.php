@@ -1,19 +1,19 @@
 <?
-$MESS["LANDING_TPL_TITLE"] = "РЎР°Р№С‚";
-$MESS["LANDING_TPL_COPY_NAME_SMN_0"] = "Р‘С‹СЃС‚СЂРѕ СЃ";
-$MESS["LANDING_TPL_COPY_NAME_SMN_1"] = "1РЎ-Р‘РёС‚СЂРёРєСЃ";
-$MESS["LANDING_TPL_COPY_NAME_0"] = "Р—Р°СЂСЏР¶РµРЅРѕ";
-$MESS["LANDING_TPL_COPY_NAME"] = "Р‘РёС‚СЂРёРєСЃ24";
-$MESS["LANDING_TPL_COPY_REVIEW"] = "Р‘РµСЃРїР»Р°С‚РЅС‹Рµ РЎР°Р№С‚С‹ Рё CRM.";
-$MESS["LANDING_TPL_COPY_LINK"] = "РЎРѕР·РґР°С‚СЊ СЃР°Р№С‚";
-$MESS["LANDING_TPL_COPY_FULL"] = "Р—Р°СЂСЏР¶РµРЅРѕ #LOGO# &mdash; Р‘РµСЃРїР»Р°С‚РЅС‹Рµ РЎР°Р№С‚С‹ Рё CRM. <linkcreate>РЎРѕР·РґР°С‚СЊ СЃР°Р№С‚</linkcreate>";
-$MESS["LANDING_TPL_COPY_FULL2"] = "Р—Р°СЂСЏР¶РµРЅРѕ <linklogo>#LOGO#</linklogo> &mdash; <linksite>Р‘РµСЃРїР»Р°С‚РЅС‹Рµ РЎР°Р№С‚С‹</linksite> Рё <linkcrm>CRM</linkcrm>. <linkcreate>РЎРѕР·РґР°С‚СЊ СЃР°Р№С‚</linkcreate>";
-$MESS["LANDING_TPL_EDIT_PAGE"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ СЃС‚СЂР°РЅРёС†Сѓ";
-$MESS["LANDING_TPL_EDIT_PAGE_KNOWLEDGE"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ СЃС‚Р°С‚СЊСЋ";
-$MESS["LANDING_TPL_EDIT_PAGE_GROUP"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ СЃС‚Р°С‚СЊСЋ";
-$MESS["LANDING_TPL_SITES"] = "РњРѕРё СЃР°Р№С‚С‹";
-$MESS["LANDING_TPL_SITES_STORE"] = "РњРѕРё РјР°РіР°Р·РёРЅС‹";
-$MESS["LANDING_TPL_SITES_KNOWLEDGE"] = "Р‘Р°Р·С‹ Р·РЅР°РЅРёР№";
-$MESS["LANDING_TPL_SITES_GROUP"] = "Р‘Р°Р·С‹ Р·РЅР°РЅРёР№";
-$MESS["LANDING_TPL_SETTINGS_BUTTON_TITLE"] = "РќР°СЃС‚СЂРѕР№РєРё";
+$MESS["LANDING_TPL_TITLE"] = "Сайт";
+$MESS["LANDING_TPL_COPY_NAME_SMN_0"] = "Быстро с";
+$MESS["LANDING_TPL_COPY_NAME_SMN_1"] = "1С-Битрикс";
+$MESS["LANDING_TPL_COPY_NAME_0"] = "Заряжено";
+$MESS["LANDING_TPL_COPY_NAME"] = "Битрикс24";
+$MESS["LANDING_TPL_COPY_REVIEW"] = "Бесплатные Сайты и CRM.";
+$MESS["LANDING_TPL_COPY_LINK"] = "Создать сайт";
+$MESS["LANDING_TPL_COPY_FULL"] = "Заряжено #LOGO# &mdash; Бесплатные Сайты и CRM. <linkcreate>Создать сайт</linkcreate>";
+$MESS["LANDING_TPL_COPY_FULL2"] = "Заряжено <linklogo>#LOGO#</linklogo> &mdash; <linksite>Бесплатные Сайты</linksite> и <linkcrm>CRM</linkcrm>. <linkcreate>Создать сайт</linkcreate>";
+$MESS["LANDING_TPL_EDIT_PAGE"] = "Редактировать страницу";
+$MESS["LANDING_TPL_EDIT_PAGE_KNOWLEDGE"] = "Редактировать статью";
+$MESS["LANDING_TPL_EDIT_PAGE_GROUP"] = "Редактировать статью";
+$MESS["LANDING_TPL_SITES"] = "Мои сайты";
+$MESS["LANDING_TPL_SITES_STORE"] = "Мои магазины";
+$MESS["LANDING_TPL_SITES_KNOWLEDGE"] = "Базы знаний";
+$MESS["LANDING_TPL_SITES_GROUP"] = "Базы знаний";
+$MESS["LANDING_TPL_SETTINGS_BUTTON_TITLE"] = "Настройки";
 ?>

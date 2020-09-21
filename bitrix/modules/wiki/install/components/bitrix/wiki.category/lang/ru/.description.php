@@ -1,5 +1,5 @@
 <?
-$MESS["WIKI_CATEGORY_NAME"] = "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ";
-$MESS["WIKI_CATEGORY_DESCRIPTION"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸ÑŽ Wiki ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["WIKI_CATEGORY_NAME"] = "Êàòåãîðèÿ";
+$MESS["WIKI_CATEGORY_DESCRIPTION"] = "Âûâîäèò êàòåãîðèþ Wiki ñòðàíèöû";
 $MESS["Wiki_NAME"] = "Wiki";
 ?>

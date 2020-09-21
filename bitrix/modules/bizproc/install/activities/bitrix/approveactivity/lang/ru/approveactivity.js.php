@@ -1,4 +1,4 @@
 <?
-$MESS ['APPR_NO'] = "ÐÐµÑ‚";
-$MESS ['APPR_YES'] = "Ð”Ð°";
+$MESS ['APPR_NO'] = "Íåò";
+$MESS ['APPR_YES'] = "Äà";
 ?>

@@ -1,7 +1,7 @@
 <?
-$MESS["SLEM_TEMPLATE_FILES"] = "Ð¤Ð°Ð¹Ð»Ñ‹:";
-$MESS["SLEM_TEMPLATE_ADD_COMMENT_LINK"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
-$MESS["SLEM_TEMPLATE_LIKE"] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ";
-$MESS["SLEM_TEMPLATE_ADD_COMMENT_BUTTON"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
-$MESS["SLEM_TEMPLATE_DESCRIPTION"] = "ÐžÑ‚Ð²ÐµÑ‚ÑŒÑ‚Ðµ Ð½Ð° Ð¿Ð¸ÑÑŒÐ¼Ð¾, Ð¾ÑÑ‚Ð°Ð²Ð¸Ð² ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð²Ñ‹ÑˆÐµ Ð¸Ð»Ð¸ Ð½Ð¸Ð¶Ðµ Ñ‚ÐµÐºÑÑ‚Ð° Ð¿Ð¸ÑÑŒÐ¼Ð°.";
+$MESS["SLEM_TEMPLATE_FILES"] = "Ôàéëû:";
+$MESS["SLEM_TEMPLATE_ADD_COMMENT_LINK"] = "Êîììåíòèðîâàòü";
+$MESS["SLEM_TEMPLATE_LIKE"] = "Íðàâèòñÿ";
+$MESS["SLEM_TEMPLATE_ADD_COMMENT_BUTTON"] = "Äîáàâèòü êîììåíòàðèé";
+$MESS["SLEM_TEMPLATE_DESCRIPTION"] = "Îòâåòüòå íà ïèñüìî, îñòàâèâ êîììåíòàðèé âûøå èëè íèæå òåêñòà ïèñüìà.";
 ?>

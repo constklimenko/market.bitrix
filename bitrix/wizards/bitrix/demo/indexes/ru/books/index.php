@@ -1,8 +1,8 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetPageProperty("title", "Р”РµРјРѕРЅСЃС‚СЂР°С†РёРѕРЅРЅР°СЏ РІРµСЂСЃРёСЏ РїСЂРѕРґСѓРєС‚Р° В«1РЎ-Р‘РёС‚СЂРёРєСЃ: РЈРїСЂР°РІР»РµРЅРёРµ СЃР°Р№С‚РѕРјВ»");
+$APPLICATION->SetPageProperty("title", "Демонстрационная версия продукта «1С-Битрикс: Управление сайтом»");
 $APPLICATION->SetPageProperty("NOT_SHOW_NAV_CHAIN", "Y");
-$APPLICATION->SetTitle("РљР°С‚Р°Р»РѕРі РєРЅРёРі");
+$APPLICATION->SetTitle("Каталог книг");
 ?> <?$APPLICATION->IncludeComponent(
 	"bitrix:catalog.section.list",
 	"",
@@ -45,7 +45,7 @@ $APPLICATION->SetTitle("РљР°С‚Р°Р»РѕРі РєРЅРёРі");
 	)
 );?>
 
-<h2>Р’РёРґРµРѕ-РЅРѕРІРѕСЃС‚Рё</h2>
+<h2>Видео-новости</h2>
 
 <?$APPLICATION->IncludeComponent(
 	"bitrix:player",

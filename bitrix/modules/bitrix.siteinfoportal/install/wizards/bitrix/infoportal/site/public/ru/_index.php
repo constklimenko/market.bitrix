@@ -1,5 +1,5 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("РќРѕРІРѕСЃС‚Рё");
+$APPLICATION->SetTitle("Новости");
 $GLOBALS["arrFilterMainTheme"] = array("PROPERTY_MAIN_VALUE" => 1);
 $GLOBALS["arrFilterMain"] = array("PROPERTY_MAIN_VALUE" => 1);
 ?>
@@ -43,13 +43,13 @@ $GLOBALS["arrFilterMain"] = array("PROPERTY_MAIN_VALUE" => 1);
 	"PARENT_SECTION_CODE" => "",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "N",
-	"PAGER_TITLE" => "РќРѕРІРѕСЃС‚Рё",
+	"PAGER_TITLE" => "Новости",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "",
 	"PAGER_DESC_NUMBERING" => "N",
 	"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
 	"PAGER_SHOW_ALL" => "N",
-	"MAIN_THEME" => "Р“Р»Р°РІРЅР°СЏ С‚РµРјР°",
+	"MAIN_THEME" => "Главная тема",
 	"AJAX_OPTION_ADDITIONAL" => ""
 	),
 	false,
@@ -57,7 +57,7 @@ $GLOBALS["arrFilterMain"] = array("PROPERTY_MAIN_VALUE" => 1);
 	"ACTIVE_COMPONENT" => "N"
 	)
 );?>
-  <h1>РќРѕРІРѕСЃС‚Рё</h1>
+  <h1>Новости</h1>
  <?$APPLICATION->IncludeComponent("bitrix:news.list", "main_news", array(
 	"IBLOCK_TYPE" => "news",
 	"IBLOCK_ID" => "#NEWS_IBLOCK_ID#",
@@ -99,7 +99,7 @@ $GLOBALS["arrFilterMain"] = array("PROPERTY_MAIN_VALUE" => 1);
 	"PARENT_SECTION_CODE" => "",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "N",
-	"PAGER_TITLE" => "РќРѕРІРѕСЃС‚Рё",
+	"PAGER_TITLE" => "Новости",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "",
 	"PAGER_DESC_NUMBERING" => "N",
@@ -112,7 +112,7 @@ $GLOBALS["arrFilterMain"] = array("PROPERTY_MAIN_VALUE" => 1);
 	"DISPLAY_IMG_WIDTH" => "136",
 	"DISPLAY_IMG_HEIGHT" => "101",
 	"USE_RSS" => "Y",
-	"TITLE_RSS" => "Р“Р»Р°РІРЅС‹Рµ РЅРѕРІРѕСЃС‚Рё РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРіРѕ РїРѕСЂС‚Р°Р»Р°",
+	"TITLE_RSS" => "Главные новости информационного портала",
 	"AJAX_OPTION_ADDITIONAL" => ""
 	),
 	false
@@ -159,7 +159,7 @@ $GLOBALS["arrFilterMain"] = array("PROPERTY_MAIN_VALUE" => 1);
 	"PARENT_SECTION_CODE" => "",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "N",
-	"PAGER_TITLE" => "РќРѕРІРѕСЃС‚Рё",
+	"PAGER_TITLE" => "Новости",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "",
 	"PAGER_DESC_NUMBERING" => "N",
@@ -172,7 +172,7 @@ $GLOBALS["arrFilterMain"] = array("PROPERTY_MAIN_VALUE" => 1);
 	"DISPLAY_IMG_WIDTH" => "80",
 	"DISPLAY_IMG_HEIGHT" => "56",
 	"USE_RSS" => "Y",
-	"TITLE_RSS" => "РќРѕРІРѕСЃС‚Рё РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРіРѕ РїРѕСЂС‚Р°Р»Р°",
+	"TITLE_RSS" => "Новости информационного портала",
 	"AJAX_OPTION_ADDITIONAL" => ""
 	),
 	false

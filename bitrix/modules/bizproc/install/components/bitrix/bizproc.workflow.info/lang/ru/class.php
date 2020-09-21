@@ -1,4 +1,4 @@
 <?php
-$MESS["BPWFI_WORKFLOW_NOT_FOUND"] = 'ÐŸÑ€Ð¾Ñ†ÐµÑÑ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.';
-$MESS["BPWFI_PAGE_TITLE"] = 'Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑ';
+$MESS["BPWFI_WORKFLOW_NOT_FOUND"] = 'Ïðîöåññ íå íàéäåí.';
+$MESS["BPWFI_PAGE_TITLE"] = 'Áèçíåñ-ïðîöåññ';
 ?>

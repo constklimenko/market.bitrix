@@ -1,6 +1,6 @@
 <?
-$MESS ['CP_BLL_IBLOCK_TYPE_ID'] = "Ð¢Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
-$MESS ['CP_BLL_LISTS_URL'] = "URL Ð³Ð»Ð°Ð²Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÐ¿Ð¸ÑÐºÐ¾Ð²";
-$MESS ['CP_BLL_LIST_EDIT_URL'] = "URL Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ¿Ð¸ÑÐºÐ°";
-$MESS ['CP_BLL_LIST_URL'] = "URL ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS ['CP_BLL_IBLOCK_TYPE_ID'] = "Òèï èíôîáëîêà";
+$MESS ['CP_BLL_LISTS_URL'] = "URL ãëàâíîé ñòðàíèöû ñïèñêîâ";
+$MESS ['CP_BLL_LIST_EDIT_URL'] = "URL íàñòðîéêè ñïèñêà";
+$MESS ['CP_BLL_LIST_URL'] = "URL ñïèñêà";
 ?>

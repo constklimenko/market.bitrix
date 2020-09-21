@@ -1,5 +1,5 @@
 <?
-$MESS ['BB_DEFAULT_TEMPLATE_NAME'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ";
-$MESS ['BB_DEFAULT_TEMPLATE_DESCRIPTION'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ, Ñ‚Ñ€ÐµÐ±ÑƒÑŽÑ‰Ð¸Ðµ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ð¸";
-$MESS ['SONET_NAME'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
+$MESS ['BB_DEFAULT_TEMPLATE_NAME'] = "Ñîîáùåíèÿ - ìîäåðàöèÿ";
+$MESS ['BB_DEFAULT_TEMPLATE_DESCRIPTION'] = "Âûâîäèò ñîîáùåíèÿ, òðåáóþùèå ìîäåðàöèè";
+$MESS ['SONET_NAME'] = "Ñîöèàëüíàÿ ñåòü";
 ?>

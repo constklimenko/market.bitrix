@@ -1,3 +1,3 @@
 <?
-$MESS ['DEMO_EXAMPLES_MENU'] = "MenÑŒbeispiele";
+$MESS ['DEMO_EXAMPLES_MENU'] = "Menübeispiele";
 ?>

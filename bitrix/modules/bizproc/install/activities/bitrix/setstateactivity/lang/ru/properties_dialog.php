@@ -1,4 +1,4 @@
 <?
-$MESS ['BPSFA_PD_STATE'] = "ÐŸÐµÑ€ÐµÐ²ÐµÑÑ‚Ð¸ Ð² ÑÑ‚Ð°Ñ‚ÑƒÑ";
-$MESS ['BPSFA_PD_OTHER'] = "(Ð´Ñ€ÑƒÐ³Ð¾Ðµ)";
+$MESS ['BPSFA_PD_STATE'] = "Ïåðåâåñòè â ñòàòóñ";
+$MESS ['BPSFA_PD_OTHER'] = "(äðóãîå)";
 ?>

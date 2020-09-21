@@ -1,5 +1,5 @@
 <?
-$MESS['BPSNMA_DESCR_DESCR'] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²ÐºÐ° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸";
-$MESS['BPSNMA_DESCR_NAME'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ¾Ñ†.ÑÐµÑ‚Ð¸";
-$MESS['BPSNMA_DESCR_ROBOT_TITLE'] = "Ð£Ð²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ðµ";
+$MESS['BPSNMA_DESCR_DESCR'] = "Îòïðàâêà ñîîáùåíèÿ ìîäóëÿ ñîöèàëüíîé ñåòè";
+$MESS['BPSNMA_DESCR_NAME'] = "Ñîîáùåíèå ñîö.ñåòè";
+$MESS['BPSNMA_DESCR_ROBOT_TITLE'] = "Óâåäîìëåíèå";
 ?>

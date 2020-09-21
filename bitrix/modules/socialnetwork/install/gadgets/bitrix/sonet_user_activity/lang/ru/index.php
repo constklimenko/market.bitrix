@@ -1,13 +1,13 @@
 <?
-$MESS["GD_ACTIVITY_TITLE"] = "Ð›Ð¾Ð³ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚Ð¸";
-$MESS["GD_ACTIVITY_MORE"] = "Ð–Ð¸Ð²Ð°Ñ Ð»ÐµÐ½Ñ‚Ð° Ð°Ð²Ñ‚Ð¾Ñ€Ð°";
-$MESS["GD_ACTIVITY_FORUM"] = "Ñ„Ð¾Ñ€ÑƒÐ¼Ñ‹/Ð¾Ð±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ñ";
-$MESS["GD_ACTIVITY_BLOG"] = "Ð±Ð»Ð¾Ð³Ð¸/Ð¾Ñ‚Ñ‡ÐµÑ‚Ñ‹";
-$MESS["GD_ACTIVITY_PHOTO"] = "Ñ„Ð¾Ñ‚Ð¾";
-$MESS["GD_ACTIVITY_FILES"] = "Ñ„Ð°Ð¹Ð»Ñ‹";
-$MESS["GD_ACTIVITY_CALENDAR"] = "ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ð¸";
-$MESS["GD_ACTIVITY_TASKS"] = "Ð·Ð°Ð´Ð°Ñ‡Ð¸";
-$MESS["GD_ACTIVITY_SYSTEM"] = "ÑÐ¸ÑÑ‚ÐµÐ¼Ð½Ñ‹Ðµ";
-$MESS["GD_ACTIVITY_SYSTEM_FRIENDS"] = "Ð´Ñ€ÑƒÐ·ÑŒÑ";
-$MESS["GD_ACTIVITY_SYSTEM_GROUPS"] = "Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["GD_ACTIVITY_TITLE"] = "Ëîã àêòèâíîñòè";
+$MESS["GD_ACTIVITY_MORE"] = "Æèâàÿ ëåíòà àâòîðà";
+$MESS["GD_ACTIVITY_FORUM"] = "ôîðóìû/îáñóæäåíèÿ";
+$MESS["GD_ACTIVITY_BLOG"] = "áëîãè/îò÷åòû";
+$MESS["GD_ACTIVITY_PHOTO"] = "ôîòî";
+$MESS["GD_ACTIVITY_FILES"] = "ôàéëû";
+$MESS["GD_ACTIVITY_CALENDAR"] = "êàëåíäàðè";
+$MESS["GD_ACTIVITY_TASKS"] = "çàäà÷è";
+$MESS["GD_ACTIVITY_SYSTEM"] = "ñèñòåìíûå";
+$MESS["GD_ACTIVITY_SYSTEM_FRIENDS"] = "äðóçüÿ";
+$MESS["GD_ACTIVITY_SYSTEM_GROUPS"] = "ãðóïïû";
 ?>

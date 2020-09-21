@@ -1,6 +1,6 @@
 <?
-$MESS ['IDEA_SORT_BY'] = 'Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾';
-$MESS ['IDEA_SORT_BY_DATE_PUBLISH'] = 'Ð½Ð¾Ð²Ð¸Ð·Ð½Ðµ';
-$MESS ['IDEA_SORT_BY_RATING_TOTAL_VALUE'] = 'Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ñƒ';
-$MESS ['IDEA_SORT_BY_NUM_COMMENTS'] = 'ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÑÐ¼';
+$MESS ['IDEA_SORT_BY'] = 'Ñîðòèðîâàòü ïî';
+$MESS ['IDEA_SORT_BY_DATE_PUBLISH'] = 'íîâèçíå';
+$MESS ['IDEA_SORT_BY_RATING_TOTAL_VALUE'] = 'ðåéòèíãó';
+$MESS ['IDEA_SORT_BY_NUM_COMMENTS'] = 'êîììåíòàðèÿì';
 ?>

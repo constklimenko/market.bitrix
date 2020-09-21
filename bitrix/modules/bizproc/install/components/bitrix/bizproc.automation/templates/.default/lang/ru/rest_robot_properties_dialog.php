@@ -1,5 +1,5 @@
 <?
-$MESS["BIZPROC_AUTOMATION_NOT_SELECTED"] = "Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð¾";
-$MESS["BIZPROC_AUTOMATION_ADD_MULTIPLE"] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
-$MESS["BIZPROC_AUTOMATION_CONFIGURE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ";
+$MESS["BIZPROC_AUTOMATION_NOT_SELECTED"] = "íå âûáðàíî";
+$MESS["BIZPROC_AUTOMATION_ADD_MULTIPLE"] = "äîáàâèòü";
+$MESS["BIZPROC_AUTOMATION_CONFIGURE"] = "Íàñòðîèòü";
 ?>

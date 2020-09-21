@@ -1,5 +1,5 @@
 <?
-$MESS["BPWC_WLCT_TOTAL"] = "Ð’ÑÐµÐ³Ð¾";
-$MESS["CC_BLL_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS["CT_BLL_BUTTON_NEW_PROCESSES"] = "Ð—Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¾Ñ†ÐµÑÑ";
+$MESS["BPWC_WLCT_TOTAL"] = "Âñåãî";
+$MESS["CC_BLL_NAME"] = "Íàçâàíèå";
+$MESS["CT_BLL_BUTTON_NEW_PROCESSES"] = "Çàïóñòèòü ïðîöåññ";
 ?>

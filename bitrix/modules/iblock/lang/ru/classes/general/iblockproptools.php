@@ -1,6 +1,6 @@
 <?
-$MESS["IBPT_PROP_TITLE_MORE_PHOTO"] = "ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸ Ð³Ð°Ð»ÐµÑ€ÐµÐ¸";
-$MESS["IBPT_PROP_TITLE_SKU_LINK"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð°";
-$MESS["IBPT_PROP_TITLE_BLOG_POST"] = "ID Ð¿Ð¾ÑÑ‚Ð° Ð±Ð»Ð¾Ð³Ð° Ð´Ð»Ñ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
-$MESS["IBPT_PROP_TITLE_BLOG_COMMENTS_COUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
+$MESS["IBPT_PROP_TITLE_MORE_PHOTO"] = "Êàðòèíêè ãàëåðåè";
+$MESS["IBPT_PROP_TITLE_SKU_LINK"] = "Ýëåìåíò êàòàëîãà";
+$MESS["IBPT_PROP_TITLE_BLOG_POST"] = "ID ïîñòà áëîãà äëÿ êîììåíòàðèåâ";
+$MESS["IBPT_PROP_TITLE_BLOG_COMMENTS_COUNT"] = "Êîëè÷åñòâî êîììåíòàðèåâ";
 ?>

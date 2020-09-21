@@ -1,14 +1,14 @@
 <?
-$MESS["SONET_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SONET_P_USER_NO_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
-$MESS["SONET_UM_PHOTO"] = "Ð¤Ð¾Ñ‚Ð¾";
-$MESS["SONET_UM_FORUM"] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
-$MESS["SONET_UM_CALENDAR"] = "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ";
-$MESS["SONET_UM_FILES"] = "ÐœÐ¾Ð¹ Ð”Ð¸ÑÐº";
-$MESS["SONET_UM_DISK"] = "Ð”Ð¸ÑÐº";
-$MESS["SONET_UM_BLOG"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
-$MESS["SONET_UM_STREAM"] = "Ð–Ð¸Ð²Ð°Ñ Ð»ÐµÐ½Ñ‚Ð°";
-$MESS["SONET_UM_TASKS"] = "Ð—Ð°Ð´Ð°Ñ‡Ð¸";
-$MESS["SONET_UM_SEARCH"] = "ÐŸÐ¾Ð¸ÑÐº";
-$MESS["SONET_UM_MICROBLOG"] = "ÐœÐ¸ÐºÑ€Ð¾Ð±Ð»Ð¾Ð³";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "Ìîäóëü ñîöèàëüíîé ñåòè íå óñòàíîâëåí.";
+$MESS["SONET_P_USER_NO_USER"] = "Ïîëüçîâàòåëü íå íàéäåí.";
+$MESS["SONET_UM_PHOTO"] = "Ôîòî";
+$MESS["SONET_UM_FORUM"] = "Ôîðóì";
+$MESS["SONET_UM_CALENDAR"] = "Êàëåíäàðü";
+$MESS["SONET_UM_FILES"] = "Ìîé Äèñê";
+$MESS["SONET_UM_DISK"] = "Äèñê";
+$MESS["SONET_UM_BLOG"] = "Ñîîáùåíèÿ";
+$MESS["SONET_UM_STREAM"] = "Æèâàÿ ëåíòà";
+$MESS["SONET_UM_TASKS"] = "Çàäà÷è";
+$MESS["SONET_UM_SEARCH"] = "Ïîèñê";
+$MESS["SONET_UM_MICROBLOG"] = "Ìèêðîáëîã";
 ?>

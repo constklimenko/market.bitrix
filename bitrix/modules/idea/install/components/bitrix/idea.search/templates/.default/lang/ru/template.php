@@ -1,3 +1,3 @@
 <?
-$MESS["IDEA_SEARCH_DEFAULT"] = "ÐÐ°Ð¹Ñ‚Ð¸...";
+$MESS["IDEA_SEARCH_DEFAULT"] = "Íàéòè...";
 ?>

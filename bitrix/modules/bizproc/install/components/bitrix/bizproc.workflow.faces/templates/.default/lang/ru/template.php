@@ -1,4 +1,4 @@
 <?php
-$MESS['BPWLFC_MORE'] = 'ÐµÑ‰Ðµ';
-$MESS['BPWLFC_WORKFLOW_NOT_FOUND'] = 'ÐŸÑ€Ð¾Ñ†ÐµÑÑ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.';
-$MESS['BPWLFC_TOTAL'] = 'Ð²ÑÐµÐ³Ð¾';
+$MESS['BPWLFC_MORE'] = 'åùå';
+$MESS['BPWLFC_WORKFLOW_NOT_FOUND'] = 'Ïðîöåññ íå íàéäåí.';
+$MESS['BPWLFC_TOTAL'] = 'âñåãî';

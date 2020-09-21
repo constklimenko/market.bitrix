@@ -1,5 +1,5 @@
 <?
-$MESS["LISTS_BIZPROC_INVALID_INT"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ñ Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ñ†ÐµÐ»Ñ‹Ð¼ Ñ‡Ð¸ÑÐ»Ð¾Ð¼. ";
-$MESS["LISTS_BIZPROC_INVALID_DATE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ñ Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ð¹ Ð´Ð°Ñ‚Ð¾Ð¹. ";
-$MESS["LISTS_BIZPROC_INVALID_SELECT"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° ÑÐ¿Ð¸ÑÐºÐ°. ";
-$MESS["LISTS_BIZPROC_ENTITY_NAME"] = "ÐŸÑ€Ð¾Ñ†ÐµÑÑÑ‹";
+$MESS["LISTS_BIZPROC_INVALID_INT"] = "Çíà÷åíèå ïîëÿ íå ÿâëÿåòñÿ öåëûì ÷èñëîì. ";
+$MESS["LISTS_BIZPROC_INVALID_DATE"] = "Çíà÷åíèå ïîëÿ íå ÿâëÿåòñÿ êîððåêòíîé äàòîé. ";
+$MESS["LISTS_BIZPROC_INVALID_SELECT"] = "Íåêîððåêòíîå çíà÷åíèå ýëåìåíòà ñïèñêà. ";
+$MESS["LISTS_BIZPROC_ENTITY_NAME"] = "Ïðîöåññû";

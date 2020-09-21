@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_HELPER_DELETE"] = "LÃ¶schen";
+$MESS["SALE_HELPER_DELETE"] = "Löschen";
 ?>

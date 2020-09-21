@@ -1,13 +1,13 @@
 <?
-$MESS["BX_WS_SALE_LF_TITLE"] = "РЎС‚Р°С‚РёСЃС‚РёРєР° РїРѕ Р·Р°РєР°Р·Р°Рј";
-$MESS["BX_WS_SALE_STATUS_1_CREATED"] = "РЎРѕР·РґР°РЅ";
-$MESS["BX_WS_SALE_STATUS_1_PAID"] = "РћРїР»Р°С‡РµРЅ";
-$MESS["BX_WS_SALE_STATUS_1_CANCELED"] = "РћС‚РјРµРЅРµРЅ";
-$MESS["BX_WS_SALE_STATUS_1_ALLOW_DELIVERY"] = "Р Р°Р·СЂРµС€РµРЅ<br>Рє РґРѕСЃС‚Р°РІРєРµ";
-$MESS["BX_WS_SALE_BEFOREYESTERDAY"] = "РџРѕР·Р°РІС‡РµСЂР°:";
-$MESS["BX_WS_SALE_YESTERDAY"] = "Р’С‡РµСЂР°:";
-$MESS["BX_WS_SALE_TODAY"] = "РЎРµРіРѕРґРЅСЏ:";
-$MESS["BX_WS_SALE_BEFORELASTWEEK"] = "РќР° РїРѕР·Р°РїСЂРѕС€Р»РѕР№ РЅРµРґРµР»Рµ:";
-$MESS["BX_WS_SALE_LASTWEEK"] = "РќР° РїСЂРѕС€Р»РѕР№ РЅРµРґРµР»Рµ:";
-$MESS["BX_WS_SALE_THISWEEK"] = "РќР° СЌС‚РѕР№ РЅРµРґРµР»Рµ:";
+$MESS["BX_WS_SALE_LF_TITLE"] = "Статистика по заказам";
+$MESS["BX_WS_SALE_STATUS_1_CREATED"] = "Создан";
+$MESS["BX_WS_SALE_STATUS_1_PAID"] = "Оплачен";
+$MESS["BX_WS_SALE_STATUS_1_CANCELED"] = "Отменен";
+$MESS["BX_WS_SALE_STATUS_1_ALLOW_DELIVERY"] = "Разрешен<br>к доставке";
+$MESS["BX_WS_SALE_BEFOREYESTERDAY"] = "Позавчера:";
+$MESS["BX_WS_SALE_YESTERDAY"] = "Вчера:";
+$MESS["BX_WS_SALE_TODAY"] = "Сегодня:";
+$MESS["BX_WS_SALE_BEFORELASTWEEK"] = "На позапрошлой неделе:";
+$MESS["BX_WS_SALE_LASTWEEK"] = "На прошлой неделе:";
+$MESS["BX_WS_SALE_THISWEEK"] = "На этой неделе:";
 ?>

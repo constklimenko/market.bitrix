@@ -1,3 +1,3 @@
 <?
-$MESS ['BPIEA_INVALID_CHILD'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ñ‚Ð¸Ð¿Ð° 'IfElseActivity' Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑŒ Ð² ÑÐµÐ±Ðµ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ñ‚Ð¸Ð¿Ð° 'IfElseBranchActivity'.";
+$MESS ['BPIEA_INVALID_CHILD'] = "Äåéñòâèå òèïà 'IfElseActivity' ìîæåò ñîäåðæàòü â ñåáå òîëüêî äåéñòâèÿ òèïà 'IfElseBranchActivity'.";
 ?>

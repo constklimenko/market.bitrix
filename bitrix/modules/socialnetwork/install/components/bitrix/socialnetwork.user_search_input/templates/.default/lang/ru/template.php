@@ -1,4 +1,4 @@
 <?
-$MESS ['SONET_T876_SELECT'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
-$MESS ['SONET_T8761_PROMT'] = "(Ð²Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¸Ð¼Ñ)";
+$MESS ['SONET_T876_SELECT'] = "Äîáàâèòü";
+$MESS ['SONET_T8761_PROMT'] = "(ââåäèòå èìÿ)";
 ?>

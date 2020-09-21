@@ -1,3 +1,3 @@
 <?
-$MESS["DISK_BIZPROC_BACK_TEXT"] = "ÐÐ°Ð·Ð°Ð´";
-$MESS["DISK_BIZPROC_BACK_TITLE"] = "Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ Ð½Ð°Ð·Ð°Ð´";
+$MESS["DISK_BIZPROC_BACK_TEXT"] = "Íàçàä";
+$MESS["DISK_BIZPROC_BACK_TITLE"] = "Âåðíóòüñÿ íàçàä";

@@ -1,5 +1,5 @@
 <?
-$MESS["SBPM_BLOG_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð‘Ð»Ð¾Ð³Ð¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SBSM_SOCIALNETWORK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
-$MESS["SBPM_NO_POST"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ â„–#ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾.";
+$MESS["SBPM_BLOG_MODULE_NOT_INSTALLED"] = "Ìîäóëü Áëîãè íå óñòàíîâëåí.";
+$MESS["SBSM_SOCIALNETWORK_MODULE_NOT_INSTALLED"] = "Ìîäóëü Ñîöèàëüíàÿ ñåòü íå óñòàíîâëåí.";
+$MESS["SBPM_NO_POST"] = "Ñîîáùåíèå ¹#ID# íå íàéäåíî.";
 ?>

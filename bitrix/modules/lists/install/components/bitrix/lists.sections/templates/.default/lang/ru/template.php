@@ -1,8 +1,8 @@
 <?
-$MESS ['CT_BLS_TOOLBAR_UP'] = "Ð’Ð²ÐµÑ€Ñ…";
-$MESS ['CT_BLS_TOOLBAR_UP_TITLE'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»";
-$MESS ['CT_BLS_TOOLBAR_ADD_SECTION_TITLE'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ» Ð² Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ» ÑÐ¿Ð¸ÑÐºÐ°";
-$MESS ['CT_BLS_TOOLBAR_ELEMENTS_TITLE'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº ÑÐ¿Ð¸ÑÐºÑƒ";
-$MESS ['CT_BLS_SECTION_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
-$MESS ['CT_BLS_NEW_SECTION_NAME'] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð³Ð¾ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°";
+$MESS ['CT_BLS_TOOLBAR_UP'] = "Ââåðõ";
+$MESS ['CT_BLS_TOOLBAR_UP_TITLE'] = "Ïåðåéòè â ðîäèòåëüñêèé ðàçäåë";
+$MESS ['CT_BLS_TOOLBAR_ADD_SECTION_TITLE'] = "Äîáàâèòü íîâûé ðàçäåë â òåêóùèé ðàçäåë ñïèñêà";
+$MESS ['CT_BLS_TOOLBAR_ELEMENTS_TITLE'] = "Ïåðåéòè ê ñïèñêó";
+$MESS ['CT_BLS_SECTION_NAME'] = "Íàçâàíèå";
+$MESS ['CT_BLS_NEW_SECTION_NAME'] = "Ââåäèòå íàçâàíèå íîâîãî ðàçäåëà";
 ?>

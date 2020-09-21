@@ -1,150 +1,150 @@
 <?
 
-$MESS["MAIL_CLIENT_HOME_TITLE"] = "РџРѕС‡С‚Р°";
+$MESS["MAIL_CLIENT_HOME_TITLE"] = "Почта";
 
-$MESS["MAIL_CLIENT_AJAX_ERROR"] = "РћС€РёР±РєР° РїСЂРё РѕР±СЂР°Р±РѕС‚РєРµ Р·Р°РїСЂРѕСЃР°";
-$MESS["MAIL_CLIENT_FORM_ERROR"] = "РћС€РёР±РєР° РїСЂРё РѕР±СЂР°Р±РѕС‚РєРµ С„РѕСЂРјС‹";
-$MESS["MAIL_CLIENT_SAVE_ERROR"] = "РћС€РёР±РєР° РїСЂРё СЃРѕС…СЂР°РЅРµРЅРёРё РґР°РЅРЅС‹С…";
+$MESS["MAIL_CLIENT_AJAX_ERROR"] = "Ошибка при обработке запроса";
+$MESS["MAIL_CLIENT_FORM_ERROR"] = "Ошибка при обработке формы";
+$MESS["MAIL_CLIENT_SAVE_ERROR"] = "Ошибка при сохранении данных";
 
-$MESS["MAIL_CLIENT_ELEMENT_NOT_FOUND"] = "Р­Р»РµРјРµРЅС‚ РЅРµ РЅР°Р№РґРµРЅ";
-$MESS["MAIL_CLIENT_ELEMENT_DENIED"] = "Р”РѕСЃС‚СѓРї Р·Р°РїСЂРµС‰РµРЅ";
-$MESS["MAIL_CLIENT_DENIED"] = "Р”РѕСЃС‚СѓРї Р·Р°РїСЂРµС‰РµРЅ";
+$MESS["MAIL_CLIENT_ELEMENT_NOT_FOUND"] = "Элемент не найден";
+$MESS["MAIL_CLIENT_ELEMENT_DENIED"] = "Доступ запрещен";
+$MESS["MAIL_CLIENT_DENIED"] = "Доступ запрещен";
 
-$MESS['MAIL_CLIENT_MAILBOX_ADD'] = "РџРѕРґРєР»СЋС‡РёС‚СЊ РЅРѕРІС‹Р№";
+$MESS['MAIL_CLIENT_MAILBOX_ADD'] = "Подключить новый";
 
-$MESS['MAIL_CLIENT_MAILBOX_SYNC_BAR'] = "РЎРёРЅС…СЂРѕРЅРёР·Р°С†РёСЏ";
-$MESS['MAIL_CLIENT_MAILBOX_INDEX_BAR'] = "РРЅРґРµРєСЃР°С†РёСЏ";
+$MESS['MAIL_CLIENT_MAILBOX_SYNC_BAR'] = "Синхронизация";
+$MESS['MAIL_CLIENT_MAILBOX_INDEX_BAR'] = "Индексация";
 
-$MESS["MAIL_MESSAGE_NEW_EMPTY_RCPT"] = "РџРѕР¶Р°Р»СѓР№СЃС‚Р°, СѓРєР°Р¶РёС‚Рµ РїРѕР»СѓС‡Р°С‚РµР»РµР№ РІ РїРѕР»Рµ 'РљРѕРјСѓ'";
-$MESS["MAIL_MESSAGE_NEW_UPLOADING"] = "РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РґРѕР¶РґРёС‚РµСЃСЊ РѕРєРѕРЅС‡Р°РЅРёСЏ Р·Р°РіСЂСѓР·РєРё РІР»РѕР¶РµРЅРёР№";
+$MESS["MAIL_MESSAGE_NEW_EMPTY_RCPT"] = "Пожалуйста, укажите получателей в поле 'Кому'";
+$MESS["MAIL_MESSAGE_NEW_UPLOADING"] = "Пожалуйста, дождитесь окончания загрузки вложений";
 
-$MESS["MAIL_MESSAGE_SENT"] = "РѕС‚РїСЂР°РІР»РµРЅРѕ #DATETIME#";
-$MESS["MAIL_MESSAGE_RECEIVED"] = "РїРѕР»СѓС‡РµРЅРѕ #DATETIME#";
-$MESS["MAIL_MESSAGE_READ_CONFIRMED"] = "РїСЂРѕС‡РёС‚Р°РЅРѕ #DATETIME#";
-$MESS["MAIL_MESSAGE_READ_CONFIRMED_SHORT"] = "РїСЂРѕС‡РёС‚Р°РЅРѕ";
-$MESS["MAIL_MESSAGE_READ_AWAITING"] = "РЅРµ РїСЂРѕС‡РёС‚Р°РЅРѕ";
+$MESS["MAIL_MESSAGE_SENT"] = "отправлено #DATETIME#";
+$MESS["MAIL_MESSAGE_RECEIVED"] = "получено #DATETIME#";
+$MESS["MAIL_MESSAGE_READ_CONFIRMED"] = "прочитано #DATETIME#";
+$MESS["MAIL_MESSAGE_READ_CONFIRMED_SHORT"] = "прочитано";
+$MESS["MAIL_MESSAGE_READ_AWAITING"] = "не прочитано";
 
-$MESS["MAIL_MESSAGE_RCPT"] = "РљРѕРјСѓ";
-$MESS["MAIL_MESSAGE_RCPT_CC"] = "РљРѕРїРёСЏ";
-$MESS["MAIL_MESSAGE_RCPT_BCC"] = "РЎРєСЂС‹С‚Р°СЏ РєРѕРїРёСЏ";
+$MESS["MAIL_MESSAGE_RCPT"] = "Кому";
+$MESS["MAIL_MESSAGE_RCPT_CC"] = "Копия";
+$MESS["MAIL_MESSAGE_RCPT_BCC"] = "Скрытая копия";
 
-$MESS["MAIL_MESSAGE_RCPT_MORE"] = "РµС‰Рµ #NUM#";
+$MESS["MAIL_MESSAGE_RCPT_MORE"] = "еще #NUM#";
 
-$MESS["MAIL_MESSAGE_BTN_REPLY"] = "РћС‚РІРµС‚РёС‚СЊ";
-$MESS["MAIL_MESSAGE_BTN_REPLY_All"] = "РћС‚РІРµС‚РёС‚СЊ РІСЃРµРј";
-$MESS["MAIL_MESSAGE_BTN_FWD"] = "РџРµСЂРµСЃР»Р°С‚СЊ";
-$MESS["MAIL_MESSAGE_BTN_SKIP"] = "РСЃРєР»СЋС‡РёС‚СЊ РёР· CRM";
-$MESS["MAIL_MESSAGE_BTN_SPAM"] = "Р­С‚Рѕ СЃРїР°Рј";
-$MESS["MAIL_MESSAGE_BTN_DEL"] = "РЈРґР°Р»РёС‚СЊ";
+$MESS["MAIL_MESSAGE_BTN_REPLY"] = "Ответить";
+$MESS["MAIL_MESSAGE_BTN_REPLY_All"] = "Ответить всем";
+$MESS["MAIL_MESSAGE_BTN_FWD"] = "Переслать";
+$MESS["MAIL_MESSAGE_BTN_SKIP"] = "Исключить из CRM";
+$MESS["MAIL_MESSAGE_BTN_SPAM"] = "Это спам";
+$MESS["MAIL_MESSAGE_BTN_DEL"] = "Удалить";
 
-$MESS["MAIL_MESSAGE_ATTACHES"] = "Р¤Р°Р№Р»С‹";
+$MESS["MAIL_MESSAGE_ATTACHES"] = "Файлы";
 
-$MESS["MAIL_MESSAGE_REPLY_Q"] = "РќР°РїРёСЃР°С‚СЊ Р±С‹СЃС‚СЂС‹Р№ РѕС‚РІРµС‚ РІСЃРµРј СѓС‡Р°СЃС‚РЅРёРєР°Рј РїРµСЂРµРїРёСЃРєРё";
-$MESS["MAIL_MESSAGE_LOG_MORE"] = "РџРѕРєР°Р·Р°С‚СЊ РµС‰Рµ";
+$MESS["MAIL_MESSAGE_REPLY_Q"] = "Написать быстрый ответ всем участникам переписки";
+$MESS["MAIL_MESSAGE_LOG_MORE"] = "Показать еще";
 
-$MESS["MAIL_MESSAGE_NEW_FROM"] = "РћС‚ РєРѕРіРѕ";
-$MESS["MAIL_MESSAGE_NEW_TO"] = "РљРѕРјСѓ";
-$MESS["MAIL_MESSAGE_NEW_CC"] = "РљРѕРїРёСЏ";
-$MESS["MAIL_MESSAGE_NEW_BCC"] = "РЎРєСЂС‹С‚Р°СЏ\nРєРѕРїРёСЏ";
-$MESS["MAIL_MESSAGE_NEW_SUBJECT"] = "РўРµРјР°";
-$MESS["MAIL_MESSAGE_NEW_SUBJECT_PH"] = "Р’РІРµРґРёС‚Рµ С‚РµРјСѓ СЃРѕРѕР±С‰РµРЅРёСЏ";
-$MESS["MAIL_MESSAGE_NEW_SEND"] = "РћС‚РїСЂР°РІРёС‚СЊ";
-$MESS["MAIL_MESSAGE_NEW_CANCEL"] = "РћС‚РјРµРЅРёС‚СЊ";
-$MESS["MAIL_MESSAGE_NEW_ADD_RCPT"] = "Р”РѕР±Р°РІРёС‚СЊ РїРѕР»СѓС‡Р°С‚РµР»СЏ";
+$MESS["MAIL_MESSAGE_NEW_FROM"] = "От кого";
+$MESS["MAIL_MESSAGE_NEW_TO"] = "Кому";
+$MESS["MAIL_MESSAGE_NEW_CC"] = "Копия";
+$MESS["MAIL_MESSAGE_NEW_BCC"] = "Скрытая\nкопия";
+$MESS["MAIL_MESSAGE_NEW_SUBJECT"] = "Тема";
+$MESS["MAIL_MESSAGE_NEW_SUBJECT_PH"] = "Введите тему сообщения";
+$MESS["MAIL_MESSAGE_NEW_SEND"] = "Отправить";
+$MESS["MAIL_MESSAGE_NEW_CANCEL"] = "Отменить";
+$MESS["MAIL_MESSAGE_NEW_ADD_RCPT"] = "Добавить получателя";
 
-$MESS["MAIL_MESSAGE_DELETE_CONFIRM"] = "Р’С‹ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ С…РѕС‚РёС‚Рµ СѓРґР°Р»РёС‚СЊ СЌС‚Рѕ РїРёСЃСЊРјРѕ?";
-$MESS["MAIL_MESSAGE_SPAM_CONFIRM"] = "Р’С‹ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ С…РѕС‚РёС‚Рµ СѓРґР°Р»РёС‚СЊ СЌС‚Рѕ РїРёСЃСЊРјРѕ Рё РґРѕР±Р°РІРёС‚СЊ РѕС‚РїСЂР°РІРёС‚РµР»СЏ РІ С‡РµСЂРЅС‹Р№ СЃРїРёСЃРѕРє?";
+$MESS["MAIL_MESSAGE_DELETE_CONFIRM"] = "Вы действительно хотите удалить это письмо?";
+$MESS["MAIL_MESSAGE_SPAM_CONFIRM"] = "Вы действительно хотите удалить это письмо и добавить отправителя в черный список?";
 
-$MESS["MAIL_MESSAGE_CREATE_TASK_BTN"] = "РЎРѕР·РґР°С‚СЊ Р·Р°РґР°С‡Сѓ";
-$MESS["MAIL_MESSAGE_CREATE_CRM_BTN"] = "РЎРѕС…СЂР°РЅРёС‚СЊ РІ CRM";
-$MESS["MAIL_MESSAGE_CREATE_LF_BTN"] = "РћР±СЃСѓРґРёС‚СЊ РІ Р»РµРЅС‚Рµ";
-$MESS["MAIL_MESSAGE_CREATE_IM_BTN"] = "РћР±СЃСѓРґРёС‚СЊ РІ С‡Р°С‚Рµ";
-$MESS["MAIL_MESSAGE_CREATE_EVENT_BTN"] = "РЎРѕР·РґР°С‚СЊ СЃРѕР±С‹С‚РёРµ";
-$MESS["MAIL_MESSAGE_CREATE_CRM_EXCLUDE_BTN"] = "РСЃРєР»СЋС‡РёС‚СЊ РёР· CRM";
+$MESS["MAIL_MESSAGE_CREATE_TASK_BTN"] = "Создать задачу";
+$MESS["MAIL_MESSAGE_CREATE_CRM_BTN"] = "Сохранить в CRM";
+$MESS["MAIL_MESSAGE_CREATE_LF_BTN"] = "Обсудить в ленте";
+$MESS["MAIL_MESSAGE_CREATE_IM_BTN"] = "Обсудить в чате";
+$MESS["MAIL_MESSAGE_CREATE_EVENT_BTN"] = "Создать событие";
+$MESS["MAIL_MESSAGE_CREATE_CRM_EXCLUDE_BTN"] = "Исключить из CRM";
 
-$MESS["MAIL_MESSAGE_TASK_TITLE"] = "РџРёСЃСЊРјРѕ: #SUBJECT#";
+$MESS["MAIL_MESSAGE_TASK_TITLE"] = "Письмо: #SUBJECT#";
 
-$MESS["MAIL_MESSAGE_SYNC_BTN_HINT"] = "РЎРёРЅС…СЂРѕРЅРёР·Р°С†РёСЏ";
-$MESS["MAIL_MESSAGE_NEW_BTN"] = "РќР°РїРёСЃР°С‚СЊ";
+$MESS["MAIL_MESSAGE_SYNC_BTN_HINT"] = "Синхронизация";
+$MESS["MAIL_MESSAGE_NEW_BTN"] = "Написать";
 
-$MESS["MAIL_MESSAGE_EMPTY_SENDER"] = "РЈРєР°Р¶РёС‚Рµ РѕС‚РїСЂР°РІРёС‚РµР»СЏ";
-$MESS["MAIL_MESSAGE_BAD_SENDER"] = "РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РѕС‚РїСЂР°РІРёС‚РµР»СЊ";
-$MESS["MAIL_MESSAGE_EMPTY_RCPT"] = "РЈРєР°Р¶РёС‚Рµ РїРѕР»СѓС‡Р°С‚РµР»РµР№";
+$MESS["MAIL_MESSAGE_EMPTY_SENDER"] = "Укажите отправителя";
+$MESS["MAIL_MESSAGE_BAD_SENDER"] = "Недопустимый отправитель";
+$MESS["MAIL_MESSAGE_EMPTY_RCPT"] = "Укажите получателей";
 
-$MESS["MAIL_MESSAGE_SEND_ERROR"] = "РќРµ СѓРґР°Р»РѕСЃСЊ РѕС‚РїСЂР°РІРёС‚СЊ РїРёСЃСЊРјРѕ";
-$MESS['MAIL_MESSAGE_SEND_SUCCESS'] = "РЎРѕРѕР±С‰РµРЅРёРµ РѕС‚РїСЂР°РІР»РµРЅРѕ";
+$MESS["MAIL_MESSAGE_SEND_ERROR"] = "Не удалось отправить письмо";
+$MESS['MAIL_MESSAGE_SEND_SUCCESS'] = "Сообщение отправлено";
 
-$MESS['MAIL_MESSAGE_EMPTY_SUBJECT_PLACEHOLDER'] = "(Р±РµР· С‚РµРјС‹)";
+$MESS['MAIL_MESSAGE_EMPTY_SUBJECT_PLACEHOLDER'] = "(без темы)";
 
-$MESS['MAIL_MESSAGE_EXT_BLOCK_LINK'] = "Р•С‰С‘";
-$MESS['MAIL_MESSAGE_EXT_BLOCK_TITLE'] = "Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅРѕ";
+$MESS['MAIL_MESSAGE_EXT_BLOCK_LINK'] = "Ещё";
+$MESS['MAIL_MESSAGE_EXT_BLOCK_TITLE'] = "Дополнительно";
 
 $MESS['MAIL_MESSAGE_EXT_BIND_CRM_TITLE'] = "CRM";
-$MESS['MAIL_MESSAGE_EXT_BIND_CRM_EMPTY_TITLE'] = "Р­Р»РµРјРµРЅС‚";
-$MESS['MAIL_MESSAGE_EXT_BIND_TASKS_TITLE'] = "Р—Р°РґР°С‡Рё";
-$MESS['MAIL_MESSAGE_EXT_BIND_TASKS_EMPTY_TITLE'] = "Р—Р°РґР°С‡Р°";
+$MESS['MAIL_MESSAGE_EXT_BIND_CRM_EMPTY_TITLE'] = "Элемент";
+$MESS['MAIL_MESSAGE_EXT_BIND_TASKS_TITLE'] = "Задачи";
+$MESS['MAIL_MESSAGE_EXT_BIND_TASKS_EMPTY_TITLE'] = "Задача";
 
-$MESS["MAIL_MESSAGE_LIST_COLUMN_FROM"] = "РћС‚ РєРѕРіРѕ";
-$MESS["MAIL_MESSAGE_LIST_COLUMN_SUBJECT"] = "РўРµРјР°";
-$MESS["MAIL_MESSAGE_LIST_COLUMN_DATE"] = "Р”Р°С‚Р°";
-$MESS["MAIL_MESSAGE_LIST_COLUMN_BIND"] = "РћР±СЂР°Р±РѕС‚Р°РЅРѕ";
+$MESS["MAIL_MESSAGE_LIST_COLUMN_FROM"] = "От кого";
+$MESS["MAIL_MESSAGE_LIST_COLUMN_SUBJECT"] = "Тема";
+$MESS["MAIL_MESSAGE_LIST_COLUMN_DATE"] = "Дата";
+$MESS["MAIL_MESSAGE_LIST_COLUMN_BIND"] = "Обработано";
 
-$MESS['MAIL_MESSAGE_LIST_BTN_VIEW'] = "РћС‚РєСЂС‹С‚СЊ";
-$MESS['MAIL_MESSAGE_LIST_BTN_MOVE'] = "РџРµСЂРµРјРµСЃС‚РёС‚СЊ РІ РїР°РїРєСѓ";
-$MESS['MAIL_MESSAGE_LIST_BTN_DELETE'] = "РЈРґР°Р»РёС‚СЊ";
-$MESS['MAIL_MESSAGE_LIST_BTN_SPAM'] = "Р­С‚Рѕ СЃРїР°Рј";
-$MESS['MAIL_MESSAGE_LIST_BTN_NOT_SPAM'] = "РќРµ СЃРїР°Рј";
-$MESS['MAIL_MESSAGE_LIST_BTN_SEEN'] = "РџСЂРѕС‡РёС‚Р°РЅРѕ";
-$MESS['MAIL_MESSAGE_LIST_BTN_UNSEEN'] = "РќРµ РїСЂРѕС‡РёС‚Р°РЅРѕ";
-$MESS['MAIL_MESSAGE_LIST_COLUMN_BIND_TASKS_TASK'] = "Р—Р°РґР°С‡Р°";
+$MESS['MAIL_MESSAGE_LIST_BTN_VIEW'] = "Открыть";
+$MESS['MAIL_MESSAGE_LIST_BTN_MOVE'] = "Переместить в папку";
+$MESS['MAIL_MESSAGE_LIST_BTN_DELETE'] = "Удалить";
+$MESS['MAIL_MESSAGE_LIST_BTN_SPAM'] = "Это спам";
+$MESS['MAIL_MESSAGE_LIST_BTN_NOT_SPAM'] = "Не спам";
+$MESS['MAIL_MESSAGE_LIST_BTN_SEEN'] = "Прочитано";
+$MESS['MAIL_MESSAGE_LIST_BTN_UNSEEN'] = "Не прочитано";
+$MESS['MAIL_MESSAGE_LIST_COLUMN_BIND_TASKS_TASK'] = "Задача";
 $MESS['MAIL_MESSAGE_LIST_COLUMN_BIND_CRM_ACTIVITY'] = "CRM";
-$MESS['MAIL_MESSAGE_LIST_COLUMN_BIND_LF'] = "Р–РёРІР°СЏ Р»РµРЅС‚Р°";
-$MESS['MAIL_MESSAGE_LIST_COLUMN_BIND_IM'] = "Р§Р°С‚";
-$MESS['MAIL_MESSAGE_LIST_COLUMN_BIND_EVENT'] = "РЎРѕР±С‹С‚РёРµ";
+$MESS['MAIL_MESSAGE_LIST_COLUMN_BIND_LF'] = "Живая лента";
+$MESS['MAIL_MESSAGE_LIST_COLUMN_BIND_IM'] = "Чат";
+$MESS['MAIL_MESSAGE_LIST_COLUMN_BIND_EVENT'] = "Событие";
 
-$MESS['MAIL_MESSAGE_LIST_COUNTERS_TITLE'] = "РџРёСЃСЊРјР°";
-$MESS['MAIL_MESSAGE_LIST_COUNTERS_EMPTY'] = "РќРµС‚ РїРёСЃРµРј, С‚СЂРµР±СѓСЋС‰РёС… СЂРµР°РєС†РёРё";
-$MESS['MAIL_MESSAGE_LIST_COUNTERS_UNSEEN'] = "РЅРµ РїСЂРѕС‡РёС‚Р°РЅРѕ";
-$MESS['MAIL_MESSAGE_LIST_COUNTERS_UNBIND'] = "РЅРµ РѕР±СЂР°Р±РѕС‚Р°РЅРѕ";
+$MESS['MAIL_MESSAGE_LIST_COUNTERS_TITLE'] = "Письма";
+$MESS['MAIL_MESSAGE_LIST_COUNTERS_EMPTY'] = "Нет писем, требующих реакции";
+$MESS['MAIL_MESSAGE_LIST_COUNTERS_UNSEEN'] = "не прочитано";
+$MESS['MAIL_MESSAGE_LIST_COUNTERS_UNBIND'] = "не обработано";
 
-$MESS['MAIL_MESSAGE_LIST_LINK'] = "РџРµСЂРµР№С‚Рё РІ РїРѕС‡С‚Сѓ";
+$MESS['MAIL_MESSAGE_LIST_LINK'] = "Перейти в почту";
 
-$MESS['MAIL_MESSAGE_LIST_FILTER_IS_SEEN'] = "РџСЂРѕС‡РёС‚Р°РЅРѕ";
-$MESS['MAIL_MESSAGE_LIST_FILTER_DIR'] = "РџР°РїРєР°";
-$MESS['MAIL_MESSAGE_LIST_FILTER_DATE'] = "Р”Р°С‚Р°";
-$MESS['MAIL_MESSAGE_LIST_FILTER_BIND'] = "РџСЂРёРІСЏР·РєР°";
-$MESS['MAIL_MESSAGE_LIST_FILTER_OPTION_ANY'] = "РќРµ РІР°Р¶РЅРѕ";
-$MESS['MAIL_MESSAGE_LIST_FILTER_OPTION_Y'] = "Р”Р°";
-$MESS['MAIL_MESSAGE_LIST_FILTER_OPTION_N'] = "РќРµС‚";
+$MESS['MAIL_MESSAGE_LIST_FILTER_IS_SEEN'] = "Прочитано";
+$MESS['MAIL_MESSAGE_LIST_FILTER_DIR'] = "Папка";
+$MESS['MAIL_MESSAGE_LIST_FILTER_DATE'] = "Дата";
+$MESS['MAIL_MESSAGE_LIST_FILTER_BIND'] = "Привязка";
+$MESS['MAIL_MESSAGE_LIST_FILTER_OPTION_ANY'] = "Не важно";
+$MESS['MAIL_MESSAGE_LIST_FILTER_OPTION_Y'] = "Да";
+$MESS['MAIL_MESSAGE_LIST_FILTER_OPTION_N'] = "Нет";
 
-$MESS['MAIL_MESSAGE_LIST_FILTER_PRESET_SPAM'] = "РЎРїР°Рј";
-$MESS['MAIL_MESSAGE_LIST_FILTER_PRESET_INCOME'] = "Р’С…РѕРґСЏС‰РёРµ";
-$MESS['MAIL_MESSAGE_LIST_FILTER_PRESET_OUTCOME'] = "РћС‚РїСЂР°РІР»РµРЅРЅС‹Рµ";
-$MESS['MAIL_MESSAGE_LIST_FILTER_PRESET_TRASH'] = "РЈРґР°Р»РµРЅРЅС‹Рµ";
-$MESS['MAIL_MESSAGE_LIST_FILTER_PRESET_BIND_TASK'] = "Р—Р°РґР°С‡Рё";
+$MESS['MAIL_MESSAGE_LIST_FILTER_PRESET_SPAM'] = "Спам";
+$MESS['MAIL_MESSAGE_LIST_FILTER_PRESET_INCOME'] = "Входящие";
+$MESS['MAIL_MESSAGE_LIST_FILTER_PRESET_OUTCOME'] = "Отправленные";
+$MESS['MAIL_MESSAGE_LIST_FILTER_PRESET_TRASH'] = "Удаленные";
+$MESS['MAIL_MESSAGE_LIST_FILTER_PRESET_BIND_TASK'] = "Задачи";
 $MESS['MAIL_MESSAGE_LIST_FILTER_PRESET_BIND_CRM'] = "CRM";
 
-$MESS['MAIL_MESSAGE_LIST_SETTINGS_LINK'] = "РќР°СЃС‚СЂРѕР№РєРё СЏС‰РёРєР°";
-$MESS['MAIL_MESSAGE_LIST_BLACKLIST_LINK'] = "Р§РµСЂРЅС‹Р№ СЃРїРёСЃРѕРє";
-$MESS['MAIL_MESSAGE_LIST_SIGNATURE_LINK'] = "РќР°СЃС‚СЂРѕРёС‚СЊ РїРѕРґРїРёСЃСЊ";
+$MESS['MAIL_MESSAGE_LIST_SETTINGS_LINK'] = "Настройки ящика";
+$MESS['MAIL_MESSAGE_LIST_BLACKLIST_LINK'] = "Черный список";
+$MESS['MAIL_MESSAGE_LIST_SIGNATURE_LINK'] = "Настроить подпись";
 
-$MESS['MAIL_MESSAGE_LIST_CONFIRM_DELETE'] = "РџРёСЃСЊРјР° Р±СѓРґСѓС‚ Р±РµР·РІРѕР·РІСЂР°С‚РЅРѕ СѓРґР°Р»РµРЅС‹. <br>Р’С‹ РЅРёРєР°Рє РЅРµ СЃРјРѕР¶РµС‚Рµ РёС… РІРѕСЃСЃС‚Р°РЅРѕРІРёС‚СЊ.";
-$MESS['MAIL_MESSAGE_LIST_CONFIRM_TITLE'] = "РџРѕРґС‚РІРµСЂРґРёС‚Рµ РґРµР№СЃС‚РІРёРµ";
-$MESS['MAIL_MESSAGE_LIST_CONFIRM_DELETE_BTN'] = "РЈРґР°Р»РёС‚СЊ";
-$MESS['MAIL_MESSAGE_LIST_CONFIRM_CANCEL_BTN'] = "РћС‚РјРµРЅРёС‚СЊ";
-$MESS['MAIL_MESSAGE_LIST_NOTIFY_ADDED_TO_CRM'] = "РџРёСЃСЊРјРѕ СЃРѕС…СЂР°РЅРµРЅРѕ РІ CRM";
-$MESS['MAIL_MESSAGE_LIST_NOTIFY_ADD_TO_CRM_ERROR'] = "РћС€РёР±РєР° СЃРѕС…СЂР°РЅРµРЅРёСЏ РїРёСЃСЊРјР° РІ CRM";
-$MESS['MAIL_MESSAGE_LIST_NOTIFY_EXCLUDED_FROM_CRM'] = "РџРёСЃСЊРјРѕ РёСЃРєР»СЋС‡РµРЅРѕ РёР· CRM";
-$MESS['MAIL_MESSAGE_LIST_NOTIFY_SUCCESS'] = "РЈСЃРїРµС€РЅРѕ";
+$MESS['MAIL_MESSAGE_LIST_CONFIRM_DELETE'] = "Письма будут безвозвратно удалены. <br>Вы никак не сможете их восстановить.";
+$MESS['MAIL_MESSAGE_LIST_CONFIRM_TITLE'] = "Подтвердите действие";
+$MESS['MAIL_MESSAGE_LIST_CONFIRM_DELETE_BTN'] = "Удалить";
+$MESS['MAIL_MESSAGE_LIST_CONFIRM_CANCEL_BTN'] = "Отменить";
+$MESS['MAIL_MESSAGE_LIST_NOTIFY_ADDED_TO_CRM'] = "Письмо сохранено в CRM";
+$MESS['MAIL_MESSAGE_LIST_NOTIFY_ADD_TO_CRM_ERROR'] = "Ошибка сохранения письма в CRM";
+$MESS['MAIL_MESSAGE_LIST_NOTIFY_EXCLUDED_FROM_CRM'] = "Письмо исключено из CRM";
+$MESS['MAIL_MESSAGE_LIST_NOTIFY_SUCCESS'] = "Успешно";
 
-$MESS['MAIL_MESSAGE_LIST_ATTACH_ICON_HINT'] = "РџРёСЃСЊРјРѕ СЃ РІР»РѕР¶РµРЅРёСЏРјРё";
+$MESS['MAIL_MESSAGE_LIST_ATTACH_ICON_HINT'] = "Письмо с вложениями";
 
-$MESS["MAIL_MAILBOX_LICENSE_CONNECTED_MAILBOXES_LIMIT_TITLE"] = "РџРѕРґРєР»СЋС‡РµРЅРёРµ РїРѕС‡С‚РѕРІС‹С… СЏС‰РёРєРѕРІ РІ Р‘РёС‚СЂРёРєСЃ24";
-$MESS["MAIL_MAILBOX_LICENSE_CONNECTED_MAILBOXES_LIMIT_BODY"] = "РљРѕР»РёС‡РµСЃС‚РІРѕ РїРѕС‡С‚РѕРІС‹С… СЏС‰РёРєРѕРІ РЅР° СЃРѕС‚СЂСѓРґРЅРёРєР° Р·Р°РІРёСЃРёС‚ РѕС‚ С‚Р°СЂРёС„РЅРѕРіРѕ РїР»Р°РЅР° Р‘РёС‚СЂРёРєСЃ24.
+$MESS["MAIL_MAILBOX_LICENSE_CONNECTED_MAILBOXES_LIMIT_TITLE"] = "Подключение почтовых ящиков в Битрикс24";
+$MESS["MAIL_MAILBOX_LICENSE_CONNECTED_MAILBOXES_LIMIT_BODY"] = "Количество почтовых ящиков на сотрудника зависит от тарифного плана Битрикс24.
 <br><br>
-РќР° РІР°С€РµРј С‚Р°СЂРёС„Рµ РґРѕСЃС‚СѓРїРЅРѕ РїРѕС‡С‚РѕРІС‹С… СЏС‰РёРєРѕРІ РґР»СЏ РєР°Р¶РґРѕРіРѕ СЃРѕС‚СЂСѓРґРЅРёРєР°: #LIMIT#";
+На вашем тарифе доступно почтовых ящиков для каждого сотрудника: #LIMIT#";
 
-$MESS["MAIL_CLIENT_CANCELATION_WARNING_3"] = "РќР° РІР°С€РµРј С‚Р°СЂРёС„Рµ СЃРёРЅС…СЂРѕРЅРёР·Р°С†РёСЏ РїРѕС‡С‚С‹ РЅРµРґРѕСЃС‚СѓРїРЅР° (РЅРѕРІС‹Рµ РїРёСЃСЊРјР° РЅРµ Р±СѓРґСѓС‚ РїРѕРїР°РґР°С‚СЊ РІ Р‘РёС‚СЂРёРєСЃ24).
-РџРёСЃСЊРјР°, СЃРІСЏР·Р°РЅРЅС‹Рµ СЃ Р—Р°РґР°С‡Р°РјРё, СЃРѕС…СЂР°РЅСЏС‚СЃСЏ. РћСЃС‚Р°Р»СЊРЅС‹Рµ РїРёСЃСЊРјР° Р±СѓРґСѓС‚ СѓРґР°Р»РµРЅС‹.<br>
-РџРµСЂРµС…РѕРґРёС‚Рµ РЅР° <a href=\"/settings/license_all.php\" target=\"_blank\">СЂР°СЃС€РёСЂРµРЅРЅС‹Р№ С‚Р°СЂРёС„</a>, С‡С‚РѕР±С‹ РїРѕРґРєР»СЋС‡РёС‚СЊ РїРѕС‡С‚Сѓ Рё РїРѕР»СЊР·РѕРІР°С‚СЊСЃСЏ РґСЂСѓРіРёРјРё СѓРґРѕР±РЅС‹РјРё РёРЅСЃС‚СЂСѓРјРµРЅС‚Р°РјРё.
-Р’С‹Р±РёСЂР°Р№С‚Рµ С‚Р°СЂРёС„, РєРѕС‚РѕСЂС‹Р№ РїРѕРґС…РѕРґРёС‚ РёРјРµРЅРЅРѕ РІР°С€РµР№ РєРѕРјРїР°РЅРёРё.";
+$MESS["MAIL_CLIENT_CANCELATION_WARNING_3"] = "На вашем тарифе синхронизация почты недоступна (новые письма не будут попадать в Битрикс24).
+Письма, связанные с Задачами, сохранятся. Остальные письма будут удалены.<br>
+Переходите на <a href=\"/settings/license_all.php\" target=\"_blank\">расширенный тариф</a>, чтобы подключить почту и пользоваться другими удобными инструментами.
+Выбирайте тариф, который подходит именно вашей компании.";

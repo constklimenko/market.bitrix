@@ -1,22 +1,22 @@
 <?
 
-$MESS["MAIL_UF_MESSAGE_H"] = "ÐŸÐ¸ÑÑŒÐ¼Ð¾";
+$MESS["MAIL_UF_MESSAGE_H"] = "Ïèñüìî";
 
-$MESS["MAIL_UF_MESSAGE_SENT"] = "Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾ #DATETIME#";
-$MESS["MAIL_UF_MESSAGE_RECEIVED"] = "Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¾ #DATETIME#";
-$MESS["MAIL_UF_MESSAGE_READ_CONFIRMED"] = "Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð¾ #DATETIME#";
-$MESS["MAIL_UF_MESSAGE_READ_CONFIRMED_SHORT"] = "Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð¾";
-$MESS["MAIL_UF_MESSAGE_READ_AWAITING"] = "Ð½Ðµ Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð¾";
+$MESS["MAIL_UF_MESSAGE_SENT"] = "îòïðàâëåíî #DATETIME#";
+$MESS["MAIL_UF_MESSAGE_RECEIVED"] = "ïîëó÷åíî #DATETIME#";
+$MESS["MAIL_UF_MESSAGE_READ_CONFIRMED"] = "ïðî÷èòàíî #DATETIME#";
+$MESS["MAIL_UF_MESSAGE_READ_CONFIRMED_SHORT"] = "ïðî÷èòàíî";
+$MESS["MAIL_UF_MESSAGE_READ_AWAITING"] = "íå ïðî÷èòàíî";
 
-$MESS["MAIL_UF_MESSAGE_RCPT"] = "ÐšÐ¾Ð¼Ñƒ";
-$MESS["MAIL_UF_MESSAGE_RCPT_CC"] = "ÐšÐ¾Ð¿Ð¸Ñ";
-$MESS["MAIL_UF_MESSAGE_RCPT_BCC"] = "Ð¡ÐºÑ€Ñ‹Ñ‚Ð°Ñ ÐºÐ¾Ð¿Ð¸Ñ";
+$MESS["MAIL_UF_MESSAGE_RCPT"] = "Êîìó";
+$MESS["MAIL_UF_MESSAGE_RCPT_CC"] = "Êîïèÿ";
+$MESS["MAIL_UF_MESSAGE_RCPT_BCC"] = "Ñêðûòàÿ êîïèÿ";
 
-$MESS["MAIL_UF_MESSAGE_BODY_EXPAND"] = "Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ";
-$MESS["MAIL_UF_MESSAGE_ATTACHES"] = "Ð¤Ð°Ð¹Ð»Ñ‹ (#NUM#)";
+$MESS["MAIL_UF_MESSAGE_BODY_EXPAND"] = "ïîäðîáíåå";
+$MESS["MAIL_UF_MESSAGE_ATTACHES"] = "Ôàéëû (#NUM#)";
 
-$MESS["MAIL_UF_MESSAGE_DELETED"] = "ÐŸÐ¸ÑÑŒÐ¼Ð¾ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¾";
+$MESS["MAIL_UF_MESSAGE_DELETED"] = "Ïèñüìî óäàëåíî";
 
-$MESS["MAIL_UF_MESSAGE_NOT_IMPLEMENTED"] = "ÐÐµ Ñ€ÐµÐ°Ð»Ð¸Ð·Ð¾Ð²Ð°Ð½Ð¾";
-$MESS["MAIL_UF_MESSAGE_NOT_FOUND"] = "ÐŸÐ¸ÑÑŒÐ¼Ð¾ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
-$MESS["MAIL_UF_MESSAGE_DENIED"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS["MAIL_UF_MESSAGE_NOT_IMPLEMENTED"] = "Íå ðåàëèçîâàíî";
+$MESS["MAIL_UF_MESSAGE_NOT_FOUND"] = "Ïèñüìî íå íàéäåíî";
+$MESS["MAIL_UF_MESSAGE_DENIED"] = "Íåò äîñòóïà";
